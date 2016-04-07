@@ -1,4 +1,5 @@
 @import "fonts";
+@import "colors";
 
 $hero-gradient-light: rgba(0, 0, 0, 0.6);
 $hero-gradient-dark: rgba(13, 31, 97, 0.8);
@@ -11,16 +12,37 @@ $hero-text-background: rgba(0, 0, 0, 0.5);
   display: flex;
   margin-bottom: 16px;
   padding: 20px;
-  min-height: 28em;
+  min-height: 22em;
   width: 100%;
 }
 
 .hero-text {
   text-shadow: 2px 1px 0 rgba(0, 0, 0, 1);
   color: white;
-  display: inline;
+  display: block;
   font-family: $heading-font-family;
   font-size: 2em;
   padding: 0.2em;
   text-transform: uppercase;
+}
+
+.hero-call-to-action {
+  background: rgba(0, 0, 0, 0.5);
+  border: 1px solid white;
+  border-radius: 8px;
+  color: white;
+  display: inline-block;
+  font-size: 0.8em;
+  font-weight: bold;
+  margin-top: 1em;
+  padding: 1.8em;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  &:hover {
+    cursor: pointer;
+    color: white;
+    background: $sr-orange;
+    border-color: $sr-orange;
+  }
 }

@@ -16,13 +16,8 @@ $event-spacer-color: lighten(black, 70%);
 }
 
 .event-name {
-  //color: $sr-blue;
   display: block;
   margin-bottom: 0.4em;
-
-  &:hover {
-    text-decoration: none;
-  }
 }
 
 .event-details {

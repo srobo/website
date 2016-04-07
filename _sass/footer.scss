@@ -1,0 +1,14 @@
+$footer-background: rgb(27, 29, 31);
+$footer-color: rgb(185, 189, 193);
+
+footer {
+  @extend .row;
+  background: $footer-background;
+  color: $footer-color;
+  font-size: 0.8em;
+  padding: 2em 0 3em;
+}
+
+.text-right {
+  text-align: right;
+}

@@ -1,7 +1,7 @@
 @import "layout";
 @import "colors";
 
-nav.site-navigation {
+.site-navigation {
   overflow: hidden;
 
   ul {
@@ -25,6 +25,54 @@ nav.site-navigation {
         &:hover {
           background: darken(white, 4%);
         }
+      }
+    }
+  }
+}
+
+.side-navigation {
+  overflow: hidden;
+
+  margin: 0;
+  padding: 0;
+
+  li {
+    list-style: none;
+
+    a {
+      align-items: center;
+      //color: $sr-blue;
+      cursor: pointer;
+      display: flex;
+      padding: 10px;
+      position: relative;
+      text-decoration: none;
+
+      p {
+        display: inline-block;
+
+        &.link-icon {
+          color: gray;
+          margin-right: 10px;
+        }
+      }
+
+      span {
+        display: block;
+        margin-bottom: 5px;
+
+        &.link-title {
+          text-decoration: underline;
+        }
+
+        &.link-description {
+          color: gray;
+          font-size: 0.7em;
+        }
+      }
+
+      &:hover {
+        background: darken(white, 5%);
       }
     }
   }

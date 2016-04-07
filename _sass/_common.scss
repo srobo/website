@@ -13,15 +13,11 @@
   overflow: hidden;
 }
 
-.container {
-  @include row();
+.sidebar, main {
+  @extend .row;
 }
 
-.sidebar {
-  @include row();
-  @include column(4);
-}
-
-.main {
-  @include row();
+.content {
+  @extend .row;
+  padding-bottom: 3em;
 }
