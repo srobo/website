@@ -1,0 +1,31 @@
+@import "colors";
+
+$event-spacer-color: lighten(black, 70%);
+
+.event-list {
+  list-style: none;
+}
+
+.event {
+  border-bottom: 1px dotted $event-spacer-color;
+  padding: 10px 0;
+
+  &:last-of-type {
+    border-bottom: none;
+  }
+}
+
+.event-name {
+  //color: $sr-blue;
+  display: block;
+  margin-bottom: 0.4em;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.event-details {
+  font-size: 0.8em;
+  text-overflow: ellipsis;
+}

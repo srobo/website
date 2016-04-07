@@ -1,0 +1,26 @@
+@import "fonts";
+
+$hero-gradient-light: rgba(0, 0, 0, 0.6);
+$hero-gradient-dark: rgba(13, 31, 97, 0.8);
+$hero-text-background: rgba(0, 0, 0, 0.5);
+
+.hero {
+  align-items: center;
+  background: linear-gradient($hero-gradient-dark, $hero-gradient-light), url("/images/hero.jpg") center center no-repeat;
+  background-size: cover;
+  display: flex;
+  margin-bottom: 16px;
+  padding: 20px;
+  min-height: 28em;
+  width: 100%;
+}
+
+.hero-text {
+  text-shadow: 2px 1px 0 rgba(0, 0, 0, 1);
+  color: white;
+  display: inline;
+  font-family: $heading-font-family;
+  font-size: 2em;
+  padding: 0.2em;
+  text-transform: uppercase;
+}

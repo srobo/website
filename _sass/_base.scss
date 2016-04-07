@@ -1,0 +1,35 @@
+@import "fonts";
+@import "colors";
+
+html, body {
+  background: $sr-grey;
+  font-family: $main-font-family;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  @extend html;
+}
+
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+a {
+  color: $sr-orange;
+  text-decoration: underline;
+
+  &:hover {
+    color: $sr-blue;
+    text-decoration: none;
+  }
+}

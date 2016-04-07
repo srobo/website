@@ -1,0 +1,27 @@
+@import "colors";
+@import "grid";
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+.fixed-width {
+  max-width: 960px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.container {
+  @include row();
+}
+
+.sidebar {
+  @include row();
+  @include column(4);
+}
+
+.main {
+  @include row();
+}

@@ -1,0 +1,13 @@
+@import "colors";
+
+.card {
+  border-top: 2px solid white;
+  background: white;
+  padding: 0.8em 1em;
+  margin-bottom: 1em;
+}
+
+.highlight-card {
+  @extend .card;
+  border-top-color: $sr-blue;
+}
