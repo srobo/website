@@ -1,26 +1,20 @@
-@import "../node_modules/susy/sass/susy";
-
 $column-count: 12;
 
-$susy: (
-        columns: $column-count,
-        gutters: .25,
-        math: fluid,
-        output: float,
-        gutter-position: inside,
-);
-
 .row {
-  @include container();
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
   overflow: hidden;
-}
-
-@mixin column($settings) {
-  @include span($settings);
 }
 
 @for $i from 1 through $column-count {
   .col-#{$i}-#{$column-count} {
-    @include span($i of $column-count);
+    $gutter-width: (($i / $column-count) * 2.5%);
+    box-sizing: border-box;
+    width: ($i / $column-count * 100%);
+    float: left;
+    padding-left: $gutter-width;
+    padding-right: $gutter-width;
   }
 }
+
