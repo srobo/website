@@ -7,7 +7,7 @@ $hero-text-background: rgba(0, 0, 0, 0.5);
 
 .hero {
   align-items: center;
-  background: linear-gradient($hero-gradient-dark, $hero-gradient-light), url("/images/hero.jpg") center center no-repeat;
+  background: linear-gradient($hero-gradient-dark, $hero-gradient-light), url("/srobo-prototype/images/hero.jpg") center center no-repeat;
   background-size: cover;
   display: flex;
   margin-bottom: 16px;
@@ -28,7 +28,7 @@ $hero-text-background: rgba(0, 0, 0, 0.5);
 
 .hero-call-to-action {
   background: rgba(0, 0, 0, 0.5);
-  border: 1px solid white;
+  border: 2px solid white;
   border-radius: 8px;
   color: white;
   display: inline-block;
