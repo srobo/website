@@ -1,0 +1,35 @@
+@import "colors";
+
+$panel-orange-gradient-light: transparentize($sr-orange, 0.4);
+$panel-orange-gradient-dark: transparentize($sr-orange, 0.4);
+
+$panel-blue-gradient-light: rgba(0, 0, 0, 0.4);
+$panel-blue-gradient-dark: rgba(13, 31, 97, 0.4);
+
+.panel {
+  color: white;
+  display: flex;
+  align-items: center;
+  min-height: 22em;
+  padding: 3em;
+  width: 100%;
+}
+
+.panel-plain {
+  background: white;
+}
+
+@mixin panel($name, $light, $dark) {
+  .panel-#{$name} {
+    background: linear-gradient($light, $dark), url("/srobo-prototype/images/#{$name}.jpg") center center no-repeat;
+    background-size: cover;
+
+    @include headings() {
+      color: white;
+      text-shadow: 2px 1px 0 rgba(0, 0, 0, 1);
+    }
+  }
+}
+
+@include panel("boxes", $panel-orange-gradient-light, $panel-orange-gradient-dark);
+@include panel("blueshirts", $panel-blue-gradient-dark, $panel-blue-gradient-light);

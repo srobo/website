@@ -1,19 +1,16 @@
 @import "fonts";
 @import "colors";
+@import "panel";
 
 $hero-gradient-light: rgba(0, 0, 0, 0.6);
 $hero-gradient-dark: rgba(13, 31, 97, 0.8);
 $hero-text-background: rgba(0, 0, 0, 0.5);
 
+@include panel("hero", $hero-gradient-dark, $hero-gradient-light);
+
 .hero {
-  align-items: center;
-  background: linear-gradient($hero-gradient-dark, $hero-gradient-light), url("/srobo-prototype/images/hero.jpg") center center no-repeat;
-  background-size: cover;
-  display: flex;
+  @extend .panel, .panel-hero;
   margin-bottom: 16px;
-  padding: 20px;
-  min-height: 22em;
-  width: 100%;
 }
 
 .hero-text {
