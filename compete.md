@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Compete
-permalink: /compete/
+permalink: /compete
 ---
 
 Hello, world!
