@@ -31,4 +31,8 @@ a {
   &:hover {
     color: $sr-blue;
   }
+
+  &:focus {
+    outline: 2px solid $focus-yellow;
+  }
 }

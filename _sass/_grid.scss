@@ -1,4 +1,15 @@
+@import "responsive";
+
 $column-count: 12;
+
+@mixin column($numerator, $denominator) {
+  $gutter-width: (($numerator / $denominator) * 2.5%);
+  box-sizing: border-box;
+  width: ($numerator / $denominator * 100%);
+  float: left;
+  padding-left: $gutter-width;
+  padding-right: $gutter-width;
+}
 
 .row {
   max-width: 100%;
@@ -8,13 +19,27 @@ $column-count: 12;
 }
 
 @for $i from 1 through $column-count {
-  .col-#{$i}-#{$column-count} {
-    $gutter-width: (($i / $column-count) * 2.5%);
-    box-sizing: border-box;
-    width: ($i / $column-count * 100%);
-    float: left;
-    padding-left: $gutter-width;
-    padding-right: $gutter-width;
+  .d-#{$i}-#{$column-count} {
+    @include column($i, $column-count);
+  }
+
+  .s-#{$i}-#{$column-count} {
+    @include respond-to("small") {
+      @include column($i, $column-count);
+    }
+  }
+
+  .m-#{$i}-#{$column-count} {
+    @include respond-to("medium") {
+      @include column($i, $column-count);
+    }
+  }
+
+  .l-#{$i}-#{$column-count} {
+    @include respond-to("large") {
+      @include column($i, $column-count);
+    }
   }
 }
+
 

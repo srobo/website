@@ -1,10 +1,13 @@
 @import "colors";
 
+$card-shadow: rgba(0, 0, 0, 0.15);
+
 .card {
   border-top: 2px solid white;
   background: white;
   padding: 0.8em 1em;
   margin-bottom: 1em;
+  box-shadow: 0 3px 5px 0 $card-shadow;
 }
 
 .highlight-card {
