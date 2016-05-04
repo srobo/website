@@ -73,6 +73,7 @@ layout: default
       <article class="card">
         <h2>{{ post.title }}</h2>
         {{ post.content }}
+        <p class="article-info">Published {{ post.date | date: "%B %e, %Y" }}</p>
       </article>
       {% endfor %}
     </section>
