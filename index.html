@@ -69,71 +69,12 @@ layout: default
       </div>
     </section>
     <section class="main m-8-12">
+      {% for post in site.posts %}
       <article class="card">
-        <h2>Competition dates for SR2016 announced</h2>
-        <p>
-          The competition venue and dates for SR2016 have now been confirmed.
-          Once again the competition will return to the Newbury Racecourse
-          Grandstand which has successfully hosted the competition over the past
-          two years.
-        </p>
-        <p>
-          The competition weekend will be the 30th April and 1st May. Over the
-          two day event the teams' robots will first compete in a series of
-          league matches, during which they will continue to improve their
-          hardware and software. These matches will then seed a knockout to
-          choose the overall winners.
-        </p>
-        <p>
-          In each match the robots will play Sunny Side Up, in which the aim is
-          to turn as many of the nine tokens the right way up and then collect
-          as many as they can into their home zone.
-        </p>
-        <p>
-          In addition to the coveted 1st, 2nd and 3rd prizes, there are awards
-          for the highest placed new team, the most ingenious robot and the best
-          presented team among others. For full details of the rules of the game
-          and the prizes available see the rulebook.
-        </p>
-        <p>
-          Whether you're supporting a team or just want to watch, the
-          competition is open to everyone over the whole weekend. We
-          particularly recommend coming along for the finals on Sunday
-          afternoon.
-        </p>
-        <p class="article-info">Published 7th February, 2016</p>
+        <h2>{{ post.title }}</h2>
+        {{ post.content }}
       </article>
-      <article class="card">
-        <h2>Registration for SR2016 now open</h2>
-        <p>
-          Registration for Student Robotics 2016 is now open and, as always,
-          it is completely free to take part. You can register your interest
-          in entering a team for the next Student Robotics competition and
-          we'll get back to you as soon as possible.
-        </p>
-        <p>
-          The competition will kick off towards the end of October, where
-          teams will attend one of our Kickstart events. Teams will be
-          introduced to the SR2016 game, the Student Robotics Kit and set a
-          series of small challenges to help them familiarise themselves with
-          the Kit. Help will be on hand throughout the day from our growing
-          team of university and industry mentors.
-        </p>
-        <p>
-          After spending six months carefully designing, constructing and
-          testing their robots, teams will come together for the main
-          competition in April 2016. Here, their robot will be pitted against
-          all of the other teams' robots. Over two days, through a battle of
-          minds and engineering prowess, the robots and teams will have to
-          prove themselves with reliable and consistent performance.
-        </p>
-        <p>
-          So, if you have a team of 16-18 year-olds who think they have what
-          it takes to be crowned the winners of SR2016, please register your
-          interest and we will get in touch with you as soon as we can.
-        </p>
-        <p class="article-info">Published 8th September, 2015</p>
-      </article>
+      {% endfor %}
     </section>
   </div>
 </div>

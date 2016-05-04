@@ -1,6 +1,17 @@
-@import "responsive";
-
 $column-count: 12;
+$breakpoints: (
+        small: 767px,
+        medium: 992px,
+        large: 1200px
+);
+
+@mixin media-query($breakpoint) {
+  @if map-has-key($breakpoints, $breakpoint) {
+    @media (min-width: #{map-get($breakpoints, $breakpoint)}) {
+      @content;
+    }
+  }
+}
 
 @mixin column($numerator, $denominator) {
   $gutter-width: (($numerator / $denominator) * 2.5%);
@@ -24,19 +35,19 @@ $column-count: 12;
   }
 
   .s-#{$i}-#{$column-count} {
-    @include respond-to("small") {
+    @include media-query("small") {
       @include column($i, $column-count);
     }
   }
 
   .m-#{$i}-#{$column-count} {
-    @include respond-to("medium") {
+    @include media-query("medium") {
       @include column($i, $column-count);
     }
   }
 
   .l-#{$i}-#{$column-count} {
-    @include respond-to("large") {
+    @include media-query("large") {
       @include column($i, $column-count);
     }
   }

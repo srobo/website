@@ -1,12 +1,6 @@
 @import "colors";
 @import "grid";
 
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
-}
-
 .fixed-width {
   max-width: 960px;
   margin: 0 auto;
@@ -21,7 +15,7 @@
   @extend .row;
   padding: 0 1em 3em;
 
-  @include respond-to("large") {
+  @include media-query("large") {
     padding: 0 0 3em;
   }
 }
