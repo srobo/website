@@ -16,8 +16,8 @@
 
       a {
         border-radius: 5px;
-        color: $sr-white;
         display: block;
+        color: $sr-blue;
         font-family: $main-font-family;
         font-size: 0.9em;
         font-weight: bold;
@@ -25,6 +25,20 @@
         margin: 10px 8px;
         text-decoration: none;
         text-transform: uppercase;
+
+        &:hover {
+          color: $sr-orange;
+        }
+      }
+    }
+  }
+}
+
+.home-navigation {
+  ul {
+    li {
+      a {
+        color: $sr-white;
 
         &:hover {
           background: $sr-white;
