@@ -1,0 +1,60 @@
+@import "headers";
+@import "common";
+
+$blue-top-colour: transparentize($sr-blue, 0.05);
+$blue-bottom-colour: transparentize($sr-blue, 0.2);
+
+.header {
+  text-align: center;
+}
+
+.panel {
+  background-color: white;
+  padding: 2em 0;
+
+  img {
+    background-color: white;
+    border: 1px solid $sr-grey;
+    border-radius: 2px;
+    padding: 5px;
+  }
+
+  p {
+    font-size: 1.2em;
+  }
+
+  .row {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.panel-header {
+  color: $sr-white;
+
+  @include headings() {
+    color: $sr-white;
+  }
+}
+
+.panel-blueshirts {
+  @include gradient-background($blue-top-colour, $blue-bottom-colour, "/srobo-prototype/images/blueshirts.jpg");
+}
+
+.panel-boxes {
+  @include gradient-background($blue-top-colour, $blue-bottom-colour, "/srobo-prototype/images/boxes.jpg");
+}
+
+.panel-awards {
+  @include gradient-background(transparentize($sr-blue, 0.05), transparentize($sr-blue, 0.4), "/srobo-prototype/images/awards-2015.jpg");
+}
+
+.panel-robot {
+  @include gradient-background(transparentize(white, 0.05), transparentize(white, 0.4), "/srobo-prototype/images/hero.jpg");
+}
+
+.panel-container {
+  display: flex;
+  min-height: 18em;
+  align-items: center;
+}

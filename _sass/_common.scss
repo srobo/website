@@ -1,6 +1,11 @@
 @import "colors";
 @import "grid";
 
+@mixin gradient-background($top, $bottom, $image) {
+  background: linear-gradient(0, $top, $bottom), url($image) center center no-repeat;
+  background-size: cover;
+}
+
 .fixed-width {
   max-width: 960px;
   margin: 0 auto;

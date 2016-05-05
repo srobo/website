@@ -9,6 +9,10 @@
   }
 }
 
+h1 {
+  font-size: 3em;
+}
+
 @include headings() {
   color: $sr-blue;
   font-family: $heading-font-family;

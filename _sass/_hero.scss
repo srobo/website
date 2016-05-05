@@ -1,14 +1,14 @@
 @import "colors";
 @import "fonts";
 @import "headers";
+@import "common";
 
 $hero-background-image: "/srobo-prototype/images/hero.jpg";
 $hero-top-colour: transparentize($sr-blue, 0.05);
 $hero-bottom-colour: transparentize($sr-blue, 0.2);
 
 .hero {
-  background: linear-gradient(0, $hero-bottom-colour, $hero-top-colour), url($hero-background-image) center center no-repeat;
-  background-size: cover;
+  @include gradient-background($hero-top-colour, $hero-bottom-colour, $hero-background-image);
   margin-bottom: 1em;
 }
 
