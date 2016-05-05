@@ -7,22 +7,16 @@ layout: home
       <div class="highlight-card">
         <h2>Upcoming Events</h2>
         <ul class="event-list">
+          {% for event in site.events %}
           <li class="event">
-            <a href="#" class="event-name">Oxford Tech Day</a>
+            <a href="#" class="event-name">{{ event.title }}</a>
             <p class="event-details">
-              9th April
+              {{ event.date | date: "%e %B, %Y" }}
               &#8226;
-              <span class="event-location">Rutherford Appleton Labratories</span>
+              <span class="event-location">{{ event.location }}</span>
             </p>
           </li>
-          <li class="event">
-            <a href="#" class="event-name">Competition</a>
-            <p class="event-details">
-              30th April
-              &#8226;
-              <span class="event-location">Newbury Racecourse</span>
-            </p>
-          </li>
+          {% endfor %}
         </ul>
       </div>
       <div class="highlight-card">
@@ -63,7 +57,7 @@ layout: home
       <article class="card">
         <h2>{{ post.title }}</h2>
         {{ post.content }}
-        <p class="article-info">Published {{ post.date | date: "%B %e, %Y" }}</p>
+        <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
       </article>
       {% endfor %}
     </section>
