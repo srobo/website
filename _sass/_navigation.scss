@@ -1,5 +1,6 @@
 @import "layout";
 @import "colors";
+@import "fonts";
 
 .site-navigation {
   overflow: hidden;
@@ -17,10 +18,11 @@
         border-radius: 5px;
         color: $sr-white;
         display: block;
-        font-family: 'Oswald', sans-serif;
-        font-size: 1.0em;
-        padding: 15px 20px;
-        margin: 8px;
+        font-family: $main-font-family;
+        font-size: 0.9em;
+        font-weight: bold;
+        padding: 20px 20px;
+        margin: 10px 8px;
         text-decoration: none;
         text-transform: uppercase;
 
