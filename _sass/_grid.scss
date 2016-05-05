@@ -1,3 +1,5 @@
+@import "base";
+
 $column-count: 12;
 $breakpoints: (
         small: 767px,
@@ -14,12 +16,11 @@ $breakpoints: (
 }
 
 @mixin column($numerator, $denominator) {
-  $gutter-width: (($numerator / $denominator) * 2.5%);
   box-sizing: border-box;
   width: ($numerator / $denominator * 100%);
   float: left;
-  padding-left: $gutter-width;
-  padding-right: $gutter-width;
+  padding-left: $spacing / 2;
+  padding-right: $spacing / 2;
 }
 
 .row {

@@ -14,16 +14,19 @@
       list-style: none;
 
       a {
-        color: $sr-blue;
+        border-radius: 5px;
+        color: $sr-white;
         display: block;
         font-family: 'Oswald', sans-serif;
-        font-size: 1.2em;
-        margin: 0;
-        padding: 25px 20px;
+        font-size: 1.0em;
+        padding: 15px 20px;
+        margin: 8px;
         text-decoration: none;
+        text-transform: uppercase;
 
         &:hover {
-          background: darken(white, 4%);
+          background: $sr-white;
+          color: $sr-blue;
         }
       }
     }

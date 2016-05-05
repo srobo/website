@@ -1,6 +1,8 @@
 @import "fonts";
 @import "colors";
 
+$spacing: 1em;
+
 html, body {
   background: $sr-grey;
   font-family: $main-font-family;

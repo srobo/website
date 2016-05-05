@@ -4,7 +4,12 @@
 .fixed-width {
   max-width: 960px;
   margin: 0 auto;
+  padding: 0 10px;
   overflow: hidden;
+
+  @include media-query(medium) {
+    padding: 0;
+  }
 }
 
 .sidebar, main {

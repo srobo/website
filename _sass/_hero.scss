@@ -1,45 +1,49 @@
-@import "fonts";
 @import "colors";
-@import "panel";
+@import "fonts";
+@import "headers";
 
-$hero-gradient-light: rgba(0, 0, 0, 0.6);
-$hero-gradient-dark: rgba(13, 31, 97, 0.8);
-$hero-text-background: rgba(0, 0, 0, 0.5);
-
-@include panel("hero", $hero-gradient-dark, $hero-gradient-light);
+$hero-background-image: "/srobo-prototype/images/hero.jpg";
+$hero-top-colour: transparentize($sr-blue, 0.05);
+$hero-bottom-colour: transparentize($sr-blue, 0.2);
 
 .hero {
-  @extend .panel, .panel-hero;
-  margin-bottom: 16px;
+  background: linear-gradient(0, $hero-bottom-colour, $hero-top-colour), url($hero-background-image) center center no-repeat;
+  background-size: cover;
+  margin-bottom: 1em;
+}
+
+.hero-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  min-height: 28em;
 }
 
 .hero-text {
-  text-shadow: 2px 1px 0 rgba(0, 0, 0, 1);
-  color: white;
-  display: block;
-  font-family: $heading-font-family;
-  font-size: 2em;
-  padding: 0.2em;
-  text-transform: uppercase;
+  @include headings() {
+    font-size: 2.2em;
+    color: $sr-white;
+  }
 }
 
-.hero-call-to-action {
-  background: rgba(0, 0, 0, 0.5);
-  border: 2px solid white;
-  border-radius: 8px;
-  color: white;
-  display: inline-block;
-  font-size: 0.8em;
+.hero-button {
+  background: transparent;
+  border: 2px solid $sr-white;
+  border-radius: 3px;
+  font-size: 0.9em;
   font-weight: bold;
-  margin-top: 1em;
-  padding: 1.8em;
+  color: $sr-white;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  opacity: 0.7;
+  padding: 1.0em 2.0em;
   text-decoration: none;
   text-transform: uppercase;
 
   &:hover {
-    cursor: pointer;
-    color: white;
-    background: $sr-orange;
-    border-color: $sr-orange;
+    color: $sr-white;
+    opacity: 1.0;
   }
 }
