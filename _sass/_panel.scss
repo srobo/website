@@ -20,6 +20,10 @@ $blue-bottom-colour: transparentize($sr-blue, 0.2);
     padding: 5px;
   }
 
+  p {
+    margin-bottom: 1em;
+  }
+
   &:nth-of-type(even) {
     background: $sr-grey;
   }
