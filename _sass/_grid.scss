@@ -23,6 +23,10 @@ $breakpoints: (
   padding-right: $spacing / 2;
 }
 
+@mixin offset($numerator, $denominator) {
+  margin-left: ($numerator / $denominator) * 100%;
+}
+
 .row {
   max-width: 100%;
   margin-left: auto;
@@ -35,9 +39,19 @@ $breakpoints: (
     @include column($i, $column-count);
   }
 
+  .d-offset-#{$i}-#{$column-count} {
+    @include offset($i, $column-count);
+  }
+
   .s-#{$i}-#{$column-count} {
     @include media-query("small") {
       @include column($i, $column-count);
+    }
+  }
+
+  .s-offset-#{$i}-#{$column-count} {
+    @include media-query("small") {
+      @include offset($i, $column-count);
     }
   }
 
@@ -47,9 +61,21 @@ $breakpoints: (
     }
   }
 
+  .m-offset-#{$i}-#{$column-count} {
+    @include media-query("medium") {
+      @include offset($i, $column-count);
+    }
+  }
+
   .l-#{$i}-#{$column-count} {
     @include media-query("large") {
       @include column($i, $column-count);
+    }
+  }
+
+  .l-offset-#{$i}-#{$column-count} {
+    @include media-query("large") {
+      @include offset($i, $column-count);
     }
   }
 }
