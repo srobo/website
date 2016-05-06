@@ -9,16 +9,9 @@ $blue-bottom-colour: transparentize($sr-blue, 0.2);
 }
 
 .panel {
-  background-color: white;
+  background-color: $sr-white;
   padding: 2em 0;
   text-align: center;
-
-  img {
-    background-color: white;
-    border: 1px solid $sr-grey;
-    border-radius: 2px;
-    padding: 5px;
-  }
 
   p {
     margin-bottom: 1em;
@@ -27,6 +20,13 @@ $blue-bottom-colour: transparentize($sr-blue, 0.2);
   &:nth-of-type(even) {
     background: $sr-grey;
   }
+}
+
+img.image {
+  background-color: white;
+  border: 1px solid $sr-grey;
+  border-radius: 2px;
+  padding: 5px;
 }
 
 .panel-header {
