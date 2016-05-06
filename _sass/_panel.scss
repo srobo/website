@@ -11,6 +11,7 @@ $blue-bottom-colour: transparentize($sr-blue, 0.2);
 .panel {
   background-color: white;
   padding: 2em 0;
+  text-align: center;
 
   img {
     background-color: white;
@@ -19,13 +20,8 @@ $blue-bottom-colour: transparentize($sr-blue, 0.2);
     padding: 5px;
   }
 
-  p {
-    font-size: 1.2em;
-  }
-
-  .row {
-    display: flex;
-    align-items: center;
+  &:nth-of-type(even) {
+    background: $sr-grey;
   }
 }
 
@@ -45,13 +41,6 @@ $blue-bottom-colour: transparentize($sr-blue, 0.2);
   @include gradient-background($blue-top-colour, $blue-bottom-colour, "/srobo-prototype/images/boxes.jpg");
 }
 
-.panel-awards {
-  @include gradient-background(transparentize($sr-blue, 0.05), transparentize($sr-blue, 0.4), "/srobo-prototype/images/awards-2015.jpg");
-}
-
-.panel-robot {
-  @include gradient-background(transparentize(white, 0.05), transparentize(white, 0.4), "/srobo-prototype/images/hero.jpg");
-}
 
 .panel-container {
   display: flex;

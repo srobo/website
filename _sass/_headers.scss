@@ -13,6 +13,14 @@ h1 {
   font-size: 3em;
 }
 
+h2 {
+  font-size: 2.4em;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
 @include headings() {
   color: $sr-blue;
   font-family: $heading-font-family;

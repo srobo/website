@@ -5,7 +5,7 @@ layout: home
   <div class="fixed-width">
     <section class="sidebar m-4-12">
       <div class="highlight-card">
-        <h2>Upcoming Events</h2>
+        <h3>Upcoming Events</h3>
         <ul class="event-list">
           {% for event in site.events %}
           <li class="event">
@@ -20,7 +20,7 @@ layout: home
         </ul>
       </div>
       <div class="highlight-card">
-        <h2>Competitor Zone</h2>
+        <h3>Competitor Zone</h3>
         <ul class="side-navigation">
           <li>
             <a href="/ide/">
@@ -55,7 +55,7 @@ layout: home
     <section class="main m-8-12">
       {% for post in site.posts %}
       <article class="card">
-        <h2>{{ post.title }}</h2>
+        <h3>{{ post.title }}</h3>
         {{ post.content }}
         <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
       </article>
