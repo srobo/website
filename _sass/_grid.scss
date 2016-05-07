@@ -15,6 +15,13 @@ $breakpoints: (
   }
 }
 
+$media-sizes: (
+                ("s", "small"),
+                ("m", "medium"),
+                ("l", "large"),
+                ("d", "default")
+);
+
 @mixin column($numerator, $denominator) {
   box-sizing: border-box;
   width: ($numerator / $denominator * 100%);
@@ -34,48 +41,29 @@ $breakpoints: (
   overflow: hidden;
 }
 
-@for $i from 1 through $column-count {
-  .d-#{$i}-#{$column-count} {
-    @include column($i, $column-count);
-  }
+@each $size-tuple in $media-sizes {
+  $size-key: nth($size-tuple, 1);
+  $size-value: nth($size-tuple, 2);
 
-  .d-offset-#{$i}-#{$column-count} {
-    @include offset($i, $column-count);
-  }
-
-  .s-#{$i}-#{$column-count} {
-    @include media-query("small") {
-      @include column($i, $column-count);
+  @for $i from 1 through $column-count - 1 {
+    .#{$size-key}-#{$i}-#{$column-count} {
+      @if $size-value != "default" {
+        @include media-query($size-value) {
+          @include column($i, $column-count);
+        }
+      } @else {
+        @include column($i, $column-count);
+      }
     }
-  }
 
-  .s-offset-#{$i}-#{$column-count} {
-    @include media-query("small") {
-      @include offset($i, $column-count);
-    }
-  }
-
-  .m-#{$i}-#{$column-count} {
-    @include media-query("medium") {
-      @include column($i, $column-count);
-    }
-  }
-
-  .m-offset-#{$i}-#{$column-count} {
-    @include media-query("medium") {
-      @include offset($i, $column-count);
-    }
-  }
-
-  .l-#{$i}-#{$column-count} {
-    @include media-query("large") {
-      @include column($i, $column-count);
-    }
-  }
-
-  .l-offset-#{$i}-#{$column-count} {
-    @include media-query("large") {
-      @include offset($i, $column-count);
+    .#{$size-key}-offset-#{$i}-#{$column-count} {
+      @if $size-value != "default" {
+        @include media-query($size-value) {
+          @include offset($i, $column-count);
+        }
+      } @else {
+        @include offset($i, $column-count);
+      }
     }
   }
 }
