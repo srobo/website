@@ -45,6 +45,9 @@ img.image {
   @include gradient-background($blue-top-colour, $blue-bottom-colour, "/srobo-prototype/images/boxes.jpg");
 }
 
+.panel-arena {
+  @include gradient-background($blue-top-colour, $blue-bottom-colour, "/srobo-prototype/images/arena.jpg");
+}
 
 .panel-container {
   display: flex;
