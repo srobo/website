@@ -1,8 +1,8 @@
 @import "headers";
 @import "common";
 
-$blue-top-colour: transparentize($sr-blue, 0.05);
-$blue-bottom-colour: transparentize($sr-blue, 0.2);
+$blue-top-colour: transparentize($sr-blue, 0.2);
+$blue-bottom-colour: transparentize($sr-blue, 0.3);
 
 .header {
   text-align: center;
