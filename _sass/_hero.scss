@@ -9,7 +9,6 @@ $hero-bottom-colour: transparentize($sr-blue, 0.2);
 
 .hero {
   @include gradient-background($hero-top-colour, $hero-bottom-colour, $hero-background-image);
-  margin-bottom: 1em;
 }
 
 .hero-container {

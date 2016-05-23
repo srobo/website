@@ -1,6 +1,6 @@
 title: Student Robotics
-baseurl: "/srobo-prototype"
-url: "http://studentrobotics.org"
+baseurl: /srobo-prototype
+url: http://studentrobotics.org
 
 description: >
   Write an awesome description for your new site here. You can edit this

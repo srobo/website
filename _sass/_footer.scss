@@ -1,4 +1,6 @@
-$footer-background: rgb(27, 29, 31);
+@import "colors";
+
+$footer-background: $sr-dark-grey;
 $footer-color: rgb(185, 189, 193);
 
 footer {

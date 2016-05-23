@@ -23,9 +23,10 @@
 
 .content {
   @extend .row;
-  padding: 0 1em 3em;
+  background: $sr-grey;
+  padding: 1em 1em 3em;
 
   @include media-query("large") {
-    padding: 0 0 3em;
+    padding: 1em 0 3em;
   }
 }
