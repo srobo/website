@@ -1,4 +1,6 @@
 @import "colors";
+@import "fonts";
+@import "headers";
 
 $footer-background: $sr-dark-grey;
 $footer-color: rgb(185, 189, 193);
@@ -9,8 +11,32 @@ footer {
   color: $footer-color;
   font-size: 0.8em;
   padding: 2em 0;
+
+  @include headings() {
+    font-family: $main-font-family;
+    color: $sr-white;
+    margin-bottom: 1.5em;
+  }
 }
 
 .text-right {
   text-align: right;
+}
+
+.sitemap {
+  list-style: none;
+  margin-bottom: 2em;
+
+  li {
+    margin: 0.5em 0;
+
+    a {
+      color: $footer-color;
+      text-decoration: none;
+
+      &:hover {
+        color: $sr-white;
+      }
+    }
+  }
 }
