@@ -2,8 +2,9 @@
 @import "fonts";
 @import "headers";
 @import "common";
+@import "urls";
 
-$hero-background-image: "/srobo-prototype/images/hero.jpg";
+$hero-background-image: "#{$image-directory}/hero.jpg";
 $hero-top-colour: transparentize($sr-blue, 0.05);
 $hero-bottom-colour: transparentize($sr-blue, 0.2);
 

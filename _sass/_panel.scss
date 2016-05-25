@@ -1,5 +1,6 @@
 @import "headers";
 @import "common";
+@import "urls";
 
 $blue-top-colour: transparentize($sr-blue, 0.2);
 $blue-bottom-colour: transparentize($sr-blue, 0.3);
@@ -38,15 +39,15 @@ img.image {
 }
 
 .panel-blueshirts {
-  @include gradient-background($blue-top-colour, $blue-bottom-colour, "/srobo-prototype/images/blueshirts.jpg");
+  @include gradient-background($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/blueshirts.jpg");
 }
 
 .panel-boxes {
-  @include gradient-background($blue-top-colour, $blue-bottom-colour, "/srobo-prototype/images/boxes.jpg");
+  @include gradient-background($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/boxes.jpg");
 }
 
 .panel-arena {
-  @include gradient-background($blue-top-colour, $blue-bottom-colour, "/srobo-prototype/images/arena.jpg");
+  @include gradient-background($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/arena.jpg");
 }
 
 .panel-container {
