@@ -1,0 +1,11 @@
+<nav class="{{ include.class }}">
+  <ul>
+    {% for page in site.pages %}
+    {% if page.title and site.navigation contains page.name %}
+    <li>
+      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
