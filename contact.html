@@ -2,7 +2,51 @@
 layout: page
 title: Contact
 ---
+<div class="panel panel-header panel-blueshirts">
+  <div class="panel-container">
+    <div class="fixed-width">
+      <h1 class="header">Contact Us</h1>
+    </div>
+  </div>
+</div>
 <div class="content">
-  <h1>Contact Us</h1>
-  <h2>Lol</h2>
+  <div class="fixed-width">
+    <div class="l-6-12">
+      <div class="card">
+        <h3>Postal Address</h3>
+        <address>
+          Student Robotics<br/>
+          Electronics and Computer Science<br/>
+          Building 59<br/>
+          Highfield Campus<br/>
+          University of Southampton<br/>
+          Southampton<br/>
+          United Kingdom<br/>
+          <br/>
+          SO17 1BJ
+        </address>
+      </div>
+    </div>
+    <div class="l-6-12">
+      <div class="card">
+        <h3>Email</h3>
+        <div class="contact-email">
+          <p>For teams:</p>
+          <p><a href="mailto:{{ site.emails.teams }}">{{ site.emails.teams }}</a></p>
+        </div>
+        <div class="contact-email">
+          <p>For sponsorship enquiries:</p>
+          <p><a href="mailto:{{ site.emails.fundraising }}">{{ site.emails.fundraising }}</a></p>
+        </div>
+        <div class="contact-email">
+          <p>For volunteers:</p>
+          <p><a href="mailto:{{ site.emails.volunteers }}">{{ site.emails.volunteers }}</a></p>
+        </div>
+        <div class="contact-email">
+          <p>All other enquiries:</p>
+          <p><a href="mailto:{{ site.emails.info }}">{{ site.emails.info }}</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
