@@ -1,25 +1,23 @@
-@import url("https://fonts.googleapis.com/css?family=Jura:400,300");
 @import "colors";
+@import "fonts";
 
-$header-background: white;
-
-header.site-header {
-  background: $header-background;
+.site-header {
+  background: white;
   overflow: hidden;
 }
 
-img.logo {
+.logo {
   width: auto;
   height: 60px;
   vertical-align: middle;
 }
 
-a.site-title {
+.site-title {
   color: black;
   padding: 10px 0;
-  font-family: 'Jura', sans-serif;
+  font-family: $heading-font-family;
   font-weight: 400;
   float: left;
-  font-size: 2.8em;
+  font-size: 2.6em;
   text-decoration: none;
 }

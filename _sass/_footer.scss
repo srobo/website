@@ -1,6 +1,7 @@
 @import "colors";
 @import "fonts";
 @import "headers";
+@import "common";
 
 $footer-background: $sr-dark-grey;
 $footer-color: rgb(185, 189, 193);
@@ -34,10 +35,6 @@ footer {
     font-size: 2em;
     margin: 0 0.2em;
   }
-}
-
-.text-right {
-  text-align: right;
 }
 
 .sitemap {

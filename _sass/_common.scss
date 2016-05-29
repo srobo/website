@@ -21,6 +21,10 @@
   @extend .row;
 }
 
+.text-right {
+  text-align: right;
+}
+
 .content {
   @extend .row;
   background: $sr-grey;

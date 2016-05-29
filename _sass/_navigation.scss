@@ -2,96 +2,96 @@
 @import "colors";
 @import "fonts";
 
-.site-navigation {
+.navigation {
   overflow: hidden;
+
+  li {
+    list-style: none;
+  }
+
+  a {
+    cursor: pointer;
+    text-decoration: none;
+  }
+}
+
+.site-navigation {
+  @extend .navigation;
 
   ul {
     float: right;
     margin: 0;
     padding: 0;
+  }
 
-    li {
-      display: inline-block;
-      list-style: none;
+  li {
+    display: inline-block;
+  }
 
-      a {
-        border-radius: 5px;
-        display: block;
-        color: $sr-blue;
-        font-family: $main-font-family;
-        font-size: 0.9em;
-        font-weight: bold;
-        padding: 20px 20px;
-        margin: 10px 8px;
-        text-decoration: none;
-        text-transform: uppercase;
+  a {
+    border-radius: 5px;
+    display: block;
+    color: $sr-blue;
+    font-family: $main-font-family;
+    font-size: 0.9em;
+    font-weight: bold;
+    padding: 20px 20px;
+    margin: 10px 8px;
+    text-transform: uppercase;
 
-        &:hover {
-          color: $sr-orange;
-        }
-      }
+    &:hover {
+      color: $sr-orange;
     }
   }
 }
 
 .home-navigation {
-  ul {
-    li {
-      a {
-        color: $sr-white;
+  a {
+    color: $sr-white;
 
-        &:hover {
-          background: $sr-white;
-          color: $sr-blue;
-        }
-      }
+    &:hover {
+      background: $sr-white;
+      color: $sr-blue;
     }
   }
 }
 
 .side-navigation {
-  overflow: hidden;
-
+  @extend .navigation;
   margin: 0;
   padding: 0;
 
-  li {
-    list-style: none;
+  p {
+    display: inline-block;
 
-    a {
-      align-items: center;
-      cursor: pointer;
-      display: flex;
-      padding: 10px;
-      position: relative;
-      text-decoration: none;
+    &.link-icon {
+      color: gray;
+      margin-right: 10px;
+    }
+  }
 
-      p {
-        display: inline-block;
+  span {
+    display: block;
+    margin-bottom: 5px;
 
-        &.link-icon {
-          color: gray;
-          margin-right: 10px;
-        }
-      }
+    &.link-title {
+      text-decoration: underline;
+    }
 
-      span {
-        display: block;
-        margin-bottom: 5px;
+    &.link-description {
+      color: gray;
+      font-size: 0.7em;
+    }
+  }
 
-        &.link-title {
-          text-decoration: underline;
-        }
+  a {
+    align-items: center;
+    display: flex;
+    padding: 10px;
+    position: relative;
 
-        &.link-description {
-          color: gray;
-          font-size: 0.7em;
-        }
-      }
-
-      &:hover {
-        background: darken(white, 5%);
-      }
+    &:hover {
+      background: darken(white, 5%);
     }
   }
 }
