@@ -17,6 +17,23 @@ footer {
     color: $sr-white;
     margin-bottom: 1.5em;
   }
+
+  a {
+    color: $footer-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $sr-white;
+    }
+  }
+}
+
+.social-media-links {
+  li {
+    display: inline-block;
+    font-size: 2em;
+    margin: 0 0.2em;
+  }
 }
 
 .text-right {
@@ -29,14 +46,5 @@ footer {
 
   li {
     margin: 0.5em 0;
-
-    a {
-      color: $footer-color;
-      text-decoration: none;
-
-      &:hover {
-        color: $sr-white;
-      }
-    }
   }
 }

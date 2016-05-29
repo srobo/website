@@ -6,6 +6,12 @@ links:
   compete: //docs.google.com/forms/d/1Ryg2cfAxfwMOBnT01aj-fzsp51F3B182S5e53ye8aMw/viewform
   volunteer: //docs.google.com/forms/d/1MIGf3P30dw0QAtP8OkxK2v7VRDEAN_54JoZHCVMbqDY/viewform
 
+social:
+  facebook-official: //facebook.com/StudentRobotics
+  twitter: //twitter.com/studentrobotics
+  youtube: //youtube.com/StudentRobotics
+  github: //github.com/srobo
+
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
