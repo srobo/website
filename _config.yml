@@ -3,9 +3,8 @@ baseurl: /website
 url: http://studentrobotics.org
 
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Student Robotics is an exciting annual competition challenging people aged
+  16-18 to assemble a team and build fully autonomous robots.
 
 links:
   compete: //docs.google.com/forms/d/1Ryg2cfAxfwMOBnT01aj-fzsp51F3B182S5e53ye8aMw/viewform
