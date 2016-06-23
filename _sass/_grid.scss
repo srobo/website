@@ -3,10 +3,10 @@
 
 $column-count: 12;
 $media-sizes: (
+                ("d", "default"),
                 ("s", "small"),
                 ("m", "medium"),
-                ("l", "large"),
-                ("d", "default")
+                ("l", "large")
 );
 
 @mixin column($numerator, $denominator) {
