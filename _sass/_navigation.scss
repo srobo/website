@@ -22,10 +22,16 @@
     float: right;
     margin: 0;
     padding: 0;
+    text-align: right;
+    width: 100%;
   }
 
   li {
-    display: inline-block;
+    display: block;
+
+    @include media-query("large") {
+      display: inline-block;
+    }
   }
 
   a {
@@ -93,5 +99,17 @@
     &:hover {
       background: darken(white, 5%);
     }
+  }
+}
+
+.full-navigation {
+  @extend .desktop-only;
+}
+
+.mobile-navigation {
+  @extend .mobile-only;
+
+  ul {
+    width: auto;
   }
 }

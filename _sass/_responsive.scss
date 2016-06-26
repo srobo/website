@@ -12,3 +12,17 @@ $breakpoints: (
     }
   }
 }
+
+.desktop-only {
+  display: none;
+
+  @include media-query("large") {
+    display: inline;
+  }
+}
+
+.mobile-only {
+  @include media-query("medium") {
+    display: none;
+  }
+}
