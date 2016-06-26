@@ -16,7 +16,7 @@ $breakpoints: (
 .desktop-only {
   display: none;
 
-  @include media-query("large") {
+  @include media-query("medium") {
     display: inline;
   }
 }
