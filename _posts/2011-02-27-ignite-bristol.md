@@ -8,4 +8,12 @@ experiences with Student Robotics teams in his
 [Bristol Ignite](http://ignitebristol.net/2011/02/sam-phippen-sixth-formers-power-tools/) talk entitled 
 _Sixth Formers & Power Tools_.  Enjoy:
 
-<div style="text-align:center;"><iframe title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/eU0DvjobiXw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<iframe
+  class="center video"
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/eU0DvjobiXw"
+  frameborder="0"
+  allowfullscreen
+  >
+</iframe>

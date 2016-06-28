@@ -25,7 +25,15 @@ The two days comprised a gruelling 46 match league stage provided seeding for th
 Congratulations to all the competitors, whatever place achieved,
  we hope that you've all had fun & learnt something along the way.
 
-<iframe class="youtube" width="560" height="315" src="http://www.youtube.com/embed/nzrsJhVAH7M" frameborder="0" allowfullscreen></iframe>
+<iframe
+  class="center video"
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/nzrsJhVAH7M"
+  frameborder="0"
+  allowfullscreen
+  >
+</iframe>
 
 Results
 -------
