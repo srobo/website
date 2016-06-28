@@ -5,7 +5,7 @@ layout: news
 title: The Competition Happened. It Was Awesome!
 ---
 <a href="http://www.flickr.com/photos/rspanton/5610488796/in/set-72157626476429584">
-<img class="right" src="http://farm6.static.flickr.com/5149/5610488796_9890a0771f.jpg" title="Everyone in the arena, CC-BY Rob Spanton" />
+<img class="right" src="https://farm6.static.flickr.com/5149/5610488796_9890a0771f.jpg" title="Everyone in the arena, CC-BY Rob Spanton" />
 </a>
 
 Student Robotics 2011 is over!  After much hard work, hacking, and bodging, fifteen teams from thirteen UK schools 
@@ -29,7 +29,7 @@ Results
 -------
 
 <a href="http://www.flickr.com/photos/rspanton/5620491515/in/set-72157626476429584">
-<img src="http://farm6.static.flickr.com/5149/5620491515_f787fd1da1.jpg" alt="competition" title="Alex Forward and Neil 
+<img src="https://farm6.static.flickr.com/5149/5620491515_f787fd1da1.jpg" alt="competition" title="Alex Forward and Neil 
 White presenting prizes the arena, CC-BY Rob Spanton" class="right" />
 </a>
 

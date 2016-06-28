@@ -5,7 +5,7 @@ layout: news
 title: The Competition Happened. It Was Fantastic!
 ---
 <a href="http://www.flickr.com/photos/amspanton/6938591562/in/set-72157629831940951/">
-	<img class="right" src="http://farm6.staticflickr.com/5240/6938591562_598a119b47_n.jpg" alt="Everyone outside"
+	<img class="right" src="https://farm6.staticflickr.com/5240/6938591562_598a119b47_n.jpg" alt="Everyone outside"
 	     title="Everyone outside with the robots, CC BY-NC-SA Mrs A M Spanton" />
 </a>
 
@@ -39,7 +39,7 @@ Results
 -------
 
 <a href="http://www.flickr.com/photos/amspanton/7084689111/in/set-72157629831940951">
-	<img src="http://farm8.staticflickr.com/7245/7084689111_a53c1c2fa7_n.jpg" alt="Competition prize-giving"
+	<img src="https://farm8.staticflickr.com/7245/7084689111_a53c1c2fa7_n.jpg" alt="Competition prize-giving"
 	     title="Stephen English and Eric Cooke presenting the first place award inthe arena, CC BY-NC-SA Mrs A M Spanton" class="right" />
 </a>
 
