@@ -1,9 +1,12 @@
+@import "colors";
+
 article {
   p {
-    color: rgb(27, 29, 31);
+    color: $sr-dark-grey;
     font-size: 0.9em;
     line-height: 1.4em;
     margin: 1.2em 0;
+    overflow: hidden;
 
     &.article-info {
       display: block;
@@ -12,4 +15,110 @@ article {
       font-size: 0.8em;
     }
   }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+  }
+
+  blockquote {
+    position: relative;
+    font-size: 1.1em;
+    font-style: italic;
+    padding: 0 20px 0 80px;
+    quotes: "\201C" "\201D" "\2018" "\2019";
+
+    :before {
+      position: absolute;
+      left: 20px;
+      top: 30px;
+      content: "\201C";
+      font-size: 2em;
+      font-weight: bold;
+      line-height: 0.1em;
+    }
+
+    @media (max-width: 800px) {
+      padding: 0 20px;
+      :before {
+        display: none;
+      }
+    }
+
+    p {
+      color: lighten($sr-dark-grey, 40%);
+      display: inline;
+    }
+  }
+
+  img, video {
+    margin: 0;
+  }
+
+  iframe.center {
+    display: block;
+    margin: 10px auto;
+  }
+
+  iframe.video {
+    border: 1px solid silver;
+    padding: 3px;
+    margin-bottom: 10px;
+  }
+
+  ul {
+    margin-left: 40px;
+  }
+}
+
+table {
+  font-size: 0.8em;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+
+  th, td {
+    padding: 0.5em;
+  }
+
+  thead {
+    color: $sr-blue;
+
+    th {
+      text-align: left;
+      border-bottom: 2px solid $sr-blue;
+    }
+  }
+
+  tbody {
+    tr {
+      background: white;
+
+      &:nth-child(even) {
+        background: $sr-grey;
+      }
+    }
+  }
+}
+
+.left {
+  float: left;
+  margin-right: 20px;
+}
+
+.right {
+  clear: right;
+  float: right;
+  margin-left: 20px;
+}
+
+.footnotes ol {
+  list-style: none;
 }

@@ -55,7 +55,7 @@ layout: home
     <section class="main m-8-12">
       {% for post in site.posts %}
       <article class="card">
-        <h3>{{ post.title }}</h3>
+        <h1>{{ post.title }}</h1>
         <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
         {{ post.content }}
       </article>
