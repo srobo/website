@@ -34,8 +34,6 @@ competition, but it won them the game and first place.
 <!-- Video of Final -->
 <iframe
   class="center video"
-  width="560"
-  height="315"
   src="https://www.youtube-nocookie.com/embed/5-vZzrVAVfs"
   frameborder="0"
   allowfullscreen
@@ -45,8 +43,6 @@ competition, but it won them the game and first place.
 <!-- Video of Tie Breaker -->
 <iframe
   class="center video"
-  width="560"
-  height="315"
   src="https://www.youtube-nocookie.com/embed/930Pe2IwOXY"
   frameborder="0"
   allowfullscreen

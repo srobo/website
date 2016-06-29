@@ -27,8 +27,6 @@ Congratulations to all the competitors, whatever place achieved,
 
 <iframe
   class="center video"
-  width="560"
-  height="315"
   src="https://www.youtube-nocookie.com/embed/nzrsJhVAH7M"
   frameborder="0"
   allowfullscreen

@@ -10,8 +10,6 @@ _Sixth Formers & Power Tools_.  Enjoy:
 
 <iframe
   class="center video"
-  width="560"
-  height="315"
   src="https://www.youtube-nocookie.com/embed/eU0DvjobiXw"
   frameborder="0"
   allowfullscreen
