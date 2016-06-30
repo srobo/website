@@ -6,6 +6,13 @@ description: >
   Student Robotics is an exciting annual competition challenging people aged
   16-18 to assemble a team and build fully autonomous robots.
 
+markdown: kramdown
+collections:
+  - events
+
+gems:
+  - jekyll-paginate
+
 links:
   compete: //docs.google.com/forms/d/1Ryg2cfAxfwMOBnT01aj-fzsp51F3B182S5e53ye8aMw/viewform
   volunteer: //docs.google.com/forms/d/1MIGf3P30dw0QAtP8OkxK2v7VRDEAN_54JoZHCVMbqDY/viewform
@@ -35,7 +42,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-markdown: kramdown
-
-collections:
-  - events
+paginate: 3
+paginate_path: "/news/:num/"

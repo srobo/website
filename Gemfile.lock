@@ -15,6 +15,7 @@ GEM
       mercenary (~> 0.3.3)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.3.0)
       sass (~> 3.2)
     jekyll-watch (1.3.0)
@@ -42,6 +43,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-paginate
   kramdown
   neat
   rake
