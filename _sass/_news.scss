@@ -3,7 +3,6 @@
 article {
   p {
     color: $sr-dark-grey;
-    font-size: 0.9em;
     line-height: 1.4em;
     margin: 1.2em 0;
     overflow: hidden;
@@ -14,18 +13,6 @@ article {
       color: #9e9e9e;
       font-size: 0.8em;
     }
-  }
-
-  h1 {
-    font-size: 1.5rem;
-  }
-
-  h2 {
-    font-size: 1.3rem;
-  }
-
-  h3 {
-    font-size: 1.2rem;
   }
 
   blockquote {
@@ -81,6 +68,22 @@ article {
 
   ul {
     margin-left: 40px;
+  }
+}
+
+article.article-preview {
+  font-size: 0.9em;
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
   }
 }
 
