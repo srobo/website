@@ -68,7 +68,7 @@ layout: home
     <section class="main m-8-12">
       {% assign post = site.posts.first %}
       <article class="card">
-        <h1>{{ post.title }}</h1>
+        <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
         <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
         {{ post.content }}
       </article>

@@ -1,8 +1,13 @@
 ---
-layout: default
+layout: page
 ---
-<h1>{{ page.title }}</h1>
+<div class="content">
+  <div class="fixed-width">
+    <article class="card">
+      <h1>{{ page.title }}</h1>
+      <p class="article-info">Published {{ page.date | date: "%B %e, %Y" }}</p>
+      {{ content }}
+    </article>
+  </div>
+</div>
 
-{{ content }}
-
-<p class="article-info">Published {{ page.date | date: "%B %e, %Y" }}</p>

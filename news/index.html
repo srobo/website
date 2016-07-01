@@ -13,7 +13,7 @@ title: News
   <div class="fixed-width">
     {% for post in paginator.posts %}
     <article class="card">
-      <h1>{{ post.title }}</h1>
+      <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
       <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
       {{ post.content }}
     </article>
