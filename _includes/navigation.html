@@ -5,12 +5,10 @@
     </ul>
   </div>
   <ul id="navigation" class="full-navigation">
-    {% for page in site.pages %}
-    {% if page.title and site.navigation contains page.name %}
+    {% for page in site.navigation %}
     <li>
-      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      <a class="page-link" href="{{ page | prepend: '/' | append: '/' | prepend: site.baseurl }}">{{ page | capitalize }}</a>
     </li>
-    {% endif %}
     {% endfor %}
   </ul>
 </nav>
