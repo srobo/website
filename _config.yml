@@ -42,8 +42,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Dockerfile
-  - _env
-  - _docs
+  - _env/
+  - _docs/
+  - vendor/
 
 paginate: 3
 paginate_path: "/news/:num/"

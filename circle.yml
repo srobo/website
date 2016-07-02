@@ -1,0 +1,20 @@
+machine:
+  services:
+    - docker
+
+dependencies:
+  override:
+    - gem install bundler
+    - bundle install
+    - docker info
+
+test:
+  override:
+    - rake build
+
+deployment:
+  hub:
+    branch: gh-pages
+    commands:
+      - docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
+      - rake deploy
