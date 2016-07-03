@@ -4,7 +4,7 @@ layout: home
 <div class="content">
   <div class="fixed-width">
     <section class="sidebar m-4-12">
-      <div class="card highlight-card">
+      <div class="card">
         <h3>Upcoming Events</h3>
           {% assign any_events = false %}
           {% for event in site.events %}
@@ -32,7 +32,7 @@ layout: home
             <p>There are no upcoming events.</p>
           {% endif %}
       </div>
-      <div class="card highlight-card">
+      <div class="card">
         <h3>Competitor Zone</h3>
         <ul class="side-navigation">
           <li>
@@ -62,6 +62,18 @@ layout: home
               </p>
             </a>
           </li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Sponsors</h3>
+        <ul class="sponsor-list">
+        {% for sponsor in site.sponsors %}
+          <li>
+            <a href="{{ sponsor.link }}">
+              <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}"/>
+            </a>
+          </li>
+        {% endfor %}
         </ul>
       </div>
     </section>

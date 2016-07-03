@@ -1,0 +1,11 @@
+ul.sponsor-list {
+  list-style: none;
+
+  li {
+    margin-bottom: 1em;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}
