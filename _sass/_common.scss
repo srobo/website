@@ -12,7 +12,7 @@
   padding: 0 10px;
   overflow: hidden;
 
-  @include media-query(medium) {
+  @include media-query("medium") {
     padding: 0;
   }
 }
@@ -23,14 +23,4 @@
 
 .text-right {
   text-align: right;
-}
-
-.content {
-  @extend .row;
-  background: $sr-grey;
-  padding: 1em 1em 3em;
-
-  @include media-query("large") {
-    padding: 1em 0 3em;
-  }
 }

@@ -1,12 +1,11 @@
 @import "colors";
-
-$card-shadow: rgba(0, 0, 0, 0.15);
+@import "grid";
 
 .card {
   border-top: 2px solid white;
   background: white;
-  padding: 0.8em 1em;
-  margin-bottom: 1em;
+  padding: 0.8em $spacing;
+  margin-bottom: $spacing;
 }
 
 .highlight-card {

@@ -22,7 +22,7 @@ article {
     padding: 0 20px 0 80px;
     quotes: "\201C" "\201D" "\2018" "\2019";
 
-    :before {
+    &:before {
       position: absolute;
       left: 20px;
       top: 30px;
@@ -34,7 +34,8 @@ article {
 
     @media (max-width: 800px) {
       padding: 0 20px;
-      :before {
+
+      &:before {
         display: none;
       }
     }
@@ -99,20 +100,18 @@ table {
 
   thead {
     color: $sr-blue;
-
-    th {
-      text-align: left;
-      border-bottom: 2px solid $sr-blue;
-    }
   }
 
-  tbody {
-    tr {
-      background: white;
+  th {
+    text-align: left;
+    border-bottom: 2px solid $sr-blue;
+  }
 
-      &:nth-child(even) {
-        background: $sr-grey;
-      }
+  tr {
+    background: white;
+
+    &:nth-child(even) {
+      background: $sr-grey;
     }
   }
 }

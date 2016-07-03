@@ -1,7 +1,7 @@
 @import "fonts";
 @import "colors";
-
-$spacing: 1em;
+@import "responsive";
+@import "grid";
 
 html, body {
   background: $sr-dark-grey;
@@ -12,18 +12,12 @@ html, body {
   width: 100%;
 }
 
-body {
-  @extend html;
-}
-
 *,
 *:after,
 *:before {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
 }
 
 a {
@@ -36,6 +30,16 @@ a {
 
   &:focus {
     outline: 2px solid $focus-yellow;
+  }
+}
+
+main {
+  @extend .row;
+  background: $sr-grey;
+  padding: $spacing $spacing (3 * $spacing);
+
+  @include media-query("large") {
+    padding: $spacing 0 (3 * $spacing);
   }
 }
 

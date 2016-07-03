@@ -1,15 +1,17 @@
 @import "colors";
 
 .avatar {
-  background-color: $sr-white;
-  border: 1px solid darken($sr-grey, 10%);
-  border-radius: 50%;
-  width: 100%;
-  height: auto;
-  padding: 3px;
-}
+  img {
+    background-color: $sr-white;
+    border: 1px solid darken($sr-grey, 10%);
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+    padding: 3px;
+  }
 
-.description {
-  font-size: 0.9em;
-  color: #333333;
+  p {
+    font-size: 0.9em;
+    color: #333333;
+  }
 }
