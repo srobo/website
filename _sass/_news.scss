@@ -1,11 +1,12 @@
 @import "colors";
 
 article {
+  overflow: hidden;
+
   p {
     color: $sr-dark-grey;
     line-height: 1.4em;
     margin: 1.2em 0;
-    overflow: hidden;
 
     &.article-info {
       display: block;
@@ -63,7 +64,7 @@ article {
     height: 100%;
 
     @include media-query('medium') {
-      min-height: 320px;
+      min-height: 480px;
     }
   }
 
@@ -97,6 +98,11 @@ table {
   margin: 0;
   padding: 0;
   width: 100%;
+  min-width: 40%;
+
+  @include media-query("medium") {
+    width: auto;
+  }
 
   th, td {
     padding: 0.5em;
@@ -120,12 +126,20 @@ table {
   }
 }
 
+.small-image {
+  width: 50%;
+  height: auto;
+  margin: 1.2em 0;
+}
+
 .left {
+  @extend .small-image;
   float: left;
   margin-right: 20px;
 }
 
 .right {
+  @extend .small-image;
   clear: right;
   float: right;
   margin-left: 20px;
