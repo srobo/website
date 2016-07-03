@@ -7,7 +7,7 @@ title: Student Robotics 2016 sees RGS Guildford take victory
            class="right"
            url="https://www.flickr.com/photos/richardpbarlow/26193738243/in/album-72157667724883081/"
            src="/images/content/news/sr2016/rgs-prizegiving-thumbnail.jpg"
-           caption="An image of the SR2016 winners holding a trophy and their robot" %}
+           caption="This year's winners, RGS Guildford, holding their trophy and their robot" %}
 
 'RGS Guildford' from [Royal Grammar School Guildford][RGS] took 1st place at 
 this year's Student Robotics tournament, held at Newbury Racecourse. In a tense 
@@ -20,7 +20,7 @@ victory.
            class="right"
            url="https://www.flickr.com/photos/131045038@N03/26710758351/in/pool-sr2016/"
            src="/images/content/news/sr2016/sr2016-winning-robot-thumbnail.jpg"
-           caption="An image of the winning robot of 2016" %}
+           caption="RGS Guildford's winning robot" %}
 
 This year's competition was streamed live from 4 different cameras around the 
 arenas. The recording of the stream of the [league matches][league-stream], and 
@@ -41,7 +41,7 @@ engineer a robust way to rotate their cubes.
 {% include figure.html 
            class="right"
            src="/images/content/arena-2016.png"
-           caption="An image of the 2016 arena layout" %}
+           caption="The 2016 arena layout" %}
 
 The standard of robots was high this year, with some very advanced robots and a 
 variety of approaches for flipping cubes. Whether it was vacuum pumps, a 
@@ -90,7 +90,7 @@ made out of beautifully-machined wood.
            class="right"
            url="https://www.flickr.com/photos/richardpbarlow/26730583941/in/album-72157667724883081/"
            src="/images/content/news/sr2016/tlc-rookie-award-thumbnail.jpg"
-           caption="An image of the team from The Ladies' College holding their robot and being presented their prize, the Rookie award" %}
+           caption="The team from The Ladies' College holding their robot and being presented their prize, the Rookie award" %}
 
 The *Rookie Award* is for the rookie team who performed best in the league. 
 Considering the team from [The Ladies' College][TLC] managed to achieve 2nd 
@@ -100,7 +100,7 @@ place overall, they very much deserved the award.
            class="right"
            url="https://www.flickr.com/photos/richardpbarlow/26192328134/in/album-72157667724883081/"
            src="/images/content/news/sr2016/mai-robot-team-image-award-thumbnail.jpg"
-           caption="An image of the team from Gymnasium Markt Indersdorf, winners of the robot and team image award" %}
+           caption="The team from Gymnasium Markt Indersdorf, winners of the Robot and Team Image award" %}
 
 The *Robot and Team Image* prize is for the team which present themselves and 
 their robot in the most outstanding manner. This year the prize went to the team 
@@ -121,7 +121,7 @@ For official details of what the awards are, please see the [rulebook][rulebook]
 {% include figure.html 
            url="https://www.flickr.com/photos/richardpbarlow/26476791920/in/album-72157667724883081/"
            src="/images/content/news/sr2016/teams-thumbnail.jpg"
-           caption="All the SR2016 Teams" %}
+           caption="All the teams from this year's competition" %}
 
 44 teams made it to the competition this year, 6 of whom came from schools or 
 colleges which had not competed before.
