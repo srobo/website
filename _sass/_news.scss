@@ -126,6 +126,21 @@ table {
   }
 }
 
+figure {
+  img {
+    border-radius: 3px;
+    background-color: $sr-white;
+    border: 1px solid darken($sr-grey, 10%);
+    padding: 3px;
+  }
+}
+
+figcaption {
+  font-size: 0.8em;
+  font-weight: bold;
+  text-align: center;
+}
+
 .small-image {
   width: 50%;
   height: auto;
