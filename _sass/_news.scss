@@ -68,7 +68,11 @@ article {
   }
 
   ul {
-    margin-left: 40px;
+    margin: 1.2em 0 1.2em 40px;
+
+    li {
+      margin: 0.8em 0;
+    }
   }
 }
 
