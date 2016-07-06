@@ -142,9 +142,13 @@ figcaption {
 }
 
 .small-image {
-  width: 50%;
   height: auto;
   margin: 1.2em 0;
+  width: 100%;
+
+  @include media-query("medium") {
+    width: 50%;
+  }
 }
 
 .left {
