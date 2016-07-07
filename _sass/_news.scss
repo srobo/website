@@ -3,6 +3,18 @@
 article {
   overflow: hidden;
 
+  h1 {
+    font-size: 2.3em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+  }
+
   p {
     color: $sr-dark-grey;
     line-height: 1.4em;
@@ -77,6 +89,12 @@ article {
   }
 }
 
+.article-header {
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid $sr-grey;
+}
+
 article.article-preview {
   font-size: 0.9em;
 
@@ -147,7 +165,7 @@ figcaption {
   width: 100%;
 
   @include media-query("medium") {
-    width: 50%;
+    width: 40%;
   }
 }
 

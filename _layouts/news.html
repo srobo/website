@@ -4,10 +4,11 @@ layout: page
 <main>
   <div class="fixed-width">
     <article class="card">
-      <h1>{{ page.title }}</h1>
-      <p class="article-info">Published {{ page.date | date: "%B %e, %Y" }}</p>
+      <div class="article-header">
+        <h1>{{ page.title }}</h1>
+        <p class="article-info">Published {{ page.date | date: "%e %B, %Y" }}</p>
+      </div>
       {{ content }}
     </article>
   </div>
 </main>
-

@@ -9,6 +9,11 @@ layout: news
 ---
 
 {% include figure.html
+           url="https://www.flickr.com/photos/richardpbarlow/17291755395/in/pool-sr2015/"
+           src="/images/content/news/sr2015/everyone.jpg"
+           caption="All the competitors and Blueshirts on the stands at Newbury Racecourse. Photograph courtesy of Rich Barlow." %}
+
+{% include figure.html
            class="right"
            src="/images/content/news/sr2015/bws-prizegiving.jpg"
            caption="The winning team, Bishop Wordsworth's School, with Philip Su, Director of Facebook London Engineering Office. Photograph courtesy of Tyler Ward." %}
@@ -107,11 +112,6 @@ media presence, or combination of the two.
 For full details of the awards, please see the [rulebook][].
 
 ## The teams
-
-{% include figure.html
-           url="https://www.flickr.com/photos/richardpbarlow/17291755395/in/pool-sr2015/"
-           src="/images/content/news/sr2015/everyone.jpg"
-           caption="All the competitors and Blueshirts on the stands at Newbury Racecourse. Photograph courtesy of Rich Barlow." %}
 
 44 teams made it to the competition this year, 20 of whom came from schools or
 colleges which had not competed before.
