@@ -53,6 +53,7 @@ exclude:
   - _env/
   - _docs/
   - vendor/
+  - circle.yml
 
 paginate: 3
 paginate_path: "/news/:num/"
