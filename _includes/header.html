@@ -1,8 +1,8 @@
 <header class="site-header">
   <div class="fixed-width">
     <a class="site-title" href="{{ site.baseurl }}/">
-      <img class="logo desktop-only" src="{{ site.baseurl }}/images/logo-text.svg" alt="Student Robotics"/>
-      <img class="logo mobile-only" src="{{ site.baseurl }}/images/logo.svg" alt="Student Robotics"/>
+      <img class="logo desktop-only" src="{{ '/images/logo-text.svg' | prepend: site.baseurl }}" alt="Student Robotics"/>
+      <img class="logo mobile-only" src="{{ '/images/logo.svg' | prepend: site.baseurl }}" alt="Student Robotics"/>
     </a>
     {% include navigation.html class="site-navigation" %}
   </div>
