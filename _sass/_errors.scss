@@ -1,0 +1,12 @@
+.error-box {
+  border: 1px solid $sr-grey;
+  padding: 2em;
+
+  p {
+    margin: 1.2em 0;
+  }
+
+  ul {
+    list-style-position: inside;
+  }
+}
