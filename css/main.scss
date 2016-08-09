@@ -5,12 +5,11 @@
 $baseurl: "{{ site.baseurl }}";
 
 @import
+        "brand/index",
+        "base",
         "avatars",
-        "buttons",
-        "fonts",
         "headers",
         "common",
-        "base",
         "layout",
         "navigation",
         "hero",

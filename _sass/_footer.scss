@@ -1,5 +1,3 @@
-@import "colors";
-@import "fonts";
 @import "headers";
 @import "common";
 
@@ -11,7 +9,7 @@ footer {
   background: $footer-background;
   color: $footer-color;
   font-size: 0.8em;
-  padding: 2em 0;
+  padding: 2em $spacing;
 
   @include headings() {
     font-family: $main-font-family;

@@ -1,9 +1,7 @@
-@import "colors";
-@import "fonts";
-
 .site-header {
   background: white;
   overflow: hidden;
+  padding: 0 $spacing;
 }
 
 .logo {

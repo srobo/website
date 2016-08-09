@@ -4,7 +4,6 @@ $breakpoints: (
         large: 1200px
 );
 
-
 @mixin media-query($breakpoint) {
   @if map-has-key($breakpoints, $breakpoint) {
     @media (min-width: #{map-get($breakpoints, $breakpoint)}) {
@@ -16,13 +15,13 @@ $breakpoints: (
 .desktop-only {
   display: none;
 
-  @include media-query("medium") {
+  @include media-query(medium) {
     display: inline;
   }
 }
 
 .mobile-only {
-  @include media-query("medium") {
+  @include media-query(medium) {
     display: none;
   }
 }

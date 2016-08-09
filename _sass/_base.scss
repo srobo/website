@@ -1,7 +1,10 @@
-@import "fonts";
-@import "colors";
-@import "responsive";
-@import "grid";
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
 html, body {
   background: $sr-dark-grey;
@@ -10,14 +13,6 @@ html, body {
   margin: 0;
   padding: 0;
   width: 100%;
-}
-
-*,
-*:after,
-*:before {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 a {
