@@ -1,4 +1,3 @@
-@import "headers";
 @import "common";
 
 $footer-background: $sr-dark-grey;
@@ -8,13 +7,17 @@ footer {
   @extend .row;
   background: $footer-background;
   color: $footer-color;
-  font-size: 0.8em;
+  font-size: $golf;
   padding: 2em $spacing;
 
   @include headings() {
     font-family: $main-font-family;
     color: $sr-white;
     margin-bottom: 1.5em;
+  }
+
+  h4 {
+    font-size: $golf;
   }
 
   a {

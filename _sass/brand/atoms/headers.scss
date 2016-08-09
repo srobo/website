@@ -1,0 +1,39 @@
+@mixin headings($from: 1, $to: 6) {
+  @for $i from $from through $to {
+    h#{$i} {
+      @content
+    }
+  }
+}
+
+@include headings() {
+  color: $sr-blue;
+  font-family: $heading-font-family;
+  font-weight: 300;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: $alpha;
+}
+
+h2 {
+  font-size: $beta;
+}
+
+h3 {
+  font-size: $charlie;
+}
+
+h4 {
+  font-size: $delta;
+}
+
+h5 {
+  font-size: $echo;
+}
+
+h6 {
+  font-size: $foxtrot;
+}
