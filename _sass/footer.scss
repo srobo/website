@@ -20,6 +20,10 @@ footer {
     font-size: $golf;
   }
 
+  p {
+    margin-bottom: 0;
+  }
+
   a {
     color: $footer-color;
     text-decoration: none;
@@ -31,9 +35,10 @@ footer {
 }
 
 .social-media-links {
+  font-size: $charlie;
+
   li {
     display: inline-block;
-    font-size: 2em;
     margin: 0 0.2em;
   }
 }
