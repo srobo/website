@@ -8,7 +8,11 @@
   }
 
   p {
-    font-size: $foxtrot;
+    font-size: $echo;
     color: #333333;
   }
+}
+
+.circle-image {
+  border-radius: 50%;
 }
