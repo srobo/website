@@ -13,3 +13,7 @@
 .sidebar, main {
   @extend .row;
 }
+
+.question {
+  font-weight: bold;
+}
