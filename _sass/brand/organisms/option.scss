@@ -1,0 +1,13 @@
+.option {
+  @include headings() {
+    @extend .text-center;
+    font-size: $charlie;
+  }
+
+  img {
+    @extend .text-center;
+    display: block;
+    margin: 0 auto $spacing;
+    width: 80%;
+  }
+}

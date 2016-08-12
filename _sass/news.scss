@@ -58,21 +58,14 @@ article {
     }
   }
 
-  img, video {
+  img {
     margin: 0;
   }
 
-  iframe.center {
-    display: block;
-    margin: 10px auto;
-  }
-
   iframe.video {
+    background: white;
     border: 1px solid silver;
     padding: 3px;
-    margin-bottom: 10px;
-    width: 100%;
-    height: 100%;
 
     @include media-query('medium') {
       min-height: 480px;

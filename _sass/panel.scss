@@ -33,6 +33,15 @@ $blue-bottom-colour: transparentize($sr-blue, 0.3);
   }
 }
 
+.panel-highlight {
+  background: $sr-blue;
+  color: $sr-white;
+
+  @include headings() {
+    color: $sr-white;
+  }
+}
+
 img.image {
   background-color: white;
   border: 1px solid $sr-grey;
