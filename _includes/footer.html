@@ -26,15 +26,15 @@
   </div>
   <div class="row fixed-width">
     <div class="d-6-12">
-      <ul class="social-media-links">
-        {% for account in site.social %}
-          <li><a href="{{ account[1] }}"><i class="fa fa-{{ account[0] }}" aria-hidden="true"></i></a></li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div class="text-right d-6-12">
       <p>&copy; Student Robotics 2011 - {{ site.time | date: '%Y' }}</p>
       <p>Registered charity in England and Wales, number 1163168</p>
+    </div>
+    <div class="text-right d-6-12">
+      <ul class="social-media-links">
+        {% for account in site.social %}
+        <li><a href="{{ account[1] }}"><i class="fa fa-{{ account[0] }}" aria-hidden="true"></i></a></li>
+        {% endfor %}
+      </ul>
     </div>
   </div>
 </footer>
