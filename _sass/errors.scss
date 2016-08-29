@@ -1,6 +1,14 @@
-.error-box {
+.error-container {
   border: 1px solid $sr-grey;
-  padding: 2em;
+}
+
+.error-flair {
+  background: $sr-grey;
+  padding: 2em 0 .5em 2em;
+}
+
+.error-box {
+  padding: .5em 2em 2em;
 
   p {
     margin: 1.2em 0;
