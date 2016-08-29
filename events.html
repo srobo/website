@@ -1,0 +1,26 @@
+---
+layout: page
+title: Events
+permalink: /events/
+---
+<div class="panel panel-header panel-boxes">
+  <div class="panel-container">
+    <div class="fixed-width">
+      <h1 class="header">Events</h1>
+    </div>
+  </div>
+</div>
+<main>
+  <div class="fixed-width">
+    <ul class="event-listing">
+        {% for event in site.events %}
+        <li class="row">
+          <div class="event-name d-12-12 l-3-12">{{ event.title }}</div>
+          <div class="d-12-12 l-2-12"><span class="tag tag-{{ event.type }}">{{ event.type }}</span></div>
+          <div class="d-12-12 l-3-12">{{ event.date | date: "%e %B %Y at %l%P" }}</div>
+          <div class="d-12-12 l-4-12">{{ event.location }}</div>
+        </li>
+        {% endfor %}
+    </table>
+  </div>
+</main>

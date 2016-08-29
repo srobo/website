@@ -27,3 +27,34 @@ p.event-name {
   margin: 0;
   text-overflow: ellipsis;
 }
+
+ul.event-listing {
+  font-size: $foxtrot;
+  width: 100%;
+
+  li {
+    border-top: 1px solid $sr-medium-grey;
+    display: block;
+    padding: 1.5em 1em;
+
+    &:last-of-type {
+      border-bottom: 1px solid $sr-medium-grey;
+    }
+  }
+
+  .event-name {
+    font-weight: bold;
+  }
+}
+
+.tag.tag-meetup {
+  background: $sr-purple;
+}
+
+.tag.tag-techday {
+  background: $sr-green;
+}
+
+.tag.tag-competition {
+  background: $sr-orange;
+}
