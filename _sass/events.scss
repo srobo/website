@@ -18,7 +18,12 @@ $event-spacer-color: lighten(black, 70%);
   margin-bottom: 0.4em;
 }
 
+p.event-name {
+  font-weight: bold;
+}
+
 .event-details {
   font-size: 0.8em;
+  margin: 0;
   text-overflow: ellipsis;
 }
