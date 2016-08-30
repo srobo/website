@@ -17,7 +17,7 @@ article {
   }
 
   p {
-    color: $sr-dark-grey;
+    color: $sr-black;
     font-size: $echo;
     line-height: $beta;
     margin: $charlie 0;
@@ -57,7 +57,7 @@ article {
     }
 
     p {
-      color: lighten($sr-dark-grey, 40%);
+      color: lighten($sr-black, 40%);
       display: inline;
     }
   }

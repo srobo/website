@@ -12,6 +12,7 @@ permalink: /events/
 </div>
 <main>
   <div class="fixed-width">
+    <p class="text-right text-subtext">All times are in UTC/GMT</p>
     <ul class="event-listing">
         {% assign sorted = (site.events | sort: 'date') | reverse %}
         {% for event in sorted %}
@@ -26,6 +27,6 @@ permalink: /events/
           <div class="d-12-12 l-4-12">{{ event.location }}</div>
         </li>
         {% endfor %}
-    </table>
+    </ul>
   </div>
 </main>
