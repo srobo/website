@@ -6,31 +6,32 @@ layout: home
     <section class="sidebar m-4-12">
       <div class="card">
         <h3>Upcoming Events</h3>
-          {% assign any_events = false %}
-          {% for event in site.events %}
-            {% if event.date > site.time %}
-              {% assign any_events = true %}
-            {% endif %}
-          {% endfor %}
-
-          {% if any_events %}
-            <ul class="event-list">
-              {% for event in site.events %}
-                {% if event.date > site.time %}
-                  <li class="event">
-                    <p class="event-name">{{ event.title }}</p>
-                    <p class="event-details">
-                      {{ event.date | date: "%e %B, %Y" }}
-                      &#8226;
-                      <span class="event-location">{{ event.location }}</span>
-                    </p>
-                  </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
-          {% else %}
-            <p>There are no upcoming events.</p>
+        {% assign any_events = false %}
+        {% for event in site.events %}
+          {% if event.date > site.time %}
+            {% assign any_events = true %}
           {% endif %}
+        {% endfor %}
+
+        {% if any_events %}
+          <ul class="event-list">
+            {% for event in site.events %}
+              {% if event.date > site.time %}
+                <li class="event">
+                  <p class="event-name">{{ event.title }}</p>
+                  <p class="event-details">
+                    {{ event.date | date: "%e %B, %Y" }}
+                    &#8226;
+                    <span class="event-location">{{ event.location }}</span>
+                  </p>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        {% else %}
+          <p>There are no upcoming events.</p>
+        {% endif %}
+        <a href="{{ '/events' | prepend: site.baseurl }}">Past events</a>
       </div>
       <div class="card">
         <h3>Competitor Zone</h3>
