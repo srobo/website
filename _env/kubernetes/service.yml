@@ -1,0 +1,27 @@
+---
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: website
+  name: srobo-website
+spec:
+  ports:
+  - name: http
+    nodePort: 32056
+    port: 80
+    protocol: TCP
+    targetPort: 80
+  - name: https
+    nodePort: 31167
+    port: 443
+    protocol: TCP
+    targetPort: 443
+  selector:
+    app: website
+  type: LoadBalancer
+  loadBalancerIP: 104.155.107.130
+status:
+  loadBalancer:
+    ingress:
+    - ip: 104.155.107.130
