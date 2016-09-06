@@ -1,4 +1,4 @@
-article {
+.article {
   overflow: hidden;
 
   h1 {
@@ -91,7 +91,7 @@ article {
   border-bottom: 1px solid $sr-grey;
 }
 
-article.article-preview {
+.article-preview {
   h1 {
     font-size: 1.5rem;
   }

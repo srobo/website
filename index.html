@@ -1,9 +1,9 @@
 ---
 layout: home
 ---
-<main>
+<div class="main">
   <div class="fixed-width">
-    <section class="sidebar m-4-12">
+    <div class="sidebar m-4-12">
       <div class="card">
         <h3>Upcoming Events</h3>
         {% assign any_events = false %}
@@ -77,17 +77,17 @@ layout: home
         {% endfor %}
         </ul>
       </div>
-    </section>
-    <section class="main m-8-12">
+    </div>
+    <div class="m-8-12">
       {% assign post = site.posts.first %}
-      <article class="article-preview card">
+      <div class="article article-preview card">
         <div class="article-header">
           <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
           <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
         </div>
         {{ post.content }}
-      </article>
+      </div>
       <a class="button button-expand" href="{{ '/news' | prepend: site.baseurl }}">View more news</a>
-    </section>
+    </div>
   </div>
-</main>
+</div>

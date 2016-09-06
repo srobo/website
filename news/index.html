@@ -9,16 +9,16 @@ title: News
     </div>
   </div>
 </div>
-<main>
+<div class="main">
   <div class="fixed-width">
     {% for post in paginator.posts %}
-    <article class="article-preview card">
+    <div class="article-preview card">
       <div class="article-header">
         <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
         <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
       </div>
       {{ post.content }}
-    </article>
+    </div>
     {% endfor %}
 
     {% if paginator.total_pages > 1 %}
@@ -47,4 +47,4 @@ title: News
     </div>
     {% endif %}
   </div>
-</main>
+</div>

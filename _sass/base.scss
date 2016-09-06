@@ -31,7 +31,7 @@ a {
   }
 }
 
-main {
+.main {
   @extend .row;
   background: $sr-grey;
   padding: $spacing $spacing (3 * $spacing);
