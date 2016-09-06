@@ -5,9 +5,17 @@
 }
 
 .logo {
-  width: auto;
-  height: 60px;
   vertical-align: middle;
+
+  &.desktop-only {
+    width: 258px;
+    height: 60px;
+  }
+
+  &.mobile-only {
+    width: 60px;
+    height: 60px;
+  }
 }
 
 .site-title {
