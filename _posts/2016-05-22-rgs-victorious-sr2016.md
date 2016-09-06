@@ -128,7 +128,7 @@ For official details of what the awards are, please see the [rulebook][rulebook]
 colleges which had not competed before.
 
 Student Robotics 2017 promises to be bigger than ever! If you'd like to compete,
-see [the How to Enter page](/schools/how_to_enter) for more information. Start
+see [Compete page][compete] for more information. Start
 talking to your teachers and recruiting team members as soon as possible!
 
 _The Student Robotics Team_
@@ -137,7 +137,7 @@ _The Student Robotics Team_
 
 Student Robotics is an annual robotics competition for 16-18 year-olds in the UK
 and Europe. It was founded in 2006 by university students and is free to enter
-thanks to [our sponsors][sponsors] and [many volunteers][volunteers]. Since it
+thanks to our sponsors and [many volunteers][volunteers]. Since it
 was first run in 2008, the final competition has grown from one room at the
 University of Southampton[^1] to the UK's biggest autonomous robotics
 competition; a two-day event for more than 50 teams and over 400 students.
@@ -152,11 +152,12 @@ supported by volunteer mentors, and software to assist them in programming
 their robots is provided.
 
 High resolution photographs of the event will be uploaded to [the Flickr group](https://www.flickr.com/groups/sr2016).
-If you would like to find out more, please [get in touch](/about/contactus).
+If you would like to find out more, please [get in touch][contactus].
 
 
-[sponsors]: /about/sponsors
-[volunteers]: /about/how_to_help
+[compete]: {{ '/compete' | prepend: site.baseurl }}
+[volunteers]: {{ '/volunteer' | prepend: site.baseurl }}
+[contactus]: {{ '/contact' | prepend: site.baseurl }}
 [this-game]: /schools/game#2016
 [rulebook]: /resources/2016/rulebook.pdf
 [teams-map]: https://www.google.com/maps/d/u/0/viewer?mid=1QsF7CVZB7NSDKZOnvsbrAF5PuJg
