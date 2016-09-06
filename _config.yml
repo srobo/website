@@ -33,10 +33,10 @@ emails:
   info: info@studentrobotics.org
 
 social:
-  facebook-official: //facebook.com/StudentRobotics
-  twitter: //twitter.com/studentrobotics
-  youtube: //youtube.com/StudentRobotics
-  github: //github.com/srobo
+  facebook-official: https://facebook.com/StudentRobotics
+  twitter: https://twitter.com/studentrobotics
+  youtube: https://youtube.com/user/StudentRobotics
+  github: https://github.com/srobo
 
 sponsors:
   - name: Motorola Solutions Foundation

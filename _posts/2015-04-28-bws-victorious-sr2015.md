@@ -42,7 +42,7 @@ continue to choose the path that you're on.
 Student Robotics 2015 was the first to feature only new-generation kit, with USB
 Servo and Power Boards, and a Brain Board based on the ODROID U3. The
 competition has now been running for eight years, and remains free for teams to
-enter thanks to [our sponsors](/about/sponsors) and [many volunteers](/about/how_to_help).
+enter thanks to our sponsors and [many volunteers][volunteer].
 
 ## The challenge: *Capture the Flag*
 
@@ -51,7 +51,7 @@ enter thanks to [our sponsors](/about/sponsors) and [many volunteers](/about/how
            src="/images/content/arena-2015.png"
            caption="The 2015 arena layout" %}
 
-For [this year's game](/schools/game), the competitors had to build and program
+For this year's game, the competitors had to build and program
 robots to capture and keep as many flags (large wooden cubes on castors) as
 possible within the three-minute games. Full details can be found in the
 [rulebook][].
@@ -117,7 +117,7 @@ For full details of the awards, please see the [rulebook][].
 colleges which had not competed before.
 
 Student Robotics 2016 promises to be the biggest and best yet. If you'd like to
-compete, see [the How to Enter page](/schools/how_to_enter) for more
+compete, see [the Compete page][compete] for more
 information. Start talking to your teachers and recruiting team members as soon
 as possible!
 
@@ -125,7 +125,7 @@ as possible!
 
 Student Robotics is an annual robotics competition for 16-18 year-olds in the UK
 and Europe. It was founded in 2006 by university students and is free to enter
-thanks to [our sponsors](/about/sponsors) and [many volunteers](/about/how_to_help).
+thanks to our sponsors and [many volunteers][volunteer].
 Since it was first run in 2008, the final competition has grown from one room at
 the University of Southampton[^1] to a two-day event for 54 teams and over 400
 students.
@@ -140,9 +140,13 @@ supported by volunteer mentors, and software to assist them in programming their
 robots is provided.
 
 High resolution photographs of the event will be uploaded to [the Flickr group](https://www.flickr.com/groups/sr2015).
-For more information, please [get in touch](/about/contactus).
+For more information, please [get in touch][contact].
 
 _The Student Robotics Team_
+
+[contactus]: {{ '/contact' | prepend: site.baseurl }}
+[volunteer]: {{ '/volunteer' | prepend: site.baseurl }}
+[compete]: {{ '/compete' | prepend: site.baseurl }}
 
 [rulebook]: /resources/2015/rulebook.pdf
 [teams-map]: https://mapsengine.google.com/map/viewer?mid=zvzw_6CVihJs.kM7Ln0NcH6zk
