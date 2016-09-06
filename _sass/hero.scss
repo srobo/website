@@ -11,9 +11,7 @@ $hero-bottom-colour: transparentize($sr-blue, 0.2);
 }
 
 .hero-container {
-  align-items: center;
-  display: flex;
-  justify-content: center;
+  padding: 9em 0;
   text-align: center;
   min-height: 28em;
 }
