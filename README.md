@@ -11,8 +11,7 @@ The Student Robotics public website
 2. Install Bundler and Rake
 
 ``` shell
-$ gem install bundler
-$ gem install rake
+$ gem install bundler rake
 ```
 
 3. Start the app in development mode
