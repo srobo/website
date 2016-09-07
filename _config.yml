@@ -51,6 +51,7 @@ exclude:
   - Rakefile
   - Gemfile
   - Gemfile.lock
+  - gems/
   - Dockerfile
   - _env/
   - _docs/
