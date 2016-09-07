@@ -13,8 +13,16 @@ The Student Robotics public website
 ``` shell
 $ gem install bundler rake
 ```
+3. Install the website's dependencies
 
-3. Start the app in development mode
+``` shell
+$ bundle install
+```
+
+Note that if you don't want to install the gems to a gobal location you'll
+need to add `--path gems` to the above command.
+
+4. Start the app in development mode
 
 ```shell
 $ rake dev
