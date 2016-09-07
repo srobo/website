@@ -23,7 +23,7 @@ $ rake dev
 
 ## Making changes
 
-When you've made a change, either push it to a forked repository, or to a 
+When you've made a change, either push it to a forked repository, or to a
 feature branch, and [raise a pull request][raise-a-pr].
 
 [build-badge]: https://circleci.com/gh/srobo/website.png?style=shield
