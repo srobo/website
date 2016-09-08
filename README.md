@@ -10,20 +10,27 @@ The Student Robotics public website
 
 2. Install Bundler and Rake
 
-``` shell
-$ gem install bundler
-$ gem install rake
-```
+    ``` shell
+    $ gem install bundler rake
+    ```
+3. Install the website's dependencies
 
-3. Start the app in development mode
+    ``` shell
+    $ bundle install
+    ```
 
-```shell
-$ rake dev
-```
+    Note that if you don't want to install the gems to a gobal location you'll
+    need to add `--path gems` to the above command.
+
+4. Start the app in development mode
+
+    ```shell
+    $ rake dev
+    ```
 
 ## Making changes
 
-When you've made a change, either push it to a forked repository, or to a 
+When you've made a change, either push it to a forked repository, or to a
 feature branch, and [raise a pull request][raise-a-pr].
 
 [build-badge]: https://circleci.com/gh/srobo/website.png?style=shield
