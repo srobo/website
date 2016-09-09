@@ -1,0 +1,21 @@
+.form {
+  input {
+    &[type='email'] {
+      border: 2px solid $sr-blue;
+      border-radius: 3px;
+      font-size: $charlie;
+      padding: 12px;
+      width: 100%;
+    }
+
+    &[type='submit'] {
+      margin-right: 0;
+    }
+
+    margin-bottom: $spacing;
+  }
+
+  label {
+    display: none;
+  }
+}
