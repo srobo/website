@@ -33,7 +33,7 @@ The Student Robotics public website
 When you've made a change, either push it to a forked repository, or to a
 feature branch, and [raise a pull request][raise-a-pr].
 
-[build-badge]: https://circleci.com/gh/srobo/website.png?style=shield
-[build-page]: https://circleci.com/gh/srobo/website
+[build-badge]: https://circleci.com/gh/srobo/website/tree/master.png?style=shield
+[build-page]: https://circleci.com/gh/srobo/website/tree/master
 [install-ruby]: https://www.ruby-lang.org/en/documentation/installation/
 [raise-a-pr]: https://github.com/srobo/website/pull/new/gh-pages
