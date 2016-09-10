@@ -12,6 +12,10 @@
       margin-right: 0;
     }
 
+    &:focus {
+      outline: 2px solid $focus-yellow;
+    }
+
     margin-bottom: $spacing;
   }
 
