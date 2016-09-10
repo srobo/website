@@ -11,9 +11,13 @@ $hero-bottom-colour: transparentize($sr-blue, 0.2);
 }
 
 .hero-container {
-  padding: 9em 0;
+  padding: 4em 0;
   text-align: center;
   min-height: 28em;
+}
+
+.hero-homepage {
+  padding: 9em 0;
 }
 
 .hero-text {
