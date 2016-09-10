@@ -5,10 +5,17 @@
     </ul>
   </div>
   <ul id="navigation" class="full-navigation">
-    {% for page in site.navigation %}
     <li>
-      <a class="page-link" href="{{ page | prepend: '/' | append: '/' | prepend: site.baseurl }}">{{ page | capitalize }}</a>
+      <a class="page-link" href="/ide">IDE</a>
     </li>
-    {% endfor %}
+    <li>
+      <a class="page-link" href="/docs">Documentation</a>
+    </li>
+    <li>
+      <a class="page-link" href="{{ '/compete' | prepend: site.baseurl }}">Compete</a>
+    </li>
+    <li>
+      <a class="page-link" href="{{ '/volunteer' | prepend: site.baseurl }}">Volunteer</a>
+    </li>
   </ul>
 </nav>
