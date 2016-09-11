@@ -37,6 +37,11 @@ ul.event-listing {
     display: block;
     padding: 1.5em 1em;
 
+    &.event-header {
+      border-top: 0;
+      font-weight: bold;
+    }
+
     &:last-of-type {
       border-bottom: 1px solid $sr-medium-grey;
     }
