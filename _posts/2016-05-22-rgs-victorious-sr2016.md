@@ -34,7 +34,7 @@ for the [knockouts][knockout-stream] are available on YouTube.
 
 ## The challenge: *Sunny Side Up*
 
-For [this year's game][this-game], the competitors had to build and program
+For this year's game, the competitors had to build and program
 robots to turn tokens so that their side faces upwards. Additional points could
 be scored by moving suitable turned tokens into the robots' corner zone. Full
 details can be found in [the rulebook][rulebook].
@@ -158,8 +158,7 @@ If you would like to find out more, please [get in touch][contactus].
 [compete]: {{ '/compete' | prepend: site.baseurl }}
 [volunteers]: {{ '/volunteer' | prepend: site.baseurl }}
 [contactus]: {{ '/contact' | prepend: site.baseurl }}
-[this-game]: /schools/game#2016
-[rulebook]: /resources/2016/rulebook.pdf
+[rulebook]: {{ '/resources/2016/rulebook.pdf' | prepend: site.baseurl }}
 [teams-map]: https://www.google.com/maps/d/u/0/viewer?mid=1QsF7CVZB7NSDKZOnvsbrAF5PuJg
 [GRD2]: http://www.gordanoschool.org.uk/
 [HRS]: http://www.hillsroad.ac.uk/
