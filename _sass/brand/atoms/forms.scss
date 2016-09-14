@@ -1,6 +1,4 @@
 .form {
-  text-align: left;
-
   input {
     &[type='email'], &[type='text'] {
       border: 2px solid $sr-blue;
@@ -19,6 +17,7 @@
 
     margin-bottom: $spacing;
     width: 100%;
+    line-height: inherit;
 
     @include media-query(medium) {
       width: auto;
@@ -27,6 +26,10 @@
 
   label {
     display: none;
+  }
+
+  &.form-left {
+    text-align: left;
   }
 
   .explanation {
