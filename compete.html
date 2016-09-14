@@ -8,7 +8,7 @@ permalink: /compete/
     <div class="fixed-width">
       <div class="hero-text">
         <h1 class="header">Form a team, build a robot, compete</h1>
-        <a class="button button-hero" href="{{ site.links.compete }}" target="_blank">Start a team</a>
+        <a class="button button-hero" href="#signup">Start a team</a>
       </div>
     </div>
   </div>
@@ -127,9 +127,16 @@ permalink: /compete/
 <div class="panel">
   <div class="panel-container">
     <div class="fixed-width text-center">
-      <h2>Want to compete?</h2>
-      <a class="button button-primary" href="{{ site.links.compete }}" target="_blank">Start a team</a>
-      <a class="button" href="mailto:{{ site.emails.teams }}" target="_blank">Speak to someone</a>
+      <a name="signup"></a><h2>Want to compete?</h2>
+      <div class="m-8-12 m-offset-2-12">
+        <p>
+          Entries for this year's competition have now closed, but if you would
+          like to register your interest in applying for a place in a future
+          competition, please enter your details below and we'll contact you once
+          applications for next year's competition have opened.
+        </p>
+        {% include team-signup.html %}
+      </div>
     </div>
   </div>
 </div>

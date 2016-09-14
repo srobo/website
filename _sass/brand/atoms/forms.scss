@@ -1,11 +1,12 @@
 .form {
+  text-align: left;
+
   input {
-    &[type='email'] {
+    &[type='email'], &[type='text'] {
       border: 2px solid $sr-blue;
       border-radius: 3px;
       font-size: $charlie;
       padding: 12px;
-      width: 100%;
     }
 
     &[type='submit'] {
@@ -17,9 +18,33 @@
     }
 
     margin-bottom: $spacing;
+    width: 100%;
+
+    @include media-query(medium) {
+      width: auto;
+    };
   }
 
   label {
     display: none;
+  }
+
+  .explanation {
+    font-size: $foxtrot;
+    margin: ($spacing / 2) 0;
+  }
+}
+
+input.full-width {
+  width: 100%;
+}
+
+.show-labels {
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: ($spacing / 2);
+    text-align: left;
+
   }
 }
