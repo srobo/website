@@ -80,14 +80,17 @@ layout: home
     </div>
     <div class="m-8-12">
       {% assign post = site.posts.first %}
-      <div class="article article-preview card">
-        <div class="article-header">
-          <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-          <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
+      <div class="card">
+        <h3>Latest News</h3>
+        <div class="article article-preview">
+          <div class="article-header">
+            <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+            <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
+          </div>
+          {{ post.content }}
         </div>
-        {{ post.content }}
+        <a class="button button-expand" href="{{ '/news' | prepend: site.baseurl }}">View more news</a>
       </div>
-      <a class="button button-expand" href="{{ '/news' | prepend: site.baseurl }}">View more news</a>
     </div>
   </div>
 </div>
