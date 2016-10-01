@@ -15,7 +15,7 @@ The venues for Student Robotics 2017 kickstart are:
 
 Teams are welcome to attend any venue they wish. However; they should inform their local team co-ordinators which venue they will attend, as we will need to arrange for the robotics kits to be at the venue they choose, and some venues have vehicle access restrictions which will need to be arranged beforehand.
 
-Below is an incomplete table of venue-dependent information, which will be completed over the weekend.
+Below is an incomplete table of venue-dependent information, which will be completed very soon.
 
 | Venue                     | How to get there                                     | Requires a laptop? | Nearby Food Locations | Finish Time |
 |---------------------------|------------------------------------------------------|--------------------|-----------------------|-------------|
