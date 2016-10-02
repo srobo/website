@@ -1,11 +1,9 @@
 ---
 layout: news
-title: 2017 Kickstart
-permalink: /2017/kickstart
-date: 2016-10-01
+title: SR2017 Kickstart
+permalink: /events/sr2017/kickstart
+date: 2016-10-03
 ---
-
-Kickstart is the event which kicks off a competition year, where the game will be announced, and robotics kits will be handed out.
 
 The venues for Student Robotics 2017 kickstart are:
 
@@ -36,7 +34,7 @@ Here is a schedule for the day:
 
 [soton-food-map]: https://goo.gl/Np9L1e
 
-[oxford-directions]: {{ '/resources/2017/Oxford_kickstart_directions.pdf' | prepend: site.baseurl }}
+[oxford-directions]: {{ site.baseurl }}/resources/2017/Oxford_kickstart_directions.pdf
 
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#highfield
 [bris-campus-directions]: http://www.bris.ac.uk/maps/directions/
