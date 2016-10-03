@@ -18,8 +18,8 @@ Below is an incomplete table of venue-dependent information, which will be compl
 | Venue                     | How to get there                                     | Requires a laptop? | Nearby Food Locations | Finish Time |
 |---------------------------|------------------------------------------------------|--------------------|-----------------------|-------------|
 | University of Southampton | [Getting to campus][soton-campus-directions]. on-campus directions **coming soon** | No                 | [Map][soton-food-map] | 17:00 |
-| University of Bristol     | [Getting to campus][bris-campus-directions]. on-campus directions **coming soon** | Yes                | Coming soon  | Coming soon |
-| The Kings Centre, Oxford  | [Download directions][oxford-directions]             | Yes                | Coming soon | Coming soon |
+| University of Bristol     | [Getting to campus][bris-campus-directions]. on-campus directions **coming soon** | Yes                | Coming soon  | 16:00 |
+| The Kings Centre, Oxford  | [Download directions][oxford-directions]             | Yes                | Students should bring their own food | 16:00 |
 
 If teams cannot attend any venues, they should arrange for kit to be couriered to them. For some venues, teams will need to bring laptops or similar computing devices. internet access will be available. Teams will also be expected to make their own provisions for lunch.
 
