@@ -8,5 +8,5 @@ task :deploy do
 end
 
 task :dev do
-  sh('bundle exec jekyll serve --drafts')
+  sh('bundle exec jekyll serve --drafts --config _config.yml,_dev.yml')
 end
