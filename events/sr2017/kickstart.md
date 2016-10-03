@@ -27,14 +27,14 @@ Here is a schedule for the day:
 
 |  Time  | Info |
 |--------|------|
-| 10:00  | Introductory presentation, where the game of 2017 will be announced. |
+| 10:00  | Introductory presentation, where the game of SR2017 will be announced. |
 | 11:00  |Team kits will be handed out, and teams will take part in activities to get them acquainted with their kits. |
 | 12:30  | There will be a lunch break. Teams are expected to bring their own lunches or get them from food vendors near the venues. |
 |16:00 / 17:00| The activities will finish |
 
 [soton-food-map]: https://goo.gl/Np9L1e
 
-[oxford-directions]: {{ site.baseurl }}/resources/2017/Oxford_kickstart_directions.pdf
+[oxford-directions]: https://www.kingscentre.co.uk/perch/resources/directions-to-tkc-2015.pdf
 
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#highfield
 [bris-campus-directions]: http://www.bris.ac.uk/maps/directions/

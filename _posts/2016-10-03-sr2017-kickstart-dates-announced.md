@@ -6,7 +6,7 @@ title: 2017 Kickstart locations announced
 The locations for Student Robotics 2017 Kickstart have been announced.
 
 Kickstart is the event which kicks off a competition year, where the game will
-be announced, and robotics kits will be handed out to the teams. This year the
+be announced and robotics kits will be handed out to the teams. This year the
 kickstart event will be on the 15th of October 2016.
 
 The venues for Student Robotics 2017 kickstart are:
