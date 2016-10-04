@@ -17,11 +17,11 @@ Below is an incomplete table of venue-dependent information, which will be compl
 
 | Venue                     | How to get there                                     | Requires a laptop? | Nearby Food Locations | Finish Time |
 |---------------------------|------------------------------------------------------|--------------------|-----------------------|-------------|
-| University of Southampton | [Getting to campus][soton-campus-directions]. and [on-campus directions][soton-directions] | No                 | [Map][soton-food-map] | 17:00 |
-| University of Bristol     | [Getting to campus][bris-campus-directions]. see [bristol directions](#bristol-directions) for on-campus directions| Yes                |  [Map][bristol-food-map] | 16:00 |
+| University of Southampton | [Getting to campus][soton-campus-directions], and [on-campus directions][soton-directions] | No                 | [Map][soton-food-map] | 17:00 |
+| University of Bristol     | [Getting to campus][bris-campus-directions]. See [bristol directions](#bristol-directions) below for on-campus directions| Yes                |  [Map][bristol-food-map] | 16:00 |
 | The Kings Centre, Oxford  | [Download directions][oxford-directions]             | Yes                | [Map][oxford-food-map] | 16:00 |
 
-If teams cannot attend any venues, they should arrange for kit to be couriered to them. For some venues, teams will need to bring laptops or similar computing devices. internet access will be available. Teams will also be expected to make their own provisions for lunch.
+If teams cannot attend any of the venues, they should arrange for kit to be couriered to them. For some venues, teams will need to bring laptops or similar computing devices. internet access will be available. Teams will also be expected to make their own provisions for lunch.
 
 Here is a schedule for the day:
 
@@ -34,7 +34,7 @@ Here is a schedule for the day:
 
 
 ## Bristol Directions
-Follow directions to Queens Building. Once in the main entrance, there will be signs to direct the teams to the room. The University cannot provide any parking, but there will be nearby streets available for parking.
+Follow directions to the [Queen's Building][queens-building-info]. Once in the main entrance, there will be signs to direct the teams to the room. The University cannot provide any parking, but there will be nearby streets available for parking.
 
 [soton-food-map]: https://goo.gl/Np9L1e
 [oxford-food-map]: https://drive.google.com/open?id=1UIaQfg-HJIz_w9Xo6hWD8Ial_Lg&usp=sharing
@@ -43,6 +43,7 @@ Follow directions to Queens Building. Once in the main entrance, there will be s
 [oxford-directions]: https://www.kingscentre.co.uk/perch/resources/directions-to-tkc-2015.pdf
 [soton-directions]: {{ site.baseurl }}/resources/sr2017/southampton-kickstart-directions.pdf
 
-
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#highfield
 [bris-campus-directions]: http://www.bris.ac.uk/maps/directions/
+
+[queens-building-info]: http://www.bristol.ac.uk/it-services/locations/studyspaces/spaces/buildings/queens
