@@ -17,9 +17,9 @@ Below is an incomplete table of venue-dependent information, which will be compl
 
 | Venue                     | How to get there                                     | Requires a laptop? | Nearby Food Locations | Finish Time |
 |---------------------------|------------------------------------------------------|--------------------|-----------------------|-------------|
-| University of Southampton | [Getting to campus][soton-campus-directions]. on-campus directions **coming soon** | No                 | [Map][soton-food-map] | 17:00 |
-| University of Bristol     | [Getting to campus][bris-campus-directions]. on-campus directions **coming soon** | Yes                | Coming soon  | 16:00 |
-| The Kings Centre, Oxford  | [Download directions][oxford-directions]             | Yes                | Students should bring their own food | 16:00 |
+| University of Southampton | [Getting to campus][soton-campus-directions]. and [on-campus directions][soton-directions] | No                 | [Map][soton-food-map] | 17:00 |
+| University of Bristol     | [Getting to campus][bris-campus-directions]. see [bristol directions](#bristol-directions) for on-campus directions| Yes                |  [Map][bristol-food-map] | 16:00 |
+| The Kings Centre, Oxford  | [Download directions][oxford-directions]             | Yes                | [Map][oxford-food-map] | 16:00 |
 
 If teams cannot attend any venues, they should arrange for kit to be couriered to them. For some venues, teams will need to bring laptops or similar computing devices. internet access will be available. Teams will also be expected to make their own provisions for lunch.
 
@@ -32,9 +32,17 @@ Here is a schedule for the day:
 | 12:30  | There will be a lunch break. Teams are expected to bring their own lunches or get them from food vendors near the venues. |
 |16:00 / 17:00| The activities will finish |
 
+
+## Bristol Directions
+Follow directions to Queens Building. Once in the main entrance, there will be signs to direct the teams to the room. The University cannot provide any parking, but there will be nearby streets available for parking.
+
 [soton-food-map]: https://goo.gl/Np9L1e
+[oxford-food-map]: https://drive.google.com/open?id=1UIaQfg-HJIz_w9Xo6hWD8Ial_Lg&usp=sharing
+[bristol-food-map]: https://drive.google.com/open?id=19grJjGqBAICK0pYD_jhhAQYjgrA&usp=sharing
 
 [oxford-directions]: https://www.kingscentre.co.uk/perch/resources/directions-to-tkc-2015.pdf
+[soton-directions]: {{ site.baseurl }}/resources/sr2017/southampton-kickstart-directions.pdf
+
 
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#highfield
 [bris-campus-directions]: http://www.bris.ac.uk/maps/directions/
