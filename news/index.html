@@ -2,14 +2,12 @@
 layout: page
 title: News
 ---
-<div class="panel panel-header panel-grandstand">
-  <div class="panel-container">
-    <div class="fixed-width">
-      <h1 class="header">News</h1>
+<div class="main">
+  <div class="fixed-width">
+    <div class="card header-card">
+      <h1>News</h1>
     </div>
   </div>
-</div>
-<div class="main">
   <div class="fixed-width">
     {% for post in paginator.posts %}
     <div class="article article-preview card">
