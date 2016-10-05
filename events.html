@@ -3,35 +3,33 @@ layout: page
 title: Events
 permalink: /events/
 ---
-<div class="panel panel-header panel-boxes">
-  <div class="panel-container">
-    <div class="fixed-width">
-      <h1 class="header">Events</h1>
-    </div>
-  </div>
-</div>
 <div class="main">
   <div class="fixed-width">
-    <ul class="event-listing">
-        <li class="row event-header">
-          <div class="event-name d-12-12 l-3-12">Name</div>
-          <div class="d-12-12 l-2-12">Type</div>
-          <div class="d-12-12 l-3-12">Date and time</div>
-          <div class="d-12-12 l-4-12">Location</div>
-        </li>
-        {% assign sorted = (site.events | sort: 'date') | reverse %}
-        {% for event in sorted %}
-        {% if event.date > site.time %}
-        <li class="row">
-        {% else %}
-        <li class="row past-event">
-        {% endif %}
-          <div class="event-name d-12-12 l-3-12">{{ event.title }}</div>
-          <div class="d-12-12 l-2-12"><span class="tag tag-{{ event.type }}">{{ event.type }}</span></div>
-          <div class="d-12-12 l-3-12">{{ event.date | date: "%e %B %Y at %l%P" }}</div>
-          <div class="d-12-12 l-4-12">{{ event.location }}</div>
-        </li>
-        {% endfor %}
-    </ul>
+    <div class="card header-card">
+      <h1>Events</h1>
+    </div>
+    <div class="card">
+      <ul class="event-listing">
+          <li class="row event-header">
+            <div class="event-name d-12-12 l-3-12">Name</div>
+            <div class="d-12-12 l-2-12">Type</div>
+            <div class="d-12-12 l-3-12">Date and time</div>
+            <div class="d-12-12 l-4-12">Location</div>
+          </li>
+          {% assign sorted = (site.events | sort: 'date') | reverse %}
+          {% for event in sorted %}
+          {% if event.date > site.time %}
+          <li class="row">
+          {% else %}
+          <li class="row past-event">
+          {% endif %}
+            <div class="event-name d-12-12 l-3-12">{{ event.title }}</div>
+            <div class="d-12-12 l-2-12"><span class="tag tag-{{ event.type }}">{{ event.type }}</span></div>
+            <div class="d-12-12 l-3-12">{{ event.date | date: "%e %B %Y at %l%P" }}</div>
+            <div class="d-12-12 l-4-12">{{ event.location }}</div>
+          </li>
+          {% endfor %}
+      </ul>
+      </div>
   </div>
 </div>

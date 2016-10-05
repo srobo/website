@@ -33,17 +33,18 @@ ul.event-listing {
   width: 100%;
 
   li {
-    border-top: 1px solid $sr-medium-grey;
+    border-bottom: 1px solid $sr-medium-grey;
     display: block;
     padding: 1.5em 1em;
 
     &.event-header {
+      border-bottom: 2px solid $sr-blue;
       border-top: 0;
       font-weight: bold;
     }
 
     &:last-of-type {
-      border-bottom: 1px solid $sr-medium-grey;
+      border-bottom: 0;
     }
   }
 
