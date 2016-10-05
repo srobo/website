@@ -19,7 +19,11 @@
 }
 
 .header-card {
+  background: $sr-blue;
+  padding: $spacing 0;
+
   h1 {
+    color: $sr-white;
     margin-bottom: 0;
   }
 }
