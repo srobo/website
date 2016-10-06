@@ -20,7 +20,11 @@
 
 .header-card {
   background: $sr-blue;
-  padding: $spacing 0;
+  padding: $spacing;
+
+  @include media-query('m') {
+    padding: $spacing 0;
+  }
 
   h1 {
     color: $sr-white;
