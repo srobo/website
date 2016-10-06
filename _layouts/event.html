@@ -1,0 +1,25 @@
+---
+layout: page
+---
+<div class="header-card">
+  <div class="fixed-width">
+    <h1>{{ page.title }}</h1>
+  </div>
+</div>
+<div class="main">
+  <div class="fixed-width">
+    <div class="l-4-12">
+      <div class="card thin-card">
+        <ul class="detail-list">
+          <li><i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> {{ page.date | date: "%e %B %Y at %l%P" }}</li>
+          <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ page.location }}</li>
+        </ul>
+      </div>
+    </div>
+    <div class="l-8-12">
+      <div class="card article-preview">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</div>

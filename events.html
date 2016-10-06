@@ -25,7 +25,9 @@ permalink: /events/
           {% else %}
           <li class="row past-event">
           {% endif %}
-            <div class="event-name d-12-12 l-3-12">{{ event.title }}</div>
+            <div class="event-name d-12-12 l-3-12">
+              <a href="{{ event.url | prepend: site.baseurl }}">{{ event.title }}</a>
+            </div>
             <div class="d-12-12 l-2-12"><span class="tag tag-{{ event.type }}">{{ event.type }}</span></div>
             <div class="d-12-12 l-3-12">{{ event.date | date: "%e %B %Y at %l%P" }}</div>
             <div class="d-12-12 l-4-12">{{ event.location }}</div>
