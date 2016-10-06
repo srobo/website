@@ -2,7 +2,7 @@
 layout: news
 title: SR2017 Kickstart Bristol Directions
 permalink: /events/sr2017/kickstart-bristol-directions
-date: 2016-10-03
+date: 2016-10-06
 ---
 
 ## Bristol Directions

@@ -2,7 +2,7 @@
 layout: news
 title: SR2017 Kickstart
 permalink: /events/sr2017/kickstart
-date: 2016-10-03
+date: 2016-10-06
 ---
 
 The venues for Student Robotics 2017 kickstart are:
