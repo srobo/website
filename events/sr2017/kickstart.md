@@ -7,9 +7,9 @@ date: 2016-10-06
 
 The venues for Student Robotics 2017 kickstart are:
 
-- University of Southampton
-- University of Bristol
-- The Kings Centre, Oxford
+- [Southampton University][soton-kickstart]
+- [Bristol University][bristol-kickstart]
+- [The Kings Centre, Oxford][oxford-kickstart]
 
 Teams are welcome to attend any venue they wish. However; they should inform 
 their local team co-ordinators which venue they will attend, as we will need to 
@@ -38,7 +38,9 @@ Here is a schedule for the day:
 | 12:30  | There will be a lunch break. Teams are expected to bring their own lunches or get them from food vendors near the venues. |
 |16:00 / 17:00| End of Kickstart. |
 
-
+[soton-kickstart]: {{ site.baseurl }}/events/sr2017/2016-10-15-soton-kickstart/
+[bristol-kickstart]: {{ site.baseurl }}/events/sr2017/2016-10-15-bristol-kickstart/
+[oxford-kickstart]: {{ site.baseurl }}/events/sr2017/2016-10-15-oxford-kickstart/
 
 [soton-food-map]: https://goo.gl/Np9L1e
 [oxford-food-map]: https://drive.google.com/open?id=1UIaQfg-HJIz_w9Xo6hWD8Ial_Lg&usp=sharing
