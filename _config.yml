@@ -8,9 +8,14 @@ description: >
   16-18 to assemble a team and build fully autonomous robots.
 
 markdown: kramdown
+
 collections:
   events:
     output: true
+
+# In order to show events that haven't happened yet, we need to turn on future
+# mode
+future: true
 
 gems:
   - jekyll-paginate
@@ -20,11 +25,6 @@ links:
   volunteer: //docs.google.com/forms/d/1MIGf3P30dw0QAtP8OkxK2v7VRDEAN_54JoZHCVMbqDY/viewform
 
 timezone: Etc/GMT
-
-navigation:
-  - about
-  - compete
-  - volunteer
 
 emails:
   teams: teams@studentrobotics.org
