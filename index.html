@@ -5,7 +5,7 @@ layout: home
   <div class="fixed-width">
     <div class="sidebar m-4-12">
       <div class="card">
-        <h3>Upcoming Events</h3>
+        <h3 class="card-heading">Upcoming Events</h3>
         {% assign any_events = false %}
         {% for event in site.events %}
           {% if event.date > site.time %}
@@ -34,7 +34,7 @@ layout: home
         <a href="{{ '/events/' | prepend: site.baseurl }}">Past events</a>
       </div>
       <div class="card">
-        <h3>For Teams</h3>
+        <h3 class="card-heading">For Teams</h3>
         <ul class="side-navigation">
           <li>
             <a href="/ide/">
@@ -66,7 +66,7 @@ layout: home
         </ul>
       </div>
       <div class="card">
-        <h3>Sponsors</h3>
+        <h3 class="card-heading">Sponsors</h3>
         <ul class="sponsor-list">
         {% for sponsor in site.sponsors %}
           <li>
@@ -81,7 +81,7 @@ layout: home
     <div class="m-8-12">
       {% assign post = site.posts.first %}
       <div class="card">
-        <h3>Latest News</h3>
+        <h3 class="card-heading">Latest News</h3>
         <div class="article article-preview">
           <div class="article-header">
             <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>

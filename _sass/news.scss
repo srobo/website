@@ -104,6 +104,10 @@
     font-size: 1.2rem;
   }
 
+  p {
+    margin: $spacing 0;
+  }
+
   p, ul, ol {
     font-size: $foxtrot;
     line-height: $charlie;

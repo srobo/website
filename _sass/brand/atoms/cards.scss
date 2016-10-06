@@ -12,3 +12,11 @@
 .highlight-card {
   border-top-color: $sr-blue;
 }
+
+.card-heading {
+  color: $sr-dark-grey;
+  font-family: $main-font-family;
+  font-size: $echo;
+  font-weight: bold;
+  text-transform: uppercase;
+}
