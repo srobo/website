@@ -9,8 +9,8 @@ location: Southampton University
 Kickstart is the event which kicks off a competition year, where the game will
 be announced and robotics kits will be handed out to the teams.
 
-**Any team is welcome to attend the Southampton Kickstart, however you need to 
-let your local team co-ordinators know, as we will need to arrange for your 
+**Any team is welcome to attend the Southampton Kickstart, however you need to
+let your local team co-ordinators know, as we will need to arrange for your
 robotics kit to be at the venue.**
 
 ## Directions
