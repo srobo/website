@@ -21,6 +21,6 @@ waiting list by [starting a team][compete].
 
 [compete]: {{ site.baseurl }}/compete
 
-[soton-kickstart]: {{ site.baseurl }}/events/sr2017/2016-10-15-soton-kickstart/
-[bristol-kickstart]: {{ site.baseurl }}/events/sr2017/2016-10-15-bristol-kickstart/
-[oxford-kickstart]: {{ site.baseurl }}/events/sr2017/2016-10-15-oxford-kickstart/
+[soton-kickstart]: {{ site.baseurl }}/events/sr2017/southampton-kickstart/
+[bristol-kickstart]: {{ site.baseurl }}/events/sr2017/bristol-kickstart/
+[oxford-kickstart]: {{ site.baseurl }}/events/sr2017/oxford-kickstart/

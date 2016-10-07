@@ -12,6 +12,7 @@ markdown: kramdown
 collections:
   events:
     output: true
+    permalink: /:collection/:path
 
 # In order to show events that haven't happened yet, we need to turn on future
 # mode
