@@ -18,7 +18,6 @@ arrange for your robotics kit to be at the venue.**
 ## Directions
 
 * How to [get to the venue][oxford-directions]
-
 * [Where to find food][oxford-food-map]
 
 ## Schedule

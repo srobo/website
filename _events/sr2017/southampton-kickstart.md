@@ -16,9 +16,7 @@ robotics kit to be at the venue.**
 ## Directions
 
 * How to [get to campus][soton-campus-directions]
-
 * [On-campus directions][soton-directions]
-
 * [Where to find food][soton-food-map]
 
 ## Schedule
