@@ -10,7 +10,7 @@ Kickstart is the event which kicks off a competition year, where the game will
 be announced and robotics kits will be handed out to the teams.
 
 **Any team is welcome to attend the Oxford Kickstart, however you need to 
-[let your local team co-ordinators know][teams-contact], as we will need to 
+let your local team co-ordinators know, as we will need to 
 arrange for your robotics kit to be at the venue.**
 
 **Please bring your laptops!**
@@ -30,6 +30,5 @@ arrange for your robotics kit to be at the venue.**
 | 12:30 | There will be a lunch break. Teams are expected to bring their own lunches or get them from food vendors near the venues. |
 | 16:00 | Finish. |
 
-[teams-contact]: mailto:teams@studentrobotics.org
 [oxford-food-map]: https://drive.google.com/open?id=1UIaQfg-HJIz_w9Xo6hWD8Ial_Lg&usp=sharing
 [oxford-directions]: https://www.kingscentre.co.uk/perch/resources/directions-to-tkc-2015.pdf
