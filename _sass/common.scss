@@ -22,7 +22,7 @@
   background: $sr-blue;
   padding: $spacing;
 
-  @include media-query('m') {
+  @include media-query("medium") {
     padding: $spacing 0;
   }
 

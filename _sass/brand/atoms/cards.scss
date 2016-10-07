@@ -2,7 +2,11 @@
   border-top: 2px solid white;
   background: white;
   padding: 0.8em $spacing;
-  margin-bottom: $spacing;
+  margin-bottom: $mobile-spacing;
+
+  @include media-query("medium") {
+    margin-bottom: $spacing;
+  }
 }
 
 .thin-card {

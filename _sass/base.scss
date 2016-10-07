@@ -34,9 +34,9 @@ a {
 .main {
   @extend .row;
   background: $sr-grey;
-  padding: $spacing $spacing (3 * $spacing);
+  padding: $mobile-spacing $mobile-spacing 0;
 
-  @include media-query("large") {
+  @include media-query("medium") {
     padding: $spacing 0 (3 * $spacing);
   }
 }
