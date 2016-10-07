@@ -38,9 +38,9 @@ Here is a schedule for the day:
 | 12:30  | There will be a lunch break. Teams are expected to bring their own lunches or get them from food vendors near the venues. |
 |16:00 / 17:00| End of Kickstart. |
 
-[soton-kickstart]: {{ site.baseurl }}/events/sr2017/southampton-kickstart/
-[bristol-kickstart]: {{ site.baseurl }}/events/sr2017/bristol-kickstart/
-[oxford-kickstart]: {{ site.baseurl }}/events/sr2017/oxford-kickstart/
+[soton-kickstart]: {{ site.baseurl }}/events/sr2017/southampton-kickstart
+[bristol-kickstart]: {{ site.baseurl }}/events/sr2017/bristol-kickstart
+[oxford-kickstart]: {{ site.baseurl }}/events/sr2017/oxford-kickstart
 
 [soton-food-map]: https://goo.gl/Np9L1e
 [oxford-food-map]: https://drive.google.com/open?id=1UIaQfg-HJIz_w9Xo6hWD8Ial_Lg&usp=sharing
