@@ -9,8 +9,8 @@ location: Bristol University
 Kickstart is the event which kicks off a competition year, where the game will
 be announced and robotics kits will be handed out to the teams.
 
-**Any team is welcome to attend the Bristol Kickstart, however you need to 
-let your local team co-ordinators know, as we will need to arrange for your 
+**Any team is welcome to attend the Bristol Kickstart, however you need to
+let your local team co-ordinators know, as we will need to arrange for your
 robotics kit to be at the venue.**
 
 **Please bring your laptops!**
@@ -24,8 +24,8 @@ robotics kit to be at the venue.**
 ### On-campus Directions
 
 Follow directions to the [Queen's Building][queens-building-info]. Once in the
-main entrance, there will be signs to direct the teams to the room. The 
-University cannot provide any parking, but there will be nearby streets 
+main entrance, there will be signs to direct the teams to the room. The
+University cannot provide any parking, but there will be nearby streets
 available for parking.
 
 ## Schedule
