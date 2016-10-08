@@ -5,14 +5,14 @@ permalink: /events/sr2017/kickstart
 date: 2016-10-06
 ---
 
-The venues for Student Robotics 2017 kickstart are:
+The venues for Student Robotics 2017 Kickstart are:
 
 - [Southampton University][soton-kickstart]
 - [Bristol University][bristol-kickstart]
 - [The Kings Centre, Oxford][oxford-kickstart]
 
 Teams are welcome to attend any venue they wish. However; they should inform
-their local team co-ordinators which venue they will attend, as we will need to
+their local team coordinators which venue they will attend, as we will need to
 arrange for the robotics kits to be at the venue they choose, and some venues
 have vehicle access restrictions which will need to be arranged beforehand.
 
@@ -26,7 +26,7 @@ Below is an table of venue-dependent information:
 
 If teams cannot attend any of the venues, they should arrange for kit to be
 couriered to them. For some venues, teams will need to bring laptops or similar
-computing devices. internet access will be available. Teams will also be
+computing devices. Internet access will be available. Teams will also be
 expected to make their own provisions for lunch.
 
 Here is a schedule for the day:

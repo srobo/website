@@ -14,8 +14,8 @@ more tokens in them than its opponents, or by lifting one of its tokens onto a p
 for claiming a row or column.
 
 The main mechanisms for transporting tokens were grabbing arms and suction cups. Many robots focused on getting tokens 
-into the square right in front of them. Several tokens were succesfully placed on pedestals; team Gymnasium Markt 
-Indersdorf, from Munich, managed to get four tokens onto seperate pedestals during one match. Amongst the competing 
+into the square right in front of them. Several tokens were successfully placed on pedestals; team Gymnasium Markt
+Indersdorf, from Munich, managed to get four tokens onto separate pedestals during one match. Amongst the competing
 robots were a hovercraft, a cow, a stag beetle, WALL&middot;E and Superman.
 
 The final was a very close game, which ended with a three way tie. It was quickly decided that a tie breaker match had 
