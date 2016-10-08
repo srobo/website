@@ -1,4 +1,5 @@
 {
+    "spellchecker.language": "en_GB-ise",
     "spellchecker.ignoreWordsList": [
         "Brockenhurst",
         "Basingstoke",
@@ -19,16 +20,7 @@
         "YouTube",
         "online",
         "html",
-        "aluminium",
         "blog",
-        "colour",
-        "gruelling",
-        "learnt",
-        "noughts",
-        "organisation",
-        "organised",
-        "realise",
-        "theatre",
         "Zepler"
     ],
     "spellchecker.ignoreRegExp": [
