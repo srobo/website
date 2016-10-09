@@ -88,7 +88,7 @@
 .article-header {
   padding-bottom: 1em;
   margin-bottom: 1em;
-  border-bottom: 1px solid $sr-grey;
+  border-bottom: 1px solid $sr-light-grey;
 }
 
 .article-preview {
@@ -142,7 +142,7 @@ table {
     background: white;
 
     &:nth-child(even) {
-      background: $sr-grey;
+      background: $sr-light-grey;
     }
   }
 }
@@ -151,7 +151,7 @@ figure {
   img {
     border-radius: 3px;
     background-color: $sr-white;
-    border: 1px solid darken($sr-grey, 10%);
+    border: 1px solid darken($sr-light-grey, 10%);
     padding: 3px;
   }
 }
