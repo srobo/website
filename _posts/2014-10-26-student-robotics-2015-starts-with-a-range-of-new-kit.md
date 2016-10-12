@@ -21,7 +21,7 @@ The game: Capture the Flag
 This year's competition is all about retrieving flags from around the arena and putting them into the competitor's zone
 to get points. The flags are built from wooden cubes on ball casters.
 
-Read more about the [new game](https://en.wikipedia.org/wiki/Student_Robotics#2015:_.22Capture_the_Flag.22) or for full details please reference the rulebook (now archived)
+Read more about the [new game](https://en.wikipedia.org/wiki/Student_Robotics#2015:_.22Capture_the_Flag.22) or for full details please reference the rulebook (now removed)
 
 Kit upgrades
 ------------
