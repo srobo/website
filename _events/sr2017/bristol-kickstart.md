@@ -38,6 +38,5 @@ available for parking.
 | 17:00 | Finish. |
 
 [bristol-food-map]: https://drive.google.com/open?id=19grJjGqBAICK0pYD_jhhAQYjgrA&usp=sharing
-[bristol-directions]: {{ site.baseurl }}/events/sr2017/kickstart-bristol-directions
 [bristol-campus-directions]: http://www.bris.ac.uk/maps/directions/
 [queens-building-info]: http://www.bristol.ac.uk/it-services/locations/studyspaces/spaces/buildings/queens
