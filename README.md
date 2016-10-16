@@ -19,7 +19,7 @@ The Student Robotics public website
     $ bundle install
     ```
 
-    Note that if you don't want to install the gems to a gobal location you'll
+    Note that if you don't want to install the gems to a global location you'll
     need to add `--path gems` to the above command.
 
 4. Start the app in development mode

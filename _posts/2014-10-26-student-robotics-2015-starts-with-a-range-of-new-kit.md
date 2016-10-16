@@ -6,7 +6,7 @@ title: Student Robotics 2015 starts with a range of new kit
 
 The 2015 Student Robotics competition has started with various [Kickstart](/events/kickstart) events.
 Kickstarts were held at the University of Southampton, the University of Bristol and Facebook HQ in London.
-There is also a Kickstart event occuring in Munich soon.
+There is also a Kickstart event occurring in Munich soon.
 
 There are 54 teams competing in this year's Student Robotics competition, coming from across the United Kingdom and 
 Germany. We have generated a [map](https://mapsengine.google.com/map/viewer?mid=zvzw_6CVihJs.kM7Ln0NcH6zk) of where all 
