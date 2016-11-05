@@ -2,6 +2,7 @@
 /gems
 _site
 .sass-cache
+_secrets
 .jekyll-metadata
 node_modules
 npm-debug.log
