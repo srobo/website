@@ -1,6 +1,6 @@
 ---
 title: Southampton February Tech Day
-date: 2016-12-17 09:00:00
+date: 2017-2-18 09:00:00
 layout: event
 type: techday
 location: Southampton University
