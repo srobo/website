@@ -2,7 +2,7 @@
 title: Southampton March Tech Day 
 date: 2016-03-25 09:00:00
 layout: event
-type: tech day
+type: techday
 location: Southampton University
 ---
 

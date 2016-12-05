@@ -2,7 +2,7 @@
 title: Southampton December Tech Day 
 date: 2016-12-17 09:00:00
 layout: event
-type: tech day
+type: techday
 location: Southampton University
 ---
 
