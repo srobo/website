@@ -33,7 +33,7 @@ a {
 
 .main {
   @extend .row;
-  background: $sr-grey;
+  background: $sr-light-grey;
   padding: $mobile-spacing $mobile-spacing 0;
 
   @include media-query("medium") {

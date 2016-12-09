@@ -57,6 +57,7 @@ exclude:
   - Dockerfile
   - _env/
   - _docs/
+  - _secrets/
   - vendor/
   - circle.yml
 

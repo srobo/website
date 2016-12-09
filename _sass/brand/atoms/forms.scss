@@ -1,7 +1,7 @@
 .form {
   input {
     &[type='email'], &[type='text'] {
-      border: 2px solid $sr-blue;
+      border: 1px solid $sr-dark-grey;
       border-radius: 3px;
       font-size: $charlie;
       padding: 12px;

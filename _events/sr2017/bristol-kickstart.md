@@ -10,7 +10,7 @@ Kickstart is the event which kicks off a competition year, where the game will
 be announced and robotics kits will be handed out to the teams.
 
 **Any team is welcome to attend the Bristol Kickstart, however you need to
-let your local team co-ordinators know, as we will need to arrange for your
+let your local team coordinators know, as we will need to arrange for your
 robotics kit to be at the venue.**
 
 **Please bring your laptops!**
@@ -37,6 +37,5 @@ available for parking.
 | 17:00 | Finish. |
 
 [bristol-food-map]: https://drive.google.com/open?id=19grJjGqBAICK0pYD_jhhAQYjgrA&usp=sharing
-[bristol-directions]: {{ site.baseurl }}/events/sr2017/kickstart-bristol-directions
 [bristol-campus-directions]: http://www.bris.ac.uk/maps/directions/
 [queens-building-info]: http://www.bristol.ac.uk/it-services/locations/studyspaces/spaces/buildings/queens
