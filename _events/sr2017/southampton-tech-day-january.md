@@ -12,7 +12,9 @@ The Southampton tech days take advantage of the facilities of the University of 
 
 We are also planning on setting up a mock arena for teams to try out their robots on carpet similar to that of the competition.
 
-## Directions
+# Directions
+
+The location of our tech days are on a different campus to that of Kickstart, please check our map!
 
 * How to [get to campus][soton-campus-directions]
 
@@ -25,9 +27,9 @@ We are also planning on setting up a mock arena for teams to try out their robot
 
 | Time  | Info |
 |-------|------|
-| 09:00 | Doors Open |
+| 09:00 | Doors Open. |
 | 12:30 | There will be a lunch break. Teams should bring their own lunches or get them from food vendors near the venues. |
-| 13:00 | Lightning Talks, where teams will talk about their robots and what they plan on doing with them |
+| 13:00 | Lightning Talks, where teams will talk about their robots and what they plan on doing with them. |
 | 17:00 | Finish. |
 
 [teams-contact]: mailto:teams@studentrobotics.org

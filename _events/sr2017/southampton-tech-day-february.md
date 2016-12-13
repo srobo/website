@@ -12,15 +12,15 @@ The Southampton tech days take advantage of the facilities of the University of 
 
 ## Directions
 
-The location of this tech day is yet to be confirmed, however it will happen at the University of Southampton
+The location of this tech day is yet to be confirmed, however it will happen at the University of Southampton.
 
 ## Schedule
 
 | Time  | Info |
 |-------|------|
-| 09:00 | Doors Open |
+| 09:00 | Doors Open. |
 | 12:30 | There will be a lunch break. Teams should bring their own lunches or get them from food vendors near the venues. |
-| 13:00 | Lightning Talks, where teams will talk about their robots and what they plan on doing with them |
+| 13:00 | Lightning Talks, where teams will talk about their robots and what they plan on doing with them. |
 | 17:00 | Finish. |
 
 [teams-contact]: mailto:teams@studentrobotics.org
