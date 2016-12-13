@@ -17,11 +17,8 @@ We are also planning on setting up a mock arena for teams to try out their robot
 The location of our tech days are on a different campus to that of Kickstart, please check our map!
 
 * How to [get to campus][soton-campus-directions]
-
 * [On-campus directions][soton-directions]
-
 * [Where to find food][soton-food-map]. Food is scarce in the Tech day location, so we recommend either ordering food in or taking packed lunches.
-
 
 ## Schedule
 
