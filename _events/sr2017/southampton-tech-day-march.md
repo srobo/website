@@ -1,6 +1,6 @@
 ---
-title: Southampton December Tech Day
-date: 2016-12-17 09:00:00
+title: Southampton March Tech Day
+date: 2017-03-25 09:00:00
 layout: event
 type: techday
 location: Southampton University
@@ -10,12 +10,14 @@ Tech days are opportunities for teams to get help if they're struggling with a t
 
 The Southampton tech days take advantage of the facilities of the University of Southampton, and usually involve a tour of the facilities.
 
+We are also planning on setting up a mock arena for this tech day.
+
 ## Directions
 
 The location of our tech days are on a different campus to that of Kickstart, please check our map!
 
 * How to [get to campus][soton-campus-directions]
-* [On-campus directions][soton-directions]
+* [On-campus directions][soton-directions] (and parking)
 * [Where to find food][soton-food-map]. Food is scarce in the Tech day location, so we recommend either ordering food in or taking packed lunches.
 
 ## Schedule

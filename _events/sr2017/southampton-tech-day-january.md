@@ -1,6 +1,6 @@
 ---
-title: Southampton December Tech Day
-date: 2016-12-17 09:00:00
+title: Southampton January Tech Day
+date: 2017-01-28 09:00:00
 layout: event
 type: techday
 location: Southampton University
@@ -10,7 +10,9 @@ Tech days are opportunities for teams to get help if they're struggling with a t
 
 The Southampton tech days take advantage of the facilities of the University of Southampton, and usually involve a tour of the facilities.
 
-## Directions
+We are also planning on setting up a mock arena for teams to try out their robots on carpet similar to that of the competition.
+
+# Directions
 
 The location of our tech days are on a different campus to that of Kickstart, please check our map!
 
