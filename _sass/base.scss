@@ -39,14 +39,6 @@ a {
   @include media-query("medium") {
     padding: $spacing 0 (3 * $spacing);
   }
-
-  ul {
-    margin: 1.2em 0 1.2em 40px;
-
-    li {
-      margin: 0.8em 0;
-    }
-  }
 }
 
 img {
