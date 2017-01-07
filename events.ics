@@ -9,6 +9,9 @@ UID:{{ event.url | prepend: site.baseurl | prepend: site.url }}
 DTSTART:{{ event.date | date: "%Y%m%dT%H%M%S" }}
 DTSTAMP:{{ event.date | date: "%Y%m%dT%H%M%S" }}
 CLASS:PUBLIC
+DESCRIPTION:See
+  {{ event.url | prepend: site.baseurl | prepend: site.url }}
+  for details.
 LOCATION:{{ event.location }}
 SUMMARY:{{ event.title }}
 END:VEVENT
