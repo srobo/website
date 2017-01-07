@@ -19,6 +19,7 @@ collections:
 future: true
 
 gems:
+  - jekyll-feed
   - jekyll-paginate
 
 links:
