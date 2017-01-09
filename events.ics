@@ -1,0 +1,18 @@
+---
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://studentrobotics.org/
+METHOD:PUBLISH
+{% for event in (site.events | sort: 'date') %}BEGIN:VEVENT
+UID:{{ event.url | prepend: site.baseurl | prepend: site.url }}
+DTSTART:{{ event.date | date: "%Y%m%dT%H%M%S" }}
+DTSTAMP:{{ event.date | date: "%Y%m%dT%H%M%S" }}
+CLASS:PUBLIC
+DESCRIPTION:See
+  {{ event.url | prepend: site.baseurl | prepend: site.url }}
+  for details.
+LOCATION:{{ event.location }}
+SUMMARY:{{ event.title }}
+END:VEVENT
+{% endfor %}END:VCALENDAR
