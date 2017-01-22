@@ -205,3 +205,11 @@ figcaption {
 .footnotes ol {
   list-style: none;
 }
+
+.news-post-list {
+  font-size: $foxtrot;
+
+  li {
+    margin-bottom: .3rem;
+  }
+}
