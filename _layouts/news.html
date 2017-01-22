@@ -8,7 +8,9 @@ layout: page
         <h1>{{ page.title }}</h1>
         <p class="article-info">Published {{ page.date | date: "%e %B, %Y" }}</p>
       </div>
-      {{ content }}
+      <div class="article-content">
+        {{ content }}
+      </div>
     </div>
   </div>
 </div>

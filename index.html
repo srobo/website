@@ -87,7 +87,9 @@ layout: home
             <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
             <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
           </div>
-          {{ post.content }}
+          <div class="article-content">
+            {{ post.content }}
+          </div>
         </div>
         <a class="button button-expand" href="{{ '/news' | prepend: site.baseurl }}">View more news</a>
       </div>
