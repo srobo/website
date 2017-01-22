@@ -75,6 +75,18 @@
     }
   }
 
+  li {
+    display: inline-block;
+
+    @include media-query('large') {
+      border-right: 1px solid $sr-medium-grey;
+
+      &:last-of-type {
+        border-right: 0;
+      }
+    }
+  }
+
   span {
     display: block;
     margin-bottom: 5px;

@@ -28,6 +28,7 @@ $media-sizes: (
   float: left;
   padding-left: $spacing / 2;
   padding-right: $spacing / 2;
+  width: 100%;
 }
 
 @each $size-tuple in $media-sizes {

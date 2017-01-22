@@ -41,6 +41,12 @@ a {
   }
 }
 
+.home-main {
+  @include media-query("medium") {
+    padding-top: 0;
+  }
+}
+
 img {
   width: 100%;
   height: auto;
