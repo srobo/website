@@ -1,19 +1,18 @@
+.article-main {
+  background: $sr-white;
+}
+
 .article {
   overflow: hidden;
 
-  h1 {
-    font-size: $beta;
-    margin-bottom: 0;
-  }
-
   h2 {
-    font-size: $charlie;
-    margin: 2em 0 1em;
+    font-size: $beta;
+    margin: $charlie 0;
   }
 
   h3 {
-    font-size: $delta;
-    margin: 1em 0 .5em;
+    font-size: $charlie;
+    margin: $delta 0;
   }
 
   blockquote {
@@ -74,7 +73,8 @@
   p, ul, ol {
     color: $sr-black;
     font-size: $echo;
-    line-height: normal;
+    line-height: 160%;
+    margin-top: $echo;
     margin-bottom: $echo;
   }
 }
@@ -87,15 +87,24 @@
 }
 
 .article-header {
-  padding-bottom: 1em;
   margin-bottom: 1em;
-  border-bottom: 1px solid $sr-light-grey;
+
+  h1 {
+    font-size: $alpha;
+    line-height: normal;
+    margin: 0;
+  }
 }
 
 .article-preview {
   .article-header {
     padding-bottom: 0.5em;
     margin-bottom: 0.5em;
+    border-bottom: 1px solid $sr-light-grey;
+
+    h1 {
+      font-size: 1.5rem;
+    }
   }
 
   .article-info {
@@ -105,21 +114,20 @@
   .article-content {
     p, ul, ol {
       font-size: $foxtrot;
+      line-height: normal;
+      margin-top: $foxtrot;
       margin-bottom: $foxtrot;
     }
-  }
 
-  h1 {
-    font-size: 1.5rem;
-    line-height: normal;
-  }
+    h2 {
+      font-size: $charlie;
+      margin: $delta 0;
+    }
 
-  h2 {
-    font-size: 1.3rem;
-  }
-
-  h3 {
-    font-size: 1.2rem;
+    h3 {
+      font-size: $delta;
+      margin: $echo 0;
+    }
   }
 }
 
