@@ -15,7 +15,7 @@ permalink: /about/
     <div class="fixed-width text-center">
       <h2>What we do</h2>
       <div class="row">
-        <div class="m-8-12 m-offset-2-12">
+        <div class="column m-8-12 m-offset-2-12">
           <p>
             We challenge teams of 16 to 18 year-olds to design, build and develop
             autonomous robots to compete in our annual competition. After announcing
@@ -38,10 +38,10 @@ permalink: /about/
         fantastic sponsors.
       </p>
       <div class="row">
-        <div class="m-8-12 m-offset-2-12">
+        <div class="column m-8-12 m-offset-2-12">
           <div class="row">
             {% for sponsor in site.sponsors %}
-            <div class="m-6-12">
+            <div class="column m-6-12">
               <a href="{{ sponsor.link }}">
                 <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}"/>
               </a>
