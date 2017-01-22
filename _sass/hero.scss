@@ -27,3 +27,9 @@ $hero-bottom-colour: transparentize($sr-blue, 0.2);
     color: $sr-white;
   }
 }
+
+.no-cta {
+  @include headings() {
+    margin-bottom: 0;
+  }
+}
