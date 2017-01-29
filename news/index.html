@@ -22,28 +22,35 @@ title: News
     {% endfor %}
 
     {% if paginator.total_pages > 1 %}
-    <div class="pagination">
-      {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-      {% else %}
-      <span>&laquo; Prev</span>
-      {% endif %}
-
-      {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-      <em>{{ page }}</em>
-      {% elsif page == 1 %}
-      <a href="{{ site.baseurl | replace: '//', '/' }}/">{{ page }}</a>
-      {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-      {% endfor %}
-
-      {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-      {% else %}
-      <span>Next &raquo;</span>
-      {% endif %}
+    <div class="row pagination">
+      <div class="column d-2-12">
+        {% if paginator.previous_page_path %}
+        <a class="button button-primary button-expand" href="{{ '/news' | prepend: site.baseurl}}">&laquo; <span class="desktop-only">First</span></a>
+        {% else %}
+        <span class="button button-disabled button-expand">&laquo; <span class="desktop-only">First</span></span>
+        {% endif %}
+      </div>
+      <div class="column d-2-12">
+        {% if paginator.previous_page %}
+        <a class="button button-primary button-expand" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&lsaquo; <span class="desktop-only">Prev</span></a>
+        {% else %}
+        <span class="button button-expand button-disabled">&lsaquo; <span class="desktop-only">Prev</span></span>
+        {% endif %}
+      </div>
+      <div class="column d-2-12 d-offset-4-12">
+        {% if paginator.next_page %}
+        <a class="button button-primary button-expand" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span class="desktop-only">Next</span> &rsaquo;</a>
+        {% else %}
+        <span class="button button-expand button-disabled"><span class="desktop-only">Next</span> &rsaquo;</span>
+        {% endif %}
+      </div>
+      <div class="column d-2-12">
+        {% if paginator.next_page_path %}
+        <a class="button button-primary button-expand" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}"><span class="desktop-only">Last</span> &raquo;</a>
+        {% else %}
+        <span class="button button-disabled button-expand"><span class="desktop-only">Last</span> &raquo;</span>
+        {% endif %}
+      </div>
     </div>
     {% endif %}
   </div>

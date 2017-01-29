@@ -50,3 +50,15 @@
   display: block;
   margin-right: 0;
 }
+
+.button[disabled=disabled], .button:disabled, .button-disabled {
+  cursor: default;
+  border-color: $sr-dark-grey;
+  color: $sr-dark-grey;
+  opacity: 0.5;
+
+  &:hover {
+    background: transparent;
+    color: $sr-dark-grey;
+  }
+}
