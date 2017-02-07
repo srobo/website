@@ -49,6 +49,3 @@ DEPENDENCIES
   kramdown
   neat
   rake
-
-BUNDLED WITH
-   1.11.2
