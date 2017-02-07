@@ -1,6 +1,6 @@
 ---
 title: Southampton March Tech Day
-date: 2017-03-25 09:00:00
+date: 2017-03-25 10:00:00
 layout: event
 type: techday
 location: Southampton University
@@ -24,7 +24,7 @@ The location of our tech days are on a different campus to that of Kickstart, pl
 
 | Time  | Info |
 |-------|------|
-| 09:00 | Doors Open. |
+| 10:00 | Doors Open. |
 | 12:30 | There will be a lunch break. Teams should bring their own lunches or get them from food vendors near the venues. |
 | 13:00 | Lightning Talks, where teams will talk about their robots and what they plan on doing with them. |
 | 17:00 | Finish. |
