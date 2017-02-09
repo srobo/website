@@ -6,16 +6,7 @@
 
 .logo {
   vertical-align: middle;
-
-  &.desktop-only {
-    width: 258px;
-    height: 60px;
-  }
-
-  &.mobile-only {
-    width: 60px;
-    height: 60px;
-  }
+  width: initial;
 }
 
 .site-title {
@@ -26,4 +17,14 @@
   float: left;
   font-size: 2.6em;
   text-decoration: none;
+
+  // mobile-only
+  width: 60px;
+  overflow: hidden;
+
+  // desktop-only
+  @include media-query(medium) {
+    width: initial;
+    overflow: initial;
+  }
 }
