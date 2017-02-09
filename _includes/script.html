@@ -3,6 +3,7 @@
         crossorigin="anonymous"></script>
 <script src="{{ '/js/main.js' | prepend: site.baseurl }}"></script>
 
+{% if site.user_tracking %}
 <!-- Piwik -->
 <script type="text/javascript">
   var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.studentrobotics.org/piwik/" : "http://www.studentrobotics.org/piwik/");
@@ -28,3 +29,5 @@
   ga('send', 'pageview');
 </script>
 <!-- End Google Analytics -->
+
+{% endif %}
