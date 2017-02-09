@@ -3,9 +3,14 @@
         crossorigin="anonymous"></script>
 <script src="{{ '/js/main.js' | prepend: site.baseurl }}"></script>
 
+{% if site.user_tracking %}
 <!-- Piwik -->
+{% comment %}
+Note: pkBaseURL deliberately has no domain to avoid SSL reconnection since we
+serve the site at both studentrobotics.org and www.studentrobotics.org.
+{% endcomment %}
 <script type="text/javascript">
-  var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.studentrobotics.org/piwik/" : "http://www.studentrobotics.org/piwik/");
+  var pkBaseURL = "/piwik/";
   document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">
@@ -28,3 +33,5 @@
   ga('send', 'pageview');
 </script>
 <!-- End Google Analytics -->
+
+{% endif %}
