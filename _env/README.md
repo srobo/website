@@ -47,3 +47,13 @@ kubectl create -f kubernetes/
 
 This should deploy your application to the cluster, and expose it on the IP you
 specified.
+
+## Deploying new versions
+
+Because we don't do any sophisticated tagging, we have to force Kubernetes to
+pull the latest version of the app. We do this by doing the following:
+
+```bash
+kubectl patch deployment srobo-website \
+    -p "{\"spec\":{\"template\":{\"metadata\":{\"labels\":{\"date\":\"`date +'%s'`\"}}}}}"
+```
