@@ -57,3 +57,5 @@ pull the latest version of the app. We do this by doing the following:
 kubectl patch deployment srobo-website \
     -p "{\"spec\":{\"template\":{\"metadata\":{\"labels\":{\"date\":\"`date +'%s'`\"}}}}}"
 ```
+
+[gcloud]: https://cloud.google.com/sdk/downloads
