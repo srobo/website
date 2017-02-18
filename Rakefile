@@ -1,14 +1,14 @@
-task :build do
+task :dependencies do
+  sh('bundle install --path gems')
+end
+
+task :dev => [:dependencies] do
+  sh('bundle exec jekyll serve --drafts --config _config.yml')
+end
+
+task :build => [:dependencies] do
   sh('bundle exec jekyll build --config _config.yml,_live.yml')
   sh('docker build --tag srobo/website .')
-end
-
-task :deploy do
-  sh('docker push srobo/website')
-end
-
-task :dev do
-  sh('bundle exec jekyll serve --drafts --config _config.yml')
 end
 
 directory '_secrets'
@@ -23,4 +23,8 @@ task :cert => ['_secrets/cert.pem', '_secrets/key.pem']
 
 task :run => [:cert, :build] do
   sh('docker run --rm -p 80:80 -p 443:443 -v $(pwd)/_secrets:/etc/secrets --name srobo srobo/website')
+end
+
+task :deploy do
+  sh('docker push srobo/website')
 end
