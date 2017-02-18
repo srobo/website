@@ -56,13 +56,12 @@ exclude:
   - Rakefile
   - Gemfile
   - Gemfile.lock
-  - gems/
   - Dockerfile
-  - _env/
-  - _docs/
-  - _secrets/
-  - vendor/
   - circle.yml
+  - _env/
+  - gems/
+  - node_modules/
+  - _secrets/
 
 paginate: 3
 paginate_path: "/news/:num/"
