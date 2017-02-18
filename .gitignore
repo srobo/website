@@ -1,8 +1,8 @@
-/.bundle
-/gems
-_site
+.bundle
 .sass-cache
-_secrets
 .jekyll-metadata
+gems
 node_modules
+_secrets
+_site
 npm-debug.log
