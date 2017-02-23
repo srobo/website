@@ -6,10 +6,18 @@ type: techday
 location: Bristol University
 ---
 
-Tech days are opportunities for teams to get help if they're struggling with a
-technical issue, and is a controlled environment for students to make more 
-progress on their robots. It's also an opportunity to see how well they're doing
-in comparison to other teams.
+Tech days are opportunities for teams to get help if you're struggling with a
+technical issue, and is a controlled environment to make more progress on your
+robots. It's also an opportunity to check out your competition, and share ideas
+with other teams!
+
+**If your team wants to attend, you need to bring your team leader or another
+responsible adult. We also need their mobile number so we can contact them on
+the day.**
+
+**If the responsible adult is not your team leader, or your team leader has not 
+already sent James ([jroff@studentrobotics.org][mail-james]) their mobile number, please do
+so before you arrive!**
 
 ## Directions
 
@@ -33,11 +41,14 @@ available for parking.
 
 ## Schedule
 
-| Time  | Info       |
-|-------|------------|
-| 10:00 | Doors Open |
-| 16:00 | Finish     |
+| Time  | Info         |
+|-------|--------------|
+| 10:00 | Doors open   |
+| 12:00 | Lunch begins |
+| 12:00 | Lunch ends   |
+| 16:00 | Finish       |
 
 [bristol-food-map]: https://drive.google.com/open?id=19grJjGqBAICK0pYD_jhhAQYjgrA&usp=sharing
 [bristol-campus-directions]: http://www.bris.ac.uk/maps/directions/
 [queens-building-info]: http://www.bristol.ac.uk/it-services/locations/studyspaces/spaces/buildings/queens
+[mail-james]: mailto:jroff@studentrobotics.org
