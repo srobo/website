@@ -37,8 +37,12 @@ please do so before you arrive!**
 ### On-campus Directions
 
 Follow directions to the [Queen's Building][queens-building-info]. Once in the
-main entrance, there will be signs to direct the teams to the room. The
-University cannot provide any parking, but there will be nearby streets
+main entrance, there will be signs to direct the teams to the room. The room is
+called the **Undergrad Electronics Lab, 0.09**.
+
+### Parking
+
+The University cannot provide any parking, but there will be nearby streets
 available for parking.
 
 ## Schedule
