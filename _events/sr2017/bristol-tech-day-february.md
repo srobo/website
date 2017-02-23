@@ -47,7 +47,7 @@ available for parking.
 |-------|--------------|
 | 10:00 | Doors open   |
 | 12:00 | Lunch begins |
-| 12:00 | Lunch ends   |
+| 13:00 | Lunch ends   |
 | 16:00 | Finish       |
 
 [bristol-food-map]: https://drive.google.com/open?id=19grJjGqBAICK0pYD_jhhAQYjgrA&usp=sharing
