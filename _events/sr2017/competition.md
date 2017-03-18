@@ -50,8 +50,8 @@ Food will be available for purchase from the catering stands in the grandstand.
 | 9:30  | League matches          |
 | 12:15 | Lunch                   |
 | 13:15 | League matches          |
-| 14:45 | Competition photo       |
-| 15:00 | Knockout matches        |
+| 14:30 | Competition photo       |
+| 14:45 | Knockout matches        |
 | 17:00 | End of knockout matches |
 | 17:15 | Prize ceremony          |
 | 18:00 | End of day              |
