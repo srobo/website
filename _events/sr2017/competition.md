@@ -16,7 +16,7 @@ tickets are available.
 
 Newbury Racecourse is located in the middle of the South of England and is
 easily accessible from junctions 12 and 13 of the M4, from the M3 and the A34.
-There is also a railway station right outside the racecourse with connections 
+There is also a railway station right outside the racecourse with connections
 to London and the West.
 
 ## Parking
