@@ -16,7 +16,7 @@ tickets are available.
 
 Newbury Racecourse is located in the middle of the South of England and is
 easily accessible from junctions 12 and 13 of the M4, from the M3 and the A34.
-There is also a railway station right outside the racecourse with connections 
+There is also a railway station right outside the racecourse with connections
 to London and the West.
 
 ## Parking
@@ -50,8 +50,8 @@ Food will be available for purchase from the catering stands in the grandstand.
 | 9:30  | League matches          |
 | 12:15 | Lunch                   |
 | 13:15 | League matches          |
-| 14:45 | Competition photo       |
-| 15:00 | Knockout matches        |
+| 14:30 | Competition photo       |
+| 14:45 | Knockout matches        |
 | 17:00 | End of knockout matches |
 | 17:15 | Prize ceremony          |
 | 18:00 | End of day              |
