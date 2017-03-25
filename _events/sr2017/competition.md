@@ -14,10 +14,13 @@ tickets are available.
 
 ## Directions
 
-Newbury Racecourse is located in the middle of the South of England and is
-easily accessible from junctions 12 and 13 of the M4, from the M3 and the A34.
-There is also a railway station right outside the racecourse with connections
-to London and the West.
+[Newbury Racecourse][racecourse-directions] is located in the middle of the 
+South of England and is easily accessible from junctions 12 and 13 of the M4,
+from the M3 and the A34. There is also a railway station right outside the 
+racecourse with connections to London and the West.
+
+Please note: Newbury Racecourse has a new bridge and the post code to use is
+RG14 7PN.
 
 ## Parking
 
@@ -55,3 +58,5 @@ Food will be available for purchase from the catering stands in the grandstand.
 | 17:00 | End of knockout matches |
 | 17:15 | Prize ceremony          |
 | 18:00 | End of day              |
+
+[racecourse-directions]: {{ '/resources/sr2017/directions-to-racecourse.pdf' | prepend: site.baseurl }}
