@@ -28,7 +28,12 @@ the reverse proxy is working before you commit. To do this, do the following:
 
 1. [Install Docker][docker]
 
-2. Start the container
+2. Fetch the latest base image:
+    ``` shell
+    $ docker pull nginx
+    ```
+
+3. Start the container
 
     ``` shell
     $ rake run
