@@ -15,7 +15,7 @@ task :dev => [:dependencies] do
   sh('bundle exec jekyll serve --drafts --config _config.yml')
 end
 
-task :build => [:dependencies] do
+task :build do
   sh('bundle exec jekyll build --config _config.yml,_live.yml')
   sh('docker build --tag srobo/website .')
 end
