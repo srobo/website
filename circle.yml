@@ -6,6 +6,7 @@ dependencies:
   override:
     - gem install bundler
     - bundle install
+    - npm install
     - docker info
 
 test:
