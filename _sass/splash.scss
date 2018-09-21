@@ -12,49 +12,7 @@
 
 .splash-text {
   color: white;
-  font-size: 1.5em;
+  font-size: 3em;
   font-weight: bold;
   text-align: center;
-
-  @include media-query("medium") {
-    font-size: 2em;
-  }
-
-  @include media-query("large") {
-    font-size: 3em;
-  }
-}
-
-.splash-buttons {
-  margin: 0;
-  padding: 0;
-  text-align: center;
-
-  li {
-    list-style: none;
-  }
-}
-
-.splash-button {
-  display: inline-block;
-  margin: 0 16px 16px 0;
-
-  a {
-    border: 2px solid white;
-    border-radius: 4px;
-    display: block;
-    color: white;
-    font-weight: bold;
-    padding: 16px;
-    text-decoration: none;
-
-    &:hover {
-      border-color: #243373;
-      color: #243373;
-    }
-  }
-}
-
-li.splash-button {
-  list-style: none;
 }
