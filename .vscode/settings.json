@@ -1,5 +1,5 @@
 {
-    "ignoreWordsList": [
+    "spellchecker.ignoreWordsList": [
         "Brockenhurst",
         "Basingstoke",
         "Gordano",
@@ -31,7 +31,7 @@
         "theatre",
         "Zepler"
     ],
-    "ignoreRegExp": [
+    "spellchecker.ignoreRegExp": [
         "/\\\\(.*\\\\.(jpg|jpeg|png|md|gif|JPG|JPEG|PNG|MD|GIF)\\\\)/g",
         "/((http|https|ftp|git)\\\\S*)/g",
         "/&#\\d+;/g",
