@@ -1,5 +1,6 @@
 {
-    "ignoreWordsList": [
+    "spellchecker.language": "en_GB-ise",
+    "spellchecker.ignoreWordsList": [
         "Brockenhurst",
         "Basingstoke",
         "Gordano",
@@ -19,19 +20,10 @@
         "YouTube",
         "online",
         "html",
-        "aluminium",
         "blog",
-        "colour",
-        "gruelling",
-        "learnt",
-        "noughts",
-        "organisation",
-        "organised",
-        "realise",
-        "theatre",
         "Zepler"
     ],
-    "ignoreRegExp": [
+    "spellchecker.ignoreRegExp": [
         "/\\\\(.*\\\\.(jpg|jpeg|png|md|gif|JPG|JPEG|PNG|MD|GIF)\\\\)/g",
         "/((http|https|ftp|git)\\\\S*)/g",
         "/&#\\d+;/g",
