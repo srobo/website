@@ -71,6 +71,8 @@ DEPENDENCIES
   kramdown
   neat
   rake
+  tzinfo
+  tzinfo-data
 
 BUNDLED WITH
    1.16.1
