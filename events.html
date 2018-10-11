@@ -18,8 +18,8 @@ permalink: /events/
             <div class="column d-12-12 l-3-12">Date and time</div>
             <div class="column d-12-12 l-4-12">Location</div>
           </li>
-          {% assign sorted = (site.events | sort: 'date') | reverse %}
-          {% for event in sorted %}
+          {% assign sorted = site.events | sort: 'date' %}
+          {% for event in sorted reversed %}
           {% if event.date > site.time %}
           <li class="row">
           {% else %}
