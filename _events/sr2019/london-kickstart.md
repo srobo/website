@@ -3,7 +3,7 @@ title: London Kickstart
 date: 2018-11-10 10:00:00
 layout: event
 type: kickstart
-location: TODO
+location: Thread, Whitechapel
 ---
 
 Kickstart is the event which kicks off a competition year, where the game will
@@ -19,6 +19,7 @@ Kickstart if we have informed you that you have a place there.**
 The London Kickstart is being held in the [offices of Thread][venue-map] at:
 
 1 Alie Street,  
+Whitechapel,  
 London,  
 E1 8DE  
 
