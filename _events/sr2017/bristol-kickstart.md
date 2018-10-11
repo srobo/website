@@ -18,7 +18,6 @@ robotics kit to be at the venue.**
 ## Directions
 
 * How to [get to campus][bristol-campus-directions]
-
 * [Where to find food][bristol-food-map]
 
 ### On-campus Directions
