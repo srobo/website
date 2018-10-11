@@ -14,11 +14,26 @@ Kickstart if we have informed you that you have a place there.**
 
 **Please bring your laptops!**
 
-## Directions
+## Location
 
-* How to [get to the venue][london-directions]
+The London Kickstart is being held in the [offices of Thread][venue-map] at:
 
-* [Where to find food][london-food-map]
+1 Alie Street,  
+London,  
+E1 8DE  
+
+The easiest way to travel will be by public transport -- Aldgate, Aldgate East
+and Tower Gateway stations are all within a five minute walk, and Liverpool
+Street station is a ten minute walk away.
+
+<!-- TODO: find out whether we can provide parking
+If you intend to travel by road, please [let us know][teams-contact] so we can
+arrange for parking.
+ -->
+
+Upon arrival at reception, please ask for Thread.
+
+<!-- TODO: find out what food places are open on a Saturday -->
 
 ## Schedule
 
@@ -29,5 +44,5 @@ Kickstart if we have informed you that you have a place there.**
 | 12:30 | There will be a lunch break. Teams are expected to bring their own lunches or get them from food vendors near the venues. |
 | 17:00 | Finish. |
 
-[london-food-map]: TODO
-[london-directions]: TODO
+[venue-map]: https://goo.gl/UzDEPv
+[teams-contact]: mailto:teams@studentrobotics.org
