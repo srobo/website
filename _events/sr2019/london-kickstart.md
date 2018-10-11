@@ -14,7 +14,7 @@ Kickstart if we have informed you that you have a place there.**
 
 **Please bring your laptops!**
 
-## Location
+## Directions
 
 The London Kickstart is being held in the [offices of Thread][venue-map] at:
 
