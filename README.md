@@ -14,7 +14,9 @@ The Student Robotics public website.
     $ gem install bundler rake
     ```
 
-3. Start the app in development mode
+3. Install [Node Package Manager (npm)][install-npm]
+
+4. Start the app in development mode
 
     ```shell
     $ rake dev
@@ -62,8 +64,18 @@ the reverse proxy is working before you commit. To do this, do the following:
 When you've made a change, either push it to a forked repository, or to a
 feature branch, and [raise a pull request][raise-a-pr].
 
+## Deployment
+
+***Note**: full deployment instructions have their [own README][deployment-readme]*
+
+The `master` branch of repo is built into a Docker image by [Circle CI][circle-ci]
+which is then deployed manually into a Kubernetes hosted on Google Cloud.
+
 [build-badge]: https://circleci.com/gh/srobo/website/tree/master.png?style=shield
 [build-page]: https://circleci.com/gh/srobo/website/tree/master
 [docker]: https://docker.com/
 [install-ruby]: https://www.ruby-lang.org/en/documentation/installation/
+[install-npm]: https://nodejs.org/en/download/
 [raise-a-pr]: https://github.com/srobo/website/pull/new/gh-pages
+[circle-ci]: https://circleci.com/gh/srobo/website
+[deployment-readme]: _env/README.md
