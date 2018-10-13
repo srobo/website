@@ -12,6 +12,9 @@ be announced and robotics kits will be handed out to the teams.
 **There is limited space at the London Kickstart, please only attend the London
 Kickstart if we have informed you that you have a place there.**
 
+If you are unable to attend Kickstart, please [let us know][teams-contact] so we
+can arrange another way to get you your kit.
+
 **Please bring your laptops!**
 
 ## Directions
