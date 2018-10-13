@@ -30,6 +30,6 @@ can arrange another way to get you your kit.
 | 17:00 | Finish. |
 
 [teams-contact]: mailto:teams@studentrobotics.org
-[soton-food-map]: TODO
+[soton-food-map]: https://drive.google.com/open?id=1vDqr-yQh-OO7MzVa_OiuKD5xUrEsLprr
 [soton-directions]: TODO
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#highfield
