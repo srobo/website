@@ -38,7 +38,9 @@ arrange for parking.
 
 Upon arrival at reception, please ask for Thread.
 
-<!-- TODO: find out what food places are open on a Saturday -->
+There are a variety of places to get food, including local shops and take-away
+places. See the [venue map][venue-map] for suggestions of places which will be
+open.
 
 ## Schedule
 
