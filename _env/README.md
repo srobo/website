@@ -16,10 +16,16 @@ gcloud components install kubectl
 This also expects you've spun up a Google Container Engine (GKE) cluster,
 similar to the one we use in the Student Robotics Stack.
 
+Set the project you'll be working on
+
+```bash
+gcloud config set project main-site-141811
+```
+
 ## Logging into Kubernetes
 
 ```bash
-gcloud container clusters get-credentials <cluster_name>
+gcloud container clusters get-credentials srobo-website --region europe-west1-b
 ```
 
 ## HTTPS certificates
