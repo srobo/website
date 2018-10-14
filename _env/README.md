@@ -25,7 +25,7 @@ gcloud config set project main-site-141811
 ## Logging into Kubernetes
 
 ```bash
-gcloud container clusters get-credentials <cluster_name>
+gcloud container clusters get-credentials srobo-website --region europe-west1-b
 ```
 
 ## HTTPS certificates
