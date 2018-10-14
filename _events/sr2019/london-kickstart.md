@@ -38,6 +38,8 @@ arrange for parking.
 
 Upon arrival at reception, please ask for Thread.
 
+### Food
+
 There are a variety of places to get food, including local shops and take-away
 places. See the [venue map][venue-map] for suggestions of places which will be
 open.
