@@ -31,5 +31,5 @@ can arrange another way to get you your kit.
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-food-map]: https://drive.google.com/open?id=1vDqr-yQh-OO7MzVa_OiuKD5xUrEsLprr
-[soton-directions]: TODO
+[soton-directions]: {{ site.baseurl }}/resources/sr2019/southampton-kickstart-directions.pdf
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#highfield
