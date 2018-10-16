@@ -24,7 +24,7 @@ University Road,
 Southampton,  
 SO17 1BJ  
 
-For Public transport or driving instructions, see the University of Southampton's information on [getting to our campuses][soton-campus-directions] (scroll down to Highfield campus).
+For public transport or driving instructions, see the University of Southampton's information on [getting to our campuses][soton-campus-directions] (scroll down to Highfield campus).
 
 Once you're on campus you can follow the [on-campus directions][soton-directions].
 
