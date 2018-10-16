@@ -21,10 +21,6 @@ The Southampton kickstart is being held at the University of Southampton at:
 EEE Building (32),
 University of Southampton,
 University Road,
-Southampton,
-EEE Building (32),  
-University of Southampton,  
-University Road,  
 Southampton,  
 SO17 1BJ  
 
