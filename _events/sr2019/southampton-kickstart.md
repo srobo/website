@@ -22,7 +22,11 @@ EEE Building (32),
 University of Southampton,
 University Road,
 Southampton,
-SO17 1BJ
+EEE Building (32),  
+University of Southampton,  
+University Road,  
+Southampton,  
+SO17 1BJ  
 
 For Public transport or driving instructions, see the University of Southampton's information on [getting to our campuses][soton-campus-directions] (scroll down to Highfield campus).
 
