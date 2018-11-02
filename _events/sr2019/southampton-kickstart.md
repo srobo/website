@@ -26,7 +26,7 @@ SO17 1BJ
 
 For public transport or driving instructions, see the University of Southampton's information on [getting to our campuses][soton-campus-directions] (scroll down to Highfield campus).
 
-Once you're on campus you can follow the [on-campus directions][soton-directions].
+For parking and walking directions once you arrive, you can see the [on-campus directions][soton-directions].
 
 ## Food
 
