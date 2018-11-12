@@ -19,5 +19,5 @@ If you weren’t able to attend Kickstart this year, or would like a recap, you 
 [ide]: {{ site.baseurl }}/ide/
 [account-info]: {{ site.baseurl }}/docs/team_admin/user_accounts/
 [forums]: {{ site.baseurl }}/forums/
-[presentation]:
-[microgames]:
+[presentation]: {{ site.baseurl }}/resources/sr2019/kickstart-keynote-sr2019.pdf
+[microgames]: {{ site.baseurl }}/resources/sr2019/microgames-sr2019.pdf
