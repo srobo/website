@@ -12,7 +12,7 @@ All competitors should now have user accounts for our website. This includes our
 (See [our docs][account-info] if you are not able to log in.)
 
 If you weren’t able to attend Kickstart this year, or would like a recap, you can download:
-- [The presentation][presentation] in which we explain this year’s game and how SR is running this year.
+- [The presentation][presentation] in which we explain this year’s game and how the competition is running this year.
 - [The microgames][microgames] which are small activities designed to let you become familiar with the Student Robotics kit.
 
 [rules]: {{ site.baseurl }}/docs/rules/
