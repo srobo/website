@@ -20,6 +20,6 @@ If you weren’t able to attend Kickstart this year, or would like a recap, you 
 [rules]: https://studentrobotics.org/docs/rules/
 [ide]: https://studentrobotics.org/ide/
 [account-info]: https://studentrobotics.org/docs/team_admin/user_accounts
-[forums]: https://studentrobotics.org/forums/
+[forums]: https://studentrobotics.org/forum/
 [presentation]: {{ site.baseurl }}/resources/sr2019/kickstart-keynote-sr2019.pdf
 [microgames]: {{ site.baseurl }}/resources/sr2019/microgames-sr2019.pdf
