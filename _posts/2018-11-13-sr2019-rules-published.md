@@ -17,9 +17,9 @@ If you weren’t able to attend Kickstart this year, or would like a recap, you 
 - [The presentation][presentation] in which we explain this year’s game and how the competition is running this year.
 - [The microgames][microgames] which are small activities designed to let you become familiar with the Student Robotics kit.
 
-[rules]: {{ site.baseurl }}/docs/rules/
-[ide]: {{ site.baseurl }}/ide/
-[account-info]: {{ site.baseurl }}/docs/team_admin/user_accounts/
-[forums]: {{ site.baseurl }}/forums/
+[rules]: https://studentrobotics.org/docs/rules/
+[ide]: https://studentrobotics.org/ide/
+[account-info]: https://studentrobotics.org/docs/team_admin/user_accounts/
+[forums]: https://studentrobotics.org/forums/
 [presentation]: {{ site.baseurl }}/resources/sr2019/kickstart-keynote-sr2019.pdf
 [microgames]: {{ site.baseurl }}/resources/sr2019/microgames-sr2019.pdf
