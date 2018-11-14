@@ -5,7 +5,16 @@ title: SR2019 Rules Published & Useful Resources
 
 We had a successful Kickstart on Saturday and it was great to see the excited teams getting familiar with our kit.
 
-Our game this year is called Caldera in which teams need to claim the most zones by placing more of their tokens than the other robots within the zone boundaries. ([full rules][rules])
+Our game this year, _Caldera_, challenges teams to control scoring zones with
+tokens while navigating an arena with raised platforms. Twenty-five scoring
+zones are arranged in a grid, varying in value from two points for each of the
+outermost 16, a ring of eight on a raised "volcano" work seven points apiece, to
+the the central "caldera" which is worth thirty points.
+
+Teams can claim one of the scoring zones by placing more of their tokens in it
+than any opposing team. Additionally the value of any scoring zone can be
+multiplied by careful position of the robot at the end of the match. Full rules
+are available in the [rulebook][rules].
 
 We’ve already seen the teams come up with some innovative solutions and it’s going to be interesting to see how they develop.
 
