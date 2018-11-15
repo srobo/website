@@ -13,8 +13,9 @@ the the central "caldera" which is worth thirty points.
 
 Teams can claim one of the scoring zones by placing more of their tokens in it
 than any opposing team. Additionally the value of any scoring zone can be
-multiplied by careful position of the robot at the end of the match. Full rules
-are available in the [rulebook][rules].
+multiplied by careful position of the robot at the end of the match. Full
+details, including the prizes available this year, are available in the
+[rulebook][rules].
 
 We’ve already seen the teams come up with some innovative solutions and it’s going to be interesting to see how they develop.
 
