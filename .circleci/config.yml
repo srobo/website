@@ -8,8 +8,6 @@ jobs:
     steps: &steps-template
       - checkout
       - run: gem install bundler
-      - run: bundle install
-      - run: npm install
       - run: docker info
       - run: rake build
 
