@@ -10,8 +10,11 @@ The Student Robotics public website.
 
 2. Install Bundler and Rake
 
-    ``` shell
-    $ gem install bundler rake
+    ```
+    $ cat ./scripts/install-gems
+    #!/bin/sh
+    gem install bundler rake
+    $ ./scripts/install-gems
     ```
 
 3. Install [Node Package Manager (npm)][install-npm]

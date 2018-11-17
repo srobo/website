@@ -7,7 +7,7 @@ jobs:
 
     steps: &steps-template
       - checkout
-      - run: gem install bundler
+      - run: ./scripts/install-gems
       - run: docker info
       - run: rake build
 
