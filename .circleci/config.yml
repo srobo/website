@@ -5,7 +5,7 @@ jobs:
     docker: &docker-template
     - image: circleci/ruby:2.5-node
 
-    steps: &steps-template
+    steps:
       - checkout
       - run: ./scripts/install-gems
       - run: docker info
@@ -15,7 +15,10 @@ jobs:
     docker: *docker-template
 
     steps:
-      <<: *steps-template
+      - checkout
+      - run: ./scripts/install-gems
+      - run: docker info
+      - run: rake build
 
       - setup_remote_docker
 
