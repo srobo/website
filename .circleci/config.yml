@@ -1,8 +1,8 @@
-version: 2.1
+version: 2
 
 jobs:
-  build_release:
-    docker:
+  build_only:
+    docker: &docker-template
     - image: circleci/ruby:2.5-node
 
     steps:
@@ -13,26 +13,33 @@ jobs:
       - run: docker info
       - run: rake build
 
-      - when:
-          condition: << parameters.do_release >>
-          steps:
-            - run:
-                name: Push Docker image
-                command: |
-                  docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
-                  rake deploy
+  build_and_release:
+    docker: *docker-template
+
+    steps:
+      - checkout
+      - setup_remote_docker
+
+      - run: ./scripts/install-gems
+      - run: docker info
+      - run: rake build
+
+      - run:
+          name: Push Docker image
+          command: |
+            docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
+            rake deploy
 
 
 workflows:
-  workflow:
+  version: 2
+  build-release:
     jobs:
-      - build_release:
-          do_release: false
+      - build_only:
           filters:
             branches:
               ignore: master
-      - build_release:
-          do_release: true
+      - build_and_release:
           filters:
             branches:
               only: master
