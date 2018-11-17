@@ -12,8 +12,7 @@ jobs:
       - run: rake build
 
   build_and_release:
-    docker:
-      <<: *docker-template
+    docker: *docker-template
 
     steps:
       <<: *steps-template
