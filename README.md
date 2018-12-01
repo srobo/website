@@ -11,9 +11,6 @@ The Student Robotics public website.
 2. Install Bundler and Rake
 
     ```
-    $ cat ./scripts/install-gems
-    #!/bin/sh
-    gem install bundler rake
     $ ./scripts/install-gems
     ```
 
