@@ -1,0 +1,45 @@
+version: 2
+
+jobs:
+  build_only:
+    docker: &docker-template
+    - image: circleci/ruby:2.5-node
+
+    steps:
+      - checkout
+      - setup_remote_docker
+
+      - run: ./scripts/install-gems
+      - run: docker info
+      - run: rake build
+
+  build_and_release:
+    docker: *docker-template
+
+    steps:
+      - checkout
+      - setup_remote_docker
+
+      - run: ./scripts/install-gems
+      - run: docker info
+      - run: rake build
+
+      - run:
+          name: Push Docker image
+          command: |
+            docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
+            rake deploy
+
+
+workflows:
+  version: 2
+  workflow:
+    jobs:
+      - build_only:
+          filters:
+            branches:
+              ignore: master
+      - build_and_release:
+          filters:
+            branches:
+              only: master
