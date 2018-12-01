@@ -1,2 +1,2 @@
 #!/bin/sh
-gem install bundler rake
+exec gem install bundler rake
