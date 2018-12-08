@@ -6,19 +6,19 @@ type: techday
 location: Southampton University
 ---
 
-Tech days are opportunities for teams to get help if they're struggling with a
+Tech Days are opportunities for teams to get help if they're struggling with a
 technical issue, and is a controlled environment for students to make more
 progress on their robots. It's also an opportunity to see how well they're doing
 in comparison to other teams.
 
-The Southampton tech days take advantage of the facilities of the University of
+The Southampton Tech Days take advantage of the facilities of the University of
 Southampton, and usually involve a tour of the facilities.
 
 ## Directions
 
 * How to [get to campus][soton-campus-directions]
 * [On-campus directions][soton-directions] (and parking)
-* [Where to find food][soton-food-map]. Food is scarce in the Tech day location,
+* [Where to find food][soton-food-map]. Food is scarce in the Tech Day location,
   so we recommend either ordering food in or taking packed lunches.
 
 ## Schedule
