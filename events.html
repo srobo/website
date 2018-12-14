@@ -20,7 +20,7 @@ permalink: /events/
           </li>
           {% assign sorted = site.events | sort: 'date' %}
           {% for event in sorted reversed %}
-          {% if event.date > site.time %}
+          {% if event.date > site.time and event.cancelled != true %}
           <li class="row">
           {% else %}
           <li class="row past-event">
@@ -29,7 +29,11 @@ permalink: /events/
               <a href="{{ event.url | prepend: site.baseurl }}">{{ event.title }}</a>
             </div>
             <div class="column d-12-12 l-2-12"><span class="tag tag-{{ event.type }}">{{ event.type }}</span></div>
-            <div class="column d-12-12 l-3-12">{{ event.date | date: "%e %B %Y at %l%P" }}</div>
+            {% if event.cancelled %}
+              <div class="column d-12-12 l-3-12"><s>{{ event.date | date: "%e %B %Y at %l%P" }}</s></div>
+            {% else %}
+              <div class="column d-12-12 l-3-12">{{ event.date | date: "%e %B %Y at %l%P" }}</div>
+            {% endif %}
             <div class="column d-12-12 l-4-12">{{ event.location }}</div>
           </li>
           {% endfor %}
