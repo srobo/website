@@ -1,5 +1,5 @@
 ---
-title: London December Tech Day
+title: London March Tech Day
 date: 2019-03-09 10:00:00
 layout: event
 type: techday
