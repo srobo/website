@@ -52,7 +52,7 @@ layout: home
           {% if any_events %}
           <ul class="event-list">
             {% for event in site.events %}
-            {% if event.date > site.time %}
+            {% if event.date > site.time and event.cancelled != true %}
             <li class="event">
               <p class="event-name"><a href="{{ event.url | prepend: site.baseurl }}">{{ event.title }}</a></p>
               <p class="event-details">

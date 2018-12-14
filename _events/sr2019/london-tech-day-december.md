@@ -4,6 +4,7 @@ date: 2018-12-15 10:00:00
 layout: event
 type: techday
 location: Thread, Whitechapel
+cancelled: true
 ---
 
 Tech Days are opportunities for teams to get help if they're struggling with a
