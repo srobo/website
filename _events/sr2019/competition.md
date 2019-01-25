@@ -3,7 +3,7 @@ title: Competition
 date: 2019-04-06 9:00:00
 layout: event
 type: competition
-location: Southampton University
+location: Southampton University Highfield Campus
 ---
 
 ## Tickets
