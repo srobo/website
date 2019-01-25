@@ -19,7 +19,7 @@ tickets are available.
 
 ## More Details
 
-To come in the following weeks.
+To come in the weeks following the date announcement.
 
 [soton-directions]: {{ site.baseurl }}/resources/sr2019/southampton-techday-directions-highfield.pdf
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
