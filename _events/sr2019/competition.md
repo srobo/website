@@ -20,7 +20,7 @@ The competition will be held from *Saturday 6th April* until *Sunday 7th April*.
 
 ## More details
 
-To come in the weeks following the date announcement.
+Coming soon.
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
