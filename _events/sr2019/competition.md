@@ -16,7 +16,7 @@ The competition will be held at the University of Southampton's Highfield campus
 
 ## Schedule
 
-The competition will be held from *Saturday 6th April* until *Sunday 7th April*. The exact start/end times are to be confirmed, but doors open 9am, and we aim to finish around 6pm.
+The competition will be held from *Saturday 6th April* until *Sunday 7th April*. The exact start/end times are to be confirmed, but doors open 9am and we aim to finish around 6pm.
 
 ## More details
 
