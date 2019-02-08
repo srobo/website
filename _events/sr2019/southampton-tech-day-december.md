@@ -16,6 +16,9 @@ Southampton, and usually involve a tour of the facilities.
 
 ## Directions
 
+Once on campus, follow the signs to Building 25 and then look for the signage
+for Student Robotics.
+
 * How to [get to campus][soton-campus-directions]
 * [On-campus directions][soton-directions] (and parking)
 * [Where to find food][soton-food-map]. Food is scarce in the Tech Day location,
