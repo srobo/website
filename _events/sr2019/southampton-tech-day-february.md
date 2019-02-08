@@ -16,6 +16,9 @@ Southampton, and usually involve a tour of the facilities.
 
 ## Directions
 
+Once on campus, follow the signs to the Zepler or Mountbatten, buildings 59 or
+53 respectively, and look for the signage for Student Robotics.
+
 * How to [get to campus][soton-campus-directions]
 * [On-campus directions][soton-directions] (and parking)
 * [Where to find food][soton-food-map]. Food is scarce in the Tech Day location,
@@ -32,5 +35,5 @@ Southampton, and usually involve a tour of the facilities.
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-food-map]: https://goo.gl/yYlfs5
-[soton-directions]: {{ site.baseurl }}/resources/sr2019/southampton-techday-directions-highfield.pdf
+[soton-directions]: {{ site.baseurl }}/resources/sr2019/southampton-techday-directions-highfield-zepler.pdf
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
