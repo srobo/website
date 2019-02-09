@@ -114,7 +114,17 @@
 }
 
 .full-navigation {
-  @extend .desktop-only;
+  &.mobile-collapsed {
+    @extend .desktop-only;
+  }
+  &:not(.mobile-collapsed) {
+    animation: fadein 0.5s;
+  }
+}
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
 }
 
 .mobile-navigation {
@@ -124,3 +134,4 @@
     width: auto;
   }
 }
+
