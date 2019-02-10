@@ -10,4 +10,4 @@ gem 'tzinfo',           :platforms => [:mswin, :mingw, :x64_mingw]
 gem 'tzinfo-data',      :platforms => [:mswin, :mingw, :x64_mingw]
 
 # Avoid polling on windows
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'wdm', '>= 0.1.0'
