@@ -11,7 +11,7 @@ The Student Robotics public website.
 2. Install Bundler (1.x) and Rake
 
     ```
-    $ gem install bundler -v '~> 1' rake
+    $ gem install 'bundler:~>1' rake
     ```
 
 3. Install [Node Package Manager (npm)][install-npm]
