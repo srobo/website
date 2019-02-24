@@ -8,7 +8,7 @@ We had a successful Kickstart on Saturday and it was great to see the excited te
 Our game this year, _Caldera_, challenges teams to control scoring zones with
 tokens while navigating an arena with raised platforms. Twenty-five scoring
 zones are arranged in a grid, varying in value from two points for each of the
-outermost 16, a ring of eight on a raised "volcano" work seven points apiece, to
+outermost 16, a ring of eight on a raised "volcano" worth seven points apiece, to
 the the central "caldera" which is worth thirty points.
 
 Teams can claim one of the scoring zones by placing more of their tokens in it
