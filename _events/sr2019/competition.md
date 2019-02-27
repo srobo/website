@@ -3,20 +3,47 @@ title: Competition
 date: 2019-04-06 9:00:00
 layout: event
 type: competition
-location: Southampton University Highfield Campus
+location: Students' Union Building<br>Southampton University Highfield Campus
 ---
 
+## Summary
+
 The Student Robotics Competition marks the ultimate stage of SR2019, showcasing the months of preparation. Our teams will work hard to push their robots to the limit and quickly make repairs between league matches. We will finish the weekend with the finals where the best bots will be named victorious.
-
-## Directions
-
-The competition will be held at the University of Southampton's Highfield campus, so please plan accommodation / transport accordingly. 
-
-* How to [get to campus][soton-campus-directions]
 
 ## Schedule
 
 The competition will be held from *Saturday 6th April* until *Sunday 7th April*. The exact start/end times are to be confirmed, but doors open 9am and we aim to finish around 6pm.
+
+The Saturday will begin with a briefing on the rules and general struture of the weekend, followed by some time for teams to test their robots in the arena. Soon after, the league matches will start, in which your robot will compete against 3 other bots to rise up the league. These continue for the rest of the day.
+
+On Sunday morning, the league matches will continue. Once these have concluded, we will begin knockout matches, the order of which is determined by your position in the league. The reamining teams will compete in the finals, followed by the awards for the winning teams.
+
+## Tickets and Media Consent
+
+Competitors need to bring along a ticket to be allowed entry. Anyone under the
+age of 18 must be accompanied by an adult. Student Robotics will announce when
+tickets are available.
+
+All competitiors and visitors need to complete a media consent form which will be attached to the tickets email.
+
+## Location
+
+The competition will be held in the Students' Union building at the [University of Southampton's Highfield campus][soton-campus-directions]:
+
+Student's Union  
+University of Southampton  
+University Road  
+Southampton  
+SO17 1BJ  
+United Kingdom  
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2514.4224296392836!2d-1.399433684090786!3d50.934400360256014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487473f7089148ab%3A0xaeeea75e9ec72c88!2sUniversity+of+Southampton+Students&#39;+Union+(SUSU)!5e0!3m2!1sen!2suk!4v1551272133022" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+## Parking
+
+## Food
+
+Unfortunately, we are unable to provide food at the competition, but we have compiled a list of available food outlets nearby if you wish to purchase food on the day.
 
 ## More details
 
