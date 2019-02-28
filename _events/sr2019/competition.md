@@ -24,7 +24,7 @@ Competitors need to bring along a ticket to be allowed entry. Anyone under the
 age of 18 must be accompanied by an adult. Student Robotics will announce when
 tickets are available.
 
-All competitiors and visitors need to complete a media consent form which will be attached to the tickets email.
+All competitors and visitors will also need to complete a media consent form (attached to the tickets email) and bring this along too.
 
 ## Location
 
@@ -41,9 +41,13 @@ United Kingdom
 
 ## Parking
 
+[Pay and display car parks][parking] are available on site.
+
 ## Food
 
-Unfortunately, we are unable to provide food at the competition, but we have compiled a list of available food outlets nearby if you wish to purchase food on the day.
+Unfortunately, we are unable to provide food at the competition, but we have compiled a list of available food outlets on site if you wish to purchase food on the day.
+
+TODO: Map of food outlets 
 
 ## More details
 
@@ -51,3 +55,4 @@ Coming soon.
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
+[parking]: {{ '/resources/sr2019/competition-parking-2019.pdf' | prepend: site.baseurl }}
