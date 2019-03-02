@@ -3,10 +3,8 @@ title: Competition
 date: 2019-04-06 9:00:00
 layout: event
 type: competition
-location: Students' Union Building<br>Southampton University Highfield Campus
+location: Southampton University
 ---
-
-## Summary
 
 The Student Robotics Competition marks the ultimate stage of SR2019, showcasing the months of preparation. Our teams will work hard to push their robots to the limit and quickly make repairs between league matches. We will finish the weekend with the finals where the best bots will be named victorious.
 
@@ -24,7 +22,7 @@ Competitors need to bring along a ticket to be allowed entry. Anyone under the
 age of 18 must be accompanied by an adult. Student Robotics will announce when
 tickets are available.
 
-All competitors and visitors will also need to complete a media consent form (attached to the tickets email) and bring this along too.
+All competitors and visitors will need to complete a media consent form and bring this along too.
 
 ## Location
 
