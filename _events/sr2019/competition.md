@@ -43,7 +43,7 @@ United Kingdom
 
 We have a limited amount of free parking on site for competitors.
 
-<img src="{{ '/resources/sr2019/parking-map.png' | prepend: site.baseurl }}" />
+![parking information]({{ '/resources/sr2019/parking-map.png' | prepend: site.baseurl }})
 
 ## More details
 
