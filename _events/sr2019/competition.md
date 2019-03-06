@@ -10,7 +10,7 @@ The Student Robotics Competition marks the ultimate stage of SR2019, showcasing 
 
 ## Schedule
 
-The competition will be held from *Saturday 6th April* until *Sunday 7th April*. The exact start/end times are to be confirmed, but doors open 9am and we aim to finish around 6pm.
+The competition will be held from *Saturday 6th April* until *Sunday 7th April*. Doors open 9am and we aim to finish around 6pm.
 
 The Saturday will begin with a briefing on the rules and general struture of the weekend, followed by some time for teams to test their robots in the arena. Soon after, the league matches will start, in which your robot will compete against 3 other bots to rise up the league. These continue for the rest of the day.
 
