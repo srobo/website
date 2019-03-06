@@ -49,4 +49,3 @@ Coming soon.
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
-[parking]: {{ '/resources/sr2019/competition-parking-2019.pdf' | prepend: site.baseurl }}
