@@ -22,7 +22,7 @@ Competitors need to bring along a ticket to be allowed entry. Anyone under the
 age of 18 must be accompanied by an adult. Student Robotics will announce when
 tickets are available.
 
-All competitors and visitors will need to complete a media consent form and bring this along too.
+All competitors and visitors will need to provide media consent. More details to come soon.
 
 ## Location
 
