@@ -18,22 +18,20 @@ On Sunday morning, the league matches will continue. Once these have concluded, 
 
 ## Tickets and Media Consent
 
-Competitors need to bring along a ticket to be allowed entry. Anyone under the
-age of 18 must be accompanied by an adult. Student Robotics will announce when
-tickets are available.
+Competitors need to bring along a ticket to be allowed entry. Anyone under the age of 18 must be accompanied by an adult. To obtain a ticket, competitors need to sign a [media consent form][mcf-link] and [send back to us][teams-contact]. Those under the age of 16 will need to get a parent or guardian to sign on their behalf. Once processed, you'll receive an automated email with a link to your ticket.
 
-All competitors and visitors will need to provide media consent. More details to come soon.
+Media consent forms will also be available at reception.
 
 ## Location
 
 The competition will be held in the Students' Union building at the [University of Southampton's Highfield campus][soton-campus-directions]:
 
-Student's Union  
-University of Southampton  
-University Road  
-Southampton  
-SO17 1BJ  
-United Kingdom  
+Student's Union
+University of Southampton
+University Road
+Southampton
+SO17 1BJ
+United Kingdom
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2514.4224296392836!2d-1.399433684090786!3d50.934400360256014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487473f7089148ab%3A0xaeeea75e9ec72c88!2sUniversity+of+Southampton+Students&#39;+Union+(SUSU)!5e0!3m2!1sen!2suk!4v1551272133022" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -49,3 +47,4 @@ Coming soon.
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
+[mcf-link]: {{ '/resources/sr2019/media-consent.pdf' | prepend: site.baseurl }}
