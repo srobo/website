@@ -18,11 +18,9 @@ On Sunday morning, the league matches will continue. Once these have concluded, 
 
 ## Tickets and Media Consent
 
-Competitors need to bring along a ticket to be allowed entry. Anyone under the
-age of 18 must be accompanied by an adult. Student Robotics will announce when
-tickets are available.
+Competitors need to bring along a ticket to be allowed entry. Anyone under the age of 18 must be accompanied by an adult. To obtain a ticket, competitors need to sign a [media consent form][mcf-link] and [send back to us][teams-contact]. Please put "Student Robotics 2019" as the event name. Those under the age of 16 will need to get a parent or guardian to sign on their behalf. Once processed, you'll receive an automated email with a link to your ticket.
 
-All competitors and visitors will need to provide media consent. More details to come soon.
+Media consent forms will also be available at reception.
 
 ## Location
 
@@ -49,3 +47,4 @@ Coming soon.
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
+[mcf-link]: {{ '/resources/sr2019/media-consent.pdf' | prepend: site.baseurl }}
