@@ -21,7 +21,7 @@ The competition will be held from *Saturday 6th April* until *Sunday 7th April*.
 | 9:30  | Introduction and safety briefing |
 | 9:40  | Tinker time                      |
 | 11:00 | League matches                   |
-| 12:00 | Lunch and Tinker time            |
+| 12:00 | Lunch and tinker time            |
 | 13:00 | League matches                   |
 | 17:30 | End of day                       |
 
@@ -30,12 +30,12 @@ The competition will be held from *Saturday 6th April* until *Sunday 7th April*.
 | Time  | Activity                |
 |-------|-------------------------|
 | 9:00  | Doors open              |
-| 9:30  | Tinker Time             |
-| 10:30 | League Matches          |
-| 12:00 | Lunch and Tinker time   |
-| 13:00 | League Matches          |
+| 9:30  | Tinker time             |
+| 10:30 | League matches          |
+| 12:00 | Lunch and tinker time   |
+| 13:00 | League matches          |
 | 14:40 | Knockouts               |
-| 17:00 | Prize Ceremony          |
+| 17:00 | Prize ceremony          |
 | 17:15 | Kit return              |
 | 18:00 | End of day              |
 
