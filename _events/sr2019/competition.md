@@ -39,6 +39,10 @@ The competition will be held from *Saturday 6th April* until *Sunday 7th April*.
 | 17:15 | Kit return              |
 | 18:00 | End of day              |
 
+The Saturday will begin with a briefing on the rules and general struture of the weekend, followed by some time for teams to test their robots in the arena. Soon after, the league matches will start, in which your robot will compete against 3 other bots to rise up the league. These continue for the rest of the day.
+
+On Sunday morning, the league matches will continue. Once these have concluded, we will begin knockout matches, the order of which is determined by your position in the league. The remaining teams will compete in the finals, followed by the awards for the winning teams.
+
 ## Tickets and Media Consent
 
 Competitors need to bring along a ticket to be allowed entry. Anyone under the age of 18 must be accompanied by an adult. To obtain a ticket, competitors need to sign a [media consent form][mcf-link] and [send back to us][teams-contact]. Please put "Student Robotics 2019" as the event name. Those under the age of 16 will need to get a parent or guardian to sign on their behalf. Once processed, you'll receive an automated email with a link to your ticket.
