@@ -34,9 +34,10 @@ The competition will be held from *Saturday 6th April* until *Sunday 7th April*.
 | 10:30 | League matches          |
 | 12:00 | Lunch and tinker time   |
 | 13:00 | League matches          |
-| 14:40 | Knockouts               |
-| 17:00 | Prize ceremony          |
-| 17:15 | Kit return              |
+| 14:30 | Competition Photo       |
+| 15:00 | Knockouts               |
+| 17:20 | Prize ceremony          |
+| 17:40 | Kit return              |
 | 18:00 | End of day              |
 
 The Saturday will begin with a briefing on the rules and general struture of the weekend, followed by some time for teams to test their robots in the arena. Soon after, the league matches will start, in which your robot will compete against 3 other bots to rise up the league. These continue for the rest of the day.
