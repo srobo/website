@@ -37,7 +37,7 @@ The competition will be held from *Saturday 6th April* until *Sunday 7th April*.
 | 14:40 | Knockouts               |
 | 17:00 | Prize Ceremony          |
 | 17:15 | Kit return              |
-| 18:00 | ENd of day              |
+| 18:00 | End of day              |
 
 ## Tickets and Media Consent
 
