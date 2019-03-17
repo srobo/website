@@ -68,9 +68,6 @@ We have a limited amount of free parking on site for competitors.
 
 ![parking information]({{ '/resources/sr2019/parking-map.png' | prepend: site.baseurl }})
 
-## More details
-
-Coming soon.
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
