@@ -14,6 +14,7 @@ The competition will be held from *Saturday 6th April* until *Sunday 7th April*.
 
 ### Day 1 - 6th April, 2019
 
+Saturday begins with a briefing on the rules and general struture of the weekend, followed by some time for teams to test their robots in the arena. Soon after, the league matches will start, in which your robot will compete against 3 other bots to rise up the league. These continue for the rest of the day.
 
 | Time  | Activity                         |
 |-------|----------------------------------|
@@ -27,6 +28,8 @@ The competition will be held from *Saturday 6th April* until *Sunday 7th April*.
 
 ### Day 2 - 7th April, 2019
 
+On Sunday morning, the league matches will continue. Once these have concluded, we will begin knockout matches, the order of which is determined by your position in the league. The remaining teams will compete in the finals, followed by the awards for the winning teams.
+
 | Time  | Activity                |
 |-------|-------------------------|
 | 9:00  | Doors open              |
@@ -39,10 +42,6 @@ The competition will be held from *Saturday 6th April* until *Sunday 7th April*.
 | 17:20 | Prize ceremony          |
 | 17:40 | Kit return              |
 | 18:00 | End of day              |
-
-The Saturday will begin with a briefing on the rules and general struture of the weekend, followed by some time for teams to test their robots in the arena. Soon after, the league matches will start, in which your robot will compete against 3 other bots to rise up the league. These continue for the rest of the day.
-
-On Sunday morning, the league matches will continue. Once these have concluded, we will begin knockout matches, the order of which is determined by your position in the league. The remaining teams will compete in the finals, followed by the awards for the winning teams.
 
 ## Tickets and Media Consent
 
