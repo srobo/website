@@ -70,7 +70,7 @@ We have a limited amount of free parking on site for competitors.
 
 ## Venue layout
 
-![parking information]({{ '/resources/sr2019/venue-map.png' | prepend: site.baseurl }})
+![venue map]({{ '/resources/sr2019/venue-map.png' | prepend: site.baseurl }})
 
 You can also download a PDF of the [venue map][venue-map].
 
