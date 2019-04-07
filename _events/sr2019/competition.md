@@ -74,6 +74,11 @@ We have a limited amount of free parking on site for competitors.
 
 You can also download a PDF of the [venue map][venue-map].
 
+## Soundtrack
+
+- [Epic Playlist](https://open.spotify.com/user/theorangeone97/playlist/5NgaMpnbl01iWzpwvQEdoo?si=Axd6U2KqR3qLROne2gb2Fw)
+- [_Chill_ Playlist](https://open.spotify.com/user/theorangeone97/playlist/4VZp716neJl4zWmGVY6k4L?si=Qos3XkdQQvK9-MBWzgXmHA)
+
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
 [mcf-link]: {{ '/resources/sr2019/media-consent.pdf' | prepend: site.baseurl }}
