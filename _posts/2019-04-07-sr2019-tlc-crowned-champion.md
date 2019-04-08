@@ -31,7 +31,7 @@ The Challenge: Caldera
 
 Our game this year, Caldera, challenged teams to control scoring zones with tokens while navigating an arena with raised platforms. Twenty-five scoring zones were arranged in a grid, varying in value from two points for each of the outermost 16 zones, a ring of eight on a raised “volcano” worth seven points apiece, to the the central “caldera” which was worth thirty points.
 
-There were a few designs patterns this year. Many teams opted for tank tracks as a method of climbing the volcano. Instead of climbing the volcano, a few teams built catapult mechanisms with varying degrees of success. Others scooped up tokens and deposited them on the low scoring areas and/or the edge of the volcano. Some teams lifted tokens onto a top-mounted conveyor belts which dropped them onto the volcano's surface.
+There were a range of inventive designs this year. Many teams opted for tank tracks as a method of climbing the volcano. Instead of climbing the volcano, a few teams built catapult mechanisms with varying degrees of success. Others scooped up tokens and deposited them on the low scoring areas and/or the edge of the volcano. Some teams lifted tokens onto top-mounted conveyor belts which dropped them onto the volcano's surface.
 
 Some of the more notable designs were:
 
