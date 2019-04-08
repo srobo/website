@@ -21,7 +21,7 @@ The Challenge: Caldera
 {% include figure.html
            class="right"
            src="/images/content/news/sr2019/tlc-launcher.jpg"
-           caption="Team TLC's cube launcher" %}
+           caption="Team TLC's token launcher" %}
 
            
 {% include figure.html
