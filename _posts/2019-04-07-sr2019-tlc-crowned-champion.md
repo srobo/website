@@ -5,17 +5,29 @@ title: Team TLC Wins Student Robotics 2019
 
 <!--{% include figure.html
            src="/images/content/news/sr2019/image.jpg"
-           caption="" %}
-
-{% include figure.html
-           class="right"
-           src="/images/content/news/sr2019/image.jpg"
            caption="" %}-->
+
 
 That's a wrap on Student Robotics 2019! Our teams have been working hard since November to design, build, and test their robots; finally seeing the fruits of their work on the competition weekend. It was great to see our competitors quickly adapting their robots, from the physical design to the software, to overcome unforeseen challenges; giving themselves every small advantage towards claiming victory.
 
 The Challenge: Caldera
 ----------------------
+
+{% include figure.html
+           class="right"
+           src="/images/content/news/sr2019/arena.jpg"
+           caption="The arena with a raised volcano area" %}
+
+{% include figure.html
+           class="right"
+           src="/images/content/news/sr2019/tlc-launcher.jpg"
+           caption="Team TLC's cube launcher" %}
+
+           
+{% include figure.html
+           class="right"
+           src="/images/content/news/sr2019/swi.jpg"
+           caption="Team SWI's volcano climbing robot in the Caldera" %}
 
 Our game this year, Caldera, challenged teams to control scoring zones with tokens while navigating an arena with raised platforms. Twenty-five scoring zones were arranged in a grid, varying in value from two points for each of the outermost 16 zones, a ring of eight on a raised “volcano” worth seven points apiece, to the the central “caldera” which was worth thirty points.
 
