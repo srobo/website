@@ -3,9 +3,9 @@ layout: news
 title: Team TLC Wins Student Robotics 2019
 ---
 
-<!--{% include figure.html
-           src="/images/content/news/sr2019/image.jpg"
-           caption="" %}-->
+{% include figure.html
+           src="/images/content/news/sr2019/sr2019-photo.jpg"
+           caption="All the teams from SR2019" %}
 
 
 That's a wrap on Student Robotics 2019! Our teams have been working hard since November to design, build, and test their robots; finally seeing the fruits of their work on the competition weekend. It was great to see our competitors quickly adapting their robots, from the physical design to the software, to overcome unforeseen challenges; giving themselves every small advantage towards claiming victory.
