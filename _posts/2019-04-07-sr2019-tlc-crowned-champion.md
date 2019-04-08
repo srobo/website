@@ -33,7 +33,7 @@ Our game this year, Caldera, challenged teams to control scoring zones with toke
 
 There were a few designs patterns this year. Many teams opted for tank tracks as a method of climbing the volcano. Instead of climbing the volcano, a few teams built catapult mechanisms with varying degrees of success. Others scooped up tokens and deposited them on the low scoring areas and/or the edge of the volcano. Some teams lifted tokens onto a top-mounted conveyor belts which dropped them onto the volcano's surface.
 
-The most notable designs were:
+Some of the more notable designs were:
 
 - Team TLC with their consistent, successful catapult.
 - Team SWI with their simple and effective grab-and-go robot which climbed the volcano with a single token.
