@@ -26,7 +26,7 @@ The Challenge: Caldera
 {% include figure.html
            class="right"
            src="/images/content/news/sr2019/swi.jpg"
-           caption="South Wilts Grammar School's volcano-climbing robot in the Caldera" %}
+           caption="South Wilts Grammar School's volcano-climbing robot in the caldera" %}
 
 Our game this year, Caldera, challenged teams to control scoring zones with tokens while navigating an arena with raised platforms. Twenty-five scoring zones were arranged in a grid, varying in value from two points for each of the outermost 16 zones, a ring of eight on a raised “volcano” worth seven points apiece, to the the central “caldera” which was worth thirty points. Parking your robot in a zone tripled the points of that zone and the 4 adjacent zones.
 
@@ -42,7 +42,7 @@ Some of the more notable designs were:
 The Final
 ---------
 
-Student Robotics 2019 concluded with an intense match between [Peter Symonds College](https://www.psc.ac.uk/), [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/), [The Ladies' College Guernsey](http://www.ladiescollege.com/), and [Hills Road Sixth Form College](http://www.hillsroad.ac.uk/). Hampton and Lady Eleanor Holles School were quick off the mark pushing their tokens into the scoring zones. Hills Road soon followed, quickly shifting their tokens across the arena. Peter Symonds's robot slowly moved 4 of their tokens into a single scoring zone before unfortunately flipping onto its back. Meanwhile, The Ladies' College quietly moved towards the edge of the volcano and launched a token directly into the Caldera.
+Student Robotics 2019 concluded with an intense match between [Peter Symonds College](https://www.psc.ac.uk/), [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/), [The Ladies' College Guernsey](http://www.ladiescollege.com/), and [Hills Road Sixth Form College](http://www.hillsroad.ac.uk/). Hampton and Lady Eleanor Holles School were quick off the mark pushing their tokens into the scoring zones. Hills Road soon followed, quickly shifting their tokens across the arena. Peter Symonds's robot slowly moved 4 of their tokens into a single scoring zone before unfortunately flipping onto its back. Meanwhile, The Ladies' College quietly moved towards the edge of the volcano and launched a token directly into the caldera.
 
 <!-- Video of Final -->
 <iframe
@@ -73,7 +73,7 @@ Results
 
 We always like to see new teams joining the competition, and Eltham College were still able to pull their weight against our seasoned competitors. Their robot picked up a stack of tokens and used tank tracks as a method of climbing the volcano.
 
-The Committee Award is especially important to us. As engineers, we are looking for the most simple and elegant solution to every challenge, and Team SWI from South Wilts Grammar School managed to do exactly that. Their robot was designed to take a single token into the highest scoring zone, the Caldera, by using [large wheels to climb the volcano](https://twitter.com/studentrobotics/status/1114534154283175936). Over the course of the competition weekend, they made notes of other teams' strategies and were constantly evolving their own to stay competitive. They also quickly and cleverly changed their approach to overcome technical difficulties midway through the competition.
+The Committee Award is especially important to us. As engineers, we are looking for the most simple and elegant solution to every challenge, and Team SWI from South Wilts Grammar School managed to do exactly that. Their robot was designed to take a single token into the highest scoring zone, the caldera, by using [large wheels to climb the volcano](https://twitter.com/studentrobotics/status/1114534154283175936). Over the course of the competition weekend, they made notes of other teams' strategies and were constantly evolving their own to stay competitive. They also quickly and cleverly changed their approach to overcome technical difficulties midway through the competition.
 
 We love to see teams dressing up to compliment their robot theme, and this year Haberdashers' Aske's Boys' School won the Robot and Team Image award with their Hawaiian theme. This was complimented with inflatable palm trees and a 3D paper pineapple on top of their robot.
 
