@@ -66,10 +66,10 @@ Results
 | 1st Place             | [The Ladies' College](http://www.ladiescollege.com/)
 | 2nd Place             | [Hills Road Sixth Form College](http://www.hillsroad.ac.uk/)
 | 3rd Place             | [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/)
-| <span title="The rookie team who achieve the highest place in the league">Rookie Award</span>          | [Eltham College](https://www.elthamcollege.london/)
-| <span title="The team that displays the most extraordinary ingenuity in the design of their robot">Committee Award</span>       | [South Wilts Grammar School](https://www.swgs.wilts.sch.uk/)
-| <span title="The team that presents their robot and themselves in what is judged to be the most outstanding way">Robot and Team Image</span>  | [Haberdashers' Aske's Boys' School](https://www.habsboys.org.uk/)
-| <span title="The team that is judged to have the best online presence using the hashtag #srobo19">Online Presence</span>       | [Collyer's](https://www.collyers.ac.uk/) ([Twitter](https://twitter.com/CollyersRobots))
+| <span class="has-explanation" title="The rookie team who achieve the highest place in the league">Rookie Award</span>          | [Eltham College](https://www.elthamcollege.london/)
+| <span class="has-explanation" title="The team that displays the most extraordinary ingenuity in the design of their robot">Committee Award</span>       | [South Wilts Grammar School](https://www.swgs.wilts.sch.uk/)
+| <span class="has-explanation" title="The team that presents their robot and themselves in what is judged to be the most outstanding way">Robot and Team Image</span>  | [Haberdashers' Aske's Boys' School](https://www.habsboys.org.uk/)
+| <span class="has-explanation" title="The team that is judged to have the best online presence using the hashtag #srobo19">Online Presence</span>       | [Collyer's](https://www.collyers.ac.uk/) ([Twitter](https://twitter.com/CollyersRobots))
 
 We always like to see new teams joining the competition, and Eltham College were still able to pull their weight against our seasoned competitors. Their robot picked up a stack of tokens and used tank tracks as a method of climbing the volcano.
 
