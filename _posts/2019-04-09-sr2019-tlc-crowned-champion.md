@@ -84,11 +84,6 @@ For full details on all the awards, please see the [rulebook](/docs/resources/20
 
 Of course, this competition would not be possible without the support of [The Motorola Solutions Foundation](https://www.motorolasolutions.com/en_us/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html), our sponsor for this year, who enabled us to provide a fun and educational opportunity for students from a range of engineering disciplines. 
 
-<!--Media
------
-
-Photos can be found on the Student Robotics 2019 Competition [Flickr group](https://www.flickr.com/groups/sr2019/).-->
-
 Notes to editors
 ----------------
 
