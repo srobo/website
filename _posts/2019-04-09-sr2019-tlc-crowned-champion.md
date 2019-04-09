@@ -43,7 +43,7 @@ Some of the more notable designs were:
 The Final
 ---------
 
-Student Robotics 2019 concluded with an intense match between [Peter Symonds College](https://www.psc.ac.uk/), [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/), [The Ladies' College](http://www.ladiescollege.com/), and [Hills Road Sixth Form College](http://www.hillsroad.ac.uk/). Hampton and Lady Eleanor Holles School were quick off the mark pushing their tokens into the scoring zones. Hill's Road soon followed, quickly shifting their tokens across the arena. Peter Symonds's robot slowly moved 4 of their tokens into a single scoring zone before unfortunately flipping onto its back. Meanwhile, The Ladies' College quietly moved towards the edge of the volcano and launched a token directly into the Caldera.
+Student Robotics 2019 concluded with an intense match between [Peter Symonds College](https://www.psc.ac.uk/), [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/), [The Ladies' College](http://www.ladiescollege.com/), and [Hills Road Sixth Form College](http://www.hillsroad.ac.uk/). Hampton and Lady Eleanor Holles School were quick off the mark pushing their tokens into the scoring zones. Hills Road soon followed, quickly shifting their tokens across the arena. Peter Symonds's robot slowly moved 4 of their tokens into a single scoring zone before unfortunately flipping onto its back. Meanwhile, The Ladies' College quietly moved towards the edge of the volcano and launched a token directly into the Caldera.
 
 <!-- Video of Final -->
 <iframe
