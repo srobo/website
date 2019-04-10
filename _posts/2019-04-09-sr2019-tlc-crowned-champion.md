@@ -67,7 +67,7 @@ Results
 | 2nd Place             | [Hills Road Sixth Form College](http://www.hillsroad.ac.uk/)
 | 3rd Place             | [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/)
 | <span title="The rookie team who achieve the highest place in the league">Rookie Award</span>          | [Eltham College](https://www.elthamcollege.london/)
-| <span title="The team that displays the most extraordinary ingenuity in the design of their robot">Committee Award</span>       | [South Wilts Grammar School](https://www.swgs.wilts.sch.uk/)
+| <span title="The team that displays the most extraordinary ingenuity or elegant simplicity in the design of their robot">Committee Award</span>       | [South Wilts Grammar School](https://www.swgs.wilts.sch.uk/)
 | <span title="The team that presents their robot and themselves in what is judged to be the most outstanding way">Robot and Team Image</span>  | [Haberdashers' Aske's Boys' School](https://www.habsboys.org.uk/)
 | <span title="The team that is judged to have the best online presence using the hashtag #srobo19">Online Presence</span>       | [Collyer's](https://www.collyers.ac.uk/) ([Twitter](https://twitter.com/CollyersRobots))
 
