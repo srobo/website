@@ -21,12 +21,12 @@ The Challenge: Caldera
 {% include figure.html
            class="right"
            src="/images/content/news/sr2019/tlc-launcher.jpg"
-           caption="The Ladies' College's token launcher" %}
+           caption="The Ladies' College Guernsey's token launcher" %}
 
 {% include figure.html
            class="right"
            src="/images/content/news/sr2019/swi.jpg"
-           caption="South Wilts Grammar School's volcano-climbing robot in the Caldera" %}
+           caption="South Wilts Grammar School's volcano-climbing robot in the caldera" %}
 
 Our game this year, Caldera, challenged teams to control scoring zones with tokens while navigating an arena with raised platforms. Twenty-five scoring zones were arranged in a grid, varying in value from two points for each of the outermost 16 zones, a ring of eight on a raised “volcano” worth seven points apiece, to the the central “caldera” which was worth thirty points. Parking your robot in a zone tripled the points of that zone and the 4 adjacent zones.
 
@@ -34,7 +34,7 @@ There were a range of inventive designs this year. Many teams opted for tank tra
 
 Some of the more notable designs were:
 
-- [The Ladies' College](http://www.ladiescollege.com/) with their consistent, successful catapult.
+- [The Ladies' College Guernsey](http://www.ladiescollege.com/) with their consistent, successful catapult.
 - [South Wilts Grammar School](https://www.swgs.wilts.sch.uk/) with their simple and effective grab-and-go robot which climbed the volcano with a single token.
 - [Cranbrook School](https://www.cranbrookschool.co.uk/) with their suction cup and catapult combination which unfortunately had technical issues for much of the competition.
 - [Haberdashers' Aske's Boys' School](https://www.habsboys.org.uk/) with their Hawaiian themed robot, topped with a 3D paper pineapple.
@@ -42,7 +42,7 @@ Some of the more notable designs were:
 The Final
 ---------
 
-Student Robotics 2019 concluded with an intense match between [Peter Symonds College](https://www.psc.ac.uk/), [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/), [The Ladies' College](http://www.ladiescollege.com/), and [Hills Road Sixth Form College](http://www.hillsroad.ac.uk/). Hampton and Lady Eleanor Holles School were quick off the mark pushing their tokens into the scoring zones. Hills Road soon followed, quickly shifting their tokens across the arena. Peter Symonds's robot slowly moved 4 of their tokens into a single scoring zone before unfortunately flipping onto its back. Meanwhile, The Ladies' College quietly moved towards the edge of the volcano and launched a token directly into the Caldera.
+Student Robotics 2019 concluded with an intense match between [Peter Symonds College](https://www.psc.ac.uk/), [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/), [The Ladies' College Guernsey](http://www.ladiescollege.com/), and [Hills Road Sixth Form College](http://www.hillsroad.ac.uk/). Hampton and Lady Eleanor Holles School were quick off the mark pushing their tokens into the scoring zones. Hills Road soon followed, quickly shifting their tokens across the arena. Peter Symonds's robot slowly moved 4 of their tokens into a single scoring zone before unfortunately flipping onto its back. Meanwhile, The Ladies' College quietly moved towards the edge of the volcano and launched a token directly into the caldera.
 
 <!-- Video of Final -->
 <iframe
@@ -63,17 +63,17 @@ Results
 
 |        Prize          |            Team
 |-----------------------|-----------------------------------------------
-| 1st Place             | [The Ladies' College](http://www.ladiescollege.com/)
+| 1st Place             | [The Ladies' College Guernsey](http://www.ladiescollege.com/)
 | 2nd Place             | [Hills Road Sixth Form College](http://www.hillsroad.ac.uk/)
 | 3rd Place             | [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/)
-| <span title="The rookie team who achieve the highest place in the league">Rookie Award</span>          | [Eltham College](https://www.elthamcollege.london/)
-| <span title="The team that displays the most extraordinary ingenuity or elegant simplicity in the design of their robot">Committee Award</span>       | [South Wilts Grammar School](https://www.swgs.wilts.sch.uk/)
-| <span title="The team that presents their robot and themselves in what is judged to be the most outstanding way">Robot and Team Image</span>  | [Haberdashers' Aske's Boys' School](https://www.habsboys.org.uk/)
-| <span title="The team that is judged to have the best online presence using the hashtag #srobo19">Online Presence</span>       | [Collyer's](https://www.collyers.ac.uk/) ([Twitter](https://twitter.com/CollyersRobots))
+| <span class="has-explanation" title="The rookie team who achieve the highest place in the league">Rookie Award</span>          | [Eltham College](https://www.elthamcollege.london/)
+| <span class="has-explanation" title="The team that displays the most extraordinary ingenuity or elegant simplicity in the design of their robot">Committee Award</span>       | [South Wilts Grammar School](https://www.swgs.wilts.sch.uk/)
+| <span class="has-explanation" title="The team that presents their robot and themselves in what is judged to be the most outstanding way">Robot and Team Image</span>  | [Haberdashers' Aske's Boys' School](https://www.habsboys.org.uk/)
+| <span class="has-explanation" title="The team that is judged to have the best online presence using the hashtag #srobo19">Online Presence</span>       | [Collyer's](https://www.collyers.ac.uk/) ([Twitter](https://twitter.com/CollyersRobots))
 
 We always like to see new teams joining the competition, and Eltham College were still able to pull their weight against our seasoned competitors. Their robot picked up a stack of tokens and used tank tracks as a method of climbing the volcano.
 
-The Committee Award is especially important to us. As engineers, we are looking for the most simple and elegant solution to every challenge, and Team SWI from South Wilts Grammar School managed to do exactly that. Their robot was designed to take a single token into the highest scoring zone, the Caldera, by using [large wheels to climb the volcano](https://twitter.com/studentrobotics/status/1114534154283175936). Over the course of the competition weekend, they made notes of other teams' strategies and were constantly evolving their own to stay competitive. They also quickly and cleverly changed their approach to overcome technical difficulties midway through the competition.
+The Committee Award is especially important to us. As engineers, we are looking for the most simple and elegant solution to every challenge, and Team SWI from South Wilts Grammar School managed to do exactly that. Their robot was designed to take a single token into the highest scoring zone, the caldera, by using [large wheels to climb the volcano](https://twitter.com/studentrobotics/status/1114534154283175936). Over the course of the competition weekend, they made notes of other teams' strategies and were constantly evolving their own to stay competitive. They also quickly and cleverly changed their approach to overcome technical difficulties midway through the competition.
 
 We love to see teams dressing up to compliment their robot theme, and this year Haberdashers' Aske's Boys' School won the Robot and Team Image award with their Hawaiian theme. This was complimented with inflatable palm trees and a 3D paper pineapple on top of their robot.
 
