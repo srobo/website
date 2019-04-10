@@ -1,6 +1,6 @@
 ---
 layout: news
-title: The Ladies' College Guernsey Wins Student Robotics 2019
+title: The Ladies' College, Guernsey Wins Student Robotics 2019
 ---
 
 {% include figure.html
