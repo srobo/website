@@ -23,7 +23,6 @@ The Challenge: Caldera
            src="/images/content/news/sr2019/tlc-launcher.jpg"
            caption="The Ladies' College's token launcher" %}
 
-           
 {% include figure.html
            class="right"
            src="/images/content/news/sr2019/swi.jpg"
