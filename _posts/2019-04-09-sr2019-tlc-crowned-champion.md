@@ -104,6 +104,7 @@ which will compete against each other in the final competition. They are
 supported by volunteer mentors, and software to assist them in programming
 their robots is provided.
 
+High resolution photographs of the event have been uploaded to our [Google Photos Album](https://photos.app.goo.gl/8vtBZiuM8FXSf79Z8).
 If you would like to find out more, please [get in touch][contactus].
 
 
