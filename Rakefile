@@ -31,7 +31,7 @@ end
 task :cert => ['_secrets/cert.pem', '_secrets/key.pem']
 
 task :run => [:cert, :build] do
-  sh('docker run --rm -p 80:80 -p 443:443 -v $(pwd)/_secrets:/etc/secrets --name srobo srobo/website')
+  sh('docker run --rm -p 80:80 --name srobo srobo/website')
 end
 
 task :deploy do
