@@ -1,29 +1,20 @@
 ---
+apiVersion: apps/v1
 kind: Deployment
-apiVersion: extensions/v1beta1
 metadata:
-  name: srobo-website
+  name: website
 spec:
+  selector:
+    matchLabels:
+      run: website
   replicas: 1
   template:
     metadata:
       labels:
-        app: website
+        run: website
     spec:
       containers:
-      - name: website
-        image: srobo/website
-        imagePullPolicy: Always
-        ports:
-        - name: http
-          containerPort: 80
-        - name: https
-          containerPort: 443
-        volumeMounts:
-        - name: secrets
-          mountPath: /etc/secrets
-          readOnly: true
-      volumes:
-      - name: secrets
-        secret:
-          secretName: https-keys
+        - name: website
+          image: srobo/website
+          ports:
+            - containerPort: 80
