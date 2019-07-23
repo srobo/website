@@ -45,12 +45,11 @@ the reverse proxy is working before you commit. To do this, do the following:
     $ rake run
     ```
 
-5. Visit <https://localhost:443> in a browser (adjust the port as needed if you
+5. Visit <http://localhost> in a browser (adjust the port as needed if you
    edited it), and confirm that you see a copy of the SR website (also check that
    you didn't get redirect to the real one!)
 
 6. Make your changes to the [`nginx.conf`](_env/nginx.conf)
-
 
 7. Get those changes into the container and reload nginx:
     ``` shell
