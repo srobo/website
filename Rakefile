@@ -20,7 +20,7 @@ task :build => [:dependencies] do
   sh('docker build --tag srobo/website .')
 end
 
-task :run => [:cert, :build] do
+task :run => [:build] do
   sh('docker run --rm -p 80:80 --name srobo srobo/website')
 end
 
