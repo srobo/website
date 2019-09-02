@@ -1,6 +1,7 @@
 {
     "spellchecker.language": "en_GB-ise",
     "spellchecker.ignoreWordsList": [
+        "Aldgate",
         "Brockenhurst",
         "Basingstoke",
         "Gordano",
@@ -14,6 +15,7 @@
         "baseurl",
         "blueshirt",
         "blueshirts",
+        "kickstart",
         "Kickstart",
         "Kickstarts",
         "Facebook",
