@@ -25,10 +25,12 @@ Details of the game and prizes will be revealed at kickstart. Details of the
 kickstart and competition events will be published when they are available.
 We expect to confirm places at the end of September.
 
-If you would like a chance to compete in Student Robotics 2020, please fill in
-the [entry form][entry-form] with the required information. We're expecting to
-run with a similar number of teams to SR2019, so places will go fast.
+If you would like a chance to [compete][compete] in Student Robotics 2020,
+please fill in the [entry form][entry-form] with the required information.
+We're expecting to run with a similar number of teams to SR2019, so places
+will go fast.
 
 We look forward to seeing your teams!
 
+[compete]: {{ '/compete' | prepend: site.baseurl }}
 [entry-form]: https://docs.google.com/forms/d/e/1FAIpQLSfwfZ-tQz31H4-D81cFSmG2p_ciKPpP88MhtXvPmH05yzNzVQ/viewform
