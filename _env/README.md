@@ -1,13 +1,11 @@
 # Deploying the Website
 
-## Setting up
-
 This assumes you've got access to a kubernetes cluster. We have [a guide][guide]
 on how we do this at Student Robotics.
 
-### Deploy the application for the first time
+## Provisioning from Scratch
 
-#### DigitalOcean
+### DigitalOcean
 
 To host the official website, we use DigitalOcean. To access the kubernetes cluster,
 you need to have access to our DigitalOcean account. To setup your `kubectl` for the
@@ -39,16 +37,16 @@ following steps, you need to do the following:
 
    This should make your `kubectl` command point to the right place.
 
-#### Kubernetes
+### Kubernetes
+
+To deploy your application to the cluster, and expose it on the host
+container under port `30000`, you need to provision it on kubernetes.
 
 ```bash
 kubectl create -f kubernetes/
 ```
 
-This should deploy your application to the cluster, and expose it on the host
-container under port `30000`.
-
-### Deploying new versions
+## Updating an Existing Deployment
 
 Because we don't do any sophisticated tagging, we have to force Kubernetes to
 pull the latest version of the app. We do this by doing the following:
@@ -56,6 +54,13 @@ pull the latest version of the app. We do this by doing the following:
 ```bash
 kubectl patch deployment website \
     -p "{\"spec\":{\"template\":{\"metadata\":{\"labels\":{\"date\":\"`date +'%s'`\"}}}}}"
+```
+
+If you've changed any of the kubernetes configuration, you need to also deploy
+to kubernetes.
+
+```bash
+kubectl apply -f kubernetes/
 ```
 
 [tokens]: https://cloud.digitalocean.com/account/api/tokens
