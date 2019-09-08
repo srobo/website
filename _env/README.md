@@ -1,67 +1,68 @@
-# Deployment
+# Deploying the Website
 
-## Setting up
+This assumes you've got access to a kubernetes cluster. We have [a guide][guide]
+on how we do this at Student Robotics.
 
-To setup, you need to have the following installed:
+## Provisioning from Scratch
 
-* [GCloud][gcloud]
+### DigitalOcean
 
-You also need to have installed `kubectl`, which powers Kubernetes, using the
-following command:
+To host the official website, we use DigitalOcean. To access the kubernetes cluster,
+you need to have access to our DigitalOcean account. To setup your `kubectl` for the
+following steps, you need to do the following:
 
-```bash
-gcloud components install kubectl
-```
+1. Log into DigitalOcean, and into the StudentRobotics project.
 
-This also expects you've spun up a Google Container Engine (GKE) cluster,
-similar to the one we use in the Student Robotics Stack.
+2. Go to [API > Generate New Token][tokens]
 
-Set the project you'll be working on
+3. Download [doctl][doctl]
 
-```bash
-gcloud config set project main-site-141811
-```
+4. Log into doctl and, when prompted, enter your access token.
 
-## Logging into Kubernetes
+   ```bash
+   doctl auth init
+   ```
 
-```bash
-gcloud container clusters get-credentials srobo-website --region europe-west1-b
-```
+5. Pick a cluster you want to log into.
 
-## HTTPS certificates
+   ```bash
+   doctl k8s cluster list
+   ```
 
-The application needs a HTTPS certificate and private key to be in place,
-otherwise the app won't start. We use Kubernetes secret management for this.
+5. Set your kubectl context to the digitalocean cluster
 
-```bash
-kubectl create secret generic https-keys \
-    --from-file=cert.pem \
-    --from-file=key.pem
-```
+   ```bash
+   doctl k8s cluster kubeconfig save $CLUSTER_NAME
+   ```
 
-## Deploy the application
+   This should make your `kubectl` command point to the right place.
 
-Todo: Template this somehow
+### Kubernetes
 
-Within `kubernetes/service.yml`, you need to replace the static IP we use
-(i.e. `104.155.107.130`) with the one you intend to use to expose your
-application. Then you run:
+To deploy your application to the cluster, and expose it on the host
+container under port `30000`, you need to provision it on kubernetes.
 
 ```bash
 kubectl create -f kubernetes/
 ```
 
-This should deploy your application to the cluster, and expose it on the IP you
-specified.
-
-## Deploying new versions
+## Updating an Existing Deployment
 
 Because we don't do any sophisticated tagging, we have to force Kubernetes to
 pull the latest version of the app. We do this by doing the following:
 
 ```bash
-kubectl patch deployment srobo-website \
+kubectl patch deployment website \
     -p "{\"spec\":{\"template\":{\"metadata\":{\"labels\":{\"date\":\"`date +'%s'`\"}}}}}"
 ```
 
-[gcloud]: https://cloud.google.com/sdk/downloads
+If you've changed any of the kubernetes configuration, you need to also deploy
+to kubernetes.
+
+```bash
+kubectl apply -f kubernetes/
+```
+
+[tokens]: https://cloud.digitalocean.com/account/api/tokens
+[doctl]: https://github.com/digitalocean/doctl
+[guide]: https://github.com/srobo/infrastructure#interacting-with-kubernetes
