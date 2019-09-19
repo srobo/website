@@ -22,7 +22,7 @@ $hero-bottom-colour: transparentize($sr-blue, 0.2);
 
 .hero-text {
   @include headings() {
-    font-family: $hero-font-family;
+    font-family: $heading-font-family;
     font-size: 2.2em;
     color: $sr-white;
   }
