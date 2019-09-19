@@ -1,3 +1,17 @@
 .about-p {
   line-height: 1.9;
 }
+
+.statistic {
+  color: $sr-white;
+  font-size: $alpha * 1.5;
+  margin-bottom: 0 !important;
+  text-align: center;
+}
+
+.statistic-label {
+  font-size: $charlie;
+  color: $sr-light-grey;
+  font-weight: bold;
+  text-align: center;
+}

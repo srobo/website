@@ -42,6 +42,10 @@ $blue-bottom-colour: transparentize($sr-blue, 0.3);
   }
 }
 
+.panel.panel-thin {
+  padding: 0;
+}
+
 img.image {
   background-color: white;
   border: 1px solid $sr-light-grey;
