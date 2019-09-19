@@ -4,7 +4,10 @@
 }
 
 .fixed-width {
-  max-width: 960px;
+  @include media-query("medium") {
+    width: 960px;
+  }
+
   margin: 0 auto;
   padding: 0;
   overflow: hidden;
@@ -31,4 +34,12 @@
     color: $sr-white;
     margin-bottom: 0;
   }
+}
+
+.top-spacing {
+  margin-top: 16px;
+}
+
+.bottom-spacing {
+  margin-bottom: 16px;
 }

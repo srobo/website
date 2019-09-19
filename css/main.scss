@@ -6,6 +6,7 @@ $baseurl: "{{ site.baseurl }}";
 
 @import
         "../node_modules/brand/sass/srobo/index",
+        "about",
         "base",
         "avatars",
         "common",
