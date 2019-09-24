@@ -15,7 +15,7 @@ Kickstart if we have informed you that you have a place there.**
 If you are unable to attend Kickstart, please [let us know][teams-contact] so we
 can arrange another way to get you your kit.
 
-We are currently in the process of confirming details for this venue. Watch this
+We are currently in the process of confirming details for Cambridge. Watch this
 space for updates!
 
 ## Schedule
