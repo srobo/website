@@ -3,7 +3,7 @@ title: Southampton Kickstart
 date: 2019-10-26 10:00:00
 layout: event
 type: kickstart
-location: Southampton University
+location: University of Southampton
 ---
 
 Kickstart is the event which kicks off a competition year, where the game will
