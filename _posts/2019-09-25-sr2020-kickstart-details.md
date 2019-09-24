@@ -18,7 +18,7 @@ The venues for Student Robotics 2020 kickstart are:
 If you would like a chance to [compete][compete] in Student Robotics 2020,
 please fill in the [entry form][entry-form] with the required information.
 We're expecting to run with a similar number of teams to SR2019, so places
-will go fast. Places close October 1st.
+will go fast. Applications close October 1st.
 
 [compete]: {{ '/compete' | prepend: site.baseurl }}
 [thread]: https://www.thread.com/
