@@ -31,11 +31,6 @@ and Tower Gateway stations are all within a five minute walk, and Liverpool
 Street station is a ten minute walk away. There are also a large number of
 busses which stop nearby.
 
-<!-- TODO: find out whether we can provide parking
-If you intend to travel by road, please [let us know][teams-contact] so we can
-arrange for parking.
- -->
-
 Upon arrival at reception, please ask for Thread.
 
 ### Food
