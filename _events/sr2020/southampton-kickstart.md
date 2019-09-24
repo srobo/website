@@ -12,7 +12,7 @@ be announced and robotics kits will be handed out to the teams.
 If you are unable to attend Kickstart, please [let us know][teams-contact] so we
 can arrange another way to get you your kit.
 
-We'll have desktops available for students to use, however feel free to bring personal laptops if you prefer.
+We'll have some desktops available for students to use, however bringing your own devices is highly recommended.
 
 ## Directions
 
