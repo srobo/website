@@ -13,7 +13,7 @@ The venues for Student Robotics 2020 kickstart are:
 
 - The [University of Southampton][southampton-kickstart]
 - [Thread][thread]'s offices in [Aldgate, London][london-kickstart]
-- Cambridge (**TODO**)
+- [Cambridge][cambridge-kickstart] (Details TBC)
 
 If you would like a chance to [compete][compete] in Student Robotics 2020,
 please fill in the [entry form][entry-form] with the required information.
@@ -24,4 +24,5 @@ will go fast.
 [thread]: https://www.thread.com/
 [southampton-kickstart]: {{ site.baseurl }}/events/sr2020/southampton-kickstart
 [london-kickstart]: {{ site.baseurl }}/events/sr2020/london-kickstart
+[cambridge-kickstart]: {{ site.baseurl }}/events/sr2020/cambridge-kickstart
 [entry-form]: https://docs.google.com/forms/d/e/1FAIpQLSfwfZ-tQz31H4-D81cFSmG2p_ciKPpP88MhtXvPmH05yzNzVQ/viewform
