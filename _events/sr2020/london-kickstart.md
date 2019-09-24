@@ -48,5 +48,5 @@ open.
 | 12:30 | There will be a lunch break. Teams are expected to bring their own lunches or get them from food vendors near the venues. |
 | 17:00 | Finish. |
 
-[venue-map]: https://goo.gl/UzDEPv
+[venue-map]: https://drive.google.com/open?id=1O4S1mchOGnaCV2XxF97pE3hn0LEHr8zn
 [teams-contact]: mailto:teams@studentrobotics.org
