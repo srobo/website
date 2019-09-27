@@ -3,7 +3,7 @@ layout: news
 title: SR2020 Kickstart Details Confirmed
 ---
 
-We're excited to announce the details for the Student Robotics 2020 kikstart.
+We're excited to announce the details for the Student Robotics 2020 kickstart.
 
 Kickstart is the event which kicks off a competition year, where the game will
 be announced and robotics kits will be handed out to the teams. This year the
