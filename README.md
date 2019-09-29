@@ -67,8 +67,8 @@ feature branch, and [raise a pull request][raise-a-pr].
 
 ***Note**: full deployment instructions have their [own README][deployment-readme]*
 
-The `master` branch of repo is built into a Docker image by [Circle CI][circle-ci]
-which is then deployed manually into a Kubernetes hosted on Google Cloud.
+The `master` branch of repo is built by [Circle CI][circle-ci], and pushed to the `gh-pages` branch.
+The docker container is also built by [Circle CI][circle-ci], and then deployed manually into a Kubernetes hosted on DigitalOcean.
 
 [build-badge]: https://circleci.com/gh/srobo/website/tree/master.png?style=shield
 [build-page]: https://circleci.com/gh/srobo/website/tree/master
