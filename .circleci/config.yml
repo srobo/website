@@ -22,6 +22,9 @@ jobs:
     steps:
       - checkout
       - setup_remote_docker
+      - add_ssh_keys:
+          fingerprints:
+              - "b6:ed:27:89:64:2d:35:a4:a0:80:0e:65:be:01:1a:2f"
 
       - run:
           name: Install gems
@@ -30,11 +33,15 @@ jobs:
       - run: docker info
       - run: rake build
 
-      - run:
-          name: Push Docker image
-          command: |
-            docker login -u $DOCKER_USER -p $DOCKER_PASS
-            rake deploy
+      # - run:
+      #     name: Push Docker image
+      #     command: |
+      #       docker login -u $DOCKER_USER -p $DOCKER_PASS
+      #       rake deploy
+
+      - deploy:
+          name: Deploy to Github Pages
+          command: ./.circleci/deploy.sh
 
 
 workflows:
