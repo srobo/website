@@ -24,7 +24,7 @@ jobs:
       - setup_remote_docker
       - add_ssh_keys:
           fingerprints:
-              - "b6:ed:27:89:64:2d:35:a4:a0:80:0e:65:be:01:1a:2f"
+              - "64:8d:88:1b:12:06:6f:db:40:e2:f9:1a:10:e4:4f:08"
 
       - run:
           name: Install gems
