@@ -14,9 +14,7 @@ The Student Robotics public website.
     $ gem install 'bundler:~>1' rake
     ```
 
-3. Install [Node Package Manager (npm)][install-npm]
-
-4. Start the app in development mode
+3. Start the app in development mode
 
     ```shell
     $ rake dev
