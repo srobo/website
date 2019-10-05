@@ -3,7 +3,7 @@ title: Cambridge Kickstart
 date: 2019-10-26 10:00:00
 layout: event
 type: kickstart
-location: TBC
+location: University of Cambridge
 ---
 
 Kickstart is the event which kicks off a competition year, where the game will
@@ -17,8 +17,14 @@ can arrange another way to get you your kit.
 
 **Please bring your laptops!**
 
-We are currently in the process of confirming details for Cambridge. Watch this
-space for updates!
+## Directions
+
+The Cambridge Kickstart is being held in William Gates Building at the University of Cambridge:
+
+William Gates Building,  
+15 JJ Thomson Ave,  
+Cambridge,  
+CB3 0FD
 
 ## Schedule
 
