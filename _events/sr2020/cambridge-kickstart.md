@@ -26,6 +26,10 @@ William Gates Building,
 Cambridge,  
 CB3 0FD
 
+For public transport or driving instructions, see the University of Cambridge
+Department of Computer Science and Technology's information on
+[how to find them][cambridge-department-directions].
+
 ## Schedule
 
 | Time  | Info |
@@ -36,3 +40,4 @@ CB3 0FD
 | 17:00 | Finish. |
 
 [teams-contact]: mailto:teams@studentrobotics.org
+[cambridge-department-directions]: https://www.cst.cam.ac.uk/directions
