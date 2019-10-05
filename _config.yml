@@ -61,7 +61,6 @@ exclude:
   - _env/
   - gems/
   - node_modules/
-  - _secrets/
   - scripts/
 
 paginate: 3
