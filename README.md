@@ -72,7 +72,6 @@ which is then deployed manually into a Kubernetes hosted on Google Cloud.
 [build-page]: https://circleci.com/gh/srobo/website/tree/master
 [docker]: https://docker.com/
 [install-ruby]: https://www.ruby-lang.org/en/documentation/installation/
-[install-npm]: https://nodejs.org/en/download/
 [raise-a-pr]: https://github.com/srobo/website/pull/new/gh-pages
 [circle-ci]: https://circleci.com/gh/srobo/website
 [deployment-readme]: _env/README.md
