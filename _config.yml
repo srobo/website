@@ -60,7 +60,6 @@ exclude:
   - circle.yml
   - _env/
   - gems/
-  - node_modules/
   - scripts/
 
 paginate: 3

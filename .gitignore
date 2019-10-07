@@ -2,9 +2,7 @@
 .sass-cache
 .jekyll-metadata
 gems
-node_modules
 _site
-npm-debug.log
 
 # Libre Office lock files
 .~lock.*
