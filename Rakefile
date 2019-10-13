@@ -3,19 +3,24 @@ task :clean do
 end
 
 task :deep_clean => [:clean] do
-  sh('rm -rf gems node_modules')
+  sh('rm -rf gems')
 end
 
 task :dependencies do
   sh('bundle install --path gems')
-  sh('npm install')
 end
 
-task :dev => [:dependencies] do
+file '_sass/brand/.git' do
+  sh('git submodule update --init')
+end
+
+task :submodules => ['_sass/brand/.git']
+
+task :dev => [:dependencies, :submodules] do
   sh('bundle exec jekyll serve --drafts --config _config.yml')
 end
 
-task :build => [:dependencies] do
+task :build => [:dependencies, :submodules] do
   sh('bundle exec jekyll build --config _config.yml,_live.yml')
   sh('docker build --tag srobo/website .')
 end

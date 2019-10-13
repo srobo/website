@@ -3,7 +3,7 @@ layout: news
 title: SR2020 Kickstart Details Confirmed
 ---
 
-We're excited to announce the details for the Student Robotics 2020 kikstart.
+We're excited to announce the details for the Student Robotics 2020 kickstart.
 
 Kickstart is the event which kicks off a competition year, where the game will
 be announced and robotics kits will be handed out to the teams. This year the
@@ -13,7 +13,7 @@ The venues for Student Robotics 2020 kickstart are:
 
 - The [University of Southampton][southampton-kickstart]
 - [Thread][thread]'s offices in [Aldgate, London][london-kickstart]
-- [Cambridge][cambridge-kickstart] (Details TBC)
+- The [University of Cambridge][cambridge-kickstart]
 
 If you would like a chance to [compete][compete] in Student Robotics 2020,
 please fill in the [entry form][entry-form] with the required information.

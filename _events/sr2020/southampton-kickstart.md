@@ -18,8 +18,8 @@ We'll have some desktops available for students to use, however bringing your ow
 
 The Southampton kickstart is being held at the University of Southampton at:
 
-University Road
-Southampton
+University Road,  
+Southampton,  
 SO17 1BJ
 
 For public transport or driving instructions, see the University of Southampton's information on [getting to our campuses][soton-campus-directions] (scroll down to Highfield campus).
