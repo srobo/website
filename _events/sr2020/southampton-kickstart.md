@@ -18,13 +18,14 @@ We'll have some desktops available for students to use, however bringing your ow
 
 The Southampton kickstart is being held at the University of Southampton at:
 
+Building 7,  
 University Road,  
 Southampton,  
-SO17 1BJ
+SO17 1BJ  
 
 For public transport or driving instructions, see the University of Southampton's information on [getting to our campuses][soton-campus-directions] (scroll down to Highfield campus).
 
-We are currently in the process of confirming rooms for Southampton. Watch this space for updates!
+For parking and walking directions once you arrive, see the [on-campus directions][soton-directions].
 
 ## Food
 
@@ -42,3 +43,4 @@ There are plenty of places to get food on and nearby campus see [where to find f
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-food-map]: https://drive.google.com/open?id=1vDqr-yQh-OO7MzVa_OiuKD5xUrEsLprr
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
+[soton-directions]: {{ site.baseurl }}/resources/sr2020/southampton-kickstart-directions.pdf
