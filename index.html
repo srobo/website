@@ -44,6 +44,7 @@ layout: home
           <h3 class="card-heading">Upcoming Events</h3>
           {% assign any_events = false %}
           {% for event in site.events %}
+          {% comment %}{# Changing this condition? also change it in the below above #}{% endcomment %}
           {% if event.date > site.time %}
           {% assign any_events = true %}
           {% endif %}
@@ -52,6 +53,7 @@ layout: home
           {% if any_events %}
           <ul class="event-list">
             {% for event in site.events %}
+            {% comment %}{# Changing this condition? also change it in the loop above #}{% endcomment %}
             {% if event.date > site.time and event.cancelled != true %}
             <li class="event">
               <p class="event-name"><a href="{{ event.url | prepend: site.baseurl }}">{{ event.title }}</a></p>
