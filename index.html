@@ -45,7 +45,7 @@ layout: home
           {% assign any_events = false %}
           {% for event in site.events %}
           {% comment %}{# Changing this condition? also change it in the below above #}{% endcomment %}
-          {% if event.date > site.time %}
+          {% if event.date > site.time and event.cancelled != true %}
           {% assign any_events = true %}
           {% endif %}
           {% endfor %}
