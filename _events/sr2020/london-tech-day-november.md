@@ -22,9 +22,9 @@ November.
 
 The London Kickstart is being held in the [offices of Thread][venue-map] at:
 
-1 Alie Street,
-Whitechapel,
-London,
+1 Alie Street,  
+Whitechapel,  
+London,  
 E1 8DE
 
 The easiest way to travel will be by public transport -- Aldgate, Aldgate East
