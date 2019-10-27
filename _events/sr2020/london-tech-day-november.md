@@ -7,11 +7,11 @@ location: Thread, Whitechapel
 ---
 
 Tech Days are opportunities for teams to get help if they're struggling with a
-technical issue, and is a controlled environment for students to make more
-progress on their robots. It's also an opportunity to see how well they're doing
-in comparison to other teams.
+technical issue, and a controlled environment for students to make more
+progress on their robots. They're also an opportunity to see how well they're
+doing in comparison to other teams.
 
-London Tech Days will only run of there is sufficient interest. Spaces are
+London Tech Days will only run if there is sufficient interest. Spaces are
 limited to six teams, so be sure to [let us know][teams-contact] if you'd like
 to attend. For this Tech Day, please express your interest by Wednesday 27th
 November.
