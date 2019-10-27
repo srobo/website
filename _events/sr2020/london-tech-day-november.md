@@ -40,7 +40,6 @@ Upon arrival at reception, please ask for Thread.
 |-------|------|
 | 10:00 | Doors Open. |
 | 12:30 | There will be a lunch break. Teams should bring their own lunches or get them from food vendors near the venues. |
-| 13:00 | Lightning Talks, where teams will talk about their robots and what they plan on doing with them. |
 | 17:00 | Finish. |
 
 [venue-map]: https://drive.google.com/open?id=1J3wzcboMIrYpsTV1JzRRwT6N8FeBxEYP
