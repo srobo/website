@@ -5,7 +5,7 @@ title: SR2020 Game Announced
 
 Student Robotics 2020 was Kickstarted today simultaneously in three locations -- Cambridge, London and Southampton. Twenty-nine of the thirty-seven entered teams attended in person and it was great to see the teams getting familiar with the kits.
 
-Our game this year, _Two Colours_, challenges team to score points by retrieving coloured tokens from on and around a raised platform in the centre of the arena. They must place these tokens within their scoring zone (i.e. their corner of the arena). However, if a team gathers more than one token colour within their scoring zone, each token's value drops from 3 points to 1 point. Full details, including the prizes available this year, are available in the [rulebook][rules].
+Our game this year, _Two Colours_, challenges teams to score points by retrieving coloured tokens from on and around a raised platform in the centre of the arena. They must place these tokens within their scoring zone (i.e. their corner of the arena). However, if a team gathers more than one token colour within their scoring zone, each token's value drops from 3 points to 1 point. Full details, including the prizes available this year, are available in the [rulebook][rules].
 
 This year's teams have already been strategising their approach, and we can't wait to see their progress over the year!
 
