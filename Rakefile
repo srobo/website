@@ -24,7 +24,7 @@ task :build_site => [:dependencies, :submodules] do
   sh('bundle exec jekyll build --config _config.yml')
 end
 
-task :build_docker => [:build_site] do
+task :build_docker do
   sh('docker build --tag srobo/website .')
 end
 

@@ -1,4 +1,4 @@
-baseurl: ""
+baseurl: /website
 url: https://studentrobotics.org
 permalink: /news/:year-:month-:day-:title/
 
