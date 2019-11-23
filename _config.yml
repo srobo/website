@@ -1,4 +1,4 @@
-baseurl: /website
+baseurl: ""
 url: https://studentrobotics.org
 permalink: /news/:year-:month-:day-:title/
 
@@ -49,7 +49,7 @@ sponsors:
     link: //www.southampton.ac.uk/
     image: /images/sponsors/university-of-southampton.svg
 
-user_tracking: false
+user_tracking: true
 
 exclude:
   - README.md
