@@ -1,5 +1,5 @@
 ---
-title: London January Tech Day
+title: London February Tech Day
 date: 2020-02-29 10:00:00
 layout: event
 type: techday
