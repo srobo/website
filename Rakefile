@@ -17,15 +17,20 @@ end
 task :submodules => ['_sass/brand/.git']
 
 task :dev => [:dependencies, :submodules] do
-  sh('bundle exec jekyll serve --drafts --config _config.yml')
+  sh('bundle exec jekyll serve --drafts --config _config.yml,_dev.yml')
 end
 
-task :build => [:dependencies, :submodules] do
-  sh('bundle exec jekyll build --config _config.yml,_live.yml')
+task :build_site => [:dependencies, :submodules] do
+  sh('bundle exec jekyll build --config _config.yml')
+end
+
+task :build_docker do
   sh('docker build --tag srobo/website .')
 end
 
-task :run => [:build] do
+task :build => [:build_site, :build_docker]
+
+task :run => [:build_docker] do
   sh('docker run --rm -p 80:80 --name srobo srobo/website')
 end
 
