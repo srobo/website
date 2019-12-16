@@ -16,7 +16,7 @@ robots.
 
 London Tech Days will only run of there is sufficient interest. Spaces are
 limited to six teams, so be sure to [let us know][tech-day-signup] by Wednesday
-15th January 2020 if you'd like to attend.
+19th February 2020 if you'd like to attend.
 
 **Please bring your laptops!**
 
