@@ -3,17 +3,17 @@ layout: news
 title: SR2020 Competition Dates Announcement
 ---
 
-We're pleased to announce this year's competition dates and the first Tech Days of 2020.
+We're pleased to announce this year's Competition dates and the first Tech Days of 2020.
 
 ## Competition Dates
 
-The Student Robotics 2020 competition will be held at Reading University on the 18th and 19th of April 2020.
+The Student Robotics 2020 Competition will be held at Reading University on the 18th and 19th of April 2020.
 
 These two days mark the ultimate stage of SR2020, showcasing the months of preparation. Our teams will work hard to push their robots to the limit and quickly make repairs between league matches. We will finish the weekend with the finals where the best bots will be named victorious.
 
 As usual, we will require attendees to fill out a media consent form.
 
-For more information, please see the competition [event page][competition-event].
+For more information, please see the Competition [event page][competition-event].
 
 We hope to see all the teams and their robots at the Competition!
 
