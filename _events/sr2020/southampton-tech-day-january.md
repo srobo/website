@@ -14,6 +14,8 @@ We provide a space for you to work in, with power and internet access, as well
 as volunteers able to help you with your kits and hands-on guidance with your
 robots.
 
+Please [let us know][tech-day-signup] by Friday 31st January 2020 if you'd like to attend.
+
 ## Directions
 
 Once on campus, follow the signs to Building 25 and then look for the signage
@@ -37,3 +39,4 @@ for Student Robotics.
 [soton-food-map]: https://goo.gl/yYlfs5
 [soton-directions]: {{ site.baseurl }}/resources/sr2020/southampton-techday-directions-highfield-building-25.pdf
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
+[tech-day-signup]: https://forms.gle/vSrzt4o85542MGcv8
