@@ -14,7 +14,7 @@ We provide a space for you to work in, with power and internet access, as well
 as volunteers able to help you with your kits and hands-on guidance with your
 robots.
 
-Please [let us know][tech-day-signup] by Friday 31st January 2020 if you'd like to attend.
+Please [let us know][tech-day-signup] by Wednesday 5th February 2020 if you'd like to attend.
 
 ## Directions
 
