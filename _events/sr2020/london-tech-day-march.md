@@ -22,7 +22,7 @@ limited to six teams, so be sure to [let us know][tech-day-signup] by Wednesday
 
 ## Directions
 
-The London Kickstart is being held in the [offices of Thread][venue-map] at:
+This Tech Day is being held in the [offices of Thread][venue-map] at:
 
 1 Alie Street,  
 Whitechapel,  
