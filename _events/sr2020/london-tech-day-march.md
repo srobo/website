@@ -3,7 +3,7 @@ title: London March Tech Day
 date: 2020-03-28 10:00:00
 layout: event
 type: techday
-location: Thread, Whitechapel
+location: To be confirmed
 ---
 
 Tech Days are opportunities for teams to spend a whole day working on their
@@ -22,19 +22,8 @@ limited to six teams, so be sure to [let us know][tech-day-signup] by Wednesday
 
 ## Directions
 
-This Tech Day is being held in the [offices of Thread][venue-map] at:
-
-1 Alie Street,  
-Whitechapel,  
-London,  
-E1 8DE
-
-The easiest way to travel will be by public transport -- Aldgate, Aldgate East
-and Tower Gateway stations are all within a five minute walk, and Liverpool
-Street station is a ten minute walk away. There are also a large number of
-busses which stop nearby.
-
-Upon arrival at reception, please ask for Thread.
+The location of this Tech Day is still being finalised, we'll update this page
+once we have more information.
 
 ## Schedule
 
@@ -45,6 +34,5 @@ Upon arrival at reception, please ask for Thread.
 | 13:00 | Lightning Talks, where teams will talk about their robots and what they plan on doing with them. |
 | 17:00 | Finish. |
 
-[venue-map]: https://goo.gl/13LbAL
 [tech-day-signup]: https://forms.gle/vSrzt4o85542MGcv8
 [teams-contact]: mailto:teams@studentrobotics.org
