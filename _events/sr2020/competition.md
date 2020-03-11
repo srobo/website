@@ -10,6 +10,8 @@ The Student Robotics Competition marks the ultimate stage of SR2020, showcasing 
 
 More information will be released soon.
 
+**For COVID-19 Information, please see our [Coronavirus update page][covid-19].**
+
 ## Schedule
 
 The competition will be held from *Saturday 18th April* until *Sunday 19th April*.
@@ -35,3 +37,4 @@ United Kingdom
 
 [reading-campus-directions]: https://www.rusu.co.uk/contact/find-us/
 [teams-contact]: mailto:teams@studentrobotics.org
+[covid-19]: https://studentrobotics.org/news/2020-03-11-sr2020-covid-19-updates/
