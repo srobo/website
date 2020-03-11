@@ -91,6 +91,6 @@ hotels which may be suitable.
 
 [reading-campus-directions]: https://www.rusu.co.uk/contact/find-us/
 [teams-contact]: mailto:teams@studentrobotics.org
-[covid-19]: https://studentrobotics.org/news/2020-03-11-sr2020-covid-19-updates/
+[covid-19]: {{ site.baseurl }}/covid-19/
 [car-park-p4]: https://goo.gl/maps/1QEQw67K8V23SPHN9
 [campus-coop]: https://goo.gl/maps/cv6RcfDAJqCyvUC1A
