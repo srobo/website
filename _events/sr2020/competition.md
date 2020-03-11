@@ -70,5 +70,24 @@ Reading
 RG6 6UR  
 United Kingdom  
 
+## Parking
+
+There will be free parking in [Reading University campus car-park **P4**][car-park-p4].
+
+## Food
+
+There is a Starbucks and a sandwich bar within the venue, which will both be open.
+Alternatively there is a [Co-op on campus][campus-coop] which we expect will also be open.
+
+## Accommodation
+
+Student Robotics are not able to provide any accommodation for competitors,
+however teams often choose to stay near the venue for the competition weekend.
+This enables them to spend more time working on their robot, or just relax on
+the Saturday evening. If you wish to stay in the area, there are a number of
+hotels which may be suitable.
+
 [reading-campus-directions]: https://www.rusu.co.uk/contact/find-us/
 [teams-contact]: mailto:teams@studentrobotics.org
+[car-park-p4]: https://goo.gl/maps/1QEQw67K8V23SPHN9
+[campus-coop]: https://goo.gl/maps/cv6RcfDAJqCyvUC1A
