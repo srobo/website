@@ -17,9 +17,9 @@ The competition will be held from *Saturday 18th April* until *Sunday 19th April
 ### Day 1 - 18th April, 2020
 
 Saturday begins with a briefing on the rules and general struture of the
-weekend, followed by the start of the league matches will start. The league
-matches offer teams a chance to prove their robot against up to three others,
-earn points which will seed the knockouts and improve their robots as they go.
+weekend, followed by the start of the league matches. The league matches offer
+teams a chance to prove their robot against up to three others, earn points
+which will seed the knockouts and improve their robots as they go.
 
 | Time  | Activity                         |
 |-------|----------------------------------|
