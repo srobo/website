@@ -8,7 +8,7 @@ location: Reading University
 
 The Student Robotics Competition marks the ultimate stage of SR2020, showcasing the months of preparation. Our teams will work hard to push their robots to the limit and quickly make repairs between league matches. We will finish the weekend with the finals where the best bots will be named victorious.
 
-More information will be released soon.
+Keep an eye on this page for updates as more information becomes available.
 
 ## Schedule
 
