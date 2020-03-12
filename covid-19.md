@@ -1,7 +1,7 @@
 ---
 layout: news
 title: COVID-19 Updates
-date: 2020-03-11
+date: 2020-03-12
 ---
 
 We will keep this page updated with new information as it becomes available.
@@ -15,6 +15,16 @@ Last updated: {{ page.date | date: "%e %B %Y" }}.
 Considering this is an event for minors, we will be taking decisions with an abundance of caution.
 
 We are in contact with Reading University Students' Union who are continually reviewing the situation, and mitigating the risks associated with Coronavirus.
+
+The only things that will stop us are:
+
+- If the government says we can't/shouldn't proceed
+- If the venue cancels our booking
+- If we can't get enough teams to come
+- If we can't get enough volunteers to come
+- We don't think we can offer a safe event
+
+All of these are being actively reviewed, and steps being taken to mitigate
 
 ### In the case of the competition going ahead
 
