@@ -24,7 +24,7 @@ The only things that will stop us are:
 - If we can't get enough volunteers to come
 - We don't think we can offer a safe event
 
-All of these are being actively reviewed, and steps being taken to mitigate
+All of these are being actively reviewed, and steps being taken to mitigate.
 
 ### In the case of the competition going ahead
 
