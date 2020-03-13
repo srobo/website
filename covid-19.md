@@ -38,9 +38,9 @@ We are considering weekends in late June / early July as alternatives for the co
 
 ## Tech Days
 
-We still intend to run scheduled Tech Days, However we will contact all teams as soon as possible should this change.
+There are no current planned tech days before the current competition date in April.
 
-In the event of the competition being postponed, all planned Tech Days will be cancelled.
+If the competiton is postponed, we will try and schedule some additional ones closer to the new event date.
 
 The [forum][forum] is still a great place to get help from blueshirts and other teams, in addition to showing off your progress!
 
