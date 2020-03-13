@@ -16,7 +16,7 @@ Considering this is an event for minors, we will be taking decisions with an abu
 
 We are in contact with Reading University Students' Union who are continually reviewing the situation, and mitigating the risks associated with Coronavirus.
 
-The only things that will stop us are:
+The things which would prevent the competition from running are:
 
 - If the government says we can't/shouldn't proceed
 - If the venue cancels our booking
@@ -40,7 +40,7 @@ We are considering weekends in late June / early July as alternatives for the co
 
 There are no current planned tech days before the current competition date in April.
 
-If the competiton is postponed, we will try and schedule some additional ones closer to the new event date.
+If the competition is postponed, we will try and schedule some additional ones closer to the new event date.
 
 The [forum][forum] is still a great place to get help from blueshirts and other teams, in addition to showing off your progress!
 
