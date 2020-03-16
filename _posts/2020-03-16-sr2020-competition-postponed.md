@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Student Robotics 2020 Postponed
+title: Student Robotics 2020 Competition Postponed
 ---
 
-Following guidance from the UK government and the University of Reading, **we will need to postpone Student Robotics 2020** from the original date in April, until some time late June / early July.
+Following guidance from the UK government and the University of Reading, **we will need to postpone the Student Robotics 2020 Competition** from the original date in April, until some time late June / early July.
 
 We are currently investigating the following dates for the competition:
 
