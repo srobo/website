@@ -22,7 +22,7 @@ We expect everyone attending the competition to follow the [guidelines][phe-guid
 
 ## Tech Days
 
-There are no current planned tech days before the current competition date in April. Once things have settled down, we can organise some.
+There are no current planned tech days before the current competition date in April. Once things have settled down, we hope to organise some.
 
 The [forum][forum] is still a great place to get help from blueshirts and other teams, in addition to showing off your progress!
 
