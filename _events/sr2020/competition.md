@@ -13,6 +13,8 @@ Keep an eye on this page for updates as more information becomes available.
 
 ## Schedule
 
+The competition will be held on a Saturday and Sunday in late June / early July.
+
 ### Day 1
 
 Saturday begins with a briefing on the rules and general struture of the
