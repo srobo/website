@@ -1,6 +1,5 @@
 ---
 title: Competition
-date: TBC
 layout: event
 type: competition
 location: Reading University
