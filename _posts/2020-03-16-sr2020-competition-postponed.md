@@ -15,6 +15,6 @@ The event will still take place over a weekend, at the University of Reading.
 
 We have requested feedback from team leaders and volunteers to help select the most appropriate date.
 
-We hope to confirm the updated date in the next week, so please let us know as soon as you can.
+We hope to confirm the updated date in the next week, so watch this space!
 
 You can still find the latest updates on our [COVID-19 updates page]({{ site.baseurl }}/covid-19/).
