@@ -12,7 +12,7 @@ Last updated: {{ page.date | date: "%e %B %Y" }}.
 
 Following guidance from the UK government and the University of Reading, **we will need to postpone Student Robotics 2020** from the original date in April, until some time late June / early July.
 
-We have sent a poll to team leaders and volunteers to allow us to select the most appropriate date.
+We have requested feedback from team leaders and volunteers to help select the most appropriate date.
 
 ### During the competition
 
