@@ -1,6 +1,5 @@
 ---
 title: Competition
-date: 2020-04-18 9:00:00
 layout: event
 type: competition
 location: Reading University
@@ -14,9 +13,9 @@ Keep an eye on this page for updates as more information becomes available.
 
 ## Schedule
 
-The competition will be held from *Saturday 18th April* until *Sunday 19th April*.
+The competition will be held on a Saturday and Sunday in late June / early July.
 
-### Day 1 - 18th April, 2020
+### Day 1
 
 Saturday begins with a briefing on the rules and general struture of the
 weekend, followed by the start of the league matches. The league matches offer
@@ -32,7 +31,7 @@ which will seed the knockouts and improve their robots as they go.
 | 13:00 | League matches                   |
 | 17:30 | End of day                       |
 
-### Day 2 - 19th April, 2020
+### Day 2
 
 On Sunday morning, the league matches will continue. Once these have concluded,
 we will begin knockout matches, the order of which is determined a teams'
