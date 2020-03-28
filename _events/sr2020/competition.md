@@ -14,7 +14,7 @@ Keep an eye on this page for updates as more information becomes available.
 
 ## Schedule
 
-The 2-day competition will be held on the weekend of Saturday 4th July.
+The two-day competition will be held on the weekend of Saturday 4th July.
 
 ### Day 1
 
