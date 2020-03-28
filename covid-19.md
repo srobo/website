@@ -10,7 +10,7 @@ Last updated: {{ page.date | date: "%e %B %Y" }}.
 
 ## The Competition
 
-Following guidance from the UK government and the University of Reading, we are postponing Student Robotics 2020 from the original date in April, until the **weekend of the 4th July** (Subject to change).
+Following guidance from the UK government and the University of Reading, we are postponing Student Robotics 2020 from the original date in April, until the **weekend of the 4th July** (subject to change).
 
 We are considering a virtual competition, and are exploring possibilities of how this could work.
 
