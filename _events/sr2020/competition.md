@@ -3,6 +3,7 @@ title: Competition
 layout: event
 type: competition
 location: Reading University
+date: 2020-07-04 09:00:00
 ---
 
 The Student Robotics Competition marks the ultimate stage of SR2020, showcasing the months of preparation. Our teams will work hard to push their robots to the limit and quickly make repairs between league matches. We will finish the weekend with the finals where the best bots will be named victorious.
@@ -13,7 +14,7 @@ Keep an eye on this page for updates as more information becomes available.
 
 ## Schedule
 
-The competition will be held on a Saturday and Sunday in late June / early July.
+The two-day competition will be held on the weekend of Saturday 4th July.
 
 ### Day 1
 
