@@ -1,7 +1,7 @@
 ---
 layout: news
 title: COVID-19 Updates
-date: 2020-03-28
+date: 2020-04-16
 ---
 
 We will keep this page updated with new information as it becomes available.
