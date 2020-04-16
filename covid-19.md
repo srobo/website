@@ -10,7 +10,7 @@ Last updated: {{ page.date | date: "%e %B %Y" }}.
 
 ## The Competition
 
-### In-person compeititon
+### In-person competition
 
 While our plan is still to run a physical competition if we can, this is looking increasingly unlikely.
 
