@@ -14,6 +14,6 @@ The virtual competition will take place over a few weekend sessions in July, wit
 
 # The Game
 
-The game for the virtual competition will be [Two Colours](https://studentrobotics.org/news/2019-10-26-sr2020-kickstart-and-rules-published/).
+The game for the virtual competition will be [Two Colours](https://studentrobotics.org/docs/resources/2020/rulebook.pdf).
 
 **Stay tuned for more information.**
