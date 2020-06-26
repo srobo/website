@@ -6,7 +6,7 @@ title: Virtual Competition Dates & Details
 We're pleased to announce the dates for the virtual competition. As previously
 announced the competition wil run over three weekends in July.
 
-Teams will be able to submit their code in advance and the simulated matches
+Teams will submit their code in advance and the simulated matches
 will be broadcast live via a live stream over the weekend.
 
 Weekend         | Matches
