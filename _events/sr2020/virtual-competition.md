@@ -5,6 +5,8 @@ type: competition
 location: Online
 ---
 
+The SR2020 virtual competition takes place over a few weekends.
+
 Please see the relevant event pages:
 
 | Date           | Competition Stage                                                   |
