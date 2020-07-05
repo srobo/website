@@ -12,4 +12,6 @@ Code submission will be due at 10am. Our live-steam will start at 3pm.
 
 [Watch live](https://youtu.be/7JoW4zXSeZE)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7JoW4zXSeZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Stay tuned for more information.**
