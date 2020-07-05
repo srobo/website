@@ -1,5 +1,5 @@
 ---
-title: Virtual Competition Knockouts and Finals
+title: Virtual Competition Knockouts and Final
 date: 2020-07-25 15:00:00
 layout: event
 type: competition
