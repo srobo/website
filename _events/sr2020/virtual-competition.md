@@ -1,6 +1,5 @@
 ---
 title: Virtual Competition
-date: 2020-07-11
 layout: event
 type: competition
 location: Online
@@ -8,15 +7,14 @@ location: Online
 
 The Student Robotics Competition marks the ultimate stage of SR2020, showcasing the months of preparation. Our teams will work hard to push their virtual robots to the limit, competing against each other, and evolving their strategies to gain the upper hand.
 
-The virtual competition will take place over three weekend sessions in July:
+The virtual competition takes place over a few weekends.
 
-Weekend         | Matches
-----------------|---------
-11th July 2020  | League
-18th July 2020  | League
-25th July 2020  | Knockout
+Please see the relevant event pages:
 
-Teams will submit their robot code in advance and the simulated matches
-will be broadcast via a live stream over each weekend.
-
-**Stay tuned for more information.**
+| Date           | Competition Stage                                                   |
+|----------------|---------------------------------------------------------------------|
+| 11th July 2020 | [League Part 1](/events/sr2020/virtual-competition-league-1/)       |
+| 12th July 2020 | [League Part 2](/events/sr2020/virtual-competition-league-2/)       |
+| 18th July 2020 | [League Part 3](/events/sr2020/virtual-competition-league-3/)       |
+| 19th July 2020 | [League Part 4](/events/sr2020/virtual-competition-league-4/)       |
+| 25th July 2020 | [Knockouts and Final](/events/sr2020/virtual-competition-knockouts/)|
