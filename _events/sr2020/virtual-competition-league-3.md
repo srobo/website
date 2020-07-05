@@ -1,5 +1,5 @@
 ---
-title: Virtual Competition League 3
+title: Virtual Competition League Session 3
 date: 2020-07-18 15:00:00
 layout: event
 type: competition

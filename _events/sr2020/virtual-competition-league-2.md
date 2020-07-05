@@ -1,5 +1,5 @@
 ---
-title: Virtual Competition League 2
+title: Virtual Competition League Session 2
 date: 2020-07-12 15:00:00
 layout: event
 type: competition

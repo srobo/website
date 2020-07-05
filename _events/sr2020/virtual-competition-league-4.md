@@ -1,5 +1,5 @@
 ---
-title: Virtual Competition League 4
+title: Virtual Competition League Session 4
 date: 2020-07-19 15:00:00
 layout: event
 type: competition
