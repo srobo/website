@@ -9,13 +9,14 @@ announced the competition will run over three weekends in July.
 Teams will submit their code in advance and the simulated matches
 will be broadcast live via a live stream over the weekend.
 
-Weekend         | Matches
-----------------|---------
-11th July 2020  | League
-18th July 2020  | League
-25th July 2020  | Knockout
+| Date           | Competition Stage                                                   |
+|----------------|---------------------------------------------------------------------|
+| 11th July 2020 | [League Session 1](/events/sr2020/virtual-competition-league-1/)    |
+| 12th July 2020 | [League Session 2](/events/sr2020/virtual-competition-league-2/)    |
+| 18th July 2020 | [League Session 3](/events/sr2020/virtual-competition-league-3/)    |
+| 19th July 2020 | [League Session 4](/events/sr2020/virtual-competition-league-4/)    |
+| 25th July 2020 | [Knockouts and Final](/events/sr2020/virtual-competition-knockouts/)|
 
 We'll be publishing more details of the competition, including how code
-submission will work and the timings of the live streams nearer the time, so be
-sure to watch the [event page]({{ site.baseurl }}/events/sr2020/virtual-competition/)
-for updates.
+submission will work nearer the time, so be sure to watch the
+[event page]({{ site.baseurl }}/events/sr2020/virtual-competition/) for updates.
