@@ -18,3 +18,5 @@ Please see the relevant event pages:
 | 18th July 2020 | [League Session 3](/events/sr2020/virtual-competition-league-3/)    |
 | 19th July 2020 | [League Session 4](/events/sr2020/virtual-competition-league-4/)    |
 | 25th July 2020 | [Knockouts and Final](/events/sr2020/virtual-competition-knockouts/)|
+
+Teams can submit their code here: [Submit your code](https://studentrobotics.org/code-submitter/)
