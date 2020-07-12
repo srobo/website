@@ -18,7 +18,7 @@ the changes in the league from Sunday's matches, this means there's still all to
 play for.
 
 If you would like to catch up on this weekend's livestreamed matches, they're
-available on Youtube:
+available on YouTube:
 
 * [Saturday: League Session 1](https://youtu.be/xLL7SoQywf4)
 * [Sunday: League Session 2](https://youtu.be/7JoW4zXSeZE)
