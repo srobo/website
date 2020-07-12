@@ -4,7 +4,7 @@ title: Kenilworth Sixth Form lead after the first weekend of matches
 ---
 
 After the first 24 matches, team KSF from Kenilworth Sixth Form head up the
-league leaderboard with X points. They're closely followed by JAMDynamics and
+league leaderboard with 58 points. They're closely followed by JAMDynamics and
 Lawrence Sheriff School.
 
 The league matches provide a proving ground for all the teams' hard work over
