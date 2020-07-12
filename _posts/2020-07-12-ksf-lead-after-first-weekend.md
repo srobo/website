@@ -14,7 +14,7 @@ and JAMDynamics teams are currently well placed for.
 
 The teams now have a week to work on and improve their code before another 24
 league matches are played over the course of next weekend. As we've seen with
-the changes in the league from Sunday's matches, this means there's still all to
+the changes in the league from today's matches, this means there's still all to
 play for.
 
 If you would like to catch up on this weekend's livestreamed matches, they're
