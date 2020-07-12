@@ -12,8 +12,10 @@ the past few months in preparing their robot code. There is also a prize for the
 rookie team which scores the best in the league, which teams TODO_TLA and TODO_TLA are
 currently best placed for.
 
-However with another 24 matches next weekend, there's all to play for and these
-positions could all change.
+The teams now have a week to work on and improve their code before another 24
+league numbers are played over the course of next weekend. As we've seen with
+the changes in the league from Sunday's matches, this means there's still all to
+play for.
 
 If you would like to catch up on this weekend's livestreamed matches, they're
 available on Youtube:
