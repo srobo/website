@@ -13,7 +13,7 @@ rookie team which scores the best in the league, which the Kenilworth Sixth Form
 and JAMDynamics teams are currently well placed for.
 
 The teams now have a week to work on and improve their code before another 24
-league numbers are played over the course of next weekend. As we've seen with
+league matches are played over the course of next weekend. As we've seen with
 the changes in the league from Sunday's matches, this means there's still all to
 play for.
 
