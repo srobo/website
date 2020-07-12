@@ -20,8 +20,8 @@ play for.
 If you would like to catch up on this weekend's livestreamed matches, they're
 available on Youtube:
 
-* [Saturday League](https://youtu.be/xLL7SoQywf4)
-* [Sunday League](https://youtu.be/7JoW4zXSeZE)
+* [Saturday: League Session 1](https://youtu.be/xLL7SoQywf4)
+* [Sunday: League Session 2](https://youtu.be/7JoW4zXSeZE)
 
 We look forward to seeing you over the next two weekends for the continuation of
 the SR2020 Virtual Competition.
