@@ -1,16 +1,16 @@
 ---
 layout: news
-title: Team TODO_TLA lead the league after the first weekend of matches
+title: Kenilworth Sixth Form lead after the first weekend of matches
 ---
 
-After the first 24 matches, team TODO_TLA from TODO_SCHOOL head up the league
-leaderboard with X points. They're closely followed by teams from TODO_SCHOOL
-and TODO_SCHOOL.
+After the first 24 matches, team KSF from Kenilworth Sixth Form head up the
+league leaderboard with X points. They're closely followed by JAMDynamics and
+Lawrence Sheriff School.
 
 The league matches provide a proving ground for all the teams' hard work over
 the past few months in preparing their robot code. There is also a prize for the
-rookie team which scores the best in the league, which teams TODO_TLA and TODO_TLA are
-currently best placed for.
+rookie team which scores the best in the league, which the Kenilworth Sixth Form
+and JAMDynamics teams are currently well placed for.
 
 The teams now have a week to work on and improve their code before another 24
 league numbers are played over the course of next weekend. As we've seen with
