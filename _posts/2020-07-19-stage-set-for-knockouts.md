@@ -9,7 +9,7 @@ next weekend.
 
 This weekend saw strong performances from a number of teams, including a number
 of firsts: Kenilworth Sixth Form collected 5 tokens into their scoring zone in
-one match and both Hills Road Sixth Form College's first team and JAMDynamics
+one match and both Hills Road Sixth Form College's second team and JAMDynamics
 stealing tokens from each others scoring zones.
 
 Next weekend the teams will compete in the knockouts, which is the final test
