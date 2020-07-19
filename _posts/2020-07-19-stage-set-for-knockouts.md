@@ -7,10 +7,10 @@ After two weekends and 48 matches, the league stage of the SR2020 Virtual
 Competition is complete, setting the stage for the knockouts and the grand final
 next weekend.
 
-This weekend saw strong performances from a number of teams, including XXXX who
-managed to collect 5 tokens into their scoring zone in one match and YYYYY who
-stole tokens from other teams' scoring zones, both firsts during today's
-matches.
+This weekend saw strong performances from a number of teams, including a number
+of firsts: Kenilworth Sixth Form collected 5 tokens into their scoring zone in
+one match and both Hills Road Sixth Form College's first team and JAMDynamics
+stealing tokens from each others scoring zones.
 
 Next weekend the teams will compete in the knockouts, which is the final test
 for the teams' months of coding preparation. Once again the teams have a week to
