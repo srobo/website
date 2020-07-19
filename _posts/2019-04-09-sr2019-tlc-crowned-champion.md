@@ -56,7 +56,7 @@ Student Robotics 2019 concluded with an intense match between [Peter Symonds Col
 
 We saw some brilliant robot designs this year, great work by all teams. We hope you enjoyed the competition as much as we did!
 
-If you didn't take part, or you want to enter again next year, the [sign up page]({{ site.baseurl }}/schools/how_to_enter) for next year's competition will be up later in the year. Get a team together and start talking to your teachers now!
+If you didn't take part, or you want to enter again next year, the [sign up page]({{ site.baseurl }}/compete/) for next year's competition will be up later in the year. Get a team together and start talking to your teachers now!
 
 Results
 -------

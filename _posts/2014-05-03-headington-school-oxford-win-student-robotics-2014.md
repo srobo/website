@@ -95,7 +95,7 @@ This is the first walking robot Student Robotics has ever seen,
  walking in the absent dust of the hovercraft we saw at last year's competition.
 
 If you didn't take part but your appetite's been whetted, or you want to enter again next year,
- the [sign up page](/schools/how_to_enter) for next year's competition will be up soon.
+ the [sign up page]({{ site.baseurl }}/compete/) for next year's competition will be up soon.
 Get forming your teams and talking to your teachers now!
 
 

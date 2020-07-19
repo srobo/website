@@ -51,7 +51,7 @@ competition, but it won them the game and first place.
 
 We were very impressed by the quality of the teams' robots this year. Congratulations to everyone who took part. We hope you've had fun!
 
-If you didn't take part but your appetite's been whetted, or you want to enter again next year, the [sign up page](/schools/how_to_enter) for next year's competition will be up in a couple of weeks. Get forming your teams and talking to your teachers now!
+If you didn't take part but your appetite's been whetted, or you want to enter again next year, the [sign up page]({{ site.baseurl }}/compete/) for next year's competition will be up in a couple of weeks. Get forming your teams and talking to your teachers now!
 
 Results
 -------
