@@ -30,11 +30,15 @@ Presence Award (for the team that is judged to have the best online presence).
 Full details of these awards and those for earlier stages of the competition are
 available in our [rulebook](/docs/resources/2020/rulebook.pdf)
 
-If you would like to catch up on this weekend's livestreamed matches, they're
-available on YouTube:
+If you would like to catch up on any of the league matches from the last two
+weekends, they're available on YouTube:
 
-* [Saturday: League Session 1](https://youtu.be/symUE1E4niI)
-* [Sunday: League Session 2](https://youtu.be/Y4h5P47j8jM)
+| Date          | Competition Stage                                |
+|---------------|--------------------------------------------------|
+| Saturday 11th | [League Session 1](https://youtu.be/xLL7SoQywf4) |
+| Sunday 12th   | [League Session 2](https://youtu.be/7JoW4zXSeZE) |
+| Saturday 18th | [League Session 1](https://youtu.be/symUE1E4niI) |
+| Sunday 19th   | [League Session 2](https://youtu.be/Y4h5P47j8jM) |
 
 We look forward to seeing you next [Saturday, 25th July][knockouts], for the
 continuation of the SR2020 Virtual Competition.
