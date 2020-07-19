@@ -37,8 +37,8 @@ weekends, they're available on YouTube:
 |---------------|--------------------------------------------------|
 | Saturday 11th | [League Session 1](https://youtu.be/xLL7SoQywf4) |
 | Sunday 12th   | [League Session 2](https://youtu.be/7JoW4zXSeZE) |
-| Saturday 18th | [League Session 1](https://youtu.be/symUE1E4niI) |
-| Sunday 19th   | [League Session 2](https://youtu.be/Y4h5P47j8jM) |
+| Saturday 18th | [League Session 3](https://youtu.be/symUE1E4niI) |
+| Sunday 19th   | [League Session 4](https://youtu.be/Y4h5P47j8jM) |
 
 We look forward to seeing you next [Saturday, 25th July][knockouts], for the
 continuation of the SR2020 Virtual Competition.
