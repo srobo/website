@@ -11,12 +11,12 @@ The virtual competition takes place over a few weekends.
 
 Please see the relevant event pages:
 
-| Date           | Competition Stage                                                   |
-|----------------|---------------------------------------------------------------------|
-| 11th July 2020 | [League Session 1](/events/sr2020/virtual-competition-league-1/)    |
-| 12th July 2020 | [League Session 2](/events/sr2020/virtual-competition-league-2/)    |
-| 18th July 2020 | [League Session 3](/events/sr2020/virtual-competition-league-3/)    |
-| 19th July 2020 | [League Session 4](/events/sr2020/virtual-competition-league-4/)    |
-| 25th July 2020 | [Knockouts and Final](/events/sr2020/virtual-competition-knockouts/)|
+| Date           | Competition Stage                                                                     |
+|----------------|---------------------------------------------------------------------------------------|
+| 11th July 2020 | [League Session 1]({{ site.baseurl }}/events/sr2020/virtual-competition-league-1/)    |
+| 12th July 2020 | [League Session 2]({{ site.baseurl }}/events/sr2020/virtual-competition-league-2/)    |
+| 18th July 2020 | [League Session 3]({{ site.baseurl }}/events/sr2020/virtual-competition-league-3/)    |
+| 19th July 2020 | [League Session 4]({{ site.baseurl }}/events/sr2020/virtual-competition-league-4/)    |
+| 25th July 2020 | [Knockouts and Final]({{ site.baseurl }}/events/sr2020/virtual-competition-knockouts/)|
 
 Teams can submit their code here: [Submit your code](https://studentrobotics.org/code-submitter/)
