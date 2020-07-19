@@ -43,4 +43,4 @@ weekends, they're available on YouTube:
 We look forward to seeing you next [Saturday, 25th July][knockouts], for the
 continuation of the SR2020 Virtual Competition.
 
-[knockouts]: /events/sr2020/virtual-competition-knockouts/
+[knockouts]: {{ site.baseurl }}/events/sr2020/virtual-competition-knockouts/
