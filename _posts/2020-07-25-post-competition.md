@@ -52,7 +52,7 @@ four teams though with their starting corners changed. Once again the
 reliability of these four robots showed, with each collecting a token inside the
 one minute mark. In the end it was JAMDynamics' robot which was able to collect
 three silver tokens, including one stolen from Hills Road Sixth Form College
-second teams' scoring zone, which took victory.
+second team's scoring zone, which took victory.
 
 <!-- Video of Tie breaker -->
 <iframe
