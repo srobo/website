@@ -109,8 +109,11 @@ You can see a breakdown of scores for each match, as well as the overall league
 ranking on the [competition website](/comp/).
 
 Of course, this competition would not be possible without the tireless work of
-our [volunteers][volunteers], who developed the [simulated world][simulator] the
-competition was run in and enabled us to switch to a virtual competiton.
+our volunteers, who developed the [simulated world][simulator] the competition
+was run in and enabled us to switch to a virtual competiton. If you'd like to
+get involved in organising future competitions, from developing the software and
+hardware used by the teams to the events themselves we're always looking for
+people to [join our team][volunteers].
 
 Notes to editors
 ----------------
