@@ -87,7 +87,12 @@ Results
 
 ROOKIE AWARD BLURB
 
-COMMITTEE AWARD BLURB
+The Committee Award is given for extraordinary ingenuity or simple elegance in
+the design of their solution. Team SWI from South Wilts Grammar School earned
+this prize for an impressive navigation mesh and path-finding algorithm within
+their code. This also showed in their robot's performance, which was reliably
+able to navigate around the central pedestal to collect tokens from the far
+side.
 
 ONLINE PRESENCE BLURB
 
