@@ -25,7 +25,7 @@ available this year are available in the [rulebook][rulebook].
 Our competition event this year was rather different to normal as COVID-19
 prevented our usual weekend event. Instead the competition took place over
 three weekends, with matches being live-streamed from within a simulator.
-While this changed many aspects of the competition the core challenge to create
+While this changed many aspects of the competition, the core challenge to create
 an autonomous robot remained the same.
 
 The Final
