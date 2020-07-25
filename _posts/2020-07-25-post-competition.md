@@ -1,9 +1,10 @@
 ---
 layout: news
-title: XXX-team storms to victory in Student Robotics 2020
+title: JAMDynamics steal victory in Student Robotics 2020
 ---
 
-TODO: spiel about the team winning the virtual competition.
+Congratulations to JAMDynamics who take victory in a tie-breaker match after a
+strong performance in the league and knockout stages.
 
 The Challenge: *Two Colours*
 ----------------------------
@@ -30,9 +31,30 @@ an autonomous robot remained the same.
 The Final
 ---------
 
-Student Robotics 2020 concluded with ...
+This year's final featured four teams who had all proven their capabilities
+throughout the competition. All robots got off to a strong start, though
+JAMDynamics and Lawrence Sheriff School soon took a lead. However later in the
+match, the "poisoning" effect of having mixed tokens in a scoring zone changed
+everything leaving all four teams with the same number of points.
 
 <!-- Video of Final -->
+<iframe
+  class="center video"
+  src="https://www.youtube-nocookie.com/embed/XXX-TODO"
+  frameborder="0"
+  width="100%"
+  allowfullscreen
+  >
+</iframe>
+
+This tie for first place lead to a tie-breaker match, played between the same
+four teams though with their starting corners changed. Once again the
+reliability of these four robots showed, with each collecting a token inside the
+one minute mark. In the end it was JAMDynamics robot which was able to collect
+three silver tokens, including one stolen from Hills Road Sixth Form College
+second teams' scoring zone, which took victory.
+
+<!-- Video of Tie breaker -->
 <iframe
   class="center video"
   src="https://www.youtube-nocookie.com/embed/XXX-TODO"
@@ -55,12 +77,13 @@ Results
 
 |        Prize          |            Team
 |-----------------------|-----------------------------------------------
-| 1st Place             |
-| 2nd Place             |
-| 3rd Place             |
-| <span class="has-explanation" title="The rookie team who achieve the highest place in the league">Rookie Award</span> |
+| 1st Place             | JAM: JAMDynamics
+| 2nd Place             | [KSF: Kenilworth Sixth Form](https://www.ksn.org.uk/)
+| 3rd Place             | LSS: Lawrence Sheriff School
 | <span class="has-explanation" title="The team that displays the most extraordinary ingenuity or elegant simplicity in the design of their robot">Committee Award</span> |
-| <span class="has-explanation" title="The team that is judged to have the best online presence using the hashtag #srobo19">Online Presence</span> |
+| <span class="has-explanation" title="The rookie team who achieve the highest place in the league">Rookie Award</span> | [KSF: Kenilworth Sixth Form](https://www.ksn.org.uk/)
+| <span class="has-explanation" title="The first rookie team1that demonstrates a moving robot to the community will be awardedwith an edible prize at the final competition">First Robot Movement</span> | [KSF: Kenilworth Sixth Form](https://www.ksn.org.uk/) ([watch their robot](https://www.youtube.com/watch?v=KuFwqVyn_YA))
+| <span class="has-explanation" title="The team that is judged to have the best online presence using the hashtag #srobo19">Online Presence</span> |  MAI: Gymnasium Markt Indersdorf
 
 ROOKIE AWARD BLURB
 
