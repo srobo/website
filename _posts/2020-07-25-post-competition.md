@@ -80,7 +80,7 @@ Results
 With a dominating 111 league points, Kenilworth Sixth Form not only placed
 highest among the rookie teams but placed highest overall in the league.
 Especially given the changes to the competition through the year, beating other
-more eperience teams is a remarkable feat.
+more experience teams is a remarkable feat.
 
 The Committee Award is given for extraordinary ingenuity or simple elegance in
 the design of their solution. Team SWI from South Wilts Grammar School earned
