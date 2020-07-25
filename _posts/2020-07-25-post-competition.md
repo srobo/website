@@ -86,7 +86,7 @@ Results
 | <span class="has-explanation" title="The team that is judged to have the best online presence using the hashtag #srobo19">Online Presence</span> |  [MAI: Gymnasium Markt Indersdorf](https://mai-robotics.de/)
 
 With a dominating 111 league points, Kenilworth Sixth Form not only placed
-highest among the rookie teams in the league but placed highest overall.
+highest among the rookie teams but placed highest overall in the league.
 Especially given the changes to the competition through the year, beating other
 more eperience teams is a remarkable feat.
 
