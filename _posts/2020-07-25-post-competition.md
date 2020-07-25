@@ -79,8 +79,8 @@ Results
 |-----------------------|-----------------------------------------------
 | 1st Place             | JAM: JAMDynamics
 | 2nd Place             | [KSF: Kenilworth Sixth Form](https://www.ksn.org.uk/)
-| 3rd Place             | LSS: Lawrence Sheriff School
-| <span class="has-explanation" title="The team that displays the most extraordinary ingenuity or elegant simplicity in the design of their robot">Committee Award</span> |
+| 3rd Place             | [LSS: Lawrence Sheriff School](http://www.lawrencesheriffschool.net/)
+| <span class="has-explanation" title="The team that displays the most extraordinary ingenuity or elegant simplicity in the design of their robot">Committee Award</span> | [SWI: South Wilts Grammar School](https://www.swgs.wilts.sch.uk/)
 | <span class="has-explanation" title="The rookie team who achieve the highest place in the league">Rookie Award</span> | [KSF: Kenilworth Sixth Form](https://www.ksn.org.uk/)
 | <span class="has-explanation" title="The first rookie team1that demonstrates a moving robot to the community will be awardedwith an edible prize at the final competition">First Robot Movement</span> | [KSF: Kenilworth Sixth Form](https://www.ksn.org.uk/) ([watch their robot](https://www.youtube.com/watch?v=KuFwqVyn_YA))
 | <span class="has-explanation" title="The team that is judged to have the best online presence using the hashtag #srobo19">Online Presence</span> |  [MAI: Gymnasium Markt Indersdorf](https://mai-robotics.de/)
