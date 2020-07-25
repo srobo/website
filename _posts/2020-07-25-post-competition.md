@@ -33,7 +33,7 @@ The Final
 
 This year's final featured four teams who had all proven their capabilities
 throughout the competition. All robots got off to a strong start, though
-JAMDynamics and Lawrence Sheriff School soon took a lead. However later in the
+JAMDynamics and Lawrence Sheriff School soon took a lead. However, later in the
 match, the "poisoning" effect of having mixed tokens in a scoring zone changed
 everything leaving all four teams with the same number of points.
 
