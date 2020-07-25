@@ -65,8 +65,10 @@ second team's scoring zone, which took victory.
 </iframe>
 
 While we weren't able to see them in person, we saw some brilliant robot designs
-this year and were impressed by the capabilities of the teams' code -- great
-work by all teams. We hope you enjoyed the competition as much as we did!
+and were continually impressed by the progress made throughout the year, both
+posted online and at the Tech Days. Even during the virtual competiton, it was
+great to see the robot code improving week to week. We hope you enjoyed the
+competition as much as we did!
 
 If you didn't take part, or you want to enter again next year, the
 [sign up page]({{ site.baseurl }}/compete/) for next year's competition will be
