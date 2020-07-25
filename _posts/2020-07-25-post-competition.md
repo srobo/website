@@ -89,10 +89,11 @@ ROOKIE AWARD BLURB
 
 The Committee Award is given for extraordinary ingenuity or simple elegance in
 the design of their solution. Team SWI from South Wilts Grammar School earned
-this prize for an impressive navigation mesh and path-finding algorithm within
-their code. This also showed in their robot's performance, which was reliably
-able to navigate around the central pedestal to collect tokens from the far
-side.
+this prize for an impressive path-finding algorithm within their code. The
+judges were additionally impressed by the clarity of the code and supporting
+documentation, something which is easily overlooked when writing code. This also
+showed in their robot's performance, which was reliably able to navigate around
+the central pedestal to collect tokens from the far side.
 
 We also encourage teams to share their progress towards their robots throughout
 the year. Team MAI from Gymnasium Markt Indersdorf earned the Online Presence
