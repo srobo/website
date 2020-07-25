@@ -94,7 +94,10 @@ their code. This also showed in their robot's performance, which was reliably
 able to navigate around the central pedestal to collect tokens from the far
 side.
 
-ONLINE PRESENCE BLURB
+We also encourage teams to share their progress towards their robots throughout
+the year. Team MAI from Gymnasium Markt Indersdorf earned the Online Presence
+Award for their ongoing blog posting during both the lead-up to the physical
+competition and after lockdown began as well as for their activy on the forums.
 
 For full details on all the awards, please see the [rulebook][rulebook].
 
