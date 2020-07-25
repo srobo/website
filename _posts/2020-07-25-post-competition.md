@@ -75,7 +75,7 @@ Results
 | <span class="has-explanation" title="The team that displays the most extraordinary ingenuity or elegant simplicity in the design of their robot">Committee Award</span> | [SWI: South Wilts Grammar School](https://www.swgs.wilts.sch.uk/)
 | <span class="has-explanation" title="The rookie team who achieve the highest place in the league">Rookie Award</span> | [KSF: Kenilworth Sixth Form](https://www.ksn.org.uk/)
 | <span class="has-explanation" title="The first rookie team that demonstrates a moving robot to the community">First Robot Movement</span> | [KSF: Kenilworth Sixth Form](https://www.ksn.org.uk/) ([watch their robot](https://www.youtube.com/watch?v=KuFwqVyn_YA))
-| <span class="has-explanation" title="The team that is judged to have the best online presence using the hashtag #srobo19">Online Presence</span> |  [MAI: Gymnasium Markt Indersdorf](https://mai-robotics.de/)
+| <span class="has-explanation" title="The team that is judged to have the best online presence using the hashtag #srobo2020">Online Presence</span> |  [MAI: Gymnasium Markt Indersdorf](https://mai-robotics.de/)
 
 With a dominating 111 league points, Kenilworth Sixth Form not only placed
 highest among the rookie teams but placed highest overall in the league.
