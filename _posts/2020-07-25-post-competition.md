@@ -112,6 +112,9 @@ If you'd like to relive the highs and lows of the competition livestreams, the v
 - [Knockouts and Final](https://www.youtube.com/watch?v=xBPVqsb_Ydk)
 - [Final and Tiebreaker](https://www.youtube.com/watch?v=MAXpgODIqiI)
 
+Thanks
+------
+
 Of course, this competition would not be possible without the tireless work of
 our volunteers, who developed the [simulated world][simulator] the competition
 was run in and enabled us to switch to a virtual competiton. If you'd like to
