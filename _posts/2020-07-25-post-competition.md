@@ -103,7 +103,7 @@ ranking on the [competition website](/comp/).
 Rewatch the streams
 -------------------
 
-If you'd like to relive the highs and lows of the competition livestreams of the matches remain available on YouTube, as well as a cut-down video of the spectacular final and tie breaker:
+If you'd like to relive the highs and lows of the competition livestreams, the videos remain available on YouTube, as well as a cut-down video of the spectacular final and tie breaker:
 
 - [League Session 1](https://www.youtube.com/watch?v=xLL7SoQywf4)
 - [League Session 2](https://www.youtube.com/watch?v=7JoW4zXSeZE)
