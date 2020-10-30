@@ -25,4 +25,4 @@ You can sign up as normal on the [compete page][sign-up] of our website.
 [teams-email]: mailto:teams@studentrobotics.org
 [sign-up]: https://studentrobotics.org/compete/
 
-[sr2021]: {{ '/news/2020-10-29-sr2021-registration-open.md' | prepend: site.baseurl }}
+[sr2021]: {{ '/news/2020-10-29-sr2021-registration-open/' | prepend: site.baseurl }}
