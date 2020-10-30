@@ -1,35 +1,28 @@
 ---
 layout: news
 title: COVID-19 Updates
-date: 2020-05-22
+date: 2020-10-29
 ---
 
 We will keep this page updated with new information as it becomes available.
 
 Last updated: {{ page.date | date: "%e %B %Y" }}.
 
-## The Competition
+## The Competition - SR2021
 
 ### In-person competition
 
-In light of recent events, the physical competition will not be running.
+Due to the ongoing COVID-19 situation we will not be running a physical competition this year.
 
 ### Virtual Competition
 
-We will be running a virtual Student Robotics Competition this summer. More information can be found on its [event page]({{ site.baseurl }}/events/sr2020/virtual-competition/).
+We will be running a [virtual Student Robotics Competition][sr2021] instead over the normal competiton cycle.
 
-We aim to keep the virtual competition rules as similar to the SR2020 game, [Two Colours]({{ site.baseurl }}/docs/rules/), as possible.
-
-Due to the nature of a virtual competition, we should be able to allow competing schools to enter additional teams.
-
-## Assistance from volunteers
-
-With our focus shifting to a Virtual Competition, we intend to improve our remote mentoring over the next few weeks.
-
-The [forum][forum] is still a great place to get help from blueshirts and other teams, in addition to showing off your progress!
-
-If you are looking for more in-depth support from blueshirts in the meantime, you can [email us][teams-email] to request remote mentoring.
+You can sign up as normal on the [compete page][sign-up] of our website.
 
 [phe-guidelines]: https://www.gov.uk/government/publications/guidance-to-educational-settings-about-covid-19/guidance-to-educational-settings-about-covid-19
 [forum]: https://studentrobotics.org/forum/
 [teams-email]: mailto:teams@studentrobotics.org
+[sign-up]: https://studentrobotics.org/compete/
+
+[sr2021]: {{ '/news/2020-10-29-sr2021-registration-open/' | prepend: site.baseurl }}
