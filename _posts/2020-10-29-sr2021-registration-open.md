@@ -14,7 +14,7 @@ we will be running the competition in a simulated environment.
 The competition cycle will start with a live streamed [Kickstart event][kickstart]
 on 21st November at which the game will be announced and the simulator shown off to teams.
 
-The competition, which will take on May 1st 2020, and will
+The competition, which will take on May 1st 2021, will
 see the robots compete through a league stage and a seeded knockout. As usual,
 the prizes will recognise not only the teams which come top in the knockouts,
 but also those who excel in other ways.
