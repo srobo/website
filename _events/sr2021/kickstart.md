@@ -19,6 +19,6 @@ immediately. Information on downloading our simulation will be made available th
 During the event, we recommend setting up a call or video chat for you and your team to
 communicate and collaborate, both to share ideas and discuss potential questions.
 
-Once you've [signed up][sign-up] all you will need to join us is a device that can watch a Youtube Livestream.
+There's still time to [sign up][sign-up] if you have't already! Deadline for entries is the 19th November 2020.
 
 [sign-up]: https://studentrobotics.org/compete/
