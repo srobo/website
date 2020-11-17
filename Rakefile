@@ -31,7 +31,7 @@ end
 task :build => [:build_site, :build_docker]
 
 task :run => [:build_docker] do
-  sh('docker run --rm -p 80:80 --name srobo srobo/website')
+  sh('docker run --rm -p 80:80 -p 443:443 --name srobo srobo/website')
 end
 
 task :deploy do
