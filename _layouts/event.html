@@ -16,11 +16,14 @@ layout: page
           {% else %}
             {% assign date_format = '%e %B %Y at %l%P' %}
           {% endif %}
-          {% if page.cancelled %}
-            <li><i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> <s>{{ page.date | date: date_format }}</s></li>
-          {% else %}
-            <li><i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> {{ page.date | date: date_format }}</li>
-          {% endif %}
+          <li>
+            <i class="fa fa-fw fa-clock-o" aria-hidden="true"></i>
+            {% if page.cancelled %}
+              <s>{{ page.date | date: date_format }}</s>
+            {% else %}
+              {{ page.date | date: date_format }}
+            {% endif %}
+          </li>
           <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ page.location }}</li>
         </ul>
       </div>

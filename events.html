@@ -34,11 +34,13 @@ permalink: /events/
             {% else %}
               {% assign date_format = '%e %B %Y at %l%P' %}
             {% endif %}
-            {% if event.cancelled %}
-              <div class="column d-12-12 l-3-12"><s>{{ event.date | date: date_format }}</s></div>
-            {% else %}
-              <div class="column d-12-12 l-3-12">{{ event.date | date: date_format }}</div>
-            {% endif %}
+            <div class="column d-12-12 l-3-12">
+              {% if event.cancelled %}
+                <s>{{ event.date | date: date_format }}</s>
+              {% else %}
+                {{ event.date | date: date_format }}
+              {% endif %}
+            </div>
             <div class="column d-12-12 l-4-12">{{ event.location }}</div>
           </li>
           {% endfor %}
