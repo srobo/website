@@ -5,7 +5,7 @@ title: SR2021 Game Announced
 
 Student Robotics 2021 was Kickstarted today on our [livestream][livestream]. Peaking at just over a hundred concurrent viewers we welcomed teams from arround the world, and it was great to see the competitors get familiar with the simulator.
 
-Our game this year, _Radars of the Lost Ark_, challenges teams to score points by claiming territories using radios. Teams must navigate the arena scanning for tower transmissions and sending their own transmissions back to claim territories. Teams are awarded points at the end of the match for the maximum extent of their territory at any one time. Each owned territory at the maximum extent is worth 2 points. Full details, including the prizes available this year, are available in the [rulebook][rules].
+Our game this year, _Radars of the Lost Ark_, challenges teams to score points by claiming territories using radios. Teams must navigate the arena scanning for tower transmissions and sending their own transmissions back to claim territories. Teams are awarded points at the end of the match for the maximum extent of their territory at any one time. Full details, including the prizes available this year, are available in the [rulebook][rules].
 
 This year's teams have already been strategising their approach, and we can't wait to see their progress over the year!
 
