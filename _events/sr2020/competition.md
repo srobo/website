@@ -3,7 +3,7 @@ title: Competition
 layout: event
 type: competition
 location: n/a
-date: 2020-07-04 09:00:00
+date: 2020-07-04 09:00:00 Europe/London
 cancelled: true
 ---
 

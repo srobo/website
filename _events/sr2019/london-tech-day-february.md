@@ -1,6 +1,6 @@
 ---
 title: London February Tech Day
-date: 2019-02-09 10:00:00
+date: 2019-02-09 10:00:00 Europe/London
 layout: event
 type: techday
 location: Thread, Whitechapel

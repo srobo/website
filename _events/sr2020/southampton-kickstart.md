@@ -1,6 +1,6 @@
 ---
 title: Southampton Kickstart
-date: 2019-10-26 10:00:00
+date: 2019-10-26 10:00:00 Europe/London
 layout: event
 type: kickstart
 location: University of Southampton

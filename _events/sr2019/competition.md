@@ -1,6 +1,6 @@
 ---
 title: Competition
-date: 2019-04-06 9:00:00
+date: 2019-04-06 09:00:00 Europe/London
 layout: event
 type: competition
 location: Southampton University
