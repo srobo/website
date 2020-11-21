@@ -13,7 +13,7 @@ If you weren’t able to attend Kickstart this year, or would like a recap, you 
 
 - watch our [livestream][livestream] where we explain the game and how this year's competition will work.
 - download [the presentation][presentation] in which we explain this year’s game and how the competition is running this year.
-- download [the microgames][microgames] which are small activities designed to let you become familiar with the Student Robotics kit.
+- download [the microgames][microgames] which are small activities designed to let you become familiar with the Student Robotics simulator.
 
 [rules]: https://studentrobotics.org/docs/rules/
 [livestream]: https://www.youtube.com/watch?v=cQOgo0Gh4iA
