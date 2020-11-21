@@ -14,7 +14,7 @@ questions you have will be answered. Kickstart will be streamed live on
 The simulator will be based in [Webots](https://cyberbotics.com/#download). The download
 is large, and we recommend downloading it before the event to ensure you can get started
 immediately. Information on downloading our simulation will be made available through
-[the docs](https://studentrobotics.org/docs/competition-simulator) during the event.
+[the docs](https://studentrobotics.org/docs/simulator/) during the event.
 
 During the event, we recommend setting up a call or video chat for you and your team to
 communicate and collaborate, both to share ideas and discuss potential questions.
