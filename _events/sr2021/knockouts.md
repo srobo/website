@@ -6,4 +6,4 @@ type: competition
 location: The Student Robotics YouTube Channel
 ---
 
-The Student Robotics Competition marks the ultimate stage of SR2020, showcasing the months of preparation. Our teams will work hard to push their virtual robots to the limit, competing against each other, and evolving their strategies to gain the upper hand.
+The Student Robotics Competition marks the ultimate stage of SR2020, showcasing months of preparation. Our teams will work hard to push their virtual robots to the limit, competing against each other, and evolving their strategies to gain the upper hand.
