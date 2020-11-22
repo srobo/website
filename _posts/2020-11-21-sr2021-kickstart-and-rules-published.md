@@ -22,8 +22,11 @@ If you weren’t able to attend Kickstart this year, or would like a recap, you 
 - download [the presentation][presentation] in which we explain this year’s game and how the competition is running this year.
 - download [the microgames][microgames] which are small activities designed to let you become familiar with the Student Robotics simulator.
 
+We look forward to seeing you at the first [league session, in January][first-league].
+
 [rules]: https://studentrobotics.org/docs/rules/
 [knockouts-event]: {{ site.baseurl }}/events/sr2021/knockouts/
+[first-league]: {{ site.baseurl }}/events/sr2021/league-1/
 [livestream]: https://www.youtube.com/watch?v=cQOgo0Gh4iA
 [presentation]: {{ site.baseurl }}/resources/sr2021/kickstart-sr2021.pdf
 [microgames]: {{ site.baseurl }}/resources/sr2021/microgames-sr2021.pdf
