@@ -18,6 +18,9 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
+    icalendar (2.7.0)
+      ice_cube (~> 0.16)
+    ice_cube (0.16.3)
     jekyll (3.8.4)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -77,6 +80,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  icalendar
   jekyll
   jekyll-feed
   jekyll-paginate

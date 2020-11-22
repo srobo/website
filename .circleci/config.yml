@@ -16,6 +16,8 @@ jobs:
       - run: docker info
       - run: rake build
 
+      - run: rake validate
+
   build_and_release:
     docker: *docker-template
 
@@ -29,6 +31,8 @@ jobs:
           command: gem install 'bundler:~>1' rake
       - run: docker info
       - run: rake build
+
+      - run: rake validate
 
       - run:
           name: Push Docker image

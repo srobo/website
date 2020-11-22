@@ -24,6 +24,10 @@ task :build_site => [:dependencies, :submodules] do
   sh('bundle exec jekyll build --config _config.yml')
 end
 
+task :validate => [:build_site] do
+  sh('bundle exec scripts/validate-icalendar.rb')
+end
+
 task :build_docker do
   sh('docker build --tag srobo/website .')
 end

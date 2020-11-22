@@ -9,5 +9,8 @@ gem 'jekyll-paginate'
 gem 'tzinfo',           :platforms => [:mswin, :mingw, :x64_mingw]
 gem 'tzinfo-data',      :platforms => [:mswin, :mingw, :x64_mingw]
 
+# For testing our rendered iCalendar file
+gem 'icalendar'
+
 # Avoid polling on windows
 gem 'wdm', '>= 0.1.0'
