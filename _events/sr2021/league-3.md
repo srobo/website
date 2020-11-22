@@ -1,6 +1,7 @@
 ---
 title: Competition League Session 3
-date: 2021-03-20 13:00:00
+date: 2021-03-20
+time_tbc: true
 layout: event
 type: competition
 location: Student Robotics' YouTube Channel

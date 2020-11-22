@@ -1,6 +1,7 @@
 ---
 title: Competition Knockouts and Final
-date: 2021-05-01 13:00:00
+date: 2021-05-01
+time_tbc: true
 layout: event
 type: competition
 location: Student Robotics' YouTube Channel

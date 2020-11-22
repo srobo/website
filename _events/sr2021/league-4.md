@@ -1,6 +1,7 @@
 ---
 title: Competition League Session 4
-date: 2021-04-24 13:00:00
+date: 2021-04-24
+time_tbc: true
 layout: event
 type: competition
 location: Student Robotics' YouTube Channel

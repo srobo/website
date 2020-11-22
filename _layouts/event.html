@@ -11,10 +11,15 @@ layout: page
     <div class="column l-4-12">
       <div class="card thin-card">
         <ul class="detail-list">
-          {% if page.cancelled %}
-            <li><i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> <s>{{ page.date | date: "%e %B %Y at %l%P" }}</s></li>
+          {% if page.time_tbc %}
+            {% assign date_format = '%e %B %Y <small style="opacity: 70%;">(time <abbr title="To be confirmed">TBC</abbr>)</small>' %}
           {% else %}
-            <li><i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> {{ page.date | date: "%e %B %Y at %l%P" }}</li>
+            {% assign date_format = '%e %B %Y at %l%P' %}
+          {% endif %}
+          {% if page.cancelled %}
+            <li><i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> <s>{{ page.date | date: date_format }}</s></li>
+          {% else %}
+            <li><i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> {{ page.date | date: date_format }}</li>
           {% endif %}
           <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ page.location }}</li>
         </ul>
