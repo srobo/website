@@ -12,6 +12,7 @@
 {% else %}
   <time
     {{ cancelled }}
+    class="time-span"
     datetime="{{ include.event.date | date_to_xmlschema }}"
     title="{{ include.event.date | date_to_rfc822 }}"
   >

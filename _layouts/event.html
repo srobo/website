@@ -34,3 +34,10 @@ layout: page
     </div>
   </div>
 </div>
+
+<script type="text/javascript" defer>
+  // function is defined in js/localise-times.js
+  window.addEventListener('load', function() {
+    localise_times('{{ site.timezone }}');
+  });
+</script>
