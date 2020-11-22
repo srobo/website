@@ -3,7 +3,7 @@ title: Kickstart
 date: 2020-11-21 13:00:00
 layout: event
 type: kickstart
-location: The Student Robotics YouTube Channel
+location: Student Robotics' YouTube Channel
 ---
 
 Kickstart is the event which kicks off a competition year. The game and rules will

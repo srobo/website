@@ -29,10 +29,15 @@ permalink: /events/
               <a href="{{ event.url | prepend: site.baseurl }}">{{ event.title }}</a>
             </div>
             <div class="column d-12-12 l-2-12"><span class="tag tag-{{ event.type }}">{{ event.type }}</span></div>
-            {% if event.cancelled %}
-              <div class="column d-12-12 l-3-12"><s>{{ event.date | date: "%e %B %Y at %l%P" }}</s></div>
+            {% if event.time_tbc %}
+              {% assign date_format = '%e %B %Y' %}
             {% else %}
-              <div class="column d-12-12 l-3-12">{{ event.date | date: "%e %B %Y at %l%P" }}</div>
+              {% assign date_format = '%e %B %Y at %l%P' %}
+            {% endif %}
+            {% if event.cancelled %}
+              <div class="column d-12-12 l-3-12"><s>{{ event.date | date: date_format }}</s></div>
+            {% else %}
+              <div class="column d-12-12 l-3-12">{{ event.date | date: date_format }}</div>
             {% endif %}
             <div class="column d-12-12 l-4-12">{{ event.location }}</div>
           </li>
