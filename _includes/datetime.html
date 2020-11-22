@@ -1,0 +1,10 @@
+{% if include.event.time_tbc %}
+  {% assign date_format = include.date_only_format %}
+{% else %}
+  {% assign date_format = include.datetime_format %}
+{% endif %}
+{% if include.event.cancelled %}
+  <s>{{ include.event.date | date: date_format }}</s>
+{% else %}
+  {{ include.event.date | date: date_format }}
+{% endif %}
