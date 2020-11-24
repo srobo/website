@@ -17,7 +17,7 @@ function localise_times(site_timezone) {
   }
 
   document.querySelectorAll("time.time-span").forEach((elem) => {
-    const datetime = elem.parentElement.attributes.datetime.value;
+    const datetime = elem.attributes.datetime.value;
     if (!datetime) {
       return;
     }
