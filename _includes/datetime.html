@@ -1,0 +1,21 @@
+{% if include.event.cancelled %}
+  {% assign cancelled = 'style="text-decoration: line-through;"' %}
+{% endif %}
+{% if include.event.time_tbc %}
+  <time
+    {{ cancelled }}
+    datetime="{{ include.event.date | date:'%F' }}"
+    title="{{ include.event.date | date:'%a, %d %b %Y' }}"
+  >
+    {{ include.event.date | date:include.date_only_format }}
+  </time>
+{% else %}
+  <time
+    {{ cancelled }}
+    class="time-span"
+    datetime="{{ include.event.date | date_to_xmlschema }}"
+    title="{{ include.event.date | date_to_rfc822 }}"
+  >
+    {{ include.event.date | date:include.datetime_format }}
+  </time>
+{% endif %}

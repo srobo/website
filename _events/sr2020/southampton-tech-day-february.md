@@ -1,6 +1,6 @@
 ---
 title: Southampton February Tech Day
-date: 2020-02-08 10:00:00
+date: 2020-02-08 10:00:00 Europe/London
 layout: event
 type: techday
 location: Southampton University

@@ -7,7 +7,7 @@ METHOD:PUBLISH
 {% assign sorted = site.events | sort: 'date' %}
 {% for event in sorted %}BEGIN:VEVENT
 UID:{{ event.url | prepend: site.baseurl | prepend: site.url }}
-DTSTART{% if event.time_tbc %};VALUE=DATE:{{ event.date | date: "%Y%m%d" }}{% else %}:{{ event.date | date: "%Y%m%dT%H%M%S" }}{% endif %}
+DTSTART;TZID={{ site.timezone }}{% if event.time_tbc %};VALUE=DATE:{{ event.date | date: "%Y%m%d" }}{% else %}:{{ event.date | date: "%Y%m%dT%H%M%S" }}{% endif %}
 DTSTAMP{% if event.time_tbc %};VALUE=DATE:{{ event.date | date: "%Y%m%d" }}{% else %}:{{ event.date | date: "%Y%m%dT%H%M%S" }}{% endif %}
 CLASS:PUBLIC
 DESCRIPTION:See

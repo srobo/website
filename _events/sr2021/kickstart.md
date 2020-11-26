@@ -1,6 +1,6 @@
 ---
 title: Kickstart
-date: 2020-11-21 13:00:00
+date: 2020-11-21 13:00:00 Europe/London
 layout: event
 type: kickstart
 location: Student Robotics' YouTube Channel

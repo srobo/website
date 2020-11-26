@@ -1,6 +1,6 @@
 ---
 title: Virtual Competition Knockouts and Final
-date: 2020-07-25 15:00:00
+date: 2020-07-25 15:00:00 Europe/London
 layout: event
 type: competition
 location: Online

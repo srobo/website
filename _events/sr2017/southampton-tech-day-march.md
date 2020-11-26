@@ -1,6 +1,6 @@
 ---
 title: Southampton March Tech Day
-date: 2017-03-25 10:00:00
+date: 2017-03-25 10:00:00 Europe/London
 layout: event
 type: techday
 location: Southampton University

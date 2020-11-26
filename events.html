@@ -29,16 +29,12 @@ permalink: /events/
               <a href="{{ event.url | prepend: site.baseurl }}">{{ event.title }}</a>
             </div>
             <div class="column d-12-12 l-2-12"><span class="tag tag-{{ event.type }}">{{ event.type }}</span></div>
-            {% if event.time_tbc %}
-              {% assign date_format = '%e %B %Y' %}
-            {% else %}
-              {% assign date_format = '%e %B %Y at %l%P' %}
-            {% endif %}
-            {% if event.cancelled %}
-              <div class="column d-12-12 l-3-12"><s>{{ event.date | date: date_format }}</s></div>
-            {% else %}
-              <div class="column d-12-12 l-3-12">{{ event.date | date: date_format }}</div>
-            {% endif %}
+            <div class="column d-12-12 l-3-12">
+              {% comment %}
+              {# Changing the format here? Also change the event page and the localise_times function #}
+              {% endcomment %}
+              {% include datetime.html date_only_format='%e %B %Y' datetime_format='%e %B %Y at %l%P' event=event %}
+            </div>
             <div class="column d-12-12 l-4-12">{{ event.location }}</div>
           </li>
           {% endfor %}
@@ -46,3 +42,10 @@ permalink: /events/
       </div>
   </div>
 </div>
+
+<script type="text/javascript" defer>
+  // function is defined in js/localise-times.js
+  window.addEventListener('load', function() {
+    localise_times('{{ site.timezone }}');
+  });
+</script>

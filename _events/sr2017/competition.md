@@ -1,6 +1,6 @@
 ---
 title: Competition
-date: 2017-04-01 09:00:00
+date: 2017-04-01 09:00:00 Europe/London
 layout: event
 type: competition
 location: Newbury Racecourse

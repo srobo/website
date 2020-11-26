@@ -1,6 +1,6 @@
 ---
 title: Bristol Kickstart
-date: 2016-10-15 10:00:00
+date: 2016-10-15 10:00:00 Europe/London
 layout: event
 type: kickstart
 location: Bristol University

@@ -1,6 +1,6 @@
 ---
 title: Virtual Competition League Session 2
-date: 2020-07-12 15:00:00
+date: 2020-07-12 15:00:00 Europe/London
 layout: event
 type: competition
 location: Online

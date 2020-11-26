@@ -1,6 +1,6 @@
 ---
 title: Southampton Kickstart
-date: 2018-11-10 10:00:00
+date: 2018-11-10 10:00:00 Europe/London
 layout: event
 type: kickstart
 location: Southampton University
