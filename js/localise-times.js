@@ -7,6 +7,7 @@ function localise_times(site_timezone) {
     hour12: true,
     minute: 'numeric',
     dayPeriod: 'short',
+    timeZoneName: 'short',
   };
   const date_formatter_with_minutes = Intl.DateTimeFormat(undefined, options);
   delete options.minute;
@@ -28,7 +29,12 @@ function localise_times(site_timezone) {
         ? date_formatter_with_minutes
         : date_formatter_without_minutes;
 
-    let parts = formatter.formatToParts(date);
+    let parts = formatter.formatToParts(date).map(({ type, value }) => {
+      if (type == 'timeZoneName') {
+        value = '<small style="opacity: 70%;">' + value + "</small>";
+      }
+      return { type, value };
+    });
 
     if (navigator.language.startsWith('en-')) {
       // For english speaking visitors where the local format is broadly the
@@ -46,6 +52,6 @@ function localise_times(site_timezone) {
       });
     }
 
-    elem.textContent = parts.map(({ value }) => value).join("");
+    elem.innerHTML = parts.map(({ value }) => value).join("");
   });
 }
