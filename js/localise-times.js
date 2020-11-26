@@ -31,7 +31,7 @@ function localise_times(site_timezone) {
 
     let parts = formatter.formatToParts(date).map(({ type, value }) => {
       if (type == 'timeZoneName') {
-        value = '<small style="opacity: 70%;">' + value + "</small>";
+        value = '<small class="muted">' + value + "</small>";
       }
       return { type, value };
     });
