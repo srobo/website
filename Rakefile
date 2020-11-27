@@ -25,7 +25,7 @@ task :build_site => [:dependencies, :submodules] do
 end
 
 task :validate => [:build_site] do
-  sh('bundle exec scripts/validate-icalendar.rb')
+  sh('bundle exec ruby scripts/validate-icalendar.rb')
 end
 
 task :build_docker do
