@@ -25,4 +25,4 @@ Our live-stream will start at 1pm GMT: [Watch live](https://www.youtube.com/watc
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/cQOgo0Gh4iA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[sign-up]: https://studentrobotics.org/compete/
+[sign-up]: {{ site.baseurl }}/compete/

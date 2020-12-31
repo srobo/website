@@ -23,6 +23,6 @@ You can sign up as normal on the [compete page][sign-up] of our website.
 [phe-guidelines]: https://www.gov.uk/government/publications/guidance-to-educational-settings-about-covid-19/guidance-to-educational-settings-about-covid-19
 [forum]: https://studentrobotics.org/forum/
 [teams-email]: mailto:teams@studentrobotics.org
-[sign-up]: https://studentrobotics.org/compete/
+[sign-up]: {{ site.baseurl }}/compete/
 
 [sr2021]: {{ '/news/2020-10-29-sr2021-registration-open/' | prepend: site.baseurl }}
