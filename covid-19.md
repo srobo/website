@@ -16,9 +16,7 @@ Due to the ongoing COVID-19 situation we will not be running a physical competit
 
 ### Virtual Competition
 
-We will be running a [virtual Student Robotics Competition][sr2021] instead over the normal competiton cycle.
-
-You can sign up as normal on the [compete page][sign-up] of our website.
+We are running a [virtual Student Robotics Competition][sr2021] instead over the normal competiton cycle.
 
 [phe-guidelines]: https://www.gov.uk/government/publications/guidance-to-educational-settings-about-covid-19/guidance-to-educational-settings-about-covid-19
 [forum]: https://studentrobotics.org/forum/
