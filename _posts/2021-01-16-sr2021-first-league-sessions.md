@@ -14,7 +14,7 @@ rookie team which scores the best in the league, which both the We Robots team
 and Harris Westminster Sixth Form Team 1 are currently well placed for.
 
 At the end of the league we announced to teams the details of our
-[second game module]({{ site.baseurl }}/docs/resources/2021/rulebook.html).
+[second game module](https://studentrobotics.org/docs/resources/2021/rulebook.html).
 This sees the territories, that teams must claim to gain points,
 have 'links' added between them. Coupled with a new restriction that prevents
 robots claiming territories unless they can form a chain back to thier starting
