@@ -14,7 +14,7 @@ rookie team which scores the best in the league, which both the We Robots team
 and Harris Westminster Sixth Form Team 1 are currently well placed for.
 
 At the end of the league we announced to teams the details of our second game
-module. This sees the territoties, that teams must claim to gain points,
+module. This sees the territories, that teams must claim to gain points,
 have 'links' added between them. Coupled with a new restriction that prevents
 robots claiming territories unless they can form a chain back to thier starting
 zone, this makes for an intersting problem for teams to solve.
