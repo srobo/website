@@ -7,7 +7,7 @@ type: competition
 location: <a href="https://www.youtube.com/watch?v=E9gF-GZbf5M">Student Robotics' YouTube Channel</a>
 ---
 
-This is the fourth league round of this year's competition and the last chance teams get to test thier strategies before the knockouts! Our teams will work hard to push their virtual robots to the limit, competing against each other, and evolving their strategies to gain the upper hand.
+This is the fourth league round of this year's competition and the last chance teams get to test their strategies before the knockouts! Our teams will work hard to push their virtual robots to the limit, competing against each other, and evolving their strategies to gain the upper hand.
 
 Code submission will be due at 8pm GMT on Friday 23rd: [Submit your code](https://studentrobotics.org/code-submitter/)
 
