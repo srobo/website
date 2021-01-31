@@ -9,9 +9,9 @@ location: <a href="https://www.youtube.com/watch?v=E9gF-GZbf5M">Student Robotics
 
 This is the fourth league round of this year's competition and the last chance teams get to test their strategies before the knockouts! Our teams will work hard to push their virtual robots to the limit, competing against each other, and evolving their strategies to gain the upper hand.
 
-Code submission will be due at 8pm GMT on Friday 23rd: [Submit your code](https://studentrobotics.org/code-submitter/)
+Code submission will be due at 8pm UK time on Friday 23rd: [Submit your code](https://studentrobotics.org/code-submitter/)
 
-Our live-stream will start at noon GMT: [Watch live](https://www.youtube.com/watch?v=E9gF-GZbf5M)
+Our live-stream will start at noon UK time: [Watch live](https://www.youtube.com/watch?v=E9gF-GZbf5M)
 
 <iframe
   width="100%"
