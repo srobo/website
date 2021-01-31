@@ -1,7 +1,6 @@
 ---
 title: Competition League Session 2
-date: 2021-02-06
-time_tbc: true
+date: 2021-02-06 12:00:00 Europe/London
 layout: event
 type: competition
 location: <a href="https://www.youtube.com/watch?v=RwW5Oz30gbE">Student Robotics' YouTube Channel</a>
