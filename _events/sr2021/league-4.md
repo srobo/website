@@ -11,8 +11,6 @@ This is the fourth league round of this year's competition and the last chance t
 
 Code submission will be due at 8pm UK time on Friday 23rd: [Submit your code](https://studentrobotics.org/code-submitter/)
 
-Our live-stream will start at noon UK time: [Watch live](https://www.youtube.com/watch?v=E9gF-GZbf5M)
-
 <iframe
   width="100%"
   height="315"

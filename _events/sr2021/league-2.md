@@ -10,8 +10,6 @@ This is the second league round of this year's competition and we'll get to see 
 
 Code submission will be due at 8pm GMT on Friday 5th: [Submit your code](https://studentrobotics.org/code-submitter/)
 
-Our live-stream will start at noon GMT: [Watch live](https://www.youtube.com/watch?v=RwW5Oz30gbE)
-
 <iframe
   width="100%"
   height="315"
