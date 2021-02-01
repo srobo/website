@@ -9,7 +9,7 @@ location: <a href="https://www.youtube.com/watch?v=MpuhtW4mCKM">Student Robotics
 
 This is the third league round of this year's competition and we'll be able to see the result of a few months of robot iteration! Our teams will work hard to push their virtual robots to the limit, competing against each other, and evolving their strategies to gain the upper hand.
 
-Code submission will be due at 8pm GMT on Friday 19th: [Submit your code](https://studentrobotics.org/code-submitter/)
+Teams will have to submit their code to us by 8pm GMT on Friday 19th using our [code submitter](https://studentrobotics.org/code-submitter/).
 
 <iframe
   width="100%"
