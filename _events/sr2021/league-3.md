@@ -1,6 +1,6 @@
 ---
 title: Competition League Session 3
-date: 2021-03-20
+date: 2021-03-20 12:00:00 Europe/London
 time_tbc: true
 layout: event
 type: competition

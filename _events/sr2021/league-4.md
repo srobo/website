@@ -1,6 +1,6 @@
 ---
 title: Competition League Session 4
-date: 2021-04-24
+date: 2021-04-24 12:00:00 Europe/London
 time_tbc: true
 layout: event
 type: competition
