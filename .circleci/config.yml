@@ -3,7 +3,7 @@ version: 2
 jobs:
   build_only:
     docker: &docker-template
-    - image: circleci/ruby:2.5
+    - image: circleci/ruby:2.7
 
     steps:
       - checkout
