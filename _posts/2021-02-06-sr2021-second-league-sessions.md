@@ -7,7 +7,7 @@ With another 36 matches of the SR2021 Competition, team HRS3 from Hills Road
 Sixth Form College head up the league leaderboard, though a number of other
 teams are hot on their heels. This weekend's matches saw great perfomances from
 our teams, including three new teams which hadn't submitted a robot for the
-first league sesion.
+first league session.
 
 Module Ⅱ provided a new challenge to the teams, both through opening up the
 arena half way through the match and by requiring that territories be linked
