@@ -24,7 +24,7 @@ will now become locked (and unclaimed) after they have been successfully claimed
 four times.
 
 This module of the game requries that the teams robots further increase their
-awawreness of their environment and how they react to it if they want to claim
+awareness of their environment and how they react to it if they want to claim
 territories and also hold them for the duration of the match
 
 We're now at the half-way point in the league matches that will seed the evntual
