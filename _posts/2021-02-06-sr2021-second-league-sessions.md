@@ -44,4 +44,4 @@ the SR2021 Competition.
 |-------------------|---------------------------------------------------------------------------------------|
 | 20th March 2021   | [League Session 3]({{ site.baseurl }}/events/sr2021/league-3/)                        |
 | 24th April 2021   | [League Session 4]({{ site.baseurl }}/events/sr2021/league-4/)                        |
-| 1st May 2021      | [Knockouts and Final]({{ site.baseurl }}/events/sr2020/virtual-competition-knockouts/)|
+| 1st May 2021      | [Knockouts and Final]({{ site.baseurl }}/events/sr2021/knockouts/)                    |
