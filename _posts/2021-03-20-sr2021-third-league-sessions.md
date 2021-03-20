@@ -21,7 +21,7 @@ awareness of their environment and how they react to it if they want to claim
 territories and also hold them for the duration of the match
 
 We're now three quarters of the way through the league matches that will seed the eventual
-knockout stage, so teams still have everything to play for. The next league
+knockout stage, so teams still have everything to play for. The final league
 session will be in 5 weeks, on the 24th April.
 
 If you would like to catch up on any of the matches so far, our livestreams are
