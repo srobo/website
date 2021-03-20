@@ -31,7 +31,7 @@ available on YouTube:
 * [League Session 2](https://www.youtube.com/watch?v=RwW5Oz30gbE)
 * [League Session 1](https://www.youtube.com/watch?v=cAvk-nfTUis)
 
-We look forward to seeing you over the coming months for the continuation of
+We look forward to seeing you over the coming months for the culmination of
 the SR2021 Competition.
 
 | Date              | Competition Stage                                                                     |
