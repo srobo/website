@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'rake'
-gem 'neat'
 gem 'kramdown'
 # jekyll depends on kramdown-parser-gfm, but fails to declare it
 gem 'kramdown-parser-gfm'
