@@ -10,10 +10,12 @@ and SPA are looking to be the ones to watch though we've seen amazing progress
 from all teams. With just an six point spread between the top nine teams the
 finals are definetly much too close to close call!
 
-Module Ⅳ totally redisigned the arena, while keeping the same game mechanics, meaning teams
-have had to make some large changes to their strategy to ensure continued success. Our new
-larger arena includes more territories, moveable obstacles, and new kinds of territories
-worth varying points.
+Module Ⅳ, which is final iteration of this years game, was played for the
+first time today. This module totally redesigned the arena, while keeping
+the same game mechanics, meaning teams have had to make some large changes
+to their strategy to ensure continued success. Our new larger arena includes
+more territories, moveable obstacles, and new kinds of territories worth
+varying points.
 
 Now the league stage of the competition is over the Knockouts await.
 The knockout will consist of play-in matches to identify the top 16 teams
