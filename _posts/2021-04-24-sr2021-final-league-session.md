@@ -18,8 +18,8 @@ worth varying points.
 Now the league stage of the competition is over the Knockouts await.
 There will be one play-in match between the bottom two teams in order to reduce
 them to one team followed by an ordinary single-elimination knockout of the 16
-remaining teams. Pairings are arranged such that the higher your position in the league
-the easier your path to the final.
+remaining teams. Pairings are arranged such that the higher a team's position in the league
+the easier their path to the final.
 
 If you would like to catch up on any of the matches so far, our livestreams are
 available on YouTube:
