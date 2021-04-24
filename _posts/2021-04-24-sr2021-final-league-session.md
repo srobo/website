@@ -5,9 +5,10 @@ title: The SR2021 Final League Session comes to a close
 
 With the final 36 matches of the SR2021 League complete, team MAI from Gymnasium
 Markt Indersdorf head up the leaderboard. They have managed to knock the teams from
-Hills Road Sixth Form College out of the top spot. We saw great perfomances from all
-teams as well as some innovative new strategies, the finals are shaping up to be a
-close call!
+Hills Road Sixth Form College out of the top spot. Of our rookie teams, teams WER
+and SPA are looking to be the ones to watch though we've seen amazing progress
+from all teams and anything could change before the finals. They are definetly
+much too close to close call!
 
 Module Ⅳ totally redisigned the arena, while keeping the same game mechanics, meaning teams
 have had to make some large changes to their strategy to ensure continued success. Our new
