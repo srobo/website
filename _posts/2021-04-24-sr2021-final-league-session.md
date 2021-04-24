@@ -16,9 +16,10 @@ larger arena includes more territories, moveable obstacles, and new kinds of ter
 worth varying points.
 
 Now the league stage of the competition is over the Knockouts await.
-There will be one play-in match between the bottom two teams in order to reduce
-them to one team followed by an ordinary single-elimination knockout of the 16
-remaining teams. Pairings are arranged such that the higher a team's position in the league
+The knockout will consist of play-in matches to identify the top 16 teams
+followed by four rounds of single-elimination matches. Third place will be
+decided by a play-off between the teams which place second in their semi-final
+matches. Pairings are arranged such that the higher a team's position in the league
 the easier their path to the final.
 
 If you would like to catch up on any of the matches so far, our livestreams are
