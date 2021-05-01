@@ -1,9 +1,13 @@
 <figure class="{{ include.class }}">
   {% if include.url %}
   <a href="{{ include.url }}">
+  {% elsif include.link_to_image %}
+  <a href="{{ include.src | prepend: site.baseurl }}">
   {% endif %}
     <img src="{{ include.src | prepend: site.baseurl }}" alt="{{ include.alt | default: include.caption }}"/>
   {% if include.url %}
+  </a>
+  {% elsif include.link_to_image %}
   </a>
   {% endif %}
   <figcaption>{{ include.caption }}</figcaption>
