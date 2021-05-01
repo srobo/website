@@ -145,7 +145,7 @@ If you would like to find out more, please [get in touch][contactus].
 
 _The SR Team_
 
-[simulator]: https://studentrobotics.org/docs/competition-simulator/
+[simulator]: https://studentrobotics.org/docs/simulator
 [rulebook]: https://studentrobotics.org/docs/resources/2020/rulebook.pdf
 [volunteers]: {{ '/volunteer' | prepend: site.baseurl }}
 [contactus]: {{ '/contact' | prepend: site.baseurl }}
