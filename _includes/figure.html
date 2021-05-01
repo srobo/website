@@ -2,7 +2,7 @@
   {% if include.url %}
   <a href="{{ include.url }}">
   {% endif %}
-    <img src="{{ include.src | prepend: site.baseurl }}" alt="{{ include.caption }}"/>
+    <img src="{{ include.src | prepend: site.baseurl }}" alt="{{ include.alt | default: include.caption }}"/>
   {% if include.url %}
   </a>
   {% endif %}
