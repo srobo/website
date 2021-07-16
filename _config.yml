@@ -36,10 +36,24 @@ emails:
   info: info@studentrobotics.org
 
 social:
-  facebook-official: https://facebook.com/StudentRobotics
-  twitter: https://twitter.com/studentrobotics
-  youtube: https://youtube.com/user/StudentRobotics
-  github: https://github.com/srobo
+  - title: LinkedIn
+    icon: linkedin
+    link: https://www.linkedin.com/company/10969472/
+  - title: Instagram
+    icon: instagram
+    link: https://www.instagram.com/student_robotics/
+  - title: Facebook
+    icon: facebook-official
+    link: https://facebook.com/StudentRobotics
+  - title: Twitter
+    icon: twitter
+    link: https://twitter.com/studentrobotics
+  - title: YouTube
+    icon: youtube
+    link: https://youtube.com/user/StudentRobotics
+  - title: GitHub
+    icon: github
+    link: https://github.com/srobo
 
 sponsors:
   - name: Motorola Solutions Foundation
@@ -61,6 +75,8 @@ exclude:
   - _env/
   - gems/
   - scripts/
+  - .idea/
+  - .vscode/
 
 paginate: 3
 paginate_path: "/news/:num/"
