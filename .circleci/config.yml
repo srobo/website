@@ -12,7 +12,7 @@ jobs:
       - run:
           name: Install gems
           # Changing this? Also change the README and the other use here (below)
-          command: gem install 'bundler:~>1' rake
+          command: gem install bundler rake
       - run: docker info
       - run: rake build
 
@@ -28,7 +28,7 @@ jobs:
       - run:
           name: Install gems
           # Changing this? Also change the README and the other use here (above)
-          command: gem install 'bundler:~>1' rake
+          command: gem install bundler rake
       - run: docker info
       - run: rake build
 
