@@ -52,7 +52,7 @@ Results
 | Online Presence       | "[MFG Robotics](http://mfgrobotics.org/)" - Mirfield Free Grammar, Huddersfield
 | First Robot Movement  | "MFG Robotics" - Mirfield Free Grammar, Huddersfield
 
-For full details on the awards, please see the [rulebook](/resources/2012/rulebook.pdf).
+For full details on the awards, please see the [rulebook](https://studentrobotics.org/docs/resources/2012/rulebook.pdf).
 
 Media
 -----

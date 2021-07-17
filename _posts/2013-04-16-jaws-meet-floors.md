@@ -67,7 +67,7 @@ Results
 | First Robot Movement  | Headington School, Oxford (HSO1 & HSO2)
 | Online Presence       | [Grey Matter Robotics](http://greymatterrobotics.com/) (GMR)
 
-For full details on the awards, please see the [rulebook](/resources/2013/rulebook.pdf).
+For full details on the awards, please see the [rulebook](https://studentrobotics.org/docs/resources/2013/rulebook.pdf).
 
 Media
 -----
