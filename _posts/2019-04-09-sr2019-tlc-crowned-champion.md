@@ -79,7 +79,7 @@ We love to see teams dressing up to compliment their robot theme, and this year 
 
 Lastly, we like to see the robot-building process over the course of the year, and Collyer's were keeping us up-to-date on [Twitter](https://twitter.com/CollyersRobots) all the way from Kickstart.
 
-For full details on all the awards, please see the [rulebook](/docs/resources/2019/rulebook.pdf).
+For full details on all the awards, please see the [rulebook](https://studentrobotics.org/docs/docs/resources/2019/rulebook.pdf).
 
 You can see a breakdown of scores for each match, as well as the overall league ranking on the [competition website](/comp/).
 

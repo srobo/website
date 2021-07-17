@@ -148,7 +148,7 @@ _The Student Robotics Team_
 [volunteer]: {{ '/volunteer' | prepend: site.baseurl }}
 [compete]: {{ '/compete' | prepend: site.baseurl }}
 
-[rulebook]: /resources/2015/rulebook.pdf
+[rulebook]: https://studentrobotics.org/docs/resources/2015/rulebook.pdf
 [teams-map]: https://mapsengine.google.com/map/viewer?mid=zvzw_6CVihJs.kM7Ln0NcH6zk
 [BTE]: http://www.bteacademy.co.uk/
 [BWS]: http://www.bws-school.org.uk/

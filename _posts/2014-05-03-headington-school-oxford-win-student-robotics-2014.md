@@ -34,7 +34,7 @@ them into tight-fitting slots. In addition, and in a first for Student Robotics,
 means to score points. The best robots had to be able to rotate them before placing the token into their designated 
 area.
 
-Find out more about the intricacies of the game in the [rulebook](/resources/2014/rulebook.pdf).
+Find out more about the intricacies of the game in the [rulebook](https://studentrobotics.org/docs/resources/2014/rulebook.pdf).
 
 Prizes
 ------
@@ -75,7 +75,7 @@ Systemetric (HRS) impressed the judges with their steampunk costumes and brass a
 
 <sup id="tie-footnote"><sup>†</sup> Due to an error in the handling of the scores in the final match, this was unfortunately announced incorrectly as only CLF on the day.</sup>
 
-For full details on the awards, please see the [rulebook](/resources/2014/rulebook.pdf).
+For full details on the awards, please see the [rulebook](https://studentrobotics.org/docs/resources/2014/rulebook.pdf).
 
 
 The Teams

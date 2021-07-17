@@ -158,7 +158,7 @@ If you would like to find out more, please [get in touch][contactus].
 [compete]: {{ '/compete' | prepend: site.baseurl }}
 [volunteers]: {{ '/volunteer' | prepend: site.baseurl }}
 [contactus]: {{ '/contact' | prepend: site.baseurl }}
-[rulebook]: {{ '/resources/2016/rulebook.pdf' | prepend: site.baseurl }}
+[rulebook]: https://studentrobotics.org/docs/resources/2016/rulebook.pdf
 [teams-map]: https://www.google.com/maps/d/u/0/viewer?mid=1QsF7CVZB7NSDKZOnvsbrAF5PuJg
 [GRD2]: http://www.gordanoschool.org.uk/
 [HRS]: http://www.hillsroad.ac.uk/

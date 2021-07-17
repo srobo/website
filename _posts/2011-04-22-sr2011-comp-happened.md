@@ -43,7 +43,7 @@ White presenting prizes the arena, CC-BY Rob Spanton" class="right" />
 | First Robot Movement  | Queen Elizabeth's Hospital School, Bristol
 | Online Presence       | Churcher's College, Petersfield ["Powered By Magic"](http://www.poweredbymagic.co.uk/)
 
-For full details on the awards, please see the [rulebook](/resources/2011/rulebook.pdf).
+For full details on the awards, please see the [rulebook](https://studentrobotics.org/docs/resources/2011/rulebook.pdf).
 
 Full results for all the matches are now [available](/resources/2011/all.results),
  as is the listing of the [best scores](/resources/2011/best.results) of the day.
