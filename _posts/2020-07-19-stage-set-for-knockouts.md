@@ -28,7 +28,7 @@ for a number of other awards, including the Committee Award (given to the team
 that displays the most extraordinary ingenuity in their robot), and the Online
 Presence Award (for the team that is judged to have the best online presence).
 Full details of these awards and those for earlier stages of the competition are
-available in our [rulebook](https://studentrobotics.org/docs/docs/resources/2020/rulebook.pdf)
+available in our [rulebook](https://studentrobotics.org/docs/resources/2020/rulebook.pdf)
 
 If you would like to catch up on any of the league matches from the last two
 weekends, they're available on YouTube:
