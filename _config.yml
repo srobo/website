@@ -25,6 +25,7 @@ plugins:
 links:
   compete: //goo.gl/forms/XOuwyvId0JiTP7cq1
   volunteer: //docs.google.com/forms/d/1MIGf3P30dw0QAtP8OkxK2v7VRDEAN_54JoZHCVMbqDY/viewform
+  donate: //link.justgiving.com/v1/charity/donate/charityId/3118662?tipScheme=TipJar2.1&isRecurring=true&amount=20.00&reference=givingcheckout_tj21
 
 timezone: Europe/London
 
