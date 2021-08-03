@@ -73,6 +73,10 @@ img.image {
   @include gradient-background($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/arena.jpg");
 }
 
+.panel-sponsor {
+  @include gradient-background($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/sponsor-hero.jpg");
+}
+
 .panel-grandstand {
   @include gradient-background($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/grandstand.jpg");
 }
