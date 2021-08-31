@@ -40,18 +40,16 @@
     <div>
       <p>Student Robotics will use the information you provide on this form to contact you around sponsoring Student
         Robotics. We will contact you via email.</p>
-      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="gdpr[24613]"
-          tabindex="-1" value="Y"></div>
     </div>
     <div>
-      <p>We use Google Forms to store form submissions. By clicking above to sign up, you acknowledge that your
-        information will be transferred to Google Forms for processing.</p>
+      <p>We use Google Sheets to store form submissions. By clicking above to sign up, you acknowledge that your
+        information will be transferred to Google Sheets for processing.</p>
     </div>
   </div>
 </form>
 <script>
-  const scriptURL = 'https://script.google.com/macros/s/AKfycbwHm7mHHmBCNXwTQSCjLH6asbJtK4NL6brz-mBFA0A4txFDML3hfaQ79cwjsQ9Wka-ntg/exec'
-  const form = document.forms['sponsor-signup']
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbwHm7mHHmBCNXwTQSCjLH6asbJtK4NL6brz-mBFA0A4txFDML3hfaQ79cwjsQ9Wka-ntg/exec';
+  const form = document.forms['sponsor-signup'];
 
   form.addEventListener('submit', e => {
     e.preventDefault();
@@ -72,5 +70,5 @@
         element.classList.add('sponsor-submission-error');
         element.innerHTML = 'There was an error submitting your form. Please try again later or email us directly.';
       });
-  })
+  });
 </script>
