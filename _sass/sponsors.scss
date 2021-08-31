@@ -9,3 +9,79 @@ ul.sponsor-list {
     }
   }
 }
+
+.sponsor-level {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  &:nth-of-type(even) {
+    flex-direction: column-reverse;
+    @include media-query("medium") {
+      flex-direction: row;
+    }
+  }
+
+  // if large enough screen display images and
+  // descriptions side by side
+  @include media-query("medium") {
+    flex-direction: row;
+  }
+
+  div:nth-child(odd) {
+    padding-right: 0;
+  }
+  .sponsor-level-image:nth-child(even) {
+    padding-left: 0;
+  }
+}
+.sponsor-level-image {
+  height: 300px;
+  display: flex;
+  align-items: center;
+}
+
+.sponsor-level-description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  h3 {
+    margin-bottom: 0;
+  }
+  h4 {
+    color: $sr-orange;
+  }
+  ul {
+    list-style: none;
+  }
+  li {
+    &:before {
+      margin: initial;
+      padding: initial;
+      content: "";
+      display: inline-block;
+      height: 1rem;
+      width: 1rem;
+      background-image: url("#{$image-directory}/icons/check.svg");
+      background-size: contain;
+      background-repeat: no-repeat;
+      margin-right: 0.5rem;
+    }
+  }
+}
+
+.sponsor-submission-result {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  padding: 1rem;
+  font-size: 18px;
+  margin-bottom: 1rem;
+}
+
+.sponsor-submission-success {
+  background-color: #dff0d8;
+}
+
+.sponsor-submission-error {
+  background-color: #f2dede;
+}

@@ -1,0 +1,74 @@
+<form id="sponsor-signup" class="form form-left show-labels validate">
+  <div>
+    <div>
+      <label for="email">Email Address</label>
+      <input type="email" name="email" class="required email full-width" id="email">
+    </div>
+    <div>
+      <label for="name">Your Name</label>
+      <input type="text" name="name" id="name" size="24">
+    </div>
+    <div>
+      <label for="donate">How much you wish to donate</label>
+      <input type="text" value="£" name="donate" id="donate" size="24" />
+    </div>
+    <div>
+      <label for="organisation">Organisation</label>
+      <p class="explanation">If your team represents a school, or another organisation, enter its name here.</p>
+      <input type="text" name="organisation" class="full-width" id="organisation" />
+    </div>
+    <div>
+      <label for="other-comments">Any other comments?</label>
+      <p class="explanation">Anything else you want to let us know?</p>
+      <textarea name="other-comments" class="full-width" id="other-comments"></textarea>
+    </div>
+    <div>
+      <label for="already-donated">Already donated?</label>
+      <p class="explanation">If you have already made this donation through JustGiving please tick this box.</p>
+      <input type="checkbox" name="already-donated" id="already-donated" size="24">
+    </div>
+    <div class="clear">
+      <input class="button button-primary" type="submit" value="Submit" name="register-interest"
+        id="register-interest">
+    </div>
+    <div id="submission-result"></div>
+    <p>
+      Alternatively email us directly: <a href="mailto:{{ site.emails.fundraising }}">{{ site.emails.fundraising }}</a>
+    </p>
+  </div>
+  <div>
+    <div>
+      <p>Student Robotics will use the information you provide on this form to contact you around sponsoring Student
+        Robotics. We will contact you via email.</p>
+    </div>
+    <div>
+      <p>We use Google Sheets to store form submissions. By submitting the above form, you acknowledge that your
+        information will be transferred to Google Sheets for processing.</p>
+    </div>
+  </div>
+</form>
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbwHm7mHHmBCNXwTQSCjLH6asbJtK4NL6brz-mBFA0A4txFDML3hfaQ79cwjsQ9Wka-ntg/exec';
+  const form = document.forms['sponsor-signup'];
+
+  form.addEventListener('submit', e => {
+    e.preventDefault();
+    var formData = new FormData(form);
+    fetch(scriptURL, { method: 'POST', body: formData })
+      .then(response => {
+        var element = document.getElementById('submission-result');
+        element.classList.add('sponsor-submission-result');
+        element.classList.remove('sponsor-submission-error');
+        element.classList.add('sponsor-submission-success');
+        element.innerHTML = 'Thank you for your interest. We will be in touch shortly.';
+        form.reset();
+      })
+      .catch(error => {
+        var element = document.getElementById('submission-result');
+        element.classList.add('sponsor-submission-result');
+        element.classList.remove('sponsor-submission-success');
+        element.classList.add('sponsor-submission-error');
+        element.innerHTML = 'There was an error submitting your form. Please try again later or email us directly.';
+      });
+  });
+</script>
