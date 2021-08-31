@@ -42,7 +42,7 @@
         Robotics. We will contact you via email.</p>
     </div>
     <div>
-      <p>We use Google Sheets to store form submissions. By clicking above to sign up, you acknowledge that your
+      <p>We use Google Sheets to store form submissions. By submitting the above form, you acknowledge that your
         information will be transferred to Google Sheets for processing.</p>
     </div>
   </div>
@@ -57,7 +57,7 @@
     fetch(scriptURL, { method: 'POST', body: formData })
       .then(response => {
         var element = document.getElementById('submission-result');
-        element.classList.add('.sponsor-submission-result');
+        element.classList.add('sponsor-submission-result');
         element.classList.remove('sponsor-submission-error');
         element.classList.add('sponsor-submission-success');
         element.innerHTML = 'Thank you for your interest. We will be in touch shortly.';
@@ -65,7 +65,7 @@
       })
       .catch(error => {
         var element = document.getElementById('submission-result');
-        element.classList.add('.sponsor-submission-result');
+        element.classList.add('sponsor-submission-result');
         element.classList.remove('sponsor-submission-success');
         element.classList.add('sponsor-submission-error');
         element.innerHTML = 'There was an error submitting your form. Please try again later or email us directly.';
