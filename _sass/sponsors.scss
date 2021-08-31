@@ -69,3 +69,19 @@ ul.sponsor-list {
     }
   }
 }
+
+.sponsor-submission-result {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  padding: 1rem;
+  font-size: 18px;
+  margin-bottom: 1rem;
+}
+
+.sponsor-submission-success {
+  background-color: #dff0d8;
+}
+
+.sponsor-submission-error {
+  background-color: #f2dede;
+}
