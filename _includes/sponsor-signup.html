@@ -54,7 +54,7 @@
   const form = document.forms['sponsor-signup']
 
   form.addEventListener('submit', e => {
-    e.preventDefault()
+    e.preventDefault();
     var formData = new FormData(form);
     fetch(scriptURL, { method: 'POST', body: formData })
       .then(response => {
@@ -63,7 +63,7 @@
         element.classList.remove('sponsor-submission-error');
         element.classList.add('sponsor-submission-success');
         element.innerHTML = 'Thank you for your interest. We will be in touch shortly.';
-        form.reset()
+        form.reset();
       })
       .catch(error => {
         var element = document.getElementById('submission-result');
@@ -71,6 +71,6 @@
         element.classList.remove('sponsor-submission-success');
         element.classList.add('sponsor-submission-error');
         element.innerHTML = 'There was an error submitting your form. Please try again later or email us directly.';
-      })
+      });
   })
 </script>
