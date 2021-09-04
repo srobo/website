@@ -2,7 +2,6 @@
 description: With the competition only two months away, we are now happy to announce
   that the Student Robotics 2015 competition will take place on 25th and 26th April
   at Newbury Racecourse.
-layout: news
 title: Student Robotics 2015 returning to Newbury Racecourse
 ---
 With the competition only two months away, we are now happy to announce that the Student Robotics 2015 competition will

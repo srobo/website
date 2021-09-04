@@ -1,5 +1,4 @@
 ---
-layout: news
 title: The SR2021 Final League Session comes to a close
 ---
 

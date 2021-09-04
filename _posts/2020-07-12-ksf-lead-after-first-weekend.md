@@ -1,5 +1,4 @@
 ---
-layout: news
 title: Kenilworth Sixth Form lead after the first weekend of matches
 ---
 

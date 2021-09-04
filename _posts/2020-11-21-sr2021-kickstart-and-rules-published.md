@@ -1,5 +1,4 @@
 ---
-layout: news
 title: SR2021 Game Announced
 ---
 

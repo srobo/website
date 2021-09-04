@@ -1,5 +1,4 @@
 ---
-layout: news
 title: SR2020 Kickstart Details Confirmed
 ---
 

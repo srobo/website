@@ -2,7 +2,6 @@
 description: We're now on the final straight towards this year's Student Robotics
   competition - and we're as excited as we are busy preparing the biggest and best
   competition to date. May the best robot win!
-layout: news
 title: SR Competition 2011 - Not long to go!
 ---
 There's less than a week to go to the competition, and we're as excited as we are busy preparing the biggest and best 

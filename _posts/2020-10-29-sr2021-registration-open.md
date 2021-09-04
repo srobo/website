@@ -1,5 +1,4 @@
 ---
-layout: news
 title: Registration opens for Student Robotics 2021
 ---
 
@@ -8,7 +7,7 @@ Robotics is now open!
 
 Unfortunately, we were unable to find a way to run a physical competition in a
 COVID safe way. Instead, following on from the success of our
-[previous virtual competition]({{ site.baseurl }}/news/2020-07-25-post-competition/),
+[previous virtual competition]({{ site.baseurl }}/blog/2020-07-25-post-competition/),
 we will be running the competition in a simulated environment.
 
 The competition cycle will start with a live streamed [Kickstart event][kickstart]

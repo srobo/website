@@ -1,6 +1,5 @@
 ---
-layout: news
-title: SR2019 Competition Dates 
+title: SR2019 Competition Dates
 ---
 
 We're pleased to announce this year's competition dates.

@@ -1,5 +1,4 @@
 ---
-layout: news
 title: Registration opens for Student Robotics 2020
 ---
 

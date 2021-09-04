@@ -1,7 +1,6 @@
 ---
 description: The competition signalled the culmination of six months of hard work
   and the end of SR 2011. Look out 2012, here we come!
-layout: news
 title: The Competition Happened. It Was Awesome!
 ---
 <a href="http://www.flickr.com/photos/rspanton/5610488796/in/set-72157626476429584">

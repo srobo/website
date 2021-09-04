@@ -1,7 +1,6 @@
 ---
 description: The new Student Robotics website is being worked on as we speak. If you'd
   like to find out more about what's going on, why not read on.
-layout: news
 title: Bear With Us, We're Working on it...
 ---
 We thought it was about time the Student Robotics website had a complete revamp. It has been in development for a few 

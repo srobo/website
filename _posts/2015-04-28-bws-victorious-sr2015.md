@@ -5,17 +5,16 @@ description: >
     VI Grammar School from Chelmsfold, MealsOnWheels of Bristol Technology and
     Engineering Academy, and 40 other teams to first place at the UK’s only
     free-to-enter robotics competition.
-layout: news
 ---
 
 {% include figure.html
            url="https://www.flickr.com/photos/richardpbarlow/17291755395/in/pool-sr2015/"
-           src="/images/content/news/sr2015/everyone.jpg"
+           src="/images/content/blog/sr2015/everyone.jpg"
            caption="All the competitors and Blueshirts on the stands at Newbury Racecourse. Photograph courtesy of Rich Barlow." %}
 
 {% include figure.html
            class="right"
-           src="/images/content/news/sr2015/bws-prizegiving.jpg"
+           src="/images/content/blog/sr2015/bws-prizegiving.jpg"
            caption="The winning team, Bishop Wordsworth's School, with Philip Su, Director of Facebook London Engineering Office. Photograph courtesy of Tyler Ward." %}
 
 [Bishop Wordsworth's School][BWS] from Salisbury took 1st Place at this year's
@@ -82,7 +81,7 @@ Robotics. A complete list of prizes is shown below:
 
 {% include figure.html
            class="right"
-           src="/images/content/news/sr2015/crb-team-photo.jpg"
+           src="/images/content/blog/sr2015/crb-team-photo.jpg"
            caption="The team from Cranbrook School, who won the Committee Award. Photograph courtesy of Tyler Ward." %}
 
 The *Committee Award*, given for a simple and elegant solution to the year's
@@ -96,7 +95,7 @@ moving robot.
 
 {% include figure.html
            class="right"
-           src="/images/content/news/sr2015/mai-prizegiving.jpg"
+           src="/images/content/blog/sr2015/mai-prizegiving.jpg"
            caption="The team from Gymnasium Markt Indersdorf, who won the Robot and Team Image Award. Photograph courtesy of Tyler Ward." %}
 
 The *Robot and Team Image* prize is for the team which present themselves and
