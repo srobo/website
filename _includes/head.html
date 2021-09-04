@@ -1,12 +1,47 @@
+{% if page.title %}
+  {% assign title = page.title %}
+{% else %}
+  {% assign title = site.title %}
+{% endif %}
+
+{% if page.description %}
+  {% assign description = page.description | strip_html | strip_newlines | truncate: 160 %}
+{% else %}
+  {% assign description = site.description %}
+{% endif %}
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
   <meta name="theme-color" content="#3270ed">
   {% feed_meta %}
+
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:locale" content="{{ site.locale }}">
+
+  {% if page.image %}
+    <meta property="og:image" content="{{ page.image | absolute_url }}">
+    {% if page.image_alt %}
+      <meta property="og:image:alt" content="{{ page.image_alt }}">
+    {% endif %}
+    <meta name="twitter:card" content="summary_large_image">
+  {% else %}
+    <meta property="og:image" content="{{ 'images/logo-image-only.png' | absolute_url }}">
+    <meta property="og:image:alt" content="The Student Robotics logo">
+    <meta name="twitter:card" content="summary">
+  {% endif %}
+
+  <meta name="twitter:site" content="{{ site.twitter_handle }}">
+  {% if page.author.twitter_handle %}
+  <meta name="twitter:creator" content="{{ page.author.twitter_handle }}">
+  {% endif %}
+
 
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">

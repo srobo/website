@@ -7,6 +7,8 @@ description: >
   Student Robotics is an exciting annual competition challenging people aged
   16-18 to assemble a team and build fully autonomous robots.
 
+locale: en_GB
+
 markdown: kramdown
 
 collections:
@@ -36,6 +38,7 @@ emails:
   pr: pr@studentrobotics.org
   info: info@studentrobotics.org
 
+twitter_handle: "@StudentRobotics"
 social:
   - title: GitHub
     icon: github
