@@ -1,4 +1,4 @@
-{% assign pageurl = page.url | absolute_url %}
+{% assign pageurl = page.url | absolute_url | cgi_escape %}
 {% include get_description_for_page.html %}
 
 <div class="social-share">
