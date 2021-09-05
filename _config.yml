@@ -8,6 +8,7 @@ description: >
   16-18 to assemble a team and build fully autonomous robots.
 
 locale: en_GB
+page_excerpts: true
 
 markdown: kramdown
 
