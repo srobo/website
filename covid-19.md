@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: blog
 title: COVID-19 Updates
 date: 2020-10-29
 ---
@@ -23,4 +23,4 @@ We are running a [virtual Student Robotics Competition][sr2021] instead over the
 [teams-email]: mailto:teams@studentrobotics.org
 [sign-up]: {{ site.baseurl }}/compete/
 
-[sr2021]: {{ '/news/2020-10-29-sr2021-registration-open/' | prepend: site.baseurl }}
+[sr2021]: {{ '/blog/2020-10-29-sr2021-registration-open/' | prepend: site.baseurl }}

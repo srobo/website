@@ -1,6 +1,5 @@
 ---
 description: Fifty-four teams start a new competition, all aiming to Capture the Flag.
-layout: news
 title: Student Robotics 2015 starts with a range of new kit
 ---
 

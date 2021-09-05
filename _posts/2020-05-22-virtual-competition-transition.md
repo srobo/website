@@ -1,5 +1,4 @@
 ---
-layout: news
 title: Transitioning to a Virtual Competition
 ---
 

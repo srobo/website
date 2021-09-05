@@ -2,7 +2,6 @@
 description: After a six month build up, a 102 match league and a 13 match knockout
   stage, a tie in 2013 final lead to a tie-break and the best match Student Robotics
   has ever seen.
-layout: news
 title: Jaws meet floors in climactic final
 ---
 Student Robotics is over for another year! After almost six months of work by thirty-two teams came a final weekend of 

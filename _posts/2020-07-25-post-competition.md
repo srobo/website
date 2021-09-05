@@ -1,5 +1,4 @@
 ---
-layout: news
 title: JAMDynamics steal victory in Student Robotics 2020
 ---
 
@@ -11,7 +10,7 @@ The Challenge: *Two Colours*
 
 {% include figure.html
            class="right"
-           src="/images/content/news/sr2020/arena.png"
+           src="/images/content/blog/sr2020/arena.png"
            caption="The virtual arena with its central raised platform" %}
 
 Our game this year, _Two Colours_, challenged teams retrieve gold or silver

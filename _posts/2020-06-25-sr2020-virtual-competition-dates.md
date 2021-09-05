@@ -1,5 +1,4 @@
 ---
-layout: news
 title: Virtual Competition Dates & Details
 ---
 

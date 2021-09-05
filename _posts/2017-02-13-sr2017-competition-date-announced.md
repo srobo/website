@@ -1,5 +1,4 @@
 ---
-layout: news
 title: Competition dates announced
 ---
 

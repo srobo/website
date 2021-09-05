@@ -1,5 +1,4 @@
 ---
-layout: news
 title: The stage is set for the SR2020 Knockouts
 ---
 

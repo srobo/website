@@ -1,5 +1,4 @@
 ---
-layout: news
 title: 2017 Kickstart locations announced
 ---
 

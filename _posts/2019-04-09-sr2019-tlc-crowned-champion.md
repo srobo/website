@@ -1,10 +1,9 @@
 ---
-layout: news
 title: The Ladies' College, Guernsey Wins Student Robotics 2019
 ---
 
 {% include figure.html
-           src="/images/content/news/sr2019/sr2019-photo.jpg"
+           src="/images/content/blog/sr2019/sr2019-photo.jpg"
            caption="All the teams from SR2019" %}
 
 
@@ -15,17 +14,17 @@ The Challenge: Caldera
 
 {% include figure.html
            class="right"
-           src="/images/content/news/sr2019/arena.jpg"
+           src="/images/content/blog/sr2019/arena.jpg"
            caption="The arena with a raised volcano area" %}
 
 {% include figure.html
            class="right"
-           src="/images/content/news/sr2019/tlc-launcher.jpg"
+           src="/images/content/blog/sr2019/tlc-launcher.jpg"
            caption="The Ladies' College Guernsey's token launcher" %}
 
 {% include figure.html
            class="right"
-           src="/images/content/news/sr2019/swi.jpg"
+           src="/images/content/blog/sr2019/swi.jpg"
            caption="South Wilts Grammar School's volcano-climbing robot in the caldera" %}
 
 Our game this year, Caldera, challenged teams to control scoring zones with tokens while navigating an arena with raised platforms. Twenty-five scoring zones were arranged in a grid, varying in value from two points for each of the outermost 16 zones, a ring of eight on a raised “volcano” worth seven points apiece, to the the central “caldera” which was worth thirty points. Parking your robot in a zone tripled the points of that zone and the 4 adjacent zones.

@@ -1,6 +1,5 @@
 ---
 description: The annual Student Robotics KickStart is coming up this Saturday.
-layout: news
 title: SR2012 KickStart coming up
 ---
 The annual Student Robotics KickStart is coming up this Saturday!  It is with this event that SR2012 begins.  Teams from

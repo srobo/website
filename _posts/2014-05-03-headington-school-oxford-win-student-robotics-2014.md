@@ -1,11 +1,10 @@
 ---
 description: Over 230 games in two days whittled 54 entered teams, including the widest
   selection of robots we've ever seen, down to a single winner.
-layout: news
 title: Headington School Oxford win Student Robotics 2014
 ---
 <a href="https://www.flickr.com/photos/howiegoing/14065824731/in/pool-sr2014/" title="The winning team - Headington School Oxford. Photograph credit Howard Buck.">
-  <img class="right" src="{{ site.baseurl }}/images/content/news/sr2014/hso-winners.jpg" width="400" height="265" alt="Photograph of the winning competitors at their prize giving.">
+  <img class="right" src="{{ site.baseurl }}/images/content/blog/sr2014/hso-winners.jpg" width="400" height="265" alt="Photograph of the winning competitors at their prize giving.">
 </a>
 
 [Headington School](http://www.headington.org/), Oxford came top of the class in this
@@ -45,10 +44,10 @@ The *Rookie Award* is given to the rookie team which places highest in the leagu
 
 The first new team to post a video of their robot moving on its own in a controlled manner win the *First Robot Movement* award.
 This encourages new teams to get a basic chassis built quickly, as well as getting them to write some simple control software for it.
-The committee were impressed that Torquay Boys' [video](https://docs.google.com/file/d/0B7buz3R0lXPsaTl4eEwxMDVxRjg/preview) appeared within two weeks of the [Kickstart](/news/2013-11-22_sr2014_underway).
+The committee were impressed that Torquay Boys' [video](https://docs.google.com/file/d/0B7buz3R0lXPsaTl4eEwxMDVxRjg/preview) appeared within two weeks of the [Kickstart](/blog/2013-11-22_sr2014_underway).
 
-<a href="{{ site.baseurl }}/images/content/news/sr2014/hrs-large.jpg" title="Team HRS">
-  <img class="right" src="{{ site.baseurl }}/images/content/news/sr2014/hrs-small.jpg" width="400" height="265" alt="Team HRS in their steampunk attire.">
+<a href="{{ site.baseurl }}/images/content/blog/sr2014/hrs-large.jpg" title="Team HRS">
+  <img class="right" src="{{ site.baseurl }}/images/content/blog/sr2014/hrs-small.jpg" width="400" height="265" alt="Team HRS in their steampunk attire.">
 </a>
 
 The *Committee Award* is given to the team which finds a simple and elegant solution to a problem.
@@ -83,7 +82,7 @@ The Teams
 
 <p style="text-align:center;">
   <a href="https://www.flickr.com/photos/richardpbarlow/14043782196/in/pool-sr2014/" title="All the competitors after the prize giving. Photograph credit Rich Barlow.">
-    <img src="{{ site.baseurl }}/images/content/news/sr2014/everyone.jpg"  alt="Photograph of the competitors after the prize giving." width="640" height="283">
+    <img src="{{ site.baseurl }}/images/content/blog/sr2014/everyone.jpg"  alt="Photograph of the competitors after the prize giving." width="640" height="283">
   </a>
 </p>
 

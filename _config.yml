@@ -1,6 +1,6 @@
 baseurl: /website
 url: https://studentrobotics.org
-permalink: /news/:year-:month-:day-:title/
+permalink: /blog/:year-:month-:day-:title/
 
 title: Student Robotics
 description: >
@@ -13,6 +13,13 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog"
 
 # In order to show events that haven't happened yet, we need to turn on future
 # mode
@@ -80,4 +87,4 @@ exclude:
   - .vscode/
 
 paginate: 3
-paginate_path: "/news/:num/"
+paginate_path: "/blog/:num/"

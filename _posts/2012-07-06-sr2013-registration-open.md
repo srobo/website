@@ -1,6 +1,5 @@
 ---
 description: Teams may now register for places in our upcoming SR2013 competition
-layout: news
 title: Registration for SR2013 now open
 ---
 Today we opened up registration for the upcoming edition of our competition, SR2013.
