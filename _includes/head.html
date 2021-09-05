@@ -1,9 +1,3 @@
-{% if page.title %}
-  {% assign title = page.title %}
-{% else %}
-  {% assign title = site.title %}
-{% endif %}
-
 {% if page.description %}
   {% assign description = page.description | strip_html | strip_newlines | truncate: 160 %}
 {% elsif page.excerpt %}
@@ -16,13 +10,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ title }}</title>
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ description }}">
   <meta name="theme-color" content="#3270ed">
   {% feed_meta %}
 
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:title" content="{{ title }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description" content="{{ description }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:locale" content="{{ site.locale }}">
