@@ -5,8 +5,8 @@
   <span>Share on: </span>
   <div class="social-share-links">
       <a class="facebook" title="Share this on Facebook" href="https://www.facebook.com/sharer.php?u={{ pageurl }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-facebook"></i></a>
-      <a class="twitter" title="Share this on Twitter" href="https://twitter.com/intent/tweet?url={{ pageurl }}&text={{ page.title | url_encode }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter"></i></a>
+      <a class="twitter" title="Share this on Twitter" href="https://twitter.com/intent/tweet?url={{ pageurl }}&text={{ page.title | cgi_escape }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter"></i></a>
       <a class="linkedin" title="Share this on Linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url={{ pageurl }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-linkedin"></i></a>
-      <a class="mail" title="Share this through Email" href="mailto:?to=%20&subject={{page.title | uri_escape }}&body={{ description | uri_escape }}%0D%0A%0D%0A{{ pageurl }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-envelope"></i></a>
+      <a class="mail" title="Share this through Email" href="mailto:?to=%20&subject={{page.title | cgi_escape | replace: '+', '%20' }}&body={{ description | cgi_escape | replace: '+', '%20' }}%0D%0A%0D%0A{{ pageurl }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-envelope"></i></a>
   </div>
 </div>
