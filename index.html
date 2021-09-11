@@ -68,6 +68,79 @@ layout: home
     </div>
   </div>
 </div>
+<div class="panel panel-highlight">
+  <div class="panel-container">
+    <div class="fixed-width text-center">
+      <div class="row">
+        <div class="column d-12-12 m-4-12 text-left">
+          <h2>Jaw-dropping moments</h2>
+          <p>
+            After a year of working hard on their robots, teams compete in the
+            annual Student Robotics competition. Two frenzied days of
+            tinkering and matches gives every team their fair share of suspense,
+            heartache and triumph.
+          </p>
+          <p>
+            Watch this video and see for yourself!
+          </p>
+        </div>
+        <div class="column d-12-12 m-8-12">
+            <iframe
+                    class="center video"
+                    src="https://www.youtube-nocookie.com/embed/kHsveBZvQL8?rel=0"
+                    width="560" height="315"
+                    frameborder="0">
+            </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel">
+  <div class="panel-container">
+    <div class="fixed-width">
+      <div class="row text-center">
+        <h2>Valuable skills for young people</h2>
+        <p>
+          Student Robotics primes participants for good careers in engineering.
+          Participants assemble a team, build a robot, and compete. All the while
+          gaining valuable technical and soft skills to help their future careers.
+        </p>
+      </div>
+      <div class="row">
+        <div class="column option s-4-12">
+          <img src="{{ '/images/icons/cogs.png' | prepend: site.baseurl }}" alt=""/>
+          <h3>Working as a team</h3>
+          <p>
+            For a team to succeed at Student Robotics, it needs to work
+            together. For many participants, this is the first time they're in a
+            team setting. This practical experience is invaluable for their
+            future careers.
+          </p>
+        </div>
+        <div class="column option s-4-12">
+          <img src="{{ '/images/icons/computer.png' | prepend: site.baseurl }}" alt=""/>
+          <h3>Writing real code</h3>
+          <p>
+            Without some serious code, even the most masterfully built robots
+            can't do very much. With the help of our kit, teams will program
+            their robot in Python to compete in the competition.
+          </p>
+        </div>
+        <div class="column option s-4-12">
+          <img src="{{ '/images/icons/robot.png' | prepend: site.baseurl }}" alt=""/>
+          <h3>Building a robot</h3>
+          <p>
+            There's nothing quite like building something and bringing it to
+            life. Using our kit, teams will build a fully autonomous robot. The
+            best teams pour their imagination into the design and the look of
+            their robots.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="panel">
   <div class="panel-container">
     <div class="fixed-width text-center">
@@ -108,19 +181,20 @@ layout: home
           </h5>
         </div>
         <div class="column m-3-12">
-          <img src="{{ '/images/advertising/glue-gun.jpg' | prepend: site.baseurl }}" />
+          <img src="{{ '/images/rob.jpg' | prepend: site.baseurl }}" />
       </div>
       </div>
     </div>
   </div>
 </div>
-<div class="panel panel-highlight panel-thin">
+<div class="panel">
   <div class="panel-container">
     <div class="fixed-width text-center">
       <h2>Want to get involved?</h2>
-      <a class="button button-primary" href="{{ '/compete' | prepend: site.baseurl }}">I'd like to compete</a>
-      <a class="button button-primary" href="{{ '/volunteer' | prepend: site.baseurl }}">I'd like to volunteer</a>
-      <a class="button button-primary" href="{{ '/sponsor' | prepend: site.baseurl }}">I'd like to sponsor</a>
+      <a class="button button-primary" href="{{ '/compete' | prepend: site.baseurl }}">Compete</a>
+      <a class="button button-primary" href="{{ '/volunteer' | prepend: site.baseurl }}">Volunteer</a>
+      <a class="button button-primary" href="{{ 'http://link.justgiving.com/v1/charity/donate/charityId/3118662?tipScheme=TipJar2.1&isRecurring=true&amount=20.00&reference=givingcheckout_tj21' | prepend: site.baseurl }}">Donate</a>
+      <a class="button button-primary" href="{{ '/sponsor' | prepend: site.baseurl }}">Sponsor</a>
     </div>
   </div>
 </div>
@@ -159,22 +233,6 @@ layout: home
           {% endif %}
           <a href="{{ '/events/' | prepend: site.baseurl }}">All events</a>
         </div>
-        <div class="card">
-          <h3 class="card-heading">Donate</h3>
-          {% include donate.html %}
-        </div>
-        <div class="card">
-          <h3 class="card-heading">Sponsors</h3>
-          <ul class="sponsor-list">
-            {% for sponsor in site.sponsors %}
-            <li>
-              <a href="{{ sponsor.link }}">
-                <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}"/>
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
       </div>
       <div class="column m-8-12">
         {% assign post = site.posts.first %}
@@ -184,9 +242,6 @@ layout: home
             <div class="article-header">
               <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
               <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
-            </div>
-            <div class="article-content">
-              {{ post.content }}
             </div>
           </div>
           <a class="button button-expand" href="{{ '/blog' | prepend: site.baseurl }}">View more posts</a>
