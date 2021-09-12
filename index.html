@@ -7,7 +7,7 @@ layout: home
       <h2 class="text-center">What is Student Robotics</h2>
       <div class="row">
         <div class="column m-6-12">
-            <img src="{{ '/images/advertising/glue-gun.jpg' | prepend: site.baseurl }}" />
+          <img src="{{ '/images/advertising/glue-gun.jpg' | prepend: site.baseurl }}" />
         </div>
         <div class="column m-6-12">
           <p class="about-p">
@@ -46,30 +46,6 @@ layout: home
 </div>
 <div class="panel">
   <div class="panel-container">
-    <div class="fixed-width">
-      <div class="row">
-        <div class="column m-6-12 m-offset-3-12 bottom-spacing">
-          <img src="{{ '/images/charity-commission.png' | prepend: site.baseurl }}"
-               alt="Charity Commission Logo" />
-        </div>
-      </div>
-      <div class="row">
-        <div class="column m-8-12 m-offset-2-12">
-          <p class="about-p">
-            As a community of engineers and educators, we are entirely focused
-            on our mission. We measure our effectiveness on the experience
-            we provide to students, and the number of students we can reach, and
-            we want every penny that we receive to go into improving the experience
-            for our competitors and volunteers. That's why we're a fully
-            registered charity in England and Wales.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="panel panel-highlight">
-  <div class="panel-container">
     <div class="fixed-width text-center">
       <div class="row">
         <div class="column d-12-12 m-4-12 text-left">
@@ -85,18 +61,15 @@ layout: home
           </p>
         </div>
         <div class="column d-12-12 m-8-12">
-            <iframe
-                    class="center video"
-                    src="https://www.youtube-nocookie.com/embed/kHsveBZvQL8?rel=0"
-                    width="560" height="315"
-                    frameborder="0">
-            </iframe>
+          <iframe class="center video" src="https://www.youtube-nocookie.com/embed/kHsveBZvQL8?rel=0" width="560"
+            height="315" frameborder="0">
+          </iframe>
         </div>
       </div>
     </div>
   </div>
 </div>
-<div class="panel">
+<div class="panel panel-highlight">
   <div class="panel-container">
     <div class="fixed-width">
       <div class="row text-center">
@@ -109,7 +82,7 @@ layout: home
       </div>
       <div class="row">
         <div class="column option s-4-12">
-          <img src="{{ '/images/icons/cogs.png' | prepend: site.baseurl }}" alt=""/>
+          <img src="{{ '/images/icons/cogs.png' | prepend: site.baseurl }}" alt="" />
           <h3>Working as a team</h3>
           <p>
             For a team to succeed at Student Robotics, it needs to work
@@ -119,7 +92,7 @@ layout: home
           </p>
         </div>
         <div class="column option s-4-12">
-          <img src="{{ '/images/icons/computer.png' | prepend: site.baseurl }}" alt=""/>
+          <img src="{{ '/images/icons/computer.png' | prepend: site.baseurl }}" alt="" />
           <h3>Writing real code</h3>
           <p>
             Without some serious code, even the most masterfully built robots
@@ -128,7 +101,7 @@ layout: home
           </p>
         </div>
         <div class="column option s-4-12">
-          <img src="{{ '/images/icons/robot.png' | prepend: site.baseurl }}" alt=""/>
+          <img src="{{ '/images/icons/robot.png' | prepend: site.baseurl }}" alt="" />
           <h3>Building a robot</h3>
           <p>
             There's nothing quite like building something and bringing it to
@@ -143,36 +116,13 @@ layout: home
 </div>
 <div class="panel">
   <div class="panel-container">
-    <div class="fixed-width text-center">
-      <h2>Our sponsors</h2>
-      <p>
-        Student Robotics couldn't do what we do without the support of our
-        fantastic sponsors.
-      </p>
-      <div class="row">
-        <div class="column m-8-12 m-offset-2-12">
-          <div class="row">
-            {% for sponsor in site.sponsors %}
-            <div class="column m-6-12">
-              <a href="{{ sponsor.link }}">
-                <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}"/>
-              </a>
-            </div>
-            {% endfor %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="panel">
-  <div class="panel-container">
     <div class="fixed-width">
       <h2 class="text-center">Testimonials</h2>
       <div class="row">
         <div class="column m-9-12">
           <blockquote class="text-italic">
-            will go here e.g. Thanks to Student Robotics, I built both technical and teamworking skills which led me to study [degree] at [uni] before I joined [big company name]
+            will go here e.g. Thanks to Student Robotics, I built both technical and teamworking skills which led me to
+            study [degree] at [uni] before I joined [big company name]
           </blockquote>
           <p class="text-heavy text-center">— Former Competitor</p>
           <h5 class="text-center">
@@ -182,7 +132,7 @@ layout: home
         </div>
         <div class="column m-3-12">
           <img src="{{ '/images/rob.jpg' | prepend: site.baseurl }}" />
-      </div>
+        </div>
       </div>
     </div>
   </div>
@@ -193,7 +143,8 @@ layout: home
       <h2>Want to get involved?</h2>
       <a class="button button-primary" href="{{ '/compete' | prepend: site.baseurl }}">Compete</a>
       <a class="button button-primary" href="{{ '/volunteer' | prepend: site.baseurl }}">Volunteer</a>
-      <a class="button button-primary" href="{{ 'http://link.justgiving.com/v1/charity/donate/charityId/3118662?tipScheme=TipJar2.1&isRecurring=true&amount=20.00&reference=givingcheckout_tj21' | prepend: site.baseurl }}">Donate</a>
+      <a class="button button-primary"
+        href="{{ 'http://link.justgiving.com/v1/charity/donate/charityId/3118662?tipScheme=TipJar2.1&isRecurring=true&amount=20.00&reference=givingcheckout_tj21' | prepend: site.baseurl }}">Donate</a>
       <a class="button button-primary" href="{{ '/sponsor' | prepend: site.baseurl }}">Sponsor</a>
     </div>
   </div>
@@ -204,13 +155,14 @@ layout: home
       <div class="row">
         <div class="column m-8-12">
           <h2>Latest posts</h2>
-          {% assign post = site.posts.first %}
+          {% for post in site.posts | limit: 3 %}
           <div class="article article-preview">
             <div class="article-header">
               <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
               <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
             </div>
           </div>
+          {% endfor %}
           <a class="button button-expand" href="{{ '/blog' | prepend: site.baseurl }}">View more posts</a>
         </div>
         <div class="column m-4-12">
@@ -243,7 +195,30 @@ layout: home
           <p>There are no upcoming events.</p>
           {% endif %}
         </div>
-        
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel">
+  <div class="panel-container">
+    <div class="fixed-width text-center">
+      <h2>Our sponsors</h2>
+      <p>
+        Student Robotics couldn't do what we do without the support of our
+        fantastic sponsors.
+      </p>
+      <div class="row">
+        <div class="column m-8-12 m-offset-2-12">
+          <div class="row">
+            {% for sponsor in site.sponsors %}
+            <div class="column m-6-12">
+              <a href="{{ sponsor.link }}">
+                <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}" />
+              </a>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
       </div>
     </div>
   </div>
