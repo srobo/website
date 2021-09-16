@@ -33,3 +33,16 @@ $hero-bottom-colour: transparentize($sr-blue, 0.2);
     margin-bottom: 0;
   }
 }
+
+.hero-homepage-button {
+  padding: 0.5em 1.0em;
+  background: $sr-white;
+  border-color: $sr-white;
+  color: $sr-blue;
+
+  &:hover {
+    border-color: $sr-orange;
+    background: $sr-orange;
+    opacity: 1.0;
+  }
+}
