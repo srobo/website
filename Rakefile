@@ -7,7 +7,8 @@ task :deep_clean => [:clean] do
 end
 
 task :dependencies do
-  sh('bundle install --path gems')
+  sh('bundle config set --local path "gems"')
+  sh('bundle install')
 end
 
 file '_sass/brand/.git' do
