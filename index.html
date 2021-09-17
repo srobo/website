@@ -4,19 +4,19 @@ layout: home
 <div class="panel">
   <div class="panel-container">
     <div class="fixed-width">
-      <h2 class="text-center">What is Student Robotics</h2>
+      <h2 class="text-center">What is Student Robotics?</h2>
       <div class="row">
         <div class="column m-6-12">
           <img src="{{ '/images/advertising/glue-gun.jpg' | prepend: site.baseurl }}" />
         </div>
         <div class="column m-6-12">
           <p class="about-p">
-            We challenge teams of 16 to 18 year-olds to design, build and develop
-            autonomous robots to compete in our annual competition. After announcing
-            the year's game, we give teams six months to engineer their creations.
-            We mentor teams throughout this time, as well as supply them with a kit
-            which provides a framework they can build their robot around. Thanks to
-            our sponsors, we provide this all for free to our teams.
+            We challenge teams of 16 to 18 year-olds to design, build and program
+            fully autonomous robots to compete in our annual competition. After announcing
+            the year's game, the teams have just six months to engineer their creations.
+            As well as supplying teams with a kit, which they can use as a framework for the
+            their robot, we mentor the teams over this period. Thanks to the generousity
+            of our sponsors, we provide all of this to our teams at no cost.
           </p>
         </div>
       </div>
@@ -151,7 +151,7 @@ layout: home
       <div class="row">
         <div class="column m-8-12">
           <h2>Latest posts</h2>
-          {% for post in site.posts | limit: 3 %}
+          {% for post in site.posts limit: 3 %}
           <div class="article article-preview">
             <div class="article-header">
               <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
