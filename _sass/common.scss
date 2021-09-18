@@ -50,7 +50,15 @@
   }
 }
 
+
 .vertically-centered-row {
+  @include media-query("medium") {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.horizontally-centered-column {
   display: flex;
-  align-items: center;
+  justify-content: center;
 }
