@@ -6,7 +6,11 @@ $hero-top-colour: transparentize($sr-blue, 0.05);
 $hero-bottom-colour: transparentize($sr-blue, 0.2);
 
 .hero {
-  @include gradient-background($hero-top-colour, $hero-bottom-colour, $hero-background-image);
+  @include gradient-background(
+    $hero-top-colour,
+    $hero-bottom-colour,
+    $hero-background-image
+  );
   padding: 0 $spacing;
 }
 
@@ -35,7 +39,6 @@ $hero-bottom-colour: transparentize($sr-blue, 0.2);
 }
 
 .hero-homepage-button {
-  padding: 0.5em 1.0em;
   background: $sr-white;
   border-color: $sr-white;
   color: $sr-blue;
@@ -43,6 +46,6 @@ $hero-bottom-colour: transparentize($sr-blue, 0.2);
   &:hover {
     border-color: $sr-orange;
     background: $sr-orange;
-    opacity: 1.0;
+    opacity: 1;
   }
 }
