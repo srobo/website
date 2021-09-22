@@ -7,14 +7,15 @@ layout: home
       <h2 class="text-center">What is Student Robotics?</h2>
       <div class="row vertically-centered-row">
         <div class="column m-6-12">
-          <img src="{{ '/images/advertising/team-in-arena.jpg' | prepend: site.baseurl }}" />
+          <img src="{{ '/images/advertising/team-in-arena.jpg' | prepend: site.baseurl }}"
+            alt="Competitors talking while placing their robot in their starting corner in the arena" />
         </div>
         <div class="column m-6-12">
           <p class="about-p">
             We challenge teams of 16 to 18 year-olds to design, build and program
             fully autonomous robots to compete in our annual competition. After announcing
             the year's game, the teams have just six months to engineer their creations.
-            As well as supplying teams with a kit, which they can use as a framework for the
+            As well as supplying teams with a kit, which they can use as a framework for
             their robot, we mentor the teams over this period. Thanks to the generosity
             of our sponsors, we provide all of this to our teams at no cost.
           </p>
@@ -57,17 +58,18 @@ layout: home
       </div>
       <div class="row">
         <div class="column center-label s-4-12">
-          <img src="{{ '/images/advertising/happy-team.jpg' | prepend: site.baseurl }}" alt="" />
+          <img src="{{ '/images/advertising/happy-team.jpg' | prepend: site.baseurl }}"
+            alt="A team of students looking happy standing behind their robot" />
           <h3>Working as a team</h3>
           <p>
-            For a team to succeed at Student Robotics, it needs to work
-            together. For many participants, this is the first time they're in a
-            team setting. This practical experience is invaluable for their
-            future careers.
+            For a team to succeed at Student Robotics, they need to work
+            together. For many participants, this is the first time they have worked as part
+            of a team. This practical experience is invaluable for their future careers.
           </p>
         </div>
         <div class="column center-label s-4-12">
-          <img src="{{ '/images/advertising/team-coding.jpg' | prepend: site.baseurl }}" alt="" />
+          <img src="{{ '/images/advertising/team-coding.jpg' | prepend: site.baseurl }}"
+            alt="Three competitors sitting in front of a laptop" />
           <h3>Writing real code</h3>
           <p>
             Without some serious code, even the most masterfully built robots
@@ -76,7 +78,8 @@ layout: home
           </p>
         </div>
         <div class="column center-label s-4-12">
-          <img src="{{ '/images/advertising/glue-gun.jpg' | prepend: site.baseurl }}" alt="" />
+          <img src="{{ '/images/advertising/team-building-robot.jpg' | prepend: site.baseurl }}"
+            alt="Students and a teacher sitting around their robot" />
           <h3>Building a robot</h3>
           <p>
             There's nothing quite like building something and bringing it to
@@ -100,7 +103,7 @@ layout: home
             I learned not only good engineering principals but the importance of being able to clearly communicate my
             thoughts and reasoning.
             Competing in Student Robotics opened the door to me directly entering the world of work as a Software
-            Engineer after completing sixth form.
+            Engineer after completing Sixth Form.
           </blockquote>
           <p class="text-heavy text-center">— James Seden Smith</p>
           <h5 class="text-center">
@@ -110,7 +113,8 @@ layout: home
         </div>
         <div class="column m-3-12 horizontally-centered-column">
           <img class="testomonial-avatar"
-            src="{{ '/images/advertising/headshots/james-seden-smith.jpg' | prepend: site.baseurl }}" />
+            src="{{ '/images/advertising/headshots/james-seden-smith.jpg' | prepend: site.baseurl }}"
+            alt="Headshot of James" />
         </div>
       </div>
     </div>
@@ -119,21 +123,56 @@ layout: home
 <div class="panel panel-highlight panel-thin">
   <div class="panel-container">
     <div class="fixed-width">
-      <h2 class="text-center top-spacing">Competitor feedback from the last two years</h2>
+      <h2 class="text-center top-spacing">Of competitors surveyed from the last 2 years</h2>
       <div class="row">
         <div class="column m-4-12">
           <p class="statistic">100%</p>
           <p class="statistic-label">would recommend Student Robotics</p>
         </div>
         <div class="column m-4-12">
-          <p class="statistic">88%</p>
-          <p class="statistic-label">are now highly interested in a STEM career</p>
-        </div>
-        <div class="column m-4-12">
           <p class="statistic">97%</p>
           <p class="statistic-label">plan to study a STEM degree at university</p>
         </div>
+        <div class="column m-4-12">
+          <p class="statistic">88%</p>
+          <p class="statistic-label">are now highly interested in a STEM career</p>
+        </div>
       </div>
+    </div>
+  </div>
+</div>
+<div class="panel">
+  <div class="panel-container">
+    <div class="fixed-width text-center">
+      <h2>Our sponsors</h2>
+      <p>
+        Student Robotics couldn't do what we do without the support of our
+        fantastic sponsors.
+      </p>
+      <div class="row">
+        <div class="column m-8-12 m-offset-2-12">
+          <div class="row sponsor-row">
+            {% for sponsor in site.sponsors %}
+            <div class="column m-6-12">
+              <a href="{{ sponsor.link }}">
+                <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}" />
+              </a>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel panel-thin">
+  <div class="panel-container">
+    <div class="fixed-width text-center">
+      <h2>Want to get involved?</h2>
+      <a class="button button-primary" href="{{ '/compete' | prepend: site.baseurl }}">Compete</a>
+      <a class="button button-primary" href="{{ '/volunteer' | prepend: site.baseurl }}">Volunteer</a>
+      <a class="button button-primary" href="{{ site.links.donate }}">Donate</a>
+      <a class="button button-primary" href="{{ '/sponsor' | prepend: site.baseurl }}">Sponsor</a>
     </div>
   </div>
 </div>
@@ -182,30 +221,6 @@ layout: home
           {% else %}
           <p>There are no upcoming events.</p>
           {% endif %}
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="panel">
-  <div class="panel-container">
-    <div class="fixed-width text-center">
-      <h2>Our sponsors</h2>
-      <p>
-        Student Robotics couldn't do what we do without the support of our
-        fantastic sponsors.
-      </p>
-      <div class="row">
-        <div class="column m-8-12 m-offset-2-12">
-          <div class="row sponsor-row">
-            {% for sponsor in site.sponsors %}
-            <div class="column m-6-12">
-              <a href="{{ sponsor.link }}">
-                <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}" />
-              </a>
-            </div>
-            {% endfor %}
-          </div>
         </div>
       </div>
     </div>

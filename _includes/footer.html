@@ -33,16 +33,18 @@
       <p>
         The fantastic photos come from
         <a href="//www.flickr.com/photos/richardpbarlow/">Richard Barlow</a>,
-		    <a href="//www.flickr.com/photos/howiegoing/">Howard Buck</a>,
+        <a href="//www.flickr.com/photos/howiegoing/">Howard Buck</a>,
         <a href="//www.flickr.com/photos/theorangeone/">Jake Howard</a>,
-        Anton Nikitin, and
+        Anton Nikitin,
+        Antoine Petty, and
         <a href="http://www.headington.org/">Headington School Oxford</a>.
       </p>
     </div>
     <div class="column d-6-12 text-right">
       <ul class="social-media-links">
         {% for account in site.social %}
-        <li><a href="{{ account.link }}"><i class="fa fa-{{ account.icon }}" aria-hidden="true" title="{{ account.title }}"></i></a></li>
+        <li><a href="{{ account.link }}"><i class="fa fa-{{ account.icon }}" aria-hidden="true"
+              title="{{ account.title }}"></i></a></li>
         {% endfor %}
       </ul>
     </div>

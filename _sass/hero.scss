@@ -3,7 +3,7 @@
 
 $hero-background-image: "#{$image-directory}/hero.jpg";
 $hero-top-colour: transparentize($sr-blue, 0.05);
-$hero-bottom-colour: transparentize($sr-blue, 0.2);
+$hero-bottom-colour: transparentize($sr-blue, 0.5);
 
 .hero {
   @include gradient-background(
@@ -27,8 +27,13 @@ $hero-bottom-colour: transparentize($sr-blue, 0.2);
 .hero-text {
   @include headings() {
     font-family: $heading-font-family;
-    font-size: 2.2em;
     color: $sr-white;
+  }
+  h1 {
+    font-size: $beta;
+  }
+  h2{
+    font-size: $charlie;
   }
 }
 
