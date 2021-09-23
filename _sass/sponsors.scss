@@ -59,6 +59,9 @@ ul.sponsor-list {
     padding-left: 1.5rem;
     position: relative;
 
+    // Don't get too close to the images on the other side
+    padding-right: 0.5rem;
+
     // Replace the marker with our custom checkmark. We can't use
     // `list-style-image` here as we need to be able to style the image.
     &:before {
