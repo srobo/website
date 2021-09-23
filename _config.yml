@@ -72,6 +72,10 @@ sponsors:
     link: //www.southampton.ac.uk/
     image: /images/sponsors/university-of-southampton.svg
 
+  - name: Adventurous Machines
+    link: https://adventurousmachines.com/?ref=studentrobotics
+    image: /images/sponsors/adventurous-machines.svg
+
 user_tracking: true
 
 exclude:
