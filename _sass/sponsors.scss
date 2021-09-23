@@ -55,6 +55,12 @@ ul.sponsor-list {
     list-style: none;
   }
   li {
+    // Ensure wrapping aligns with the start of the text, not with the bullet marker
+    padding-left: 1.5rem;
+    position: relative;
+
+    // Replace the marker with our custom checkmark. We can't use
+    // `list-style-image` here as we need to be able to style the image.
     &:before {
       margin: initial;
       padding: initial;
@@ -65,7 +71,10 @@ ul.sponsor-list {
       background-image: url("#{$image-directory}/icons/check.svg");
       background-size: contain;
       background-repeat: no-repeat;
-      margin-right: 0.5rem;
+
+      position: absolute;
+      top: 0.25rem; // account for line-height
+      left: 0;
     }
   }
 }
