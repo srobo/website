@@ -6,12 +6,12 @@ The Student Robotics public website.
 
 ## Getting Started
 
-1. [Install Ruby][install-ruby]
+1. [Install Ruby 2.7][install-ruby]
 
 2. Install Bundler (1.x) and Rake
 
     ```
-    $ gem install 'bundler:~>1' rake
+    $ gem install bundler rake
     ```
 
 3. Start the app in development mode

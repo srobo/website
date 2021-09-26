@@ -218,3 +218,34 @@ figcaption {
     margin-bottom: .3rem;
   }
 }
+
+.social-share {
+  margin-top: 1rem;
+  .social-share-links {
+    a {
+      color: $sr-blue;
+      margin-right: 0.5rem;
+
+      &:first-of-type{
+        margin-left: 0.25rem;
+      }
+      &:last-of-type {
+        margin-right: 0;
+      }
+      &:hover {
+        i {
+          color: $sr-orange;
+        }
+      }
+      &:visited {
+        color: $sr-blue;
+      }
+      &:active, &:focus {
+        outline: none;
+      }
+    }
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 1.25rem;
+  }
+}
