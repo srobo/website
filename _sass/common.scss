@@ -49,3 +49,17 @@
     width: initial;
   }
 }
+
+
+.vertically-centered-row {
+  @include media-query("medium") {
+    display: flex;
+    align-items: center;
+  }
+  column-gap: 1rem;
+}
+
+.horizontally-centered-column {
+  display: flex;
+  justify-content: center;
+}

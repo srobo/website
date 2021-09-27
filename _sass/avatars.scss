@@ -12,3 +12,11 @@
     color: #333333;
   }
 }
+
+.testomonial-avatar {
+  border-radius: 50%;
+  width: 15rem;
+  @include media-query("medium") {
+    width: 100%;
+  }
+}
