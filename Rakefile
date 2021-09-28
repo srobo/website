@@ -27,6 +27,7 @@ end
 
 task :validate => [:build_site] do
   sh('bundle exec ruby scripts/validate-icalendar.rb')
+  sh('docker run srobo/website nginx -t')
 end
 
 task :build_docker do
