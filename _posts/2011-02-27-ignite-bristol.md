@@ -1,6 +1,5 @@
 ---
 description: Sam Phippen talks about Student Robotics at Bristol Ignite
-layout: news
 title: 'Sixth Formers & Power Tools: A talk by Sam Phippen'
 ---
 What happens when you take sixth formers, and let them loose with power tools?  Sam Phippen tells us about his 

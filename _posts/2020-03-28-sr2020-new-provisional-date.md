@@ -1,5 +1,4 @@
 ---
-layout: news
 title: Student Robotics 2020 New Provisional Competition Date
 ---
 

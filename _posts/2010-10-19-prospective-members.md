@@ -2,7 +2,6 @@
 description: Are you a student at/near the University of Southampton or Bristol University
   who would like to know more about Student Robotics and get involved in our projects?
   We're holding some introductory doings specifically for you!
-layout: news
 title: Students' Welcome Doing
 ---
 [Doings](https://www.studentrobotics.org/trac/wiki/Doings) are so called because we like to actually realise projects 

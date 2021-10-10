@@ -1,5 +1,4 @@
 ---
-layout: news
 title: Competition dates for SR2016 announced
 ---
 

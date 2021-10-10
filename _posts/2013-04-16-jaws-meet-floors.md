@@ -2,7 +2,6 @@
 description: After a six month build up, a 102 match league and a 13 match knockout
   stage, a tie in 2013 final lead to a tie-break and the best match Student Robotics
   has ever seen.
-layout: news
 title: Jaws meet floors in climactic final
 ---
 Student Robotics is over for another year! After almost six months of work by thirty-two teams came a final weekend of 
@@ -67,7 +66,7 @@ Results
 | First Robot Movement  | Headington School, Oxford (HSO1 & HSO2)
 | Online Presence       | [Grey Matter Robotics](http://greymatterrobotics.com/) (GMR)
 
-For full details on the awards, please see the [rulebook](/resources/2013/rulebook.pdf).
+For full details on the awards, please see the [rulebook](https://studentrobotics.org/docs/resources/2013/rulebook.pdf).
 
 Media
 -----

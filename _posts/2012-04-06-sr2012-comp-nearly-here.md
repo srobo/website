@@ -1,6 +1,5 @@
 ---
 description: 'The SR2012 competition is nearly a week away. '
-layout: news
 title: SR2012 Competition nearly here!
 ---
 There is just over a week to go before the SR2012 Competition!

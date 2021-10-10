@@ -1,7 +1,6 @@
 ---
 description: Teams may now register interest in entering teams in our upcoming SR2014
   competition
-layout: news
 title: Entrance to SR2014 now open
 ---
 Today we opened up registration for the current iteration of our competition, SR2014.

@@ -1,7 +1,6 @@
 ---
 description: The competition signalled the culmination of six months of hard work
   and the end of SR 2011. Look out 2012, here we come!
-layout: news
 title: The Competition Happened. It Was Awesome!
 ---
 <a href="http://www.flickr.com/photos/rspanton/5610488796/in/set-72157626476429584">
@@ -43,7 +42,7 @@ White presenting prizes the arena, CC-BY Rob Spanton" class="right" />
 | First Robot Movement  | Queen Elizabeth's Hospital School, Bristol
 | Online Presence       | Churcher's College, Petersfield ["Powered By Magic"](http://www.poweredbymagic.co.uk/)
 
-For full details on the awards, please see the [rulebook](/resources/2011/rulebook.pdf).
+For full details on the awards, please see the [rulebook](https://studentrobotics.org/docs/resources/2011/rulebook.pdf).
 
 Full results for all the matches are now [available](/resources/2011/all.results),
  as is the listing of the [best scores](/resources/2011/best.results) of the day.

@@ -1,6 +1,5 @@
 ---
 description: 'The SR2012 competition has begun. '
-layout: news
 title: SR2012 off to a flying start
 ---
 This academic year's Student Robotics competition, SR2012, is now fully launched.  24 teams of young people are now 

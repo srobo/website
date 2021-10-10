@@ -1,7 +1,6 @@
 ---
 description: The competition signalled the culmination of six months of hard work
   and the end of SR 2012. Look out 2013, here we come!
-layout: news
 title: The Competition Happened. It Was Fantastic!
 ---
 <a href="http://www.flickr.com/photos/amspanton/6938591562/in/set-72157629831940951/">
@@ -52,7 +51,7 @@ Results
 | Online Presence       | "[MFG Robotics](http://mfgrobotics.org/)" - Mirfield Free Grammar, Huddersfield
 | First Robot Movement  | "MFG Robotics" - Mirfield Free Grammar, Huddersfield
 
-For full details on the awards, please see the [rulebook](/resources/2012/rulebook.pdf).
+For full details on the awards, please see the [rulebook](https://studentrobotics.org/docs/resources/2012/rulebook.pdf).
 
 Media
 -----

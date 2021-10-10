@@ -1,5 +1,4 @@
 ---
-layout: news
 title: Great Performance from teams during the SR2021 Third League Session
 ---
 

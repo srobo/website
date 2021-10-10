@@ -1,6 +1,5 @@
 ---
 description: Fifty-four teams start a new competition, all aiming to Capture the Flag.
-layout: news
 title: Student Robotics 2015 starts with a range of new kit
 ---
 
@@ -21,7 +20,10 @@ The game: Capture the Flag
 This year's competition is all about retrieving flags from around the arena and putting them into the competitor's zone 
 to get points. The flags are built from wooden cubes on ball casters.
 
-Read more about the [new game](/schools/game) or for full details please reference the [rulebook](/resources/2015/rulebook.pdf).
+Read more about the [new game][sr2015-game-archive] or for full details please reference the [rulebook][sr2015-rules-archive].
+
+[sr2015-game-archive]: https://studentrobotics.org/docs/rules/archive#2015
+[sr2015-rules-archive]: https://studentrobotics.org/docs/resources/2015/rulebook.pdf
 
 Kit upgrades
 ------------

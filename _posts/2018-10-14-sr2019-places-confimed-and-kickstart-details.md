@@ -1,5 +1,4 @@
 ---
-layout: news
 title: SR2019 Places confirmed & Kickstart details
 ---
 

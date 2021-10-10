@@ -1,5 +1,4 @@
 ---
-layout: news
 title: Tech Days confirmed for SR2019
 ---
 

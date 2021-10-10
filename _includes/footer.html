@@ -11,15 +11,15 @@
     <div class="column d-4-12 m-2-12">
       <h4>Student Robotics</h4>
       <ul class="sitemap">
-        <li><a href="{{ '/about/' | prepend:site.baseurl }}">About Us</a></li>
         <li><a href="{{ '/compete/' | prepend:site.baseurl }}">Compete</a></li>
         <li><a href="{{ '/volunteer/' | prepend:site.baseurl }}">Volunteer</a></li>
+        <li><a href="{{ '/sponsor/' | prepend:site.baseurl }}">Sponsor</a></li>
       </ul>
     </div>
     <div class="column d-4-12 m-2-12">
       <h4>&nbsp;</h4>
       <ul class="sitemap">
-        <li><a href="{{ '/news/' | prepend:site.baseurl }}">News</a></li>
+        <li><a href="{{ '/blog/' | prepend:site.baseurl }}">Blog</a></li>
         <li><a href="{{ '/events/' | prepend:site.baseurl }}">Events</a></li>
         <li><a href="{{ '/contact/' | prepend:site.baseurl }}">Contact us</a></li>
       </ul>
@@ -31,16 +31,20 @@
       <p>Registered charity in England and Wales, number 1163168</p>
       <p>&nbsp;</p>
       <p>
-        The fantastic background photos come from
+        The fantastic photos come from
         <a href="//www.flickr.com/photos/richardpbarlow/">Richard Barlow</a>,
-        <a href="//www.flickr.com/photos/theorangeone/">Jake Howard</a>, and
+        <a href="//www.flickr.com/photos/howiegoing/">Howard Buck</a>,
+        <a href="//www.flickr.com/photos/theorangeone/">Jake Howard</a>,
+        Anton Nikitin,
+        Antoine Petty, and
         <a href="http://www.headington.org/">Headington School Oxford</a>.
       </p>
     </div>
     <div class="column d-6-12 text-right">
       <ul class="social-media-links">
         {% for account in site.social %}
-        <li><a href="{{ account[1] }}"><i class="fa fa-{{ account[0] }}" aria-hidden="true"></i></a></li>
+        <li><a href="{{ account.link }}"><i class="fa fa-{{ account.icon }}" aria-hidden="true"
+              title="{{ account.title }}"></i></a></li>
         {% endfor %}
       </ul>
     </div>

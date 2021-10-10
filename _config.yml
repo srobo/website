@@ -1,11 +1,14 @@
 baseurl: /website
 url: https://studentrobotics.org
-permalink: /news/:year-:month-:day-:title/
+permalink: /blog/:year-:month-:day-:title/
 
 title: Student Robotics
 description: >
   Student Robotics is an exciting annual competition challenging people aged
   16-18 to assemble a team and build fully autonomous robots.
+
+locale: en_GB
+page_excerpts: true
 
 markdown: kramdown
 
@@ -13,6 +16,13 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog"
 
 # In order to show events that haven't happened yet, we need to turn on future
 # mode
@@ -25,6 +35,7 @@ plugins:
 links:
   compete: //goo.gl/forms/XOuwyvId0JiTP7cq1
   volunteer: //docs.google.com/forms/d/1MIGf3P30dw0QAtP8OkxK2v7VRDEAN_54JoZHCVMbqDY/viewform
+  donate: //link.justgiving.com/v1/charity/donate/charityId/3118662?tipScheme=TipJar2.1&isRecurring=true&amount=20.00&reference=givingcheckout_tj21
 
 timezone: Europe/London
 
@@ -35,19 +46,35 @@ emails:
   pr: pr@studentrobotics.org
   info: info@studentrobotics.org
 
+twitter_handle: "@StudentRobotics"
 social:
-  facebook-official: https://facebook.com/StudentRobotics
-  twitter: https://twitter.com/studentrobotics
-  youtube: https://youtube.com/user/StudentRobotics
-  github: https://github.com/srobo
+  - title: GitHub
+    icon: github
+    link: https://github.com/srobo
+  - title: Twitter
+    icon: twitter
+    link: https://twitter.com/studentrobotics
+  - title: YouTube
+    icon: youtube-play
+    link: https://youtube.com/user/StudentRobotics
+  - title: Instagram
+    icon: instagram
+    link: https://www.instagram.com/student_robotics/
+  - title: Facebook
+    icon: facebook-official
+    link: https://facebook.com/StudentRobotics
+  - title: LinkedIn
+    icon: linkedin
+    link: https://www.linkedin.com/company/10969472/
 
 sponsors:
-  - name: Motorola Solutions Foundation
-    link: //www.motorolasolutions.com/en_us/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html
-    image: /images/sponsors/motorola.jpeg
   - name: University of Southampton
     link: //www.southampton.ac.uk/
     image: /images/sponsors/university-of-southampton.svg
+
+  - name: Adventurous Machines
+    link: https://adventurousmachines.com/?ref=studentrobotics
+    image: /images/sponsors/adventurous-machines.svg
 
 user_tracking: true
 
@@ -61,6 +88,8 @@ exclude:
   - _env/
   - gems/
   - scripts/
+  - .idea/
+  - .vscode/
 
 paginate: 3
-paginate_path: "/news/:num/"
+paginate_path: "/blog/:num/"

@@ -7,7 +7,8 @@ task :deep_clean => [:clean] do
 end
 
 task :dependencies do
-  sh('bundle install --path gems')
+  sh('bundle config set --local path "gems"')
+  sh('bundle install')
 end
 
 file '_sass/brand/.git' do
@@ -26,6 +27,7 @@ end
 
 task :validate => [:build_site] do
   sh('bundle exec ruby scripts/validate-icalendar.rb')
+  sh('docker run srobo/website nginx -t')
 end
 
 task :build_docker do
