@@ -11,7 +11,7 @@ of years of virtual competitions due to COVID.
 The competition cycle will start with a live streamed [Kickstart event][kickstart]
 on 13th November at which the game will be announced and the competition introduced.
 
-The competition, which will take place sometime roughly around April 2021, will
+The competition, which will take place sometime roughly around April 2022, will
 see the robots compete through a league stage and a seeded knockout. As usual,
 the prizes will recognise not only the teams which come top in the knockouts,
 but also those who excel in other ways.
