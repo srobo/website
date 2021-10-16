@@ -8,7 +8,7 @@ title: KickStart Happened. It Was Awesome!
 The annual Student Robotics competition KickStart happened today, and we think everyone had a great day!
 Everyone was certainly kept very busy!
 
-The [rulebook](/docs/rules/) is now live.
+The [rulebook](https://studentrobotics.org/docs/rules/) is now live.
 Make sure you give it a good read if you're taking part.
 For those of you that have taken part before, please note that some of the regulations have changed &mdash; don't let 
 them catch you out!

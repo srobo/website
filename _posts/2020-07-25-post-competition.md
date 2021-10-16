@@ -97,7 +97,7 @@ competition and after lockdown began as well as for their activy on the forums.
 For full details on all the awards, please see the [rulebook][rulebook].
 
 You can see a breakdown of scores for each match, as well as the overall league
-ranking on the [competition website](/comp/).
+ranking on the [competition website](https://studentrobotics.org/comp/).
 
 Rewatch the streams
 -------------------
