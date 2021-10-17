@@ -20,7 +20,7 @@ came in second place. [Clifton High School](http://www.cliftonhigh.bristol.sch.u
 Student Robotics 2014 was the biggest and best yet, with over 230 rounds played over 2 days.
 Up to four robots competed head to head in each round, pushing past each other to grab as many tokens as possible in 
 3 minutes.
-Run entirely by volunteers, Student Robotics is free for teams to enter thanks to [our sponsors](/about/sponsors),
+Run entirely by volunteers, Student Robotics is free for teams to enter thanks to [our sponsors]({{ '/sponsor/' | prepend: site.baseurl }}),
 primarily the Motorola Foundation and the University of Southampton's School of Electronics and Computer Science. This 
 year the competition was also live-streamed on the internet thanks to our latest sponsor,
 the [British Amateur Television Club](http://www.batc.org.uk/).
