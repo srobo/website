@@ -44,7 +44,7 @@ The *Rookie Award* is given to the rookie team which places highest in the leagu
 
 The first new team to post a video of their robot moving on its own in a controlled manner win the *First Robot Movement* award.
 This encourages new teams to get a basic chassis built quickly, as well as getting them to write some simple control software for it.
-The committee were impressed that Torquay Boys' [video](https://docs.google.com/file/d/0B7buz3R0lXPsaTl4eEwxMDVxRjg/preview) appeared within two weeks of the [Kickstart](/blog/2013-11-22_sr2014_underway).
+The committee were impressed that Torquay Boys' [video](https://docs.google.com/file/d/0B7buz3R0lXPsaTl4eEwxMDVxRjg/preview) appeared within two weeks of the [Kickstart]({{ '/blog/2013-11-22-sr2014-underway' | prepend: site.baseurl }}).
 
 <a href="{{ site.baseurl }}/images/content/blog/sr2014/hrs-large.jpg" title="Team HRS">
   <img class="right" src="{{ site.baseurl }}/images/content/blog/sr2014/hrs-small.jpg" width="400" height="265" alt="Team HRS in their steampunk attire.">
