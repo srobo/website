@@ -18,7 +18,7 @@ In a change to previous years,
  so be sure that you don't miss out!
 There will of course be time to work on your robot on the Saturday morning.
 
-In addition, all team members must bring along their [ticket](/schools/team-leaders/#Tickets),
+In addition, all team members must bring along their ticket,
  obtainable once a Media Consent Form
  has been received by Student Robotics.
 More details can be found on the [SR2012 Competition Page](/events/sr2012/2012-04-14-competition).
