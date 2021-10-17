@@ -34,7 +34,8 @@ task :validate_site => [:build_site] do
   # --allow-hash-href   # Allow empty `#` links to mean "top of page". It's true that these can be errors, however we have far too many to really address this.
   # --url-swap          # Adjust for Jekyll's baseurl. See https://github.com/gjtorikian/html-proofer/issues/618 for more.
   # --url-ignore        # Allow mailto links without a target email, for our Share links. Works around https://github.com/gjtorikian/html-proofer/issues/552.
-  sh('bundle exec htmlproofer _site --disable-external --empty-alt-ignore --allow-hash-href --url-swap "^/website/:/" --url-ignore "/^mailto:?/"')
+  #                     # Allow old event links which aren't easily updated.
+  sh('bundle exec htmlproofer _site --disable-external --empty-alt-ignore --allow-hash-href --url-swap "^/website/:/" --url-ignore "/^mailto:?/,/^\/events\/sr201[23]/"')
 end
 
 task :build_docker do
