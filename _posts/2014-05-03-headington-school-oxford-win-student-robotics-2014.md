@@ -102,6 +102,6 @@ Media
 -----
 
 High resolution photographs of the event can be found on the Student Robotics 2014 competition [Flickr group](http://www.flickr.com/groups/sr2014/).
-For more information, please [contact us](/about/contactus).
+For more information, please [contact us]({{ '/contact' | prepend: site.baseurl }}).
 
 _The Student Robotics Team_
