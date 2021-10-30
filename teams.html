@@ -1,0 +1,114 @@
+---
+layout: page
+title: Teams Dashboard
+permalink: /teams/
+---
+<div class="panel panel-header panel-boxes">
+  <div class="panel-container">
+    <div class="hero-text no-cta fixed-width text-center">
+      <h1>Teams Dashboard</h1>
+    </div>
+  </div>
+</div>
+<div class="main home-main">
+  <div class="card">
+    <div class="fixed-width">
+      <div class="row">
+        <ul class="side-navigation">
+          <li class="column l-4-12">
+            <a href="https://studentrobotics.org/ide/">
+              <p class="link-icon"><i class="fa fa-fw fa-2x fa-cogs"></i></p>
+              <p>
+                <span class="link-title">IDE</span>
+                <span class="link-description">Develop and deploy code to your robot.</span>
+              </p>
+            </a>
+          </li>
+          <li class="column l-4-12">
+            <a href="https://studentrobotics.org/docs/">
+              <p class="link-icon"><i class="fa fa-fw fa-2x fa-book"></i></p>
+              <p>
+                <span class="link-title">Documentation</span>
+                <span class="link-description">Learn how to use the kit.</span>
+              </p>
+            </a>
+          </li>
+          <li class="column l-4-12">
+            <a href="https://studentrobotics.org/docs/team_admin/discord">
+              <p class="link-icon"><i class="fa fa-fw fa-2x fa-users"></i></p>
+              <p>
+                <span class="link-title">Discord</span>
+                <span class="link-description">Stuck? Ask questions and help others.</span>
+              </p>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="fixed-width">
+    <div class="row">
+      <div class="sidebar column m-4-12">
+        <div class="card">
+          <h3 class="card-heading">Upcoming Events</h3>
+          {% assign any_events = false %}
+          {% for event in site.events %}
+          {% comment %}{# Changing this condition? also change it in the loop below #}{% endcomment %}
+          {% if event.date > site.time and event.cancelled != true %}
+          {% assign any_events = true %}
+          {% endif %}
+          {% endfor %}
+
+          {% if any_events %}
+          <ul class="event-list">
+            {% for event in site.events %}
+            {% comment %}{# Changing this condition? also change it in the loop above #}{% endcomment %}
+            {% if event.date > site.time and event.cancelled != true %}
+            <li class="event">
+              <p class="event-name"><a href="{{ event.url | prepend: site.baseurl }}">{{ event.title }}</a></p>
+              <p class="event-details">
+                {{ event.date | date: "%e %B, %Y" }}
+                &#8226;
+                <span class="event-location">{{ event.location }}</span>
+              </p>
+            </li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+          {% else %}
+          <p>There are no upcoming events.</p>
+          {% endif %}
+          <a href="{{ '/events/' | prepend: site.baseurl }}">All events</a>
+        </div>
+        <div class="card">
+          <h3 class="card-heading">Sponsors</h3>
+          <ul class="sponsor-list">
+            {% for sponsor in site.sponsors %}
+            <li>
+              <a href="{{ sponsor.link }}">
+                <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}"/>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="column m-8-12">
+        {% assign post = site.posts.first %}
+        <div class="card">
+          <h3 class="card-heading">Latest Posts</h3>
+          <div class="article article-preview">
+            <div class="article-header">
+              <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+              <p class="article-info">Published {{ post.date | date: "%e %B, %Y" }}</p>
+            </div>
+            <div class="article-content">
+              {{ post.content }}
+            </div>
+          </div>
+          <a class="button button-expand" href="{{ '/blog' | prepend: site.baseurl }}">View more posts</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

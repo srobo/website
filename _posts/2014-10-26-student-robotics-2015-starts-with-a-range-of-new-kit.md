@@ -35,19 +35,19 @@ These upgrades include:
 
 <img class="right" src="{{ site.baseurl }}/images/content/kit/pbv4.png" height="300" width="241" title="A new Power Board (version 4)" alt="An image of the Power Board version 4">
 
-This year comes with an all new [Power Board](/docs/kit/power_board) which allows for the control of up to six external 
+This year comes with an all new [Power Board](https://studentrobotics.org/docs/kit/power_board) which allows for the control of up to six external
 powered components.
 
 ### Brain Board
 
-The new [Brain Board](/docs/kit/brain_board) is the [Odroid U3](http://hardkernel.com/main/products/prdt_info.php).
+The new [Brain Board](https://studentrobotics.org/docs/kit/brain_board) is the [Odroid U3](http://hardkernel.com/main/products/prdt_info.php).
 It's a small but powerful Linux computer with a 1.7GHz Quad Core ARM processor and packs 2GB of RAM.
 These boards are similar to the Raspberry Pi, but are often reported as being between 6 and 12 times more powerful.
 
 
 ### Tablets
-There is an all new way of debugging robots this year, which is through the use of a [tablet](/docs/kit/tablet). The 
-tablets connect to the Brain Board through WiFi and gives the ability to view logs and start/stop the robot remotely 
+There is an all new way of debugging robots this year, which is through the use of a [tablet](https://studentrobotics.org/docs/kit/tablet). The
+tablets connect to the Brain Board through WiFi and gives the ability to view logs and start/stop the robot remotely
 &mdash; without chasing the robot half way around the school!
 
 We are also working on streaming the camera and having control over individual components.
@@ -56,7 +56,7 @@ We are also working on streaming the camera and having control over individual c
 
 <img class="right" src="{{ site.baseurl }}/images/content/kit/sbv4.png" height="281" width="241" title="A new Servo Board (version 4)" alt="An image of the Servo Board version 4">
 
-The new [Servo Board](/docs/kit/servo_board) allows for control over up to 12 servos simultaneously.
+The new [Servo Board](https://studentrobotics.org/docs/kit/servo_board) allows for control over up to 12 servos simultaneously.
 
 ### Interconnect
 

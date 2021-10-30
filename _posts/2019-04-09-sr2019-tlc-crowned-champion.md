@@ -80,7 +80,7 @@ Lastly, we like to see the robot-building process over the course of the year, a
 
 For full details on all the awards, please see the [rulebook](https://studentrobotics.org/docs/resources/2019/rulebook.pdf).
 
-You can see a breakdown of scores for each match, as well as the overall league ranking on the [competition website](/comp/).
+You can see a breakdown of scores for each match, as well as the overall league ranking on the [competition website](https://studentrobotics.org/comp/).
 
 High resolution photographs of the event have been uploaded to our [Google Photos Album](https://photos.app.goo.gl/8vtBZiuM8FXSf79Z8).
 
