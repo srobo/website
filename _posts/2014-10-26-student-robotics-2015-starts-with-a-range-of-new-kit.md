@@ -3,7 +3,7 @@ description: Fifty-four teams start a new competition, all aiming to Capture the
 title: Student Robotics 2015 starts with a range of new kit
 ---
 
-The 2015 Student Robotics competition has started with various [Kickstart](/events/kickstart) events.
+The 2015 Student Robotics competition has started with various Kickstart events.
 Kickstarts were held at the University of Southampton, the University of Bristol and Facebook HQ in London.
 There is also a Kickstart event occurring in Munich soon.
 

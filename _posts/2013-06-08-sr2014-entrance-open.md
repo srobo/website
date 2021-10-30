@@ -9,4 +9,4 @@ Teams will then have just over six months to construct their robots before the c
 
 If you have a team of 16-18 year-olds that you would like to enter for the competition,
  please fill out [this interest form]({{ site.baseurl }}/compete/) and we will get in touch with you as soon as we can.
-Thanks to our [sponsors](/about/sponsors), we can accept even more teams for this year's competition.
+Thanks to our [sponsors]({{ '/sponsor/' | prepend: site.baseurl }}), we can accept even more teams for this year's competition.

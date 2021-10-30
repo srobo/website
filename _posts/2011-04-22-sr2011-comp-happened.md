@@ -44,8 +44,6 @@ White presenting prizes the arena, CC-BY Rob Spanton" class="right" />
 
 For full details on the awards, please see the [rulebook](https://studentrobotics.org/docs/resources/2011/rulebook.pdf).
 
-Full results for all the matches are now [available](/resources/2011/all.results),
- as is the listing of the [best scores](/resources/2011/best.results) of the day.
 Congratulations to the team from Bishop Wordsworth School for some impressively high scores,
  topping the list at 40 points in single match.
 
