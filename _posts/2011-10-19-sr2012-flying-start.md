@@ -13,6 +13,6 @@ will be racing to collect cube-shaped tokens, and get them back to the bucket in
 We've revamped our [API](https://studentrobotics.org/docs/programming) to be more powerful and work together with existing libraries more easily.
 Our new libkoki-based vision system allows our competitor's robots to easily determine where they are in the arena.
 
-We'll be here throughout the year providing teams with support both in person and through the [forums](/forum).
+We'll be here throughout the year providing teams with support both in person and through the [forums](https://studentrobotics.org/forum/).
 
 *The SR Team*

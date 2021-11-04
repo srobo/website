@@ -24,7 +24,7 @@ Bristol University
 Room 1.06. If you're not sure where it is we'll be in the foyer.
 
 If you can't come along at 5pm or are otherwise committed on Wednesday evenings you can still get involved! 
-[Get in touch](/about/contactus) and we'll do our best to introduce you to SR and find out how you can get involved in 
+[Get in touch]({{ '/contact' | prepend: site.baseurl }}) and we'll do our best to introduce you to SR and find out how you can get involved in
 SR projects.
 
 See you there!

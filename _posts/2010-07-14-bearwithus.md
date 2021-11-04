@@ -12,7 +12,7 @@ Due to unforeseen circumstances, the site has become live a little before antici
 of the content is missing &mdash; well, not yet present.
 
 The site is still a work in progress, so please bear with us. If, in the mean time, there is something you need to know 
-and can't find out, please do not hesitate to [get in contact with us](/about/contactus).
+and can't find out, please do not hesitate to [get in contact with us]({{ '/contact' | prepend: site.baseurl }}).
 
 That's all for now,
 
