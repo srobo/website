@@ -74,6 +74,10 @@ sponsors:
     link: https://adventurousmachines.com/?ref=studentrobotics
     image: /images/sponsors/adventurous-machines.svg
 
+  - name: Mythic Beasts
+    link: https://www.mythic-beasts.com/
+    image: /images/sponsors/mythic-beasts.svg
+
 user_tracking: true
 
 exclude:
