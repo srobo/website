@@ -108,6 +108,26 @@ permalink: /sponsor/
     </div>
   </div>
 </div>
+<div class="panel">
+  <div class="panel-container">
+    <div class="fixed-width text-center">
+      <h2>Current sponsors</h2>
+      <div class="row">
+        <div class="column">
+          <div class="row sponsor-row">
+            {% for sponsor in site.sponsors %}
+            <div class="column m-6-12">
+              <a href="{{ sponsor.link }}">
+                <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}" />
+              </a>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="panel" id="sponsor-signup-panel">
   <div class="panel-container">
     <div class="fixed-width text-center">
