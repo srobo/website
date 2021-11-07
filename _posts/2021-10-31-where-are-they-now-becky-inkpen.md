@@ -35,7 +35,7 @@ I wasn't very confident when I was younger and I was very nervous about joining 
 
 <br/>
 
-_Student Robotics is 100% free to enter and provides exciting real world engineering challenges for students aged 16-19. If you’re interested in taking part you can find out more on our [Compte][compete] page. If your organisation is interested in sponsoring Student Robotics you can find all the information on our [Sponsor][sponsor] page or reach out direct to [fundraising@studentrobotics.org][fundraising-email]_
+_Student Robotics is 100% free to enter and provides exciting real world engineering challenges for students aged 16-19. If you’re interested in taking part you can find out more on our [Compete][compete] page. If your organisation is interested in sponsoring Student Robotics you can find all the information on our [Sponsor][sponsor] page or reach out direct to [fundraising@studentrobotics.org][fundraising-email]_
 
 [compete]: {{ '/compete' | prepend: site.baseurl }}
 [sponsor]: {{ '/sponsor' | prepend: site.baseurl }}
