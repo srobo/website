@@ -12,25 +12,25 @@ year's Student Robotics tournament this weekend (27<sup>th</sup> May 2014) at Th
 The team of sixth form girls beat 53 other school teams from the UK,
 France and Germany with a self-driving robot that uses a camera to find prize tokens.
 
-Headington School (pictured) narrowly beat [Gordano School](http://www.gordano.n-somerset.sch.uk/) from Bristol, who 
-came in second place. [Clifton High School](http://www.cliftonhigh.bristol.sch.uk/), also from Bristol, and 
-[Runshaw College](http://www.runshaw.ac.uk/), from Lancashire, came joint in a 
+Headington School (pictured) narrowly beat [Gordano School](http://www.gordano.n-somerset.sch.uk/) from Bristol, who
+came in second place. [Clifton High School](http://www.cliftonhigh.bristol.sch.uk/), also from Bristol, and
+[Runshaw College](http://www.runshaw.ac.uk/), from Lancashire, came joint in a
 3<sup>rd</sup> place<a href="#tie-footnote"><sup>†</sup></a>.
 
 Student Robotics 2014 was the biggest and best yet, with over 230 rounds played over 2 days.
-Up to four robots competed head to head in each round, pushing past each other to grab as many tokens as possible in 
+Up to four robots competed head to head in each round, pushing past each other to grab as many tokens as possible in
 3 minutes.
 Run entirely by volunteers, Student Robotics is free for teams to enter thanks to [our sponsors]({{ '/sponsor/' | prepend: site.baseurl }}),
-primarily the Motorola Foundation and the University of Southampton's School of Electronics and Computer Science. This 
+primarily the Motorola Foundation and the University of Southampton's School of Electronics and Computer Science. This
 year the competition was also live-streamed on the internet thanks to our latest sponsor,
 the [British Amateur Television Club](http://www.batc.org.uk/).
 
 The challenge: *Slots*
 ----------------------
 
-This year's competition involved building a robot that could move around an arena handling bulky prize tokens and drop 
-them into tight-fitting slots. In addition, and in a first for Student Robotics, the token's orientation was also a 
-means to score points. The best robots had to be able to rotate them before placing the token into their designated 
+This year's competition involved building a robot that could move around an arena handling bulky prize tokens and drop
+them into tight-fitting slots. In addition, and in a first for Student Robotics, the token's orientation was also a
+means to score points. The best robots had to be able to rotate them before placing the token into their designated
 area.
 
 Find out more about the intricacies of the game in the [rulebook](https://studentrobotics.org/docs/resources/2014/rulebook.pdf).

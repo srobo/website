@@ -10,7 +10,7 @@ Everyone was certainly kept very busy!
 
 The [rulebook](https://studentrobotics.org/docs/rules/) is now live.
 Make sure you give it a good read if you're taking part.
-For those of you that have taken part before, please note that some of the regulations have changed &mdash; don't let 
+For those of you that have taken part before, please note that some of the regulations have changed &mdash; don't let
 them catch you out!
 
 A big thanks to all of you that came,

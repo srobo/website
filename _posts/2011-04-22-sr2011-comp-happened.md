@@ -7,7 +7,7 @@ title: The Competition Happened. It Was Awesome!
 <img class="right" src="https://farm6.static.flickr.com/5149/5610488796_9890a0771f.jpg" title="Everyone in the arena, CC-BY Rob Spanton" />
 </a>
 
-Student Robotics 2011 is over!  After much hard work, hacking, and bodging, fifteen teams from thirteen UK schools 
+Student Robotics 2011 is over!  After much hard work, hacking, and bodging, fifteen teams from thirteen UK schools
 across five counties, and two countries came together to pit their robotic creations in a titanic battle of wits.
 
 Each team had to build a robot that could navigate a course littered with other robots and red beans cans which could be
@@ -19,7 +19,7 @@ The robots used a number of sensing mechanisms,
  (which was impressively used for more than just looking forwards)
  to various implementations of distance sensors.
 
-The day comprised a gruelling 32 match league stage provided seeding for the later knock-out stage that would determine 
+The day comprised a gruelling 32 match league stage provided seeding for the later knock-out stage that would determine
 the winners of Student Robotics 2011.
 Congratulations to all the competitors, whatever place achieved,
  we hope that you've all had fun & learnt something along the way.
@@ -28,7 +28,7 @@ Results
 -------
 
 <a href="http://www.flickr.com/photos/rspanton/5620491515/in/set-72157626476429584">
-<img src="https://farm6.static.flickr.com/5149/5620491515_f787fd1da1.jpg" alt="competition" title="Alex Forward and Neil 
+<img src="https://farm6.static.flickr.com/5149/5620491515_f787fd1da1.jpg" alt="competition" title="Alex Forward and Neil
 White presenting prizes the arena, CC-BY Rob Spanton" class="right" />
 </a>
 
@@ -50,9 +50,9 @@ Congratulations to the team from Bishop Wordsworth School for some impressively 
 Media
 -----
 
-For the first time the competition received real-time coverage from a live video feed and a 
-[twitter stream](http://twitter.com/StudentRobotics). We were also covered in a piece in the Southern Daily Echo, and 
-[ECS News](http://www.ecs.soton.ac.uk/about/news/3708) among other places. Images from the event are available in the 
+For the first time the competition received real-time coverage from a live video feed and a
+[twitter stream](http://twitter.com/StudentRobotics). We were also covered in a piece in the Southern Daily Echo, and
+[ECS News](http://www.ecs.soton.ac.uk/about/news/3708) among other places. Images from the event are available in the
 [sr2011](http://www.flickr.com/groups/sr2011/) group on Flickr.
 
 _The SR Team_

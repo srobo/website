@@ -4,7 +4,7 @@ title: Student Robotics 2020 Virtual Competition Announcement
 
 ## Virtual Competition
 
-We will be running a virtual Student Robotics Competition this summer. Our volunteers are hard at work developing a simulator-based solution for teams to compete in. 
+We will be running a virtual Student Robotics Competition this summer. Our volunteers are hard at work developing a simulator-based solution for teams to compete in.
 
 We aim to keep the virtual competition rules as similar to the SR2020 game, [Two Colours](https://studentrobotics.org/docs/rules/), as possible.
 
