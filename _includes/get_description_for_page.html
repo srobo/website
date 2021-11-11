@@ -1,7 +1,7 @@
 {% if page.description %}
-  {% assign description = page.description | strip_html | strip_newlines | truncate: 160 %}
+  {% assign description = page.description | strip_html | normalize_whitespace | truncate: 160 %}
 {% elsif page.excerpt %}
-  {% assign description = page.excerpt | strip_html | strip_newlines | truncate: 160 %}
+  {% assign description = page.excerpt | strip_html | normalize_whitespace | truncate: 160 %}
 {% else %}
   {% assign description = site.description %}
 {% endif %}
