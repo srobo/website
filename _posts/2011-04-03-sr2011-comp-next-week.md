@@ -4,11 +4,11 @@ description: We're now on the final straight towards this year's Student Robotic
   competition to date. May the best robot win!
 title: SR Competition 2011 - Not long to go!
 ---
-There's less than a week to go to the competition, and we're as excited as we are busy preparing the biggest and best 
+There's less than a week to go to the competition, and we're as excited as we are busy preparing the biggest and best
 Student Robotics Competition to date.
 
-The competition's taking place at The Cube, Level 2, SUSU 
-[Building 42](http://www.soton.ac.uk/about/whereissoton/highfield.html), Highfield Campus, University of Southampton. 
+The competition's taking place at The Cube, Level 2, SUSU
+[Building 42](http://www.soton.ac.uk/about/whereissoton/highfield.html), Highfield Campus, University of Southampton.
 Here's the schedule:
 
 Day 1 - Saturday 9th April, Tinkering Day

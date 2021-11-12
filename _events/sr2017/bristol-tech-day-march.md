@@ -15,7 +15,7 @@ with other teams!
 responsible adult. We also need their mobile number so we can contact them on
 the day.**
 
-**If the responsible adult is not your team leader, or your team leader has not 
+**If the responsible adult is not your team leader, or your team leader has not
 already sent James ([jroff@studentrobotics.org][mail-james]) their mobile number,
 please do so before you arrive!**
 

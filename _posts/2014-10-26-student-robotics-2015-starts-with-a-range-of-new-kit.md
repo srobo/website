@@ -3,12 +3,12 @@ description: Fifty-four teams start a new competition, all aiming to Capture the
 title: Student Robotics 2015 starts with a range of new kit
 ---
 
-The 2015 Student Robotics competition has started with various [Kickstart](/events/kickstart) events.
+The 2015 Student Robotics competition has started with various Kickstart events.
 Kickstarts were held at the University of Southampton, the University of Bristol and Facebook HQ in London.
 There is also a Kickstart event occurring in Munich soon.
 
-There are 54 teams competing in this year's Student Robotics competition, coming from across the United Kingdom and 
-Germany. We have generated a [map](https://mapsengine.google.com/map/viewer?mid=zvzw_6CVihJs.kM7Ln0NcH6zk) of where all 
+There are 54 teams competing in this year's Student Robotics competition, coming from across the United Kingdom and
+Germany. We have generated a [map](https://mapsengine.google.com/map/viewer?mid=zvzw_6CVihJs.kM7Ln0NcH6zk) of where all
 competing teams are from this year.
 
 
@@ -17,7 +17,7 @@ The game: Capture the Flag
 
 <img class="right" src="{{ site.baseurl }}/images/content/arena-2015.png" title="The 2015 arena layout" alt="An image of the 2015 arena layout">
 
-This year's competition is all about retrieving flags from around the arena and putting them into the competitor's zone 
+This year's competition is all about retrieving flags from around the arena and putting them into the competitor's zone
 to get points. The flags are built from wooden cubes on ball casters.
 
 Read more about the [new game][sr2015-game-archive] or for full details please reference the [rulebook][sr2015-rules-archive].
@@ -60,13 +60,13 @@ The new [Servo Board](https://studentrobotics.org/docs/kit/servo_board) allows f
 
 ### Interconnect
 
-The new inter-board communication system has been upgraded entirely to USB. This makes communication faster, wiring 
+The new inter-board communication system has been upgraded entirely to USB. This makes communication faster, wiring
 easier, and the kit more robust.
 
 Final words
 -----------
 
-This year's competition should be an exhilarating event, and all of the Student Robotics volunteers are looking forward 
+This year's competition should be an exhilarating event, and all of the Student Robotics volunteers are looking forward
 to seeing how well the robots compete!
 
 _The Student Robotics team_

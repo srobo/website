@@ -25,14 +25,28 @@ task :build_site => [:dependencies, :submodules] do
   sh('bundle exec jekyll build --config _config.yml')
 end
 
-task :validate => [:build_site] do
+task :validate_site => [:build_site] do
   sh('bundle exec ruby scripts/validate-icalendar.rb')
-  sh('docker run srobo/website nginx -t')
+
+  # Explanation of arguments:
+  # --disable-external  # For speed. Ideally we'd check external links too, but ignoring for now.
+  # --empty-alt-ignore  # To avoid needing to fix lots upfront, we can migrate towards this later.
+  # --allow-hash-href   # Allow empty `#` links to mean "top of page". It's true that these can be errors, however we have far too many to really address this.
+  # --url-swap          # Adjust for Jekyll's baseurl. See https://github.com/gjtorikian/html-proofer/issues/618 for more.
+  # --url-ignore        # Allow mailto links without a target email, for our Share links. Works around https://github.com/gjtorikian/html-proofer/issues/552.
+  #                     # Allow old event links which aren't easily updated.
+  sh('bundle exec htmlproofer _site --disable-external --empty-alt-ignore --allow-hash-href --url-swap "^/website/:/" --url-ignore "/^mailto:?/,/^\/events\/sr201[23]/"')
 end
 
 task :build_docker do
   sh('docker build --tag srobo/website .')
 end
+
+task :validate_nginx => [:build_docker] do
+  sh('docker run srobo/website nginx -t')
+end
+
+task :validate => [:validate_site, :validate_nginx]
 
 task :build => [:build_site, :build_docker]
 

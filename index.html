@@ -172,7 +172,7 @@ layout: home
         fantastic sponsors.
       </p>
       <div class="row">
-        <div class="column m-8-12 m-offset-2-12">
+        <div class="column">
           <div class="row sponsor-row">
             {% for sponsor in site.sponsors %}
             <div class="column m-6-12">
@@ -183,6 +183,17 @@ layout: home
             {% endfor %}
           </div>
         </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel panel-thin">
+  <div class="panel-container">
+    <div class="fixed-width text-center">
+      <h2>Donate</h2>
+      <p>Every donation is greatly appreciated, no matter the amount, and directly contributes to us running the competition for our teams.</p>
+      <div class="row">
+        {% include donate.html %}
       </div>
     </div>
   </div>
