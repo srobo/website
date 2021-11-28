@@ -6,9 +6,8 @@ type: techday
 location: Discord
 ---
 
-Tech Days are opportunities for teams to get help if they're struggling with a
-technical issue, and a controlled environment for students to make more
-progress on their robots. They're also an opportunity to see how well they're
-doing in comparison to other teams.
+Tech Days are opportunities for teams to spend a whole day working on their robot with lots of help available. They’re also an opportunity to see how other teams are doing or get more direct help with their robots.
+
+The aim of this day is to help teams out by having guaranteed presence from us blueshirts. We'll be around to answer questions about the competition, give kit support, assist with the microgames, and assist with strategy ideas.
 
 Our SR2022 December Tech Day is being hosted on our Discord server.
