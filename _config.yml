@@ -78,6 +78,10 @@ sponsors:
     link: https://www.mythic-beasts.com/
     image: /images/sponsors/mythic-beasts.svg
 
+  - name: Systemetric - Hills Road Robotics
+    link: https://systemetric.hr-robocon.org/
+    image: /images/sponsors/systemetric-hills-road.svg
+
 user_tracking: true
 
 exclude:
