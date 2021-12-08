@@ -10,6 +10,6 @@ Last updated: {{ page.date | date: "%e %B %Y" }}.
 
 ## The Competition - SR2022
 
-It is currently our intention to run an in person competition for the SR2022 competition cycle. This is of course dependent on the government guidelines which we are keeping a close eye on. If you have any COVID-19 specific questions about the competition please contact us at [teams@studentrobotics.org][teams-email].
+It is currently our intention to run an in person competition for the SR2022 competition cycle. This is of course dependent on the government guidelines which we are keeping a close eye on. If you have any COVID-19 specific questions about the competition please contact us at [{{ site.emails.teams }}][teams-email].
 
-[teams-email]: mailto:teams@studentrobotics.org
+[teams-email]: mailto:{{ site.emails.teams }}
