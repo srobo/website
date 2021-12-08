@@ -1,26 +1,15 @@
 ---
 layout: blog
 title: COVID-19 Updates
-date: 2020-10-29
+date: 2021-12-08
 ---
 
 We will keep this page updated with new information as it becomes available.
 
 Last updated: {{ page.date | date: "%e %B %Y" }}.
 
-## The Competition - SR2021
+## The Competition - SR2022
 
-### In-person competition
+It is currently our intention to run an in person competition for the SR2022 competition cycle. This is of course dependent on the government guidelines which we are keeping a close eye on. If you have any COVID-19 specific questions about the competition please contact us at [{{ site.emails.teams }}][teams-email].
 
-Due to the ongoing COVID-19 situation we will not be running a physical competition this year.
-
-### Virtual Competition
-
-We are running a [virtual Student Robotics Competition][sr2021] instead over the normal competiton cycle.
-
-[phe-guidelines]: https://www.gov.uk/government/publications/guidance-to-educational-settings-about-covid-19/guidance-to-educational-settings-about-covid-19
-[forum]: https://studentrobotics.org/forum/
-[teams-email]: mailto:teams@studentrobotics.org
-[sign-up]: {{ site.baseurl }}/compete/
-
-[sr2021]: {{ '/blog/2020-10-29-sr2021-registration-open/' | prepend: site.baseurl }}
+[teams-email]: mailto:{{ site.emails.teams }}
