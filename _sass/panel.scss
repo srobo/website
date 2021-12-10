@@ -90,3 +90,32 @@ img.image {
 .panel-fill {
   width: 100%;
 }
+
+.panel.latest-content {
+  padding: 1rem 0;
+
+  .fixed-width {
+    display: flex;
+    justify-content: space-around;
+
+    .content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      h4 {
+        margin-bottom: 0;
+      }
+
+      a {
+        font-weight: bold;
+      }
+
+      .content-details {
+        font-size: 0.8em;
+        margin: 0;
+        text-overflow: ellipsis;
+      }
+    }
+  }
+}

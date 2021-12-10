@@ -17,5 +17,30 @@ layout: default
     </div>
   </div>
 </div>
+<div class="panel panel-thin latest-content">
+  <div class="fixed-width">
+    <div class="content">
+      {% assign latest_post = site.posts.first %}
+      <h4>Latest Post:</h4>
+      <a href="{{ latest_post.url | prepend: site.baseurl }}">{{latest_post.title }}</a>
+      <div class="content-details">
+        {{ latest_post.date | date: "%e %B, %Y" }}
+      </div>
+    </div>
+    <div class="content">
+      {% assign next_event = site.events | where_exp: "event", "event.date > site.time"
+      | where_exp: "event", "event.cancelled != true" | first %}
+      <h4>Next Event:</h4>
+      {% if next_event %}
+        <a href="{{ next_event.url | prepend: site.baseurl }}">{{ next_event.title }}</a>
+        <div class="content-details">
+          {{ next_event.date | date: "%e %B, %Y" }}
+        </div>
+      {% else %}
+        <p>No upcoming events</p>
+      {% endif %}
+    </div>
+  </div>
+</div>
 {{ content }}
 {% include footer.html %}
