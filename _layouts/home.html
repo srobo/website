@@ -37,7 +37,9 @@ layout: default
           {{ next_event.date | date: "%e %B, %Y" }}
         </div>
       {% else %}
-        <p>No upcoming events</p>
+        No upcoming events
+        <br/>
+        <a class="content-details" href="{{ '/events' | prepend: site.baseurl }}">View previous</a>
       {% endif %}
     </div>
   </div>
