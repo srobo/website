@@ -138,8 +138,8 @@ layout: home
         </div>
         <div class="column m-9-12">
           <blockquote class="text-italic">
-            Student Robotics has really helped me career wise, it’s a great talking point, especially during interviews. 
-            Being able to work on a real world engineering project with a deadline was a fantastic experience. 
+            Student Robotics has really helped me career wise, it’s a great talking point, especially during interviews.
+            Being able to work on a real world engineering project with a deadline was a fantastic experience.
             After completing my MSc in Maths, I am now doing a PhD in Maths at Sussex University.
           </blockquote>
           <p class="text-heavy text-center">— Becky</p>
@@ -283,7 +283,11 @@ layout: home
             {% endfor %}
           </ul>
           {% else %}
-          <p>There are no upcoming events.</p>
+          <p>
+            There are no upcoming events.
+            <br>
+            <a class="event-details" href="{{ '/events' | prepend: site.baseurl }}">View previous</a>
+          </p>
           {% endif %}
         </div>
       </div>
