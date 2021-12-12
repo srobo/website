@@ -122,20 +122,18 @@ permalink: /sponsor/
   </div>
 </div>
 <div class="panel">
-  <div class="panel-container">
-    <div class="fixed-width text-center">
-      <h2>Current sponsors</h2>
-      <div class="row">
-        <div class="column">
-          <div class="row sponsor-row">
-            {% for sponsor in site.sponsors %}
-            <div class="column m-6-12">
-              <a href="{{ sponsor.link }}">
-                <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}" />
-              </a>
-            </div>
-            {% endfor %}
+  <div class="fixed-width text-center">
+    <h2>Current sponsors</h2>
+    <div class="row">
+      <div class="column">
+        <div class="row sponsor-row">
+          {% for sponsor in site.sponsors %}
+          <div class="column m-6-12">
+            <a href="{{ sponsor.link }}">
+              <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}" />
+            </a>
           </div>
+          {% endfor %}
         </div>
       </div>
     </div>
@@ -205,7 +203,7 @@ permalink: /sponsor/
           <p class="question">How do I become a sponsor?</p>
           <p>
             Use the form above to get in touch.
-            Please include a summary of who you are, what you're able to offer us and which level you have in mind. 
+            Please include a summary of who you are, what you're able to offer us and which level you have in mind.
             We'll contact you (usually within a few days) to work out the specifics and provide details for a bank transfer.
           </p>
           <p>
