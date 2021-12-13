@@ -10,10 +10,10 @@ $blue-bottom-colour: transparentize($sr-blue, 0.3);
 
 .panel {
   background-color: $sr-white;
-  padding: 3.5em $spacing;
+  padding: 1.5em $spacing;
 
   @include media-query("medium") {
-    padding: 3.5em 0;
+    padding: 1.5em 0;
   }
 
   p {
