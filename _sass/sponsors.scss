@@ -101,4 +101,6 @@ ul.sponsor-list {
 .sponsor-row {
   display: flex;
   justify-content: center;
+  flex-flow: wrap;
+  row-gap: 0.5rem;
 }
