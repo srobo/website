@@ -12,13 +12,15 @@ The aim of this day is to help teams out by having guaranteed presence from us b
 
 ## Schedule
 
-The day will start with an introduction, going through the plan for the day, introducing teams.
-
-We'll then break out, where teams can work on their robots with direct guidance from blueshirts.
-
-Later in the day, we'll come back for "lightnings talks", a chance for teams to show off the progress they've made on their robot both today and in the competition so far, as well as brag about how good their robot and team is.
-
-After this, we plan on talking through some of the pitfalls we often see with robots in competitions, and answer any questions competitors may have.
+| Time | Event |
+|------|-------|
+| 10:00 | Introductory presentation, going through the plan for the day, reminding about the competition
+| 10:20 | Mentoring from volunteers - working on your robot with a skilled selection of volunteers on hand to mentor. We'll be around to answer questions about the competition, give kit support, and assist with your strategy ideas.
+| 13:00 | "Common pitfalls" presentation
+| 13:30 | More mentoring
+| 14:30 | Lightning talks - a chance to show off your robot, code, strategy and team so far
+| 14:45 | Competition Q&A - a chance to ask any questions you or your team may have about the competition, rules and their robot.
+| ~15:00 | Close
 
 ## Location
 
