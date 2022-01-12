@@ -15,11 +15,11 @@ The aim of this day is to help teams out by having guaranteed presence from us b
 | Time | Event |
 |------|-------|
 | 10:00 | Introductory presentation, going through the plan for the day, reminding about the competition
-| 10:20 | Mentoring from volunteers - working on your robot with a skilled selection of volunteers on hand to mentor. We'll be around to answer questions about the competition, give kit support, and assist with your strategy ideas.
+| 10:20 | Mentoring from volunteers - working on your robot with a skilled selection of volunteers on hand to mentor. We'll be around to answer questions about the competition, give kit support, and assist with strategy ideas.
 | 13:00 | "Common pitfalls" presentation
 | 13:30 | More mentoring
-| 14:30 | Lightning talks - a chance to show off your robot, code, strategy and team so far
-| 14:45 | Competition Q&A - a chance to ask any questions you or your team may have about the competition, rules and their robot.
+| 14:30 | Lightning talks - a chance for teams to show off their robot, code, strategy and team so far
+| 14:45 | Competition Q&A - a chance to ask any questions teams may have about the competition, rules and their robot.
 | ~15:00 | Close
 
 ## Location
