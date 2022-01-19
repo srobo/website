@@ -33,7 +33,7 @@ We have a limited amount of free parking on site for competitors.
 
 ## COVID-19
 
-Please see our [covid updates]({{ '/covid-19' | prepend: site.baseurl }}) page.
+Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) page.
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
