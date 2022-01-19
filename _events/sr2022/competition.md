@@ -16,7 +16,7 @@ The competition will be held from *Saturday 23rd April* until *Sunday 24th April
 
 The competition will be held in the Students' Union building at the [University of Southampton's Highfield campus][soton-campus-directions]:
 
-Student's Union<br>
+Students' Union<br>
 University of Southampton<br>
 University Road<br>
 Southampton<br>
