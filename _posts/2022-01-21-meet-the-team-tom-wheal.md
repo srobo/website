@@ -5,7 +5,7 @@ image_alt: Tom Wheal
 description: We catch up with volunteer Tom Wheal.
 ---
 
-This week we’ll be catching up with Tom, who is now an Electronics Consultant. Tom competed in SR2014 and SR2015 as a part of team CLY from Peter Symonds College and is now a volunteer.
+This week we’ll be catching up with Tom, who is now an Electronics Consultant. Tom competed in SR2014 and SR2015 as a part of team PSC from Peter Symonds College and is now a volunteer.
 
 {% include figure.html
            class="right"
