@@ -32,7 +32,6 @@ I currently work as an electronics consultant for The Technology Partnership (TT
 
 Don’t be afraid to ask. Sometimes things are presented to you on a silver platter, this could be opportunities or knowledge, other times they are not. Don’t be afraid to put yourself out there and ask, the worst thing that can happen is they say no, and that isn't something to be afraid of. 
 
-
 <br/>
 
 _Student Robotics is 100% free to enter and provides exciting real world engineering challenges for students aged 16-19. If you’re interested in taking part you can find out more on our [Compete][compete] page. If your organisation is interested in sponsoring Student Robotics you can find all the information on our [Sponsor][sponsor] page or reach out direct to [fundraising@studentrobotics.org][fundraising-email]_
