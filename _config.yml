@@ -82,6 +82,10 @@ sponsors:
     link: https://systemetric.hr-robocon.org/
     image: /images/sponsors/systemetric-hills-road.svg
 
+  - name: ITDev
+    link: https://www.itdev.co.uk/
+    image: /images/sponsors/itdev.png
+
 user_tracking: true
 
 exclude:
