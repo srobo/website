@@ -18,7 +18,7 @@ I was a competitor in Student robotics in 2014 and 2015, while I was at Peter Sy
 
 #### What do you do as a volunteer for Student Robotics?
 
-I currently mentor 2 teams helping them get the most out of Student Robotics. Alongside this, I am involved in the Kit Team, which I was on the committee for previously and helped with the charity re-organisation in 2019.
+​I currently mentor 2 teams helping them get the most out of Student Robotics. Alongside this, I help develop the current and future kit as a part of the Kit Team. You will likely find me at Southampton/Cambridge Tech Days and the competition, say hello if you see me!
 
 #### What is your favourite part about volunteering for Student Robotics?
 
