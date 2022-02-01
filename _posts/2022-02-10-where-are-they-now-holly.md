@@ -2,7 +2,6 @@
 title: Where are they now? Holly
 description: We catch up with ex-competitor Holly.
 ---
-_In this new blog series we’ll be catching up with some of Student Robotics ex-competitors to see what they are now up to and how competing in Student Robotics has helped them to get there._
 
 This week we’ll be catching up with Holly, a PhD Student at Imperial specialising in Experimental Solid State Physics. Holly competed in SR2015 and SR2016 as a part of team CLY from Collyers Sixth Form. She is now a volunteer for Student Robotics and a member of the fundraising team.
 
