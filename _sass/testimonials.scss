@@ -4,7 +4,7 @@
       flex-direction: row-reverse;
     }
   }
-  
+
   &-avatar {
     border-radius: 50%;
     width: 15rem;
@@ -12,4 +12,10 @@
       width: 100%;
     }
   }
+}
+
+.testimonial-footer {
+  color: $sr-blue;
+  font-family: "Open Sans Condensed", sans-serif;
+  text-transform: uppercase;
 }
