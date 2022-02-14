@@ -21,7 +21,7 @@ please do so before you arrive!**
 
 ## Directions
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.0780160880654!2d-2.6040860342318854!3d51.45672402962673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48718dd986363e45%3A0x8090ea63b62c10ff!2sQueen&#39;s+Building%2C+University+Walk%2C+Bristol+BS8+1TR%2C+UK!5e0!3m2!1sen!2sus!4v1487239755481"
+<iframe title="Map highlighting the location of the venue" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.0780160880654!2d-2.6040860342318854!3d51.45672402962673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48718dd986363e45%3A0x8090ea63b62c10ff!2sQueen&#39;s+Building%2C+University+Walk%2C+Bristol+BS8+1TR%2C+UK!5e0!3m2!1sen!2sus!4v1487239755481"
         width="600"
         height="450"
         frameborder="0"

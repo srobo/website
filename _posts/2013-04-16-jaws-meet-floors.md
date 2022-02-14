@@ -32,6 +32,7 @@ competition, but it won them the game and first place.
 
 <!-- Video of Final -->
 <iframe
+  title="Video of SR2013 Final"
   class="center video"
   src="https://www.youtube-nocookie.com/embed/5-vZzrVAVfs"
   frameborder="0"
@@ -41,6 +42,7 @@ competition, but it won them the game and first place.
 
 <!-- Video of Tie Breaker -->
 <iframe
+  title="Video of SR2013 Tie Breaker"
   class="center video"
   src="https://www.youtube-nocookie.com/embed/930Pe2IwOXY"
   frameborder="0"

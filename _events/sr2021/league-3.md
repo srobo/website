@@ -11,6 +11,7 @@ This is the third league round of this year's competition and we'll be able to s
 Teams will have to submit their code to us by 8pm GMT on Friday 19th using our [code submitter](https://studentrobotics.org/code-submitter/).
 
 <iframe
+  title="Livestream of the third League Session"
   width="100%"
   height="315"
   src="https://www.youtube.com/embed/MpuhtW4mCKM"

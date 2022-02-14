@@ -11,6 +11,7 @@ This is the second league round of this year's competition and we'll get to see 
 Teams will have to submit their code to us by 8pm GMT on Friday 5th using our [code submitter](https://studentrobotics.org/code-submitter/).
 
 <iframe
+  title="Livestream of the second League Session"
   width="100%"
   height="315"
   src="https://www.youtube.com/embed/RwW5Oz30gbE"

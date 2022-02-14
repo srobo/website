@@ -17,7 +17,7 @@ There's still time to [sign up][sign-up] if you haven't already!
 
 Our live-stream will start at 1pm GMT: [Watch live](https://www.youtube.com/watch?v=QdZSiUWU4Sk)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/QdZSiUWU4Sk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Livestream of the Kickstart Event" width="100%" height="315" src="https://www.youtube.com/embed/QdZSiUWU4Sk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Stay tuned for futher details!
 

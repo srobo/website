@@ -23,6 +23,6 @@ There's still time to [sign up][sign-up] if you have't already! Deadline for ent
 
 Our live-stream will start at 1pm GMT: [Watch live](https://www.youtube.com/watch?v=cQOgo0Gh4iA)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/cQOgo0Gh4iA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Livestream of the Kickstart event" width="100%" height="315" src="https://www.youtube.com/embed/cQOgo0Gh4iA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [sign-up]: {{ site.baseurl }}/compete/

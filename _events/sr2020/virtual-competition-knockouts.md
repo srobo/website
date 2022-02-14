@@ -12,4 +12,4 @@ Code submission will be due at 10am BST: [Submit your code](https://studentrobot
 
 Our live-stream will start at 3pm BST: [Watch live](https://youtu.be/xBPVqsb_Ydk)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/xBPVqsb_Ydk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Livestream of the Knockouts and Final" width="100%" height="315" src="https://www.youtube.com/embed/xBPVqsb_Ydk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

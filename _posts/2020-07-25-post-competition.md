@@ -45,6 +45,7 @@ second team's scoring zone, which took victory.
 
 <!-- Video of Finals & Tie breaker -->
 <iframe
+  title="Video of 2020 Final"
   class="center video"
   src="https://www.youtube-nocookie.com/embed/MAXpgODIqiI"
   frameborder="0"

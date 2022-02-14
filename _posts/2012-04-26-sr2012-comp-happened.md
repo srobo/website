@@ -25,6 +25,7 @@ Congratulations to all the competitors, whatever place achieved,
  we hope that you've all had fun & learnt something along the way.
 
 <iframe
+  title="Video of the SR2012 Final"
   class="center video"
   src="https://www.youtube-nocookie.com/embed/nzrsJhVAH7M"
   frameborder="0"
