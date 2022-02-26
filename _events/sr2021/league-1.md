@@ -10,7 +10,7 @@ This is the first league round of this year's competition and the first time we 
 
 Code submission will be due at 8am GMT: [Submit your code](https://studentrobotics.org/code-submitter/)
 
-Our live-stream will start at noon GMT: [Watch live](https://www.youtube.com/watch?v=cAvk-nfTUis)
+Our livestream will start at noon GMT: [Watch live](https://www.youtube.com/watch?v=cAvk-nfTUis)
 
 <iframe
   width="100%"
