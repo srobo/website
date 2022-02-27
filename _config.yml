@@ -93,9 +93,7 @@ exclude:
   - Rakefile
   - Gemfile
   - Gemfile.lock
-  - Dockerfile
   - circle.yml
-  - _env/
   - gems/
   - scripts/
   - .idea/

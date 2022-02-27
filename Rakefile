@@ -21,11 +21,11 @@ task :dev => [:dependencies, :submodules] do
   sh('bundle exec jekyll serve --drafts --config _config.yml,_dev.yml')
 end
 
-task :build_site => [:dependencies, :submodules] do
+task :build => [:dependencies, :submodules] do
   sh('bundle exec jekyll build --config _config.yml')
 end
 
-task :validate_site => [:build_site] do
+task :validate => [:build] do
   sh('bundle exec ruby scripts/validate-icalendar.rb')
 
   # Explanation of arguments:
@@ -36,24 +36,4 @@ task :validate_site => [:build_site] do
   # --url-ignore        # Allow mailto links without a target email, for our Share links. Works around https://github.com/gjtorikian/html-proofer/issues/552.
   #                     # Allow old event links which aren't easily updated.
   sh('bundle exec htmlproofer _site --disable-external --empty-alt-ignore --allow-hash-href --url-swap "^/website/:/" --url-ignore "/^mailto:?/,/^\/events\/sr201[23]/"')
-end
-
-task :build_docker do
-  sh('docker build --tag srobo/website .')
-end
-
-task :validate_nginx => [:build_docker] do
-  sh('docker run srobo/website nginx -t')
-end
-
-task :validate => [:validate_site, :validate_nginx]
-
-task :build => [:build_site, :build_docker]
-
-task :run => [:build_docker] do
-  sh('docker run --rm -p 80:80 -p 443:443 --name srobo srobo/website')
-end
-
-task :deploy do
-  sh('docker push srobo/website')
 end

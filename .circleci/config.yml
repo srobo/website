@@ -1,55 +1,25 @@
 version: 2
 
 jobs:
-  build_only:
-    docker: &docker-template
+  validate:
+    docker:
     - image: circleci/ruby:2.7
 
     steps:
       - checkout
-      - setup_remote_docker
 
       - run:
           name: Install gems
           # Changing this? Also change the README and the other use here (below)
           command: gem install bundler rake
-      - run: docker info
+
       - run: rake build
 
       - run: rake validate
-
-  build_and_release:
-    docker: *docker-template
-
-    steps:
-      - checkout
-      - setup_remote_docker
-
-      - run:
-          name: Install gems
-          # Changing this? Also change the README and the other use here (above)
-          command: gem install bundler rake
-      - run: docker info
-      - run: rake build
-
-      - run: rake validate
-
-      - run:
-          name: Push Docker image
-          command: |
-            docker login -u $DOCKER_USER -p $DOCKER_PASS
-            rake deploy
 
 
 workflows:
   version: 2
   workflow:
     jobs:
-      - build_only:
-          filters:
-            branches:
-              ignore: master
-      - build_and_release:
-          filters:
-            branches:
-              only: master
+      - validate
