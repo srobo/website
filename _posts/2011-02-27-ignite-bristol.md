@@ -8,6 +8,7 @@ experiences with Student Robotics teams in his
 _Sixth Formers & Power Tools_.  Enjoy:
 
 <iframe
+  title="Video of the Sixth Formers & Power Tools talk"
   class="center video"
   src="https://www.youtube-nocookie.com/embed/eU0DvjobiXw"
   frameborder="0"

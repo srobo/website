@@ -43,8 +43,11 @@
     <div class="column d-6-12 text-right">
       <ul class="social-media-links">
         {% for account in site.social %}
-        <li><a href="{{ account.link }}"><i class="fa fa-{{ account.icon }}" aria-hidden="true"
-              title="{{ account.title }}"></i></a></li>
+        <li>
+          <a aria-label="{{ account.title }}" href="{{ account.link }}">
+            <i class="fa fa-{{ account.icon }}" aria-hidden="true" title="{{ account.title }}"></i>
+          </a>
+        </li>
         {% endfor %}
       </ul>
     </div>

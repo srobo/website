@@ -11,6 +11,7 @@ This is the fourth league round of this year's competition and the last chance t
 Teams will have to submit their code to us by 8pm BST on Friday 23rd using our [code submitter](https://studentrobotics.org/code-submitter/).
 
 <iframe
+  title="Livestream of the fourth League Session"
   width="100%"
   height="315"
   src="https://www.youtube.com/embed/E9gF-GZbf5M"

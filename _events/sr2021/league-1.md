@@ -13,6 +13,7 @@ Code submission will be due at 8am GMT: [Submit your code](https://studentroboti
 Our livestream will start at noon GMT: [Watch live](https://www.youtube.com/watch?v=cAvk-nfTUis)
 
 <iframe
+  title="Livestream of the first League Session"
   width="100%"
   height="315"
   src="https://www.youtube.com/embed/cAvk-nfTUis"

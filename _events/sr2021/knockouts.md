@@ -11,6 +11,7 @@ The Student Robotics Competition marks the ultimate stage of SR2021, showcasing 
 Teams will have to submit their code to us by 8pm BST on Friday 30th April using our [code submitter](https://studentrobotics.org/code-submitter/).
 
 <iframe
+  title="Livestream of the Knockouts and Final"
   width="100%"
   height="315"
   src="https://www.youtube.com/embed/gxJM6ernMqo"
