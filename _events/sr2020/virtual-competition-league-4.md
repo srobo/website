@@ -10,6 +10,6 @@ The Student Robotics Competition marks the ultimate stage of SR2020, showcasing 
 
 Code submission will be due at 10am BST: [Submit your code](https://studentrobotics.org/code-submitter/)
 
-Our live-stream will start at 3pm BST: [Watch live](https://youtu.be/Y4h5P47j8jM)
+Our livestream will start at 3pm BST: [Watch live](https://youtu.be/Y4h5P47j8jM)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Y4h5P47j8jM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
