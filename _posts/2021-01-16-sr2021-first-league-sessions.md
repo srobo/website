@@ -3,7 +3,7 @@ title: SR2021 First League Session a Great Success!
 ---
 
 After the first 36 matches of the SR2021 Competition, team HRS3 from
-Hills Road Sixth Form College head up the initial league leaderboard with a
+Hills Road Sixth Form College head up the initial league leader board with a
 staggering 82 game points. They're closely followed by the other 3 Hills Road
 teams as well as one of our rookie teams We Robots.
 
@@ -16,8 +16,8 @@ At the end of the league we announced to teams the details of our
 [second game module](https://studentrobotics.org/docs/resources/2021/rulebook.html).
 This sees the territories, that teams must claim to gain points,
 have 'links' added between them. Coupled with a new restriction that prevents
-robots claiming territories unless they can form a chain back to thier starting
-zone, this makes for an intersting problem for teams to solve.
+robots claiming territories unless they can form a chain back to their starting
+zone, this makes for an interesting problem for teams to solve.
 
 The teams now have three weeks to work on and improve their code before another
 36 league matches are played over the course of next league schedule. Given this is
@@ -33,7 +33,7 @@ the SR2021 Competition.
 
 | Date              | Competition Stage                                                                     |
 |-------------------|---------------------------------------------------------------------------------------|
-| 6th Feburary 2021 | [League Session 2]({{ site.baseurl }}/events/sr2021/league-2/)                        |
+| 6th February 2021 | [League Session 2]({{ site.baseurl }}/events/sr2021/league-2/)                        |
 | 20th March 2021   | [League Session 3]({{ site.baseurl }}/events/sr2021/league-3/)                        |
 | 24th April 2021   | [League Session 4]({{ site.baseurl }}/events/sr2021/league-4/)                        |
 | 1st May 2021      | [Knockouts and Final]({{ site.baseurl }}/events/sr2021/knockouts/)                    |

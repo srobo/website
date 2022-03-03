@@ -14,7 +14,7 @@ The competition will be held from *Saturday 6th April* until *Sunday 7th April*.
 
 ### Day 1 - 6th April, 2019
 
-Saturday begins with a briefing on the rules and general struture of the weekend, followed by some time for teams to test their robots in the arena. Soon after, the league matches will start, in which your robot will compete against 3 other bots to rise up the league. These continue for the rest of the day.
+Saturday begins with a briefing on the rules and general structure of the weekend, followed by some time for teams to test their robots in the arena. Soon after, the league matches will start, in which your robot will compete against 3 other bots to rise up the league. These continue for the rest of the day.
 
 | Time  | Activity                         |
 |-------|----------------------------------|
