@@ -2,7 +2,7 @@
 title: London March Tech Day
 date: 2020-03-28 10:00:00 Europe/London
 layout: event
-type: techday
+type: tech-day
 location: n/a
 cancelled: true
 ---

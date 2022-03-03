@@ -2,7 +2,7 @@
 title: Southampton January Tech Day
 date: 2017-01-28 09:00:00 Europe/London
 layout: event
-type: techday
+type: tech-day
 location: Southampton University
 ---
 
@@ -31,5 +31,5 @@ The location of our tech days are on a different campus to that of Kickstart, pl
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-food-map]: https://goo.gl/yYlfs5
-[soton-directions]: {{ site.baseurl }}/resources/sr2017/southampton-techday-directions-boldrewood.pdf
+[soton-directions]: {{ site.baseurl }}/resources/sr2017/southampton-tech-day-directions-boldrewood.pdf
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#boldrewood

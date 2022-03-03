@@ -2,7 +2,7 @@
 title: Southampton February Tech Day
 date: 2019-02-09 10:00:00 Europe/London
 layout: event
-type: techday
+type: tech-day
 location: Southampton University
 ---
 
@@ -35,5 +35,5 @@ Once on campus, follow the signs to the Zepler or Mountbatten, buildings 59 or
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-food-map]: https://goo.gl/yYlfs5
-[soton-directions]: {{ site.baseurl }}/resources/sr2019/southampton-techday-directions-highfield-zepler.pdf
+[soton-directions]: {{ site.baseurl }}/resources/sr2019/southampton-tech-day-directions-highfield-zepler.pdf
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page

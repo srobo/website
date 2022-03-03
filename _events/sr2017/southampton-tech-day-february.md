@@ -2,7 +2,7 @@
 title: Southampton February Tech Day
 date: 2017-02-18 10:00:00 Europe/London
 layout: event
-type: techday
+type: tech-day
 location: Southampton University
 ---
 
@@ -34,5 +34,5 @@ This tech day will happen in building 25 at the University of Southampton Highfi
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-food-map]: https://goo.gl/yYlfs5
-[soton-directions]: {{ site.baseurl }}/resources/sr2017/southampton-techday-directions-highfield.pdf
+[soton-directions]: {{ site.baseurl }}/resources/sr2017/southampton-tech-day-directions-highfield.pdf
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#highfield

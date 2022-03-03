@@ -2,7 +2,7 @@
 title: March Virtual Tech Day
 date: 2022-03-05 10:00:00 Europe/London
 layout: event
-type: techday
+type: tech-day
 location: Discord
 ---
 

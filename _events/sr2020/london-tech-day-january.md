@@ -2,7 +2,7 @@
 title: London January Tech Day
 date: 2020-01-25 10:00:00 Europe/London
 layout: event
-type: techday
+type: tech-day
 location: Thread, Whitechapel
 cancelled: true
 ---
