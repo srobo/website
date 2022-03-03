@@ -3,6 +3,7 @@
 .jekyll-metadata
 gems
 _site
+node_modules
 
 # Libre Office lock files
 .~lock.*

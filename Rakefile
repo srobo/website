@@ -9,6 +9,7 @@ end
 task :dependencies do
   sh('bundle config set --local path "gems"')
   sh('bundle install')
+  sh('npm install')
 end
 
 file '_sass/brand/.git' do
@@ -27,6 +28,7 @@ end
 
 task :validate => [:build] do
   sh('bundle exec ruby scripts/validate-icalendar.rb')
+  sh('npm test')
 
   # Explanation of arguments:
   # --disable-external  # For speed. Ideally we'd check external links too, but ignoring for now.

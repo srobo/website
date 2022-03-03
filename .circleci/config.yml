@@ -3,7 +3,7 @@ version: 2
 jobs:
   validate:
     docker:
-    - image: circleci/ruby:2.7
+    - image: cimg/ruby:2.7-node
 
     steps:
       - checkout
