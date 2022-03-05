@@ -8,7 +8,10 @@ The Student Robotics public website.
 
 1. [Install Ruby 2.7][install-ruby]
 
-2. Install [Node.js and npm][install-node]
+2. (Optional) Install [Node.js and npm][install-node].
+
+    This allows spell checking to be run locally.
+    Node is not required for the website to be built.
 
 3. Install Bundler (1.x) and Rake
 
