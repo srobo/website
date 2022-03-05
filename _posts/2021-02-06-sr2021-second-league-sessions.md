@@ -4,7 +4,7 @@ title: SR2021 Teams Show Progress in Second League Session
 
 With another 36 matches of the SR2021 Competition, team HRS3 from Hills Road
 Sixth Form College head up the league leaderboard, though a number of other
-teams are hot on their heels. This weekend's matches saw great perfomances from
+teams are hot on their heels. This weekend's matches saw great performances from
 our teams, including three new teams which hadn't submitted a robot for the
 first league session.
 
@@ -22,11 +22,11 @@ territory they control at the end of the match. Additionally the territories
 will now become locked (and unclaimed) after they have been successfully claimed
 four times.
 
-This module of the game requries that the teams robots further increase their
+This module of the game requires that the teams robots further increase their
 awareness of their environment and how they react to it if they want to claim
 territories and also hold them for the duration of the match
 
-We're now at the half-way point in the league matches that will seed the evntual
+We're now at the half-way point in the league matches that will seed the eventual
 knockout stage, so teams still have everything to play for. The next league
 session will be in 6 weeks, on the 20th March.
 

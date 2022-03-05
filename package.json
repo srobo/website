@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "npm run spell-check",
+    "spell-check": "cspell \"**/*.html\" \"**/*.md\""
+  },
+  "@comments": [
+    "These dependencies are only for testing the site.",
+    "The site is built with Jekyll so site dependencies should be in the Gemfile."
+  ],
+  "dependencies": {
+    "cspell": "5.18.5"
+  }
+}

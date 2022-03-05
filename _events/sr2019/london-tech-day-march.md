@@ -2,7 +2,7 @@
 title: London March Tech Day
 date: 2019-03-09 10:00:00 Europe/London
 layout: event
-type: techday
+type: tech-day
 location: Thread, Whitechapel
 cancelled: true
 ---

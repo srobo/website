@@ -38,7 +38,7 @@ Results
 
 <a href="http://www.flickr.com/photos/amspanton/7084689111/in/set-72157629831940951">
 	<img src="https://farm8.staticflickr.com/7245/7084689111_a53c1c2fa7_n.jpg" alt="Competition prize-giving"
-	     title="Stephen English and Eric Cooke presenting the first place award inthe arena, CC BY-NC-SA Mrs A M Spanton" class="right" />
+	     title="Stephen English and Eric Cooke presenting the first place award in the arena, CC BY-NC-SA Mrs A M Spanton" class="right" />
 </a>
 
 

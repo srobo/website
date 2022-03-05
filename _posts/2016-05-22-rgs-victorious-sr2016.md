@@ -11,7 +11,7 @@ title: Student Robotics 2016 sees RGS Guildford take victory
 {% include figure.html
            class="right"
            url="https://www.flickr.com/photos/richardpbarlow/26193738243/in/album-72157667724883081/"
-           src="/images/content/blog/sr2016/rgs-prizegiving-thumbnail.jpg"
+           src="/images/content/blog/sr2016/rgs-prize-giving-thumbnail.jpg"
            caption="This year's winners, RGS Guildford, holding their trophy and their robot" %}
 
 'RGS Guildford' from [Royal Grammar School Guildford][RGS] took 1st place at

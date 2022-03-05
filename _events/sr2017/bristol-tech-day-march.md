@@ -2,7 +2,7 @@
 title: Bristol March Tech Day
 date: 2017-03-18 10:00:00 Europe/London
 layout: event
-type: techday
+type: tech-day
 location: Bristol University
 ---
 

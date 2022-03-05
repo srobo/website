@@ -6,7 +6,7 @@ description: We catch up with ex-competitor Becky Inkpen.
 ---
 _In this new blog series we’ll be catching up with some of Student Robotics ex-competitors to see what they are now up to and how competing in Student Robotics has helped them to get there._
 
-This week we’ll be catching up with Becky, who is now a PhD Student at Sussex Uni. Becky competed in SR2015 and SR2016 as a part of team CLY from Collyers Sixth Form College.
+This week we’ll be catching up with Becky, who is now a PhD Student at Sussex Uni. Becky competed in SR2015 and SR2016 as a part of team CLY from Collyer's Sixth Form College.
 
 {% include figure.html
            class="right"

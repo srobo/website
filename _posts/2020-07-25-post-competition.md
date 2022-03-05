@@ -56,7 +56,7 @@ second team's scoring zone, which took victory.
 
 While we weren't able to see them in person, we saw some brilliant robot designs
 and were continually impressed by the progress made throughout the year, both
-posted online and at the Tech Days. Even during the virtual competiton, it was
+posted online and at the Tech Days. Even during the virtual competition, it was
 great to see the robot code improving week to week. We hope you enjoyed the
 competition as much as we did!
 
@@ -93,7 +93,7 @@ the central pedestal to collect tokens from the far side.
 We also encourage teams to share their progress towards their robots throughout
 the year. Team MAI from Gymnasium Markt Indersdorf earned the Online Presence
 Award for their ongoing blog posting during both the lead-up to the physical
-competition and after lockdown began as well as for their activy on the forums.
+competition and after lockdown began as well as for their activity on the forums.
 
 For full details on all the awards, please see the [rulebook][rulebook].
 
@@ -117,7 +117,7 @@ Thanks
 
 Of course, this competition would not be possible without the tireless work of
 our volunteers, who developed the [simulated world][simulator] the competition
-was run in and enabled us to switch to a virtual competiton. If you'd like to
+was run in and enabled us to switch to a virtual competition. If you'd like to
 get involved in organising future competitions, from developing the software and
 hardware used by the teams to the events themselves we're always looking for
 people to [join our team][volunteers].

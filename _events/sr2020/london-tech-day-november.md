@@ -2,7 +2,7 @@
 title: London November Tech Day
 date: 2019-11-30 10:00:00 Europe/London
 layout: event
-type: techday
+type: tech-day
 location: Thread, Whitechapel
 cancelled: true
 ---

@@ -8,13 +8,18 @@ The Student Robotics public website.
 
 1. [Install Ruby 2.7][install-ruby]
 
-2. Install Bundler (1.x) and Rake
+2. (Optional) Install [Node.js and npm][install-node].
+
+    This allows spell checking to be run locally.
+    Node is not required for the website to be built.
+
+3. Install Bundler (1.x) and Rake
 
     ```
     $ gem install bundler rake
     ```
 
-3. Start the app in development mode
+4. Start the app in development mode
 
     ```shell
     $ rake dev
@@ -28,5 +33,6 @@ feature branch, and [raise a pull request][raise-a-pr].
 [build-badge]: https://circleci.com/gh/srobo/website/tree/master.png?style=shield
 [build-page]: https://circleci.com/gh/srobo/website/tree/master
 [install-ruby]: https://www.ruby-lang.org/en/documentation/installation/
+[install-node]: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 [raise-a-pr]: https://github.com/srobo/website/pull/new/gh-pages
 [circle-ci]: https://circleci.com/gh/srobo/website

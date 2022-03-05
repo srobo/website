@@ -18,7 +18,7 @@ see the robots compete through a league stage and a seeded knockout. As usual,
 the prizes will recognise not only the teams which come top in the knockouts,
 but also those who excel in other ways.
 
-In addition to the main competiton we will be running monthly league sessions
+In addition to the main competition we will be running monthly league sessions
 (starting in January) which will seed your position in the final knockout.
 
 Details of the game and prizes will be revealed at Kickstart. Details of the

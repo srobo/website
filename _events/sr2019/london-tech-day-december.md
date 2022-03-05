@@ -2,7 +2,7 @@
 title: London December Tech Day
 date: 2018-12-15 10:00:00 Europe/London
 layout: event
-type: techday
+type: tech-day
 location: Thread, Whitechapel
 cancelled: true
 ---
