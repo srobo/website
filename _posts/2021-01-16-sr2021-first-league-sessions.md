@@ -3,7 +3,7 @@ title: SR2021 First League Session a Great Success!
 ---
 
 After the first 36 matches of the SR2021 Competition, team HRS3 from
-Hills Road Sixth Form College head up the initial league leader board with a
+Hills Road Sixth Form College head up the initial league leaderboard with a
 staggering 82 game points. They're closely followed by the other 3 Hills Road
 teams as well as one of our rookie teams We Robots.
 
