@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "test": "cspell \"**/*.html\" \"**/*.md\""
+    "test": "npm run spell-check",
+    "spell-check": "cspell \"**/*.html\" \"**/*.md\""
   },
   "dependencies": {
     "cspell": "5.18.5"

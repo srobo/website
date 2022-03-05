@@ -9,6 +9,9 @@ end
 task :dependencies do
   sh('bundle config set --local path "gems"')
   sh('bundle install')
+end
+
+task :spelling_dependencies do
   sh('npm install')
 end
 
@@ -26,9 +29,10 @@ task :build => [:dependencies, :submodules] do
   sh('bundle exec jekyll build --config _config.yml')
 end
 
-task :validate => [:build] do
+task :build_spellings => [:build, :spelling_dependencies]
+
+task :validate_build => [:build] do
   sh('bundle exec ruby scripts/validate-icalendar.rb')
-  sh('npm test')
 
   # Explanation of arguments:
   # --disable-external  # For speed. Ideally we'd check external links too, but ignoring for now.
@@ -39,3 +43,9 @@ task :validate => [:build] do
   #                     # Allow old event links which aren't easily updated.
   sh('bundle exec htmlproofer _site --disable-external --empty-alt-ignore --allow-hash-href --url-swap "^/website/:/" --url-ignore "/^mailto:?/,/^\/events\/sr201[23]/"')
 end
+
+task :validate_spellings => [:build_spellings] do
+  sh('npm run spell-check')
+end
+
+task :validate => [:validate_build, :validate_spellings]
