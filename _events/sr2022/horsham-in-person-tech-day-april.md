@@ -34,9 +34,9 @@ RH13 5PX
 | Time | Event |
 |------|-------|
 | 10:00 | Mentoring from volunteers - working on your robot with a skilled selection of volunteers on hand to mentor. We'll be around to answer questions about the competition, give kit support, and assist with strategy ideas.
-| 13:00 | Lunch
-| 13:30 | More mentoring
-| ~15:00 | Close
+| 12:30 | Lunch
+| 13:00 | More mentoring
+| 14:45 | Close
 
 ## Food
 
