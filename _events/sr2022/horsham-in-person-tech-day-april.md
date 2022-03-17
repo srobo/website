@@ -1,5 +1,5 @@
 ---
-title: April In Person Tech Day
+title: April In-Person Tech Day
 date: 2022-04-02 10:00:00 Europe/London
 layout: event
 type: tech-day
