@@ -19,7 +19,7 @@ Friday 25th March 2022 if you'd like to attend. We'll confirm up to 5 spaces per
 team (including supervisor) as soon as we can and may be able to offer more
 spaces after the deadline.
 
-At the request of the venue, power tools may not be used at this Tech Day.
+At the request of the venue, power tools and paint may not be used at this Tech Day.
 
 ## Location
 
