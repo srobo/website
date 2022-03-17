@@ -38,6 +38,11 @@ RH13 5PX
 | 13:00 | More mentoring
 | 14:45 | Close
 
+## COVID-19
+
+We are in the process of reviewing our COVID guidelines for the events and will
+update this page when we have more information.
+
 ## Food
 
 There is a Tesco Express and a Lidl nearby where you can get food.
