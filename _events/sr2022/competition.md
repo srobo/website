@@ -31,9 +31,16 @@ We have a limited amount of free parking on site for competitors.
 
 ![parking information]({{ '/resources/sr2022/parking-map.png' | prepend: site.baseurl }})
 
+## Media Consent
+
+Before gaining access to the venue, everyone will need to sign a [media consent][mcf-link]). Please put "Student Robotics 2019" as the event name. Those under the age of 16 will need to get a parent or guardian to sign on their behalf.
+
+Please bring the signed form with you to get through reception faster. Media consent forms will also be available at reception.
+
 ## COVID-19
 
 Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) page.
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
+[mcf-link]: {{ '/resources/sr2022/media-consent.pdf' | prepend: site.baseurl }}
