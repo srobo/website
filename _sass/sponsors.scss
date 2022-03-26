@@ -103,4 +103,9 @@ ul.sponsor-list {
   justify-content: center;
   flex-flow: wrap;
   row-gap: 0.5rem;
+
+  div {
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+  }
 }
