@@ -86,6 +86,15 @@ sponsors:
     link: https://www.itdev.co.uk/
     image: /images/sponsors/itdev.png
 
+  - name: Institution of Engineering and Technology 
+    link: https://www.theiet.org/
+    image: /images/sponsors/iet.png
+
+  - name: Institution of Mechanical Engineers
+    link: https://www.imeche.org/
+    image: /images/sponsors/imeche.png
+
+
 user_tracking: true
 
 exclude:
