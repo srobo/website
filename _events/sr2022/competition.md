@@ -37,3 +37,29 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
+
+## Livestream
+
+### Day 1
+
+<iframe
+  title="SR2022 Competition Day 1"
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/7HNG2bqwXlo"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
+
+### Day 2
+
+<iframe
+  title="SR2022 Competition Day 2"
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/M3stcLPbHOU"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
