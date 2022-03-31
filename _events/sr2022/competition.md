@@ -38,6 +38,8 @@ Time | Activity
 16:45 | Kit Return
 17:00 | End of Day
 
+On day 2, the Southampton Marathon will be running. For parking, please approach the campus from the west, and arrive as prompt as possible. We also strongly recommend bringing a lunch, as it will be difficult to get to the local shops.
+
 ## Location
 
 The competition will be held in the Students' Union building at the [University of Southampton's Highfield campus][soton-campus-directions]:
