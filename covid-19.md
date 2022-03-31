@@ -11,7 +11,7 @@ Last updated: {{ page.date | date: "%e %B %Y" }}.
 1. If you are experiencing symptoms of COVID-19, or have tested positive for COVID-19 in the 7 days beforehand (or live with someone who has) please do not attend.
 2. If you are able, please wear a mask when not in your team pit.
 3. Please clean your hands regularly, using hand sanitizer or soap.
-4. Be respectful towards others personal space.
+4. Be respectful towards others' personal space.
 
 ## The Competition - SR2022
 
