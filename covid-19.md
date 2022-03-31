@@ -1,12 +1,16 @@
 ---
 layout: blog
 title: COVID-19 Updates
-date: 2021-12-08
+date: 2022-03-31
 ---
 
 We will keep this page updated with new information as it becomes available.
 
 Last updated: {{ page.date | date: "%e %B %Y" }}.
+
+1. Anyone who is experiencing symptoms of COVID-19, or has tested positive for COVID-19 in the 7 days beforehand (or lives with someone who has) must not attend.
+2. If you are able, please wear a mask when not in your team pit.
+3. Please clean your hands regularly, using hand sanitizer or soap.
 
 ## The Competition - SR2022
 
