@@ -10,7 +10,7 @@ The Student Robotics Competition marks the ultimate stage of SR2022, showcasing 
 
 ## Schedule
 
-The competition will be held from *Saturday 23rd April* until *Sunday 24th April*. Doors open 9am and we aim to finish around 6pm.
+The competition will be held from *Saturday 23rd April* until *Sunday 24th April*. Doors open 9am and we aim to finish around 5pm.
 
 ### Day 1 - 23rd April, 2022
 
