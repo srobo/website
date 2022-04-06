@@ -10,7 +10,37 @@ The Student Robotics Competition marks the ultimate stage of SR2022, showcasing 
 
 ## Schedule
 
-The competition will be held from *Saturday 23rd April* until *Sunday 24th April*. Doors open 9am and we aim to finish around 6pm.
+The competition will be held from *Saturday 23rd April* until *Sunday 24th April*. Doors open 9am and we aim to finish around 5pm.
+
+### Day 1 - 23rd April, 2022
+
+Time | Activity
+--- | ---
+9:00 | Doors Open
+9:30 | Welcome Talk
+9:40 | Tinker Time
+11:30 | League Matches
+12:30 | Lunch and Tinker Time
+13:30 | League Matches
+17:00 | End of Day
+
+### Day 2 - 24th April, 2022
+
+Time | Activity
+--- | ---
+9:00 | Doors Open
+9:30 | Tinker Time
+11:00 | League Matches
+12:30 | Lunch and Tinker Time
+13:30 | Competition Photo
+14:00 | Knockouts
+16:20 | Prize Ceremony
+16:45 | Kit Return
+17:00 | End of Day
+
+A marathon event is being held in Southampton. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on this page to see up-to-date information on how to reach the competition.
+
+Please note that this also means that access to food sellers may also be restricted, so please plan accordingly.
 
 ## Media Consent
 
