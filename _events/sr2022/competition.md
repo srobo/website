@@ -33,7 +33,7 @@ We have a limited amount of free parking on site for competitors.
 
 ## Media Consent
 
-Before gaining access to the venue, everyone will need to sign a [media consent][mcf-link]). Please put "Student Robotics 2019" as the event name. Those under the age of 16 will need to get a parent or guardian to sign on their behalf.
+Before gaining access to the venue, everyone will need to sign a [media consent form][mcf-link]. Those under the age of 16 will need to get a parent or guardian to sign on their behalf.
 
 Please bring the signed form with you to get through reception faster. Media consent forms will also be available at reception.
 
