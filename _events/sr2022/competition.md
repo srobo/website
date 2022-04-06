@@ -38,7 +38,7 @@ Time | Activity
 16:45 | Kit Return
 17:00 | End of Day
 
-On day 2, the Southampton Marathon will be running. For parking, please approach the campus from the west, and arrive as prompt as possible. We also strongly recommend bringing a lunch, as it will be difficult to get to the local shops.
+On day 2, a marathon event is being held in Southampton. For parking, please approach the campus from the west, and arrive as prompt as possible. We also strongly recommend bringing a lunch, as it will be difficult to get to the local shops.
 
 ## Location
 
