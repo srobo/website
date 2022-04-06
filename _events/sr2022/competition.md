@@ -28,7 +28,7 @@ Time | Activity
 
 Time | Activity
 --- | ---
-8:45 | Doors Open
+9:00 | Doors Open
 9:30 | Tinker Time
 11:00 | League Matches
 12:30 | Lunch and Tinker Time
