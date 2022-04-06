@@ -71,10 +71,6 @@ We have a limited amount of free parking on site for competitors.
 
 Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) page.
 
-[teams-contact]: mailto:teams@studentrobotics.org
-[soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
-[mcf-link]: {{ '/resources/sr2022/media-consent.pdf' | prepend: site.baseurl }}
-
 ## Livestream
 
 ### Day 1
@@ -100,3 +96,7 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
+
+[teams-contact]: mailto:teams@studentrobotics.org
+[soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
+[mcf-link]: {{ '/resources/sr2022/media-consent.pdf' | prepend: site.baseurl }}
