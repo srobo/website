@@ -38,7 +38,7 @@ Time | Activity
 16:45 | Kit Return
 17:00 | End of Day
 
-### Southampton Marathon
+### Marathon
 
 A marathon event is being held in Southampton. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on this page to see up-to-date information on how to reach the competition.
 
