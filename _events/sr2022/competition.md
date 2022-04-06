@@ -38,7 +38,9 @@ Time | Activity
 16:45 | Kit Return
 17:00 | End of Day
 
-On day 2, a marathon event is being held in Southampton. For parking, please approach the campus from the west, and arrive as prompt as possible. We also strongly recommend bringing a lunch, as it will be difficult to get to the local shops.
+A marathon event is being held in Southampton. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on this page to see up-to-date information on how to reach the competition.
+
+Please note that this also means that access to food sellers may also be restricted, so please plan accordingly.
 
 ## Media Consent
 
