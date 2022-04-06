@@ -12,6 +12,12 @@ The Student Robotics Competition marks the ultimate stage of SR2022, showcasing 
 
 The competition will be held from *Saturday 23rd April* until *Sunday 24th April*. Doors open 9am and we aim to finish around 6pm.
 
+## Media Consent
+
+Before gaining access to the venue, everyone will need to sign a [media consent form][mcf-link]. Those under the age of 16 will need to get a parent or guardian to sign on their behalf.
+
+Please bring the signed form with you to get through reception faster. Media consent forms will also be available at reception.
+
 ## Location
 
 The competition will be held in the Students' Union building at the [University of Southampton's Highfield campus][soton-campus-directions]:
@@ -30,12 +36,6 @@ United Kingdom<br>
 We have a limited amount of free parking on site for competitors.
 
 ![parking information]({{ '/resources/sr2022/parking-map.png' | prepend: site.baseurl }})
-
-## Media Consent
-
-Before gaining access to the venue, everyone will need to sign a [media consent form][mcf-link]. Those under the age of 16 will need to get a parent or guardian to sign on their behalf.
-
-Please bring the signed form with you to get through reception faster. Media consent forms will also be available at reception.
 
 ## COVID-19
 
