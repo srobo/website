@@ -195,9 +195,9 @@ layout: home
       <div class="column">
         <div class="row sponsor-row">
           {% for sponsor in site.sponsors %}
-          <div class="column m-4-12">
+          <div class="column m-4-12 sponsor-logo">
             <a href="{{ sponsor.link }}">
-              <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}" />
+              <img src="{{ sponsor.image | prepend: site.baseurl }}" alt="{{ sponsor.name }}" style="width: {{ sponsor.logo_width }}" />
             </a>
           </div>
           {% endfor %}

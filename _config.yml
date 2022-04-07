@@ -69,22 +69,38 @@ sponsors:
   - name: University of Southampton
     link: //www.southampton.ac.uk/
     image: /images/sponsors/university-of-southampton.svg
+    logo_width: default
 
   - name: Adventurous Machines
     link: https://adventurousmachines.com/?ref=studentrobotics
     image: /images/sponsors/adventurous-machines.svg
+    logo_width: default
 
   - name: Mythic Beasts
     link: https://www.mythic-beasts.com/
     image: /images/sponsors/mythic-beasts.svg
+    logo_width: default
 
   - name: Systemetric - Hills Road Robotics
     link: https://systemetric.hr-robocon.org/
     image: /images/sponsors/systemetric-hills-road.svg
+    logo_width: default
 
   - name: ITDev
     link: https://www.itdev.co.uk/
     image: /images/sponsors/itdev.png
+    logo_width: 200px
+
+  - name: Institution of Engineering and Technology
+    link: https://www.theiet.org/
+    image: /images/sponsors/iet.png
+    logo_width: default
+
+  - name: Institution of Mechanical Engineers
+    link: https://www.imeche.org/
+    image: /images/sponsors/imeche.png
+    logo_width: default
+
 
 user_tracking: true
 
