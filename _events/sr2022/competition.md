@@ -1,6 +1,7 @@
 ---
 title: Competition
 date: 2022-04-23 09:00:00 Europe/London
+end_date: 2022-04-24 17:00:00 Europe/London
 layout: event
 type: competition
 location: Southampton University
