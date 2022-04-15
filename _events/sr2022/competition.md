@@ -19,7 +19,7 @@ Time | Activity
 9:00 | Doors Open
 9:30 | Welcome Talk
 9:40 | Tinker Time
-11:30 | League Matches
+11:30 | League Matches ([schedule][league-schedule])
 12:30 | Lunch and Tinker Time
 13:30 | League Matches
 17:00 | End of Day
@@ -33,7 +33,7 @@ Time | Activity
 11:00 | League Matches
 12:30 | Lunch and Tinker Time
 13:30 | Competition Photo
-14:00 | Knockouts
+14:00 | Knockouts ([matches][knockouts-schedule])
 16:20 | Prize Ceremony
 16:45 | Kit Return
 17:00 | End of Day
@@ -99,6 +99,8 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
   allowfullscreen
 ></iframe>
 
+[league-schedule]: https://studentrobotics.org/comp/schedule
+[knockouts-schedule]: https://studentrobotics.org/comp/knockout
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
 [mcf-link]: {{ '/resources/sr2022/media-consent.pdf' | prepend: site.baseurl }}
