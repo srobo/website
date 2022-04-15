@@ -1,6 +1,7 @@
 ---
 title: April In-Person Tech Day
 date: 2022-04-02 10:00:00 Europe/London
+end_date: 2022-04-02 15:00:00 Europe/London
 layout: event
 type: tech-day
 location: <a href="https://www.google.co.uk/maps/place/Metricell+Limited/@51.0722759,-0.3165972,17z/data=!3m1!4b1!4m5!3m4!1s0x4875ea527109425b:0xd6eab9172197b909!8m2!3d51.0722547!4d-0.3142888">Metricell, Horsham</a>
