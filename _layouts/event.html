@@ -17,7 +17,7 @@ layout: page
             {# Changing the format here? Also change the event page and the localise_times function #}
             {% endcomment %}
             {% assign date_only_format = '%e %B %Y <small class="muted">(time <abbr title="To be confirmed">TBC</abbr>)</small>' %}
-            {% include datetime.html date_only_format=date_only_format datetime_format='%e %B %Y at %l%P' event=page %}
+            {% include datetime.html date_only_format=date_only_format datetime_format='%e %B %Y at %l%P' time_only_format = '%l%P' event=page %}
           </li>
           <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ page.location }}</li>
         </ul>

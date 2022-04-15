@@ -33,7 +33,7 @@ permalink: /events/
               {% comment %}
               {# Changing the format here? Also change the event page and the localise_times function #}
               {% endcomment %}
-              {% include datetime.html date_only_format='%e %B %Y' datetime_format='%e %B %Y at %l%P' event=event %}
+              {% include datetime.html date_only_format='%e %B %Y' datetime_format='%e %B %Y at %l%P' time_only_format = '%l%P' event=event %}
             </div>
             <div class="column d-12-12 l-4-12">{{ event.location }}</div>
           </li>

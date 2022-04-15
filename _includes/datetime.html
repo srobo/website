@@ -30,14 +30,24 @@
     {{ include.event.date | date:include.datetime_format }}
   </time>
   {% if include.event.end_date %}
+    {% assign start_date = include.event.date | date:'%F' %}
+    {% assign end_date = include.event.end_date | date:'%F' %}
+    {% if start_date == end_date %}
+      {% assign end_date_format = include.time_only_format %}
+      {% assign time_only = 'data-time-only' %}
+    {% else %}
+      {% assign end_date_format = include.datetime_format %}
+    {% endif %}
+
     &mdash;
     <time
       {{ cancelled }}
+      {{ time_only }}
       class="time-span"
       datetime="{{ include.event.end_date | date_to_xmlschema }}"
       title="{{ include.event.end_date | date_to_rfc822 }}"
     >
-      {{ include.event.end_date | date:include.datetime_format }}
+      {{ include.event.end_date | date:end_date_format }}
     </time>
   {% endif %}
 {% endif %}
