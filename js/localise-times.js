@@ -44,7 +44,7 @@ function localise_times(site_timezone) {
           if (parts[index + 1].type == 'hour' && value == ", ") {
             value = " at ";
           }
-          if (parts[index + 1].type == 'dayPeriod' && value == " ") {
+          if (parts[index + 1].type == 'dayPeriod' && value == " " && !parts[index + 1].value.includes(" ")) {
             value = "";
           }
         }
