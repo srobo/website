@@ -8,7 +8,8 @@ METHOD:PUBLISH
 {% for event in sorted %}BEGIN:VEVENT
 UID:{{ event.url | prepend: site.baseurl | prepend: site.url }}
 DTSTART;TZID={{ site.timezone }}{% if event.time_tbc %};VALUE=DATE:{{ event.date | date: "%Y%m%d" }}{% else %}:{{ event.date | date: "%Y%m%dT%H%M%S" }}{% endif %}
-DTSTAMP{% if event.time_tbc %};VALUE=DATE:{{ event.date | date: "%Y%m%d" }}{% else %}:{{ event.date | date: "%Y%m%dT%H%M%S" }}{% endif %}
+{% if event.end_date %}DTEND;TZID={{ site.timezone }}{% if event.time_tbc %};VALUE=DATE:{{ event.end_date | date: "%Y%m%d" }}{% else %}:{{ event.end_date | date: "%Y%m%dT%H%M%S" }}{% endif %}{% endif %}
+DTSTAMP:{{ event.date | date: "%Y%m%dT%H%M%S" }}
 CLASS:PUBLIC
 DESCRIPTION:See
   {{ event.url | prepend: site.baseurl | prepend: site.url }}

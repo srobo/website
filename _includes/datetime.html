@@ -9,6 +9,16 @@
   >
     {{ include.event.date | date:include.date_only_format }}
   </time>
+  {% if include.event.end_date %}
+    &mdash;
+    <time
+      {{ cancelled }}
+      datetime="{{ include.event.end_date | date:'%F' }}"
+      title="{{ include.event.end_date | date:'%a, %d %b %Y' }}"
+    >
+      {{ include.event.end_date | date:include.date_only_format }}
+    </time>
+  {% endif %}
 {% else %}
   <time
     {{ cancelled }}
@@ -18,4 +28,25 @@
   >
     {{ include.event.date | date:include.datetime_format }}
   </time>
+  {% if include.event.end_date %}
+    {% assign start_date = include.event.date | date:'%F' %}
+    {% assign end_date = include.event.end_date | date:'%F' %}
+    {% if start_date == end_date %}
+      {% assign end_date_format = include.time_only_format %}
+      {% assign time_only = 'data-time-only' %}
+    {% else %}
+      {% assign end_date_format = include.datetime_format %}
+    {% endif %}
+
+    &mdash;
+    <time
+      {{ cancelled }}
+      {{ time_only }}
+      class="time-span"
+      datetime="{{ include.event.end_date | date_to_xmlschema }}"
+      title="{{ include.event.end_date | date_to_rfc822 }}"
+    >
+      {{ include.event.end_date | date:end_date_format }}
+    </time>
+  {% endif %}
 {% endif %}
