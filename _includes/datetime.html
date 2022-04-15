@@ -1,5 +1,7 @@
 {% if include.event.cancelled %}
   {% assign cancelled = 'style="text-decoration: line-through;"' %}
+{% else %}
+  {% assign cancelled = '' %}
 {% endif %}
 {% if include.event.time_tbc %}
   <time
@@ -36,6 +38,7 @@
       {% assign time_only = 'data-time-only' %}
     {% else %}
       {% assign end_date_format = include.datetime_format %}
+      {% assign time_only = '' %}
     {% endif %}
 
     &mdash;
