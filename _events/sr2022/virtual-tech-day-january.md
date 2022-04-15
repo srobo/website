@@ -1,6 +1,7 @@
 ---
 title: January Virtual Tech Day
 date: 2022-01-22 10:00:00 Europe/London
+end_date: 2022-01-22 15:00:00 Europe/London
 layout: event
 type: tech-day
 location: Discord
