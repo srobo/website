@@ -51,7 +51,7 @@ Before gaining access to the venue, everyone will need to sign a [media consent 
 
 Please bring the signed form with you to get through reception faster. Media consent forms will also be available at reception.
 
-## Location
+## Venue
 
 The competition will be held in the Students' Union building at the [University of Southampton's Highfield campus][soton-campus-directions]:
 
@@ -69,6 +69,12 @@ United Kingdom<br>
 We have a limited amount of free parking on site for competitors.
 
 ![parking information]({{ '/resources/sr2022/parking-map.png' | prepend: site.baseurl }})
+
+### Layout
+
+![venue map]({{ '/resources/sr2022/venue-map.png' | prepend: site.baseurl }})
+
+You can also download a PDF of the [venue map][venue-map].
 
 ## COVID-19
 
@@ -103,3 +109,4 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
 [mcf-link]: {{ '/resources/sr2022/media-consent.pdf' | prepend: site.baseurl }}
+[venue-map]: {{ '/resources/sr2022/venue-map.pdf' | prepend: site.baseurl }}
