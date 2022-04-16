@@ -15,4 +15,3 @@ We have published a [risk assessment for the SR2022 Competition]({{ '/resources/
 If you have any questions please contact us at [{{ site.emails.teams }}][teams-email].
 
 [teams-email]: mailto:{{ site.emails.teams }}
-
