@@ -9,7 +9,8 @@ Last updated: {{ page.date | date: "%e %B %Y" }}.
 ## SR2022
 
 ### Competition
-The risk assessment for the SR2022 Competition can be found [here]({{ 'resources/sr2022/risk-assessments/competition.pdf' | prepend: site.baseurl }}).
+
+We have published a [risk assessment for the SR2022 Competition]({{ '/resources/sr2022/risk-assessments/competition.pdf' | prepend: site.baseurl }}).
 
 If you have any questions please contact us at [{{ site.emails.teams }}][teams-email].
 
