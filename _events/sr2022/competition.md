@@ -34,7 +34,8 @@ Time | Activity
 11:00 | League Matches
 12:30 | Lunch and Tinker Time
 13:30 | Competition Photo
-14:00 | Knockouts ([matches][knockouts-schedule])
+14:00 | League Matches
+14:45 | Knockouts ([matches][knockouts-schedule])
 16:20 | Prize Ceremony
 16:45 | Kit Return
 17:00 | End of Day
