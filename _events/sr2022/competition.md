@@ -100,6 +100,11 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
   allowfullscreen
 ></iframe>
 
+## Soundtrack
+
+- [Epic Playlist](https://open.spotify.com/playlist/5c4B31MOxg1PBnQLx2AJ3W?si=6a17b7e5cf064afc)
+- [_Chill_ Playlist](https://open.spotify.com/playlist/27M4u1Jbt8WQfBYigMTWhX?si=fe8fd7f88d3f4ecd)
+
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
 [mcf-link]: {{ '/resources/sr2022/media-consent.pdf' | prepend: site.baseurl }}
