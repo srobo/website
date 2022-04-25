@@ -1,6 +1,7 @@
 ---
 title: December Virtual Tech Day
 date: 2021-12-04 10:00:00 Europe/London
+end_date: 2021-12-04 15:00:00 Europe/London
 layout: event
 type: tech-day
 location: Discord
