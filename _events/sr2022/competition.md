@@ -109,8 +109,8 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
 
 ## Soundtrack
 
-- [Epic Playlist](https://open.spotify.com/playlist/5c4B31MOxg1PBnQLx2AJ3W?si=6a17b7e5cf064afc)
-- [_Chill_ Playlist](https://open.spotify.com/playlist/27M4u1Jbt8WQfBYigMTWhX?si=fe8fd7f88d3f4ecd)
+- [Epic Playlist](https://open.spotify.com/playlist/5c4B31MOxg1PBnQLx2AJ3W)
+- [_Chill_ Playlist](https://open.spotify.com/playlist/27M4u1Jbt8WQfBYigMTWhX)
 
 
 [league-schedule]: https://studentrobotics.org/comp/schedule
