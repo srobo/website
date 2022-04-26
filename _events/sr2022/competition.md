@@ -107,6 +107,12 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
   allowfullscreen
 ></iframe>
 
+## Soundtrack
+
+- [Epic Playlist](https://open.spotify.com/playlist/5c4B31MOxg1PBnQLx2AJ3W)
+- [_Chill_ Playlist](https://open.spotify.com/playlist/27M4u1Jbt8WQfBYigMTWhX)
+
+
 [league-schedule]: https://studentrobotics.org/comp/schedule
 [knockouts-schedule]: https://studentrobotics.org/comp/knockout
 [teams-contact]: mailto:teams@studentrobotics.org
