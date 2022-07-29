@@ -5,7 +5,7 @@ description: We catch up with ex-competitor Matt Arnold.
 
 This week we’ll be catching up with Matt, a Computer Science teacher at Barton Peveril College. Matt competed in SR2014 as a part of team BPV from Barton Peveril College. He went on to study Computer Science at Cambridge University before returning to Barton Peveril as a teacher.
 
-#### How did you first get involved in (competing with) Student Robotics?
+#### How did you first get involved with Student Robotics?
 
 I signed up for my sixth form college's robotics club. I worked more on the programming of the robot and remember completely re-writing the code twice during the competition itself!
 
