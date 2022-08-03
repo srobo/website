@@ -101,6 +101,11 @@ sponsors:
     image: /images/sponsors/imeche.png
     logo_width: default
 
+  - name: Bittele
+    link: https://7pcb.com/
+    image: /images/sponsors/bittele.svg
+    logo_width: default
+
 
 user_tracking: true
 
