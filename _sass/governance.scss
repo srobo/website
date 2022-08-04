@@ -1,0 +1,17 @@
+.trustee {
+  &-row {
+    &:nth-of-type(even) {
+      flex-direction: row-reverse;
+    }
+    margin-bottom: 0.5rem;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &-avatar {
+    border-radius: 50%;
+    width: 15rem;
+    margin-bottom: 0.5rem;
+  }
+}
