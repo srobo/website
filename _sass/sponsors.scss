@@ -109,7 +109,8 @@ ul.sponsor-list {
   }
 }
 
-.sponsor-logo {
+// not just 'sponsor-logo' to avoid ad blockers hiding them.
+.charity-sponsor-logo {
   display: flex;
   align-items: center;
   justify-content: center;
