@@ -33,7 +33,7 @@ plugins:
   - jekyll-paginate
 
 links:
-  donate: //link.justgiving.com/v1/charity/donate/charityId/3118662?tipScheme=TipJar2.1&isRecurring=true&amount=20.00&reference=givingcheckout_tj21
+  donate: https://checkout.justgiving.com/yb7fi9snns
 
 timezone: Europe/London
 
