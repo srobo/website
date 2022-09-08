@@ -38,7 +38,7 @@ Places are limited, so sign up soon to avoid disappointment.
 We look forward to seeing your teams!
 
 <div class="text-center">
-<a class="button button-primary" href="/compete#signup">
+<a class="button button-primary" href="{{site.baseurl}}/compete#signup">
 Register your interest
 </a>
 </div>
