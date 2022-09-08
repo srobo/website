@@ -2,8 +2,18 @@
 title: Registration opens for Student Robotics 2023
 ---
 
+{% include figure.html src="/images/content/blog/sr2022/sr2022-photo.jpg"
+           caption="All the teams from SR2022" %}
+
 We're excited to announce that registration for the 2023 season of Student
 Robotics is now open!
+
+Based in the UK, Student Robotics challenges teams of 16 to 19 year-olds to
+design, build and program fully autonomous robots to compete in our annual
+competition. Teams will have just six months to engineer their creations. As
+well as supplying teams with a kit, which they can use as a framework for their
+robot, we mentor the teams over this period. Thanks to the generosity of our
+sponsors, we provide all of this to our teams at no cost.
 
 The competition cycle will start with in-person [kickstart events][kickstart] at
 locations near teams. During the event the game and the structure of the
@@ -26,6 +36,12 @@ please fill in the [entry form][entry-form] with the required information.
 Places are limited, so sign up soon to avoid disappointment.
 
 We look forward to seeing your teams!
+
+<div class="text-center">
+<a class="button button-primary" href="{{site.baseurl}}/compete#signup">
+Register your interest
+</a>
+</div>
 
 [kickstart]: {{ '/events/sr2023/kickstart' | prepend: site.baseurl }}
 [compete]: {{ '/compete' | prepend: site.baseurl }}
