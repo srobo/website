@@ -12,14 +12,14 @@ layout: page
       <div class="card thin-card">
         <ul class="detail-list">
           <li class="event-date">
-            <i class="fa fa-fw fa-clock-o" aria-hidden="true"></i>
+            <i class="fa-solid fa-fw fa-clock" aria-hidden="true"></i>
             {% comment %}
             {# Changing the format here? Also change the event page and the localise_times function #}
             {% endcomment %}
             {% assign date_only_format = '%e %B %Y <small class="muted">(time <abbr title="To be confirmed">TBC</abbr>)</small>' %}
             {% include datetime.html date_only_format=date_only_format datetime_format='%e %B %Y at %l%P' time_only_format = '%l%P' event=page %}
           </li>
-          <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ page.location }}</li>
+          <li><i class="fa-solid fa-fw fa-location-dot" aria-hidden="true"></i> {{ page.location }}</li>
         </ul>
       </div>
     </div>
