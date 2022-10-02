@@ -118,7 +118,6 @@ exclude:
   - Rakefile
   - Gemfile
   - Gemfile.lock
-  - circle.yml
   - gems/
   - scripts/
   - .idea/
