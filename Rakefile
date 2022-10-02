@@ -7,7 +7,9 @@ task :deep_clean => [:clean] do
 end
 
 task :dependencies do
-  sh('bundle config set --local path "gems"')
+  if ! ENV["GLOBAL_GEMS"]
+    sh('bundle config set --local path "gems"')
+  end
   sh('bundle install')
 end
 
