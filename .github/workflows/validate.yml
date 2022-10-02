@@ -1,0 +1,29 @@
+name: Validate
+
+on:
+  push:
+    branches:
+      - master
+  pull_request: {}
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      # ruby/setup-ruby@v1 does not offer a way to change the cached gems path.
+      # See https://github.com/ruby/setup-ruby/issues/291
+      GLOBAL_GEMS: 1
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        submodules: recursive
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7
+        bundler-cache: true
+        cache-version: 2
+
+    - name: Build & Validate
+      run: rake validate

@@ -118,12 +118,13 @@ exclude:
   - Rakefile
   - Gemfile
   - Gemfile.lock
-  - circle.yml
   - gems/
   - node_modules/
   - scripts/
   - .idea/
+  - .github/
   - .vscode/
+  - vendor/
 
 paginate: 3
 paginate_path: "/blog/:num/"
