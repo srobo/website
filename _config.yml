@@ -121,7 +121,9 @@ exclude:
   - gems/
   - scripts/
   - .idea/
+  - .github/
   - .vscode/
+  - vendor/
 
 paginate: 3
 paginate_path: "/blog/:num/"
