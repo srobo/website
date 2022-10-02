@@ -120,6 +120,7 @@ exclude:
   - Gemfile.lock
   - circle.yml
   - gems/
+  - node_modules/
   - scripts/
   - .idea/
   - .vscode/
