@@ -1,0 +1,27 @@
+name: Validate
+
+on:
+  push:
+    branches:
+      - master
+  pull_request: {}
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      BUNDLE_PATH: gems
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: recursive
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7
+        bundler-cache: true
+        cache-version: 1
+
+    - name: Build & Validate
+      run: rake validate
