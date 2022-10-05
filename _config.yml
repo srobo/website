@@ -31,6 +31,7 @@ future: true
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 
 links:
   donate: https://checkout.justgiving.com/yb7fi9snns

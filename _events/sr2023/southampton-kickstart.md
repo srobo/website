@@ -5,6 +5,8 @@ end_date: 2023-10-22 16:00:00 Europe/London
 layout: event
 type: kickstart
 location: Southampton University
+redirect_from:
+  - /events/sr2023/kickstart/
 ---
 
 Kickstart is the event which kicks off a competition year. The structure of the

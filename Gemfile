@@ -7,6 +7,7 @@ gem 'kramdown-parser-gfm'
 gem 'jekyll'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
+gem 'jekyll-redirect-from'
 gem 'tzinfo',           :platforms => [:mswin, :mingw, :x64_mingw]
 gem 'tzinfo-data',      :platforms => [:mswin, :mingw, :x64_mingw]
 
