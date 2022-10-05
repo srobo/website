@@ -21,9 +21,9 @@ own devices is highly recommended.
 
 The Southampton kickstart is being held at the University of Southampton at:
 
-Building 46,
-University Road,
-Southampton,
+Building 46,<br>
+University Road,<br>
+Southampton,<br>
 SO17 1BJ
 
 For public transport or driving instructions, see the University of
