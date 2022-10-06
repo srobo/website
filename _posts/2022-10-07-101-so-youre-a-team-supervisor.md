@@ -5,7 +5,7 @@ title: Robots 101 - So you're running a team
 {% include figure.html src="/images/content/blog/robots-101/team-supervisor.jpg"
            caption="One of our SR2022 Team Supervisors" %}
 
-So, you’re running a team. Here’s a little bit of info on what to expect from Student Robotics, and your responsibilities as a team supervisor. For your convenience, here’s some links to the topics covered.
+So, you’re running a team. Here’s a little bit of info on what to expect from Student Robotics, and your responsibilities as a team supervisor.
 
 As a team supervisor, your role is to guide the competitors through the journey of building a robot. You’ll be there to point them in the right direction when they get stuck and resolve any issues they run into. We encourage team supervisors to limit their involvement with the robot design/building process so that the finished contraptions are 100% student-built which competitors find very rewarding.
 
@@ -25,7 +25,7 @@ Our kit includes a battery and a few boards to get your robot started. However, 
 - Wheels & bearings
 
 Be sure to plan with your team what your robot will need before you make any purchases as depending on your robot design you may need more or less of these components.
-.
+
 Popular suppliers of these components are:
 - [Robot Shop](https://www.robotshop.com/)
 - [RS](https://uk.rs-online.com/web/)
