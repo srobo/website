@@ -9,7 +9,7 @@ So, you’re running a team. Here’s a little bit of info on what to expect fro
 
 As a team supervisor, your role is to guide the competitors through the journey of building a robot. You’ll be there to point them in the right direction when they get stuck and resolve any issues they run into. We encourage team supervisors to limit their involvement with the robot design/building process so that the finished contraptions are 100% student-built which competitors find very rewarding.
 
-You’ll be our point of contact with the team. If you have any questions during the year, just email teams@studentrobotics.org. We’ll also be sending you emails every month or so with important information such as:
+You’ll be our point of contact with the team. If you have any questions during the year, just email [teams@studentrobotics.org](mailto:teams@studentrobotics.org). We’ll also be sending you emails every month or so with important information such as:
 - Details of Tech Days where we provide a space for teams to come together and get direct help from our dedicated volunteers
 - Software updates for our kit
 - Information about the competition in April
