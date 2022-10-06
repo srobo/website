@@ -27,13 +27,13 @@ Our kit includes a battery and a few boards to get your robot started. However, 
 Be sure to plan with your team what your robot will need before you make any purchases as depending on your robot design you may need more or less of these components.
 .
 Popular suppliers of these components are:
-- https://www.robotshop.com/ 
-- https://uk.rs-online.com/web/ 
-- https://uk.farnell.com/ 
-- https://www.amazon.co.uk/ 
-- https://www.ebay.co.uk/
+- [Robot Shop](https://www.robotshop.com/)
+- [RS](https://uk.rs-online.com/web/)
+- [Farnell](https://uk.farnell.com/)
+- [Amazon](https://www.amazon.co.uk/)
+- [eBay](https://www.ebay.co.uk/)
 
-To allow you and your team to ask us questions directly, as well as share what they’re working on with other teams, we provide a Discord server. You will receive a unique link to share with your team so that you can all join with your own Discord accounts. Each team gets a private text channel for direct support from us which can be used to discuss your robot without worrying about giving other teams your strategy. We also have a team-supervisor only channel for any questions you may have. There are also some text channels where teams can communicate with each other (and us!) for more general topics. If you’d like a voice channel for your team, just email us! You can find more information in our docs(https://studentrobotics.org/docs/team_admin/discord).
+To allow you and your team to ask us questions directly, as well as share what they’re working on with other teams, we provide a Discord server. You will receive a unique link to share with your team so that you can all join with your own Discord accounts. Each team gets a private text channel for direct support from us which can be used to discuss your robot without worrying about giving other teams your strategy. We also have a team-supervisor only channel for any questions you may have. There are also some text channels where teams can communicate with each other (and us!) for more general topics. If you’d like a voice channel for your team, just email us! You can find more information in [our docs](https://studentrobotics.org/docs/team_admin/discord).
 
 If you’d like additional support throughout the year, we have dedicated mentors who can regularly join your team meetings either in-person or remotely. Your mentor will help guide your team towards good solutions for their robot, provide assistance where they might need it as well as help them understand the kit, the rules and the competition as a whole. We *strongly* encourage new teams to sign up for mentoring. If this sounds like something you’d like, look out for our email shortly after Kickstart.
 
