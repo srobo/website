@@ -43,3 +43,9 @@ Southampton's information on [getting to our campuses][soton-campus-directions]
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/highfield
+
+## Livestream
+
+Our livestream will start at <time datetime="2023-10-22T10:00:00+01:00" title="Sun, 22 Oct 2023 10:00:00 +0100">10am UK time</time>: [Watch live](https://www.youtube.com/watch?v=FVnNv5GSpyQ)
+
+<iframe title="Livestream of the Kickstart Event" width="100%" height="315" src="https://www.youtube.com/embed/FVnNv5GSpyQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
