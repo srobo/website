@@ -20,5 +20,5 @@ Hopefully this has given you some jumping off points to begin your journey to th
 
 [youtube]: https://youtube.com/user/StudentRobotics
 [discord-docs]: https://studentrobotics.org/docs/team_admin/discord
-// cspell:disable-next-line
+<!-- cspell:disable-next-line -->
 [one-oh-one-supervisor]: {{ '/blog/2022-10-07-101-so-youre-a-team-supervisor' | prepend: site.baseurl }}
