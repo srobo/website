@@ -4,7 +4,7 @@ title: Robots 101 - Kickstarted, now what?
 
 Welcome to the start of Robot 101, our series where we guide you through the competition and give some advice on your next steps.
 
-So, you attended our kickstart event and are now ready to build your robot! But where should you start? We’re here to help™!
+So, you attended our kickstart event and are now ready to build your robot! But where should you start? We’re here to help!
 
 We’ve found that most teams split up the different parts of the robot between them. It’s a good idea to meet up and discuss which tasks each person wants to accomplish and give each other roles inside the team. Of course, these can change throughout the time between kickstart and competition, but make sure everyone has a job to do. It’s important to make sure there's always at least two or three people that can do each task type. Don’t forget tasks outside the robot itself either, like project management, running the social media, or theming.
 
