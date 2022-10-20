@@ -8,14 +8,14 @@ We will keep this page updated with new information as it becomes available.
 
 Last updated: {{ page.date | date: "%e %B %Y" }}.
 
-## SR2022
+## SR2023
 
-Life is beginning to get back to normal, and this means we are finally able to do in person events again!
+SR2023 will have in person events.
 However, we must recognise that some people still have to be cautious, to protect their own health or their friends or family.
 As such, we ask that everyone follows the below requests to help ensure we all keep safe, whilst still having lots of fun with robots!
 
 * If you are experiencing symptoms of COVID-19, or have tested positive for COVID-19 in the 7 days beforehand (or live with someone who has) please do not attend.
-* If you are able, please wear a mask when not in your team pit.
+* If you are able, please wear a mask.
 * Please clean your hands regularly, using hand sanitizer or soap.
 * Be respectful towards others' personal space.
 
