@@ -14,7 +14,7 @@ Each member should also spend some time getting to know the docs on our website.
 
 Remember, you’re not just aiming to win First, Second, or Third! There are plenty of other awards in place for you to achieve throughout the year. For example, our “Teams on the Web” runs from now until the end of the competition - make sure you’re posting your progress on social media to be in the running! Check out the Rules for a full list of all the awards on offer.
 
-As part of your team, you’ll have a trusted adult who is acting as supervisor - their job is to guide you through the process of building your robot, not build it for you! We have a separate blog post on the role of a supervisor - you can read that [here][one-oh-one-supervisor]!
+As part of your team, you’ll have a trusted adult who is acting as supervisor - their job is to guide you through the process of building your robot, not build it for you! We have a separate [blog post on the role of a supervisor][one-oh-one-supervisor].
 
 Hopefully this has given you some jumping off points to begin your journey to the competition. Check back soon for our next entry in this series, all about how to design your robot!
 
