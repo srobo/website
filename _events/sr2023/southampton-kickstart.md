@@ -1,7 +1,7 @@
 ---
 title: Kickstart
-date: 2023-10-22 10:00:00 Europe/London
-end_date: 2023-10-22 16:00:00 Europe/London
+date: 2022-10-22 10:00:00 Europe/London
+end_date: 2022-10-22 16:00:00 Europe/London
 layout: event
 type: kickstart
 location: Southampton University
