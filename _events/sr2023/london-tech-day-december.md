@@ -15,8 +15,13 @@ as volunteers able to help you with your kits and hands-on guidance with your
 robots.
 
 London Tech Days will only run of there is sufficient interest. Spaces are
-limited to six teams, so be sure to [let us know][tech-day-signup] by Wednesday
-30th November 2022 if you'd like to attend.
+limited to six teams, so be sure to [let us know][tech-day-signup] if you would
+like to attend. We will be confirming places shortly after you sign up.
+
+At the very latest please signup by Wednesday 30th November 2022, though we may
+close signups sooner if all places are filled.
+
+At the request of the venue, power tools and paint may not be used at this Tech Day.
 
 **Please bring your laptops!**
 
