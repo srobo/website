@@ -29,7 +29,7 @@ Whitechapel,<br>
 London,<br>
 E1 8DE
 
-The easiest way to travel will be by public transport -- Aldgate, Aldgate East
+The easiest way to travel will be by public transport — Aldgate, Aldgate East
 and Tower Gateway stations are all within a five minute walk, and Liverpool
 Street station is a ten minute walk away. There are also a large number of
 buses which stop nearby.
