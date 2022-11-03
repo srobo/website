@@ -12,7 +12,7 @@ Previously our kits used an ODROID U3+ as their brain, which served us well for 
 
 With a new powerful computer at the heart of our kit, we have also designed and built a new add-on HAT called the KCH. Named in memory of a Student Robotics volunteer who sadly passed away in 2020, it serves as a reminder of his love of robotics, innovation, and bees.
 
-[The KCH][brain-board] is responsible for powering the Pi and providing output to users regarding the robot's status. The board has LEDs showing the boot progress of the Pi, indicators for the current status of the code, and most excitingly three user-programmable RGB LEDs. These LEDs provide an easy to use way to output what your robot is doing at that moment, which can be an invaluable debugging aid.
+[The KCH][brain-board] is responsible for powering the Pi and providing output to users regarding the robot's status. The board has LEDs showing the boot progress of the Pi, indicators for the current status of the code, and most excitingly three user-programmable RGB LEDs. These LEDs provide an easy way to output what your robot is doing at that moment, which can be an invaluable debugging aid.
 
 Take note that the Pi is now powered from the L2 12V port of the Power Board rather than the 5V port. The docs have been updated to state this, but we thought it was worth re-iterating.
 
