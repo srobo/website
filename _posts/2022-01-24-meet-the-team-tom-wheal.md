@@ -14,7 +14,7 @@ This week we’ll be catching up with Tom, who is now an Electronics Consultant.
 
 #### How did you first get involved in (competing with) Student Robotics?
 
-I was a competitor in Student robotics in 2014 and 2015, while I was at Peter Symonds College, Winchester (PSC). During both years I was involved with all aspects of the robot build, alongside running our social media accounts and moved on to lead the team in 2015. After starting at the University of Southampton, I volunteered to help out at the competition. 
+I was a competitor in Student robotics in 2014 and 2015, while I was at Peter Symonds College, Winchester (PSC). During both years I was involved with all aspects of the robot build, alongside running our social media accounts and moved on to lead the team in 2015. After starting at the University of Southampton, I volunteered to help out at the competition.
 
 #### What do you do as a volunteer for Student Robotics?
 
@@ -30,7 +30,7 @@ I currently work as an electronics consultant for The Technology Partnership (TT
 
 #### What life advice would you give to yourself aged 16-18 knowing what you know now?
 
-Don’t be afraid to ask. Sometimes things are presented to you on a silver platter, this could be opportunities or knowledge, other times they are not. Don’t be afraid to put yourself out there and ask, the worst thing that can happen is they say no, and that isn't something to be afraid of. 
+Don’t be afraid to ask. Sometimes things are presented to you on a silver platter, this could be opportunities or knowledge, other times they are not. Don’t be afraid to put yourself out there and ask, the worst thing that can happen is they say no, and that isn't something to be afraid of.
 
 <br/>
 
