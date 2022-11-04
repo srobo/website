@@ -1,1 +1,13 @@
+# Enable autocrlf for those who don't have it configured
+* text=auto
+
+# Calendar files need to be CRLF
 *.ics       text eol=crlf
+
+# Binary file types
+*.ico
+*.jpeg
+*.jpg
+*.odp
+*.pdf
+*.png
