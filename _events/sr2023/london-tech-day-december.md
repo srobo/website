@@ -1,6 +1,7 @@
 ---
 title: London December Tech Day
 date: 2022-12-03 10:00:00 Europe/London
+end_date: 2022-12-03 17:00:00 Europe/London
 layout: event
 type: tech-day
 location: Thread, Whitechapel
