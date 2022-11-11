@@ -1,5 +1,7 @@
 ---
 title: SR2023 Kit Revision
+redirect_from:
+ - /blog/2022-10-27-sr2023-kit-revision/
 ---
 
 The Student Robotics Kit has received an upgrade! Thanks to the generosity of the Institution of Engineering and Technology and the Institution of Mechanical Engineers, we are now using Raspberry Pi computers in our kits. We've also developed an add-on board for the Pi (known as the KCH), which provides power to the Pi and several LEDs to indicate a robot's status.
