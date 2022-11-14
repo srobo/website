@@ -22,7 +22,8 @@ like to attend. We will be confirming places shortly after you sign up.
 At the very latest please signup by Wednesday 30th November 2022, though we may
 close signups sooner if all places are filled.
 
-At the request of the venue, power tools and paint may not be used at this Tech Day.
+At the request of the venue: paint, power tools or hand tools which create mess
+may not be used at this Tech Day.
 
 **Please bring your laptops!**
 
