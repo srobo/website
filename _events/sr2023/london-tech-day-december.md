@@ -15,6 +15,9 @@ We provide a space for you to work in, with power and internet access, as well
 as volunteers able to help you with your kits and hands-on guidance with your
 robots.
 
+At this Tech Day we will have the props available for teams to run through the
+Kickstart [microgames][microgames] if they have not done so already.
+
 Due to limited space in the venue, we only have room for six teams at this Tech
 Day. Signup is now closed and teams who have places will have received an email
 confirming their place.
@@ -49,6 +52,7 @@ Upon arrival at reception, please ask for Thread.
 | 13:30 | Lightning Talks, where teams will talk about their robots and what they plan on doing with them. |
 | 17:00 | Finish. |
 
+[microgames]: https://studentrobotics.org/docs/tutorials/microgames
 [venue-map]: https://www.google.com/maps/d/edit?mid=1pE5GCb4sxCgY43qFYhNW0w1K6EJ_sCI
 [tech-day-signup]: https://forms.gle/xqUxJ6GFqbJfeJdZ9
 [teams-contact]: mailto:teams@studentrobotics.org
