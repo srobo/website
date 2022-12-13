@@ -11,16 +11,21 @@ Tech Days are opportunities for teams to spend a whole day working on their
 robot with lots of help available. They’re also an opportunity to see how other
 teams are doing or get more direct help with their robots.
 
-The aim of this day is to help teams out by having guaranteed presence from us
-blueshirts. We'll be around to answer questions about the competition, give kit
-support, assist with the microgames, and assist with strategy ideas.
+With the first [Challenge Submission Deadline][deadline] on the same day, this
+Tech Day provides an excellent opportunity for teams to work towards completing
+the challenges and earn their first league points. In order to support this we
+plan to mentors available right up to the submission deadline, so that everyone
+has the best chance of success.
+
+Teams are of course welcome to work on whatever they choose. As usual we'll also
+be around to answer questions about the competition, give kit support, and
+assist with your strategy ideas.
+
+We see a strong correlation between teams who make early progress and attend
+Tech Days and performance in the competition, so you are encouraged to attend
+the Tech Day if they can.
 
 Our SR2023 January Tech Day is being hosted on our [Discord](https://studentrobotics.org/docs/team_admin/discord) server.
-
-This Tech Day leads up to the first [Challenge Submission Deadline][deadline]
-and we anticipate that many teams may find it useful to work on their challenge
-submissions during this Tech Day. Teams are of course welcome to work on
-whatever they choose.
 
 ## Schedule
 
