@@ -6,6 +6,8 @@ The Student Robotics public website.
 
 ## Getting Started
 
+0. [Clone this repo][clone-repo]
+
 1. [Install Ruby 2.7][install-ruby]
 
 2. (Optional) Install [Node.js and npm][install-node].
@@ -32,6 +34,7 @@ feature branch, and [raise a pull request][raise-a-pr].
 
 [build-badge]: https://circleci.com/gh/srobo/website/tree/master.png?style=shield
 [build-page]: https://circleci.com/gh/srobo/website/tree/master
+[clone-repo]: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 [install-ruby]: https://www.ruby-lang.org/en/documentation/installation/
 [install-node]: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 [raise-a-pr]: https://github.com/srobo/website/pull/new/gh-pages
