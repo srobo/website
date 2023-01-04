@@ -30,6 +30,8 @@ Springfield House,<br>
 Horsham,<br>
 RH12 2RG
 
+We may be able to provide parking if necessary, please let us know on the sign up form if this is needed.
+
 Upon arrival please buzz for Red River Software.
 
 ## Schedule
