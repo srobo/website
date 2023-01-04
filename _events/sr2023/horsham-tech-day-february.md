@@ -1,7 +1,7 @@
 ---
 title: Horsham February Tech Day
-date: 2022-02-04 10:00:00 Europe/London
-end_date: 2022-02-04 17:00:00 Europe/London
+date: 2023-02-04 10:00:00 Europe/London
+end_date: 2023-02-04 17:00:00 Europe/London
 layout: event
 type: tech-day
 location: Red River Software, Springfield House, Horsham RH12 2RG
