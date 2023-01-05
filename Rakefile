@@ -11,6 +11,10 @@ task :dependencies do
     sh('bundle config set --local path "gems"')
   end
   sh('bundle install')
+
+  # Fix pathutil on Ruby 3; works around https://github.com/envygeeks/pathutil/pull/5
+  # as suggested by https://stackoverflow.com/a/73909894/67873
+  sh('sed -i.bak "s/, kwd/, **kwd/" $(bundle exec gem which pathutil)')
 end
 
 task :spelling_dependencies do
