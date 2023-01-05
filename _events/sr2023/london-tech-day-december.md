@@ -21,4 +21,4 @@ robots.
 Instead we are planning to run a [Virtual Tech Day][virtual-tech-day] on the
 Saturday instead.
 
-[virtual-tech-day]: {{ site.base_url }}/events/sr2023/virtual-tech-day-december
+[virtual-tech-day]: {{ site.baseurl }}/events/sr2023/virtual-tech-day-december

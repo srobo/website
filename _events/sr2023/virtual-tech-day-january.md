@@ -39,4 +39,4 @@ Our SR2023 January Tech Day is being hosted on our [Discord](https://studentrobo
 | 17:00 | It is likely that there will be fewer mentors in the evening, though there will be mentors around throughout the day.
 | 20:00 | First [Challenge Deadline][deadline] & Finish
 
-[deadline]: {{ site.base_url }}/events/sr2023/first-challenge-submission-deadline/
+[deadline]: {{ site.baseurl }}/events/sr2023/first-challenge-submission-deadline/
