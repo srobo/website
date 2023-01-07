@@ -1,3 +1,5 @@
+require 'fileutils'
+
 task :clean do
   sh('rm -rf _site')
 end
@@ -14,7 +16,13 @@ task :dependencies do
 
   # Fix pathutil on Ruby 3; works around https://github.com/envygeeks/pathutil/pull/5
   # as suggested by https://stackoverflow.com/a/73909894/67873
-  sh('sed -i.bak "s/, kwd/, **kwd/" $(bundle exec gem which pathutil)')
+  pathutil_path = `bundle exec gem which pathutil`.chomp()
+  content = File.read(pathutil_path).gsub(', kwd', ', **kwd')
+  backup_path = '#{pathutil_path}.bak'
+  if File.exist?(backup_path) then
+    FileUtil.mv(pathutil_path, backup_path)
+  end
+  File.write(pathutil_path, content)
 end
 
 task :spelling_dependencies do
