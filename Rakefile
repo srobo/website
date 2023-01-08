@@ -1,3 +1,5 @@
+require 'fileutils'
+
 task :clean do
   sh('rm -rf _site')
 end
@@ -11,6 +13,12 @@ task :dependencies do
     sh('bundle config set --local path "gems"')
   end
   sh('bundle install')
+
+  # Fix pathutil on Ruby 3; works around https://github.com/envygeeks/pathutil/pull/5
+  # as suggested by https://stackoverflow.com/a/73909894/67873
+  pathutil_path = `bundle exec gem which pathutil`.chomp()
+  content = File.read(pathutil_path).gsub(', kwd', ', **kwd')
+  File.write(pathutil_path, content)
 end
 
 task :spelling_dependencies do
