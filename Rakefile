@@ -18,7 +18,7 @@ task :dependencies do
   # as suggested by https://stackoverflow.com/a/73909894/67873
   pathutil_path = `bundle exec gem which pathutil`.chomp()
   content = File.read(pathutil_path).gsub(', kwd', ', **kwd')
-  backup_path = '#{pathutil_path}.bak'
+  backup_path = "#{pathutil_path}.bak"
   if File.exist?(backup_path)
     FileUtil.mv(pathutil_path, backup_path)
   end
