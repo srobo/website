@@ -13,4 +13,6 @@ Teams will have to submit their code to us by 8pm GMT on Friday 24th using our [
 
 ## Livestream
 
-Check back soon for the video link.
+<iframe title="Livestream of the virtual competition" width="100%" height="315" src="https://www.youtube.com/embed/mTJGOhwmLPo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch Live](https://www.youtube.com/watch?v=mTJGOhwmLPo)
