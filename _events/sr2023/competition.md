@@ -15,3 +15,30 @@ More details will be announced throughout the year so be sure to check back!
 ## COVID-19
 
 Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) page.
+
+
+## Livestream
+
+### Day 1
+
+<iframe
+  title="SR2023 Competition Day 1"
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/TxbfE9es-EY"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
+
+### Day 2
+
+<iframe
+  title="SR2023 Competition Day 2"
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/Z3Y-bUSGw34"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
