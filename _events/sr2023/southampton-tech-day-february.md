@@ -32,9 +32,9 @@ for the signage for Student Robotics.
 
 * How to [get to campus][soton-campus-directions]
 * [On-campus directions][soton-directions] (and parking)
-* [Where to find food][soton-food-map]. There is a separate space on the ground
-  floor where food may be consumed. Food is scarce in the Tech Day location, so
-  we recommend either ordering food in or taking packed lunches.
+* There is a separate space on the ground floor where food may be consumed. Food
+  is scarce in the Tech Day location, so we recommend either ordering food in or
+  taking packed lunches.
 
 ## Schedule
 
