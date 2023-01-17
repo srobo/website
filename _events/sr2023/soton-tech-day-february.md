@@ -27,13 +27,14 @@ At the request of the venue:
 
 ## Directions
 
-Once on campus, follow the signs to Building 25 and then look for the signage
-for Student Robotics.
+Once on the Boldrewood campus, follow the signs to Building 176 and then look
+for the signage for Student Robotics.
 
 * How to [get to campus][soton-campus-directions]
 * [On-campus directions][soton-directions] (and parking)
-* [Where to find food][soton-food-map]. Food is scarce in the Tech Day location,
-  so we recommend either ordering food in or taking packed lunches.
+* [Where to find food][soton-food-map]. There is a separate space on the ground
+  floor where food may be consumed. Food is scarce in the Tech Day location, so
+  we recommend either ordering food in or taking packed lunches.
 
 ## Schedule
 
@@ -46,5 +47,5 @@ for Student Robotics.
 
 [tech-day-signup]: https://forms.gle/oJ9DK8imzek7fQQb6
 [soton-food-map]: https://goo.gl/yYlfs5
-[soton-directions]: {{ site.baseurl }}/resources/sr2020/southampton-tech-day-directions-highfield-building-25.pdf
+[soton-directions]: {{ site.baseurl }}/resources/sr2023/southampton-tech-day-directions-boldrewood.pdf
 [soton-campus-directions]: https://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
