@@ -17,6 +17,12 @@ robots.
 
 Please [let us know][tech-day-signup] by Friday 27th January 2023 if you'd like to attend.
 
+At the request of the venue:
+
+* any power tools must be PAT tested,
+* paint may not be used, and
+* soldering irons may not be used
+
 **Please bring your laptops!**
 
 ## Directions
