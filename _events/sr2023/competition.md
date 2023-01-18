@@ -72,4 +72,4 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
   allowfullscreen
 ></iframe>
 
-[soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
+[soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/highfield
