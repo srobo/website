@@ -176,6 +176,19 @@ figure {
     border: 1px solid darken($sr-light-grey, 10%);
     padding: 3px;
   }
+
+  &.spaced-figure-non-bold-caption {
+    figcaption {
+      font-weight: normal;
+      font-size: 1em;
+    }
+
+    margin-bottom: 1.5rem;
+    &:last-of-type{
+      margin-bottom: 0;
+    }
+  }
+
 }
 
 figcaption {
