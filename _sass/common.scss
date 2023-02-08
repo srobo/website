@@ -10,7 +10,7 @@
 
   margin: 0 auto;
   padding: 0;
-  overflow: hidden;
+  // overflow: hidden;
 }
 
 .sidebar, main {
@@ -33,6 +33,14 @@
     font-family: $hero-font-family;
     color: $sr-white;
     margin-bottom: 0;
+  }
+
+  &.calendar-button .fixed-width {
+    display: flex;
+    justify-content: space-between;
+    overflow: initial;
+    align-items: center;
+
   }
 }
 
