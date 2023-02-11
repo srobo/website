@@ -62,6 +62,13 @@ Science, Maths, and Physics.
 > robots and seeing our robot actually do things is really exciting. I plan to
 > study Computer Science at University.
 
+## Other Resources
+
+- [United Nations - International Day of Women and Girls in Science][un-women-and-girls-in-science]
+- [Women's Engineering Society - She's an Engineer - Software][wes-shes-an-engineer]
+- [Research Features - International Day of Women and Girls in Science 2023][research-features-women-and-girls-in-science]
+- [STEM Learning - Pushing Boundaries: Women In Engineering][stem-learning-women-in-engineering]
+
 <br/>
 
 _Student Robotics is completely free to enter and provides exciting real world
@@ -73,3 +80,7 @@ our [Volunteer][volunteer] page._
 
 [compete]: {{ site.baseurl }}/compete
 [volunteer]: {{ site.baseurl }}/volunteer
+[un-women-and-girls-in-science]: https://www.un.org/en/observances/women-and-girls-in-science-day
+[wes-shes-an-engineer]: https://www.wes.org.uk/content/shes-engineer-software
+[research-features-women-and-girls-in-science]: https://researchfeatures.com/international-day-women-girls-science-2023/
+[stem-learning-women-in-engineering]: https://www.stem.org.uk/elibrary/resource/36207
