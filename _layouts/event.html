@@ -4,7 +4,6 @@ layout: page
 <div class="header-card with-calendar-button">
   <div class="fixed-width">
     <h1>{{ page.title }}</h1>
-    {% include calendar-button.html %}
   </div>
 </div>
 <div class="main">
@@ -19,6 +18,10 @@ layout: page
             {% endcomment %}
             {% assign date_only_format = '%e %B %Y <small class="muted">(time <abbr title="To be confirmed">TBC</abbr>)</small>' %}
             {% include datetime.html date_only_format=date_only_format datetime_format='%e %B %Y at %l%P' time_only_format = '%l%P' event=page %}
+          </li>
+          <li class="with-add-to-calendar-button">
+            <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+            {% include calendar-button.html button_style="text" %}
           </li>
           <li><i class="fa-solid fa-fw fa-location-dot" aria-hidden="true"></i> {{ page.location }}</li>
         </ul>
