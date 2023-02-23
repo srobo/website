@@ -111,6 +111,11 @@ sponsors:
     image: /images/sponsors/bittele.svg
     logo_width: default
 
+  - name: Aries Robotics
+    link: https://ariesroboticsai.com/
+    image: /images/sponsors/aries-robotics.svg
+    logo_width: default
+
 
 user_tracking: true
 
