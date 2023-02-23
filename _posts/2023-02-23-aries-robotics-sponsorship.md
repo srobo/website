@@ -2,7 +2,7 @@
 title: "Our New Sponsor: Aries Robotics"
 ---
 
-<img src="{{ '/images/sponsors/aries-robotics.svg' | prepend: site.baseurl }}" />
+<img alt="Aries Robotics Logo" style="padding: 2rem;" src="{{ '/images/sponsors/aries-robotics.svg' | prepend: site.baseurl }}" />
 
 Student Robotics is excited to announce our new sponsor [Aries Robotics](https://ariesroboticsai.com/)! Their mission to generate more knowledge and accelerate innovation, health and prosperity for all aligns with our own mission to inspire the next generation of engineers and scientists.
 
