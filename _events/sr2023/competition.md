@@ -13,6 +13,35 @@ The Student Robotics Competition marks the grand finale of SR2023. Showcasing th
 
 The competition will be held from *Saturday 1st April* until *Sunday 2nd April*. Doors open 9am and we aim to finish around 5pm.
 
+### Day 1 - 1st April, 2023
+
+Time | Activity
+--- | ---
+<!-- 8:00 | Open for staff -->
+<!-- 8:15 | Staff briefing -->
+9:00 | Doors Open
+10:00 | Welcome Talk
+10:10 | Tinker Time
+12:30 | Lunch
+13:30 | League Matches ([schedule][league-schedule])
+16:30 | Tinker Time
+17:30 | End of Day
+<!-- 18:00 | Out (staff) -->
+
+### Day 2 - 2nd April, 2023
+
+Time | Activity
+--- | ---
+<!-- 8:00 | Open for staff -->
+<!-- 8:15 | Staff briefing -->
+9:00 | Doors Open
+9:30 | League Matches
+12:30 | Lunch
+13:30 | Knockouts ([matches][knockouts-schedule])
+15:00 | Group Photo
+15:20 | Prize Ceremony
+16:00 | End of Day
+
 ### Marathon
 
 A marathon event is being held in Southampton on the Sunday. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on this page to see up-to-date information on how to reach the competition.
@@ -72,4 +101,6 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
   allowfullscreen
 ></iframe>
 
+[league-schedule]: https://studentrobotics.org/comp/schedule
+[knockouts-schedule]: https://studentrobotics.org/comp/knockout
 [soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/highfield
