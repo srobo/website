@@ -1,6 +1,12 @@
 # Enable autocrlf for those who don't have it configured
 * text=auto
 
+# Force these file types to be conveted to text
+*.md        text
+*.css       text
+*.scss      text
+*.js        text
+
 # Calendar files need to be CRLF
 *.ics       text eol=crlf
 
