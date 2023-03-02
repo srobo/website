@@ -17,8 +17,6 @@ The competition will be held from *Saturday 1st April* until *Sunday 2nd April*.
 
 Time | Activity
 --- | ---
-<!-- 8:00 | Open for staff -->
-<!-- 8:15 | Staff briefing -->
 9:00 | Doors Open
 10:00 | Welcome Talk
 10:10 | Tinker Time
@@ -26,14 +24,11 @@ Time | Activity
 13:30 | League Matches ([schedule][league-schedule])
 16:30 | Tinker Time
 17:30 | End of Day
-<!-- 18:00 | Out (staff) -->
 
 ### Day 2 - 2nd April, 2023
 
 Time | Activity
 --- | ---
-<!-- 8:00 | Open for staff -->
-<!-- 8:15 | Staff briefing -->
 9:00 | Doors Open
 9:30 | League Matches
 12:30 | Lunch
