@@ -27,7 +27,7 @@ At the request of the venue:
 
 ## Directions
 
-Once on the Boldrewood campus, follow the signs to Building 176 and then look
+Once on the Boldrewood campus, follow the signs to Building 177 and then look
 for the signage for Student Robotics.
 
 * How to [get to campus][soton-campus-directions]
