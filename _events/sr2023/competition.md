@@ -23,7 +23,7 @@ Time | Activity
 12:30 | Lunch
 13:30 | League Matches ([schedule][league-schedule])
 16:30 | Tinker Time
-17:30 | End of Day
+17:00 | End of Day
 
 ### Day 2 - 2nd April, 2023
 
@@ -31,11 +31,12 @@ Time | Activity
 --- | ---
 9:00 | Doors Open
 9:30 | League Matches
-12:30 | Lunch
-13:30 | Knockouts ([matches][knockouts-schedule])
-15:00 | Group Photo
-15:20 | Prize Ceremony
-16:00 | End of Day
+12:45 | Group Photo
+13:00 | Lunch
+13:45 | Knockouts ([matches][knockouts-schedule])
+15:30 | Prize Ceremony
+16:00 | Kit Return
+16:15 | End of Day
 
 ### Marathon
 
