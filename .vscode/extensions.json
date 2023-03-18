@@ -6,6 +6,7 @@
   // Please keep the list alphabetically sorted within each group
   "recommendations": [
     "davidanson.vscode-markdownlint",
+    "editorconfig.editorconfig",
     "streetsidesoftware.code-spell-checker",
 
     // Generally useful tools which are useful here
