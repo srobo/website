@@ -67,6 +67,12 @@ We have a limited amount of free parking on site for competitors.
 
 ![parking information]({{ '/resources/sr2023/parking-map.png' | prepend: site.baseurl }})
 
+### Layout
+
+[![venue map][venue-map-image])][venue-map-image]
+
+You can also download a PDF of the [venue map][venue-map].
+
 ## COVID-19
 
 Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) page.
@@ -100,3 +106,5 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
 [league-schedule]: https://studentrobotics.org/comp/schedule
 [knockouts-schedule]: https://studentrobotics.org/comp/knockout
 [soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/highfield
+[venue-map-image]: {{ '/resources/sr2023/venue-map.png' | prepend: site.baseurl }}
+[venue-map]: {{ '/resources/sr2023/venue-map.pdf' | prepend: site.baseurl }}
