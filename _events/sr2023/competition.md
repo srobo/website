@@ -30,7 +30,7 @@ Time | Activity
 Time | Activity
 --- | ---
 9:00 | Doors Open
-9:30 | League Matches
+10:00 | League Matches
 12:45 | Group Photo
 13:00 | Lunch
 13:45 | Knockouts ([matches][knockouts-schedule])
