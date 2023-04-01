@@ -103,6 +103,12 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
   allowfullscreen
 ></iframe>
 
+## Soundtrack
+
+- [Epic Playlist](https://open.spotify.com/playlist/20TmOTIMcfmDpSQvtAEPWH)
+- [_Chill_ Playlist](https://open.spotify.com/playlist/3QzI2TvCZuDjY7FiE3B0o9)
+
+
 [league-schedule]: https://studentrobotics.org/comp/schedule
 [knockouts-schedule]: https://studentrobotics.org/comp/knockout
 [soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/highfield
