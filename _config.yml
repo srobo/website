@@ -86,31 +86,20 @@ sponsors:
     image: /images/sponsors/mythic-beasts.svg
     logo_width: default
 
-  - name: Systemetric - Hills Road Robotics
-    link: https://systemetric.hr-robocon.org/
-    image: /images/sponsors/systemetric-hills-road.svg
-    logo_width: default
-
   - name: ITDev
     link: https://www.itdev.co.uk/
     image: /images/sponsors/itdev.png
     logo_width: 200px
-
-  - name: Institution of Engineering and Technology
-    link: https://www.theiet.org/
-    image: /images/sponsors/iet.png
-    logo_width: default
-
-  - name: Institution of Mechanical Engineers
-    link: https://www.imeche.org/
-    image: /images/sponsors/imeche.png
-    logo_width: default
 
   - name: Bittele
     link: https://www.7pcb.com/
     image: /images/sponsors/bittele.svg
     logo_width: default
 
+  - name: Hexibox
+    link: https://hexibox-events.co.uk/
+    image: /images/sponsors/hexibox.png
+    logo_width: default
 
 user_tracking: true
 
