@@ -46,7 +46,7 @@ In the nail-biting final, Haberdashers’ School faced off against Abingdon Scho
 - Committee award: QMC – [Queen Mary’s College](https://www.qmc.ac.uk/) (award sponsored by University of Southampton ECS)
 - Rookie award: SHB – [Sherborne School](https://www.sherborne.org/) (award sponsored by ITDev)
 - Robot and team image award: HAB – Haberdashers’ School
-- Online presence award: HAM – [Hampton](https://hamptonschool.org.uk/) & [Lady Eleanor Holles](https://www.lehs.org.uk/) Schools
+- Online presence award: HAM – [Hampton](https://hamptonschool.org.uk/) & [Lady Eleanor Holles](https://www.lehs.org.uk/) Schools ([Instagram](https://www.instagram.com/hampton_robotics/), [TikTok](https://www.tiktok.com/@hampton_robotics))
 - Challenges award: QMC – Queen Mary’s College (award sponsored by Adventurous Machines)
 
 After a close match in the final, Haberdashers’ School managed to beat their opponents and win the Student Robotics 2023 competition, closely followed by Abingdon School in second and Gymnasium Markt Indersdorf in third.
