@@ -12,12 +12,12 @@ That’s a wrap on Student Robotics 2023! [Haberdashers’ School](https://www.h
 
 ## The game: Greed
 
+{% include figure.html class="right" src="/images/content/blog/sr2023/arena.jpg"
+           caption="The 'Greed' arena" %}
+
 *Greed* required our team’s robots to capture tokens from their opponents and place them in their scoring zone. With Bronze, Silver, and Gold tokens, each worth a different number of game points, teams had to think carefully about their optimum strategy.
 
 To help teams locate the tokens there were 2D barcode style markers attached that our computer vision library could detect. However each of the markers identified themselves as exactly the same, so teams had to use other sensors to detect which type of token is which. Bronze and Silver tokens were the same size but the Silver tokens weighed 300g more, and Gold tokens were larger than both Bronze and Silver. Teams were scored at the end of the match for collecting the most points.
-
-{% include figure.html class="right" src="/images/content/blog/sr2023/arena.jpg"
-           caption="The 'Greed' arena" %}
 
 ## Virtual Competition
 
