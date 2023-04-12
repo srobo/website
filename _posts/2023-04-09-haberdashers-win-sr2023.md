@@ -106,5 +106,5 @@ _The SR Team_
 
 [volunteers]: {{ '/volunteer' | prepend: site.baseurl }}
 [contactus]: mailto:pr@studentrobotics.org
-[rules]: https://studentrobotics.org/docs/rules/
+[rules]: https://studentrobotics.org/docs/resources/2023/rulebook.html
 [sponsor]: {{ '/sponsor' | prepend: site.baseurl }}
