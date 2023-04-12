@@ -21,7 +21,7 @@ To help teams locate the tokens there were 2D barcode style markers attached tha
 
 ## Virtual Competition
 
-The first part of our league this year was a virtual competition, broadcast live from Southampton in March. Across twenty matches, teams competed in a simulated version of the main competition, testing their coding skills against one another. The day was handily won by Haberdashers’ College, coming 1st in all four of their matches, and going on to win the competition as a whole.
+The first part of our league this year was a virtual competition, broadcast live from Southampton in March. Across twenty matches, teams competed in a simulated version of the main competition, testing their coding skills against one another. The day was handily won by Haberdashers’ College, coming 1st in all four of their matches.
 
 ## League Matches
 
