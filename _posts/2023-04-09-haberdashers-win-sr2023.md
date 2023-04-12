@@ -25,7 +25,7 @@ The first part of our league this year was a virtual competition, broadcast live
 
 ## League Matches
 
-At the in person event, teams participated in a further 70 league matches, showcasing a diverse range of robot designs and strategies. The robots displayed impressive agility, precision, and ingenuity, as they navigated the arena to capture tokens and outmanoeuvre their opponents. Team’s had varying designs from suction systems, lifting mechanisms, and even a flywheel designed to launch tokens backwards.
+At the in person event, teams participated in a further 70 league matches, showcasing a diverse range of robot designs and strategies. The robots displayed impressive agility, precision, and ingenuity, as they navigated the arena to capture tokens and outmanoeuvre their opponents. Team’s had varying designs from suction systems, lifting mechanisms, and even a flywheel designed to launch tokens.
 
 ## Knockouts
 
