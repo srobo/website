@@ -1,11 +1,11 @@
 ---
 title: Haberdashers' School wins Student Robotics Competition 2023!
-image: /images/content/blog/sr2022/sr2023-photo.JPG
+image: /images/content/blog/sr2022/sr2023-photo.jpg
 image_alt: All the teams from SR2023
 description: SR2023 came to an exciting conclusion with a victory for Haberdashers' School
 ---
 
-{% include figure.html src="/images/content/blog/sr2023/sr2023-photo.JPG"
+{% include figure.html src="/images/content/blog/sr2023/sr2023-photo.jpg"
            caption="All the teams from SR2023" %}
 
 That’s a wrap on Student Robotics 2023! [Haberdashers’ School](https://www.habsboys.org.uk/) came 1st amongst all of our competitors, after coming up against [Abingdon School](https://www.abingdon.org.uk/), [Gymnasium Markt Indersdorf](https://www.gym-indersdorf.de/), and [Harris Westminster Sixth Form](https://www.harriswestminstersixthform.org.uk/) in the finals. Our teams worked incredibly hard on their robots this year, and it showed in their performance in each round.
@@ -33,7 +33,7 @@ The knockout rounds saw teams from the league matches pitted against one another
 
 ## The Final
 
-{% include figure.html class="left" src="/images/content/blog/sr2023/final.JPG"
+{% include figure.html class="left" src="/images/content/blog/sr2023/final.jpg"
            caption="Beginning of the SR2023 Final" alt="Three competitors placing their robots into the arena with a crowd of onlookers watching" %}
 
 In the nail-biting final, Haberdashers’ School faced off against Abingdon School, Gymnasium Markt Indersdorf, and Harris Westminster Sixth Form. Harris Westminster Sixth Form managed to successfully grab Haberdashers’ gold token, but were not able to get it solely back to their own scoring zone. Whilst this was happening, Gymnasium Markt Indersdorf tried to grab a gold token with their arms, but missed slightly and instead grabbed the Abingdon School robot, slowly pulling on the robot and some of its wires for the rest of the match! At the same time, the Haberdashers’ robot slowly but steadily collected bronze and silver tokens and deposited them in their zone, before going back and getting more. The teams displayed exceptional skill and teamwork, and after a fierce battle, Haberdashers’ School emerged victorious, claiming the first-place title in Student Robotics 2023.
@@ -56,7 +56,7 @@ The Committee Award is given to the team that displays the most extraordinary in
 We’re always delighted to welcome new teams to Student Robotics and understand how big a challenge it can be without prior experience. To recognise this additional challenge, we award the Rookie Award to the highest placed newcomer in the league, celebrating their incredible achievement. This year’s recipient was Sherborne School with their robot which drove over the tokens enclosing them within the robot before returning to their scoring zone.
 
 {% include figure.html class="right"
-           src="/images/content/blog/sr2023/team-hab.JPG" caption="Team Haberdashers' School with their “Knight Bus” theme" alt="The
+           src="/images/content/blog/sr2023/team-hab.jpg" caption="Team Haberdashers' School with their “Knight Bus” theme" alt="The
            competitors from Haberdashers' School standing with their robot" %}
 
 We award the Robot and Team Image Award to the team that presents themselves in the most outstanding way. This year, our teams rose to the challenge, and we saw some fantastic themes! We loved Gymnasium Markt Indersdorf’s Raspberry Pi theme, but we decided to give the Robot and Team Image award to Haberdashers’ School for their brilliant “Knight Bus” theme. All team members dressed as wizards and their robot sported a number plate and windows with images of the team members looking out.
