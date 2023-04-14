@@ -65,6 +65,8 @@ Through social media, teams can share the problems they’re facing as well as t
 
 Check out the [rulebook][rules] for all the details on the awards we give.
 
+Photos of the event have been added to our [Google Photos Album](https://photos.google.com/share/AF1QipMiZJR_Sn_NOsZ82nMXQoM1aLap_c9-9CO3bhaYQs_TGOFWf9mf0lsXr5CtN2UjZA?key=MU5zbmF1djcxZVdPVUJGWm53VFlMX3Nrd2VoUUJ3).
+
 ## Thank You
 
 This year’s competition would not have been possible without all of our amazing sponsors. Their generous support allows us to make Student Robotics free to enter and help us continue in our mission to bring the excitement of engineering and the challenge of coding to young people through robotics.
