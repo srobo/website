@@ -1,0 +1,19 @@
+{%- assign sizes_list = include.sizes | split: ',' %}
+{%- for size in sizes_list %}
+  {%- capture tmp %}@{{ size }}.{% endcapture -%}
+  {% if include.image contains tmp %}
+    {% assign size_tag = tmp %}
+  {% endif %}
+{% endfor %}
+{%- if size_tag -%}
+<img
+  srcset="{% for size in sizes_list -%}
+    {%- capture new_tag %}@{{ size }}.{% endcapture -%}
+    {{ site.baseurl }}{{ include.image | replace: size_tag, new_tag }} {{ size }}{% if forloop.last == false %},{% endif %}
+  {% endfor %}"
+  src="{{ site.baseurl }}{{ include.image }}"
+  alt="{{ include.alt }}"
+/>
+{%- else -%}
+  <strong style="color: red">No image size tag detected!</strong>
+{%- endif -%}

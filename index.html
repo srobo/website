@@ -6,11 +6,12 @@ layout: home
     <h2 class="text-center">What is Student Robotics?</h2>
     <div class="row vertically-centered-row">
       <div class="column m-6-12">
-        <img srcset="{{ '/images/advertising/team-in-arena@1x.jpg 1x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-in-arena@2x.jpg 2x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-in-arena@3x.jpg 3x' | prepend: site.baseurl }}"
-              src="{{ '/images/advertising/team-in-arena@3x.jpg' | prepend: site.baseurl }}"
-          alt="Competitors talking while placing their robot in their starting corner in the arena" />
+        {%
+          include multi-size-picture.html
+          sizes="1x,2x,3x"
+          image="/images/advertising/team-in-arena@3x.jpg"
+          alt="Competitors talking while placing their robot in their starting corner in the arena"
+        %}
       </div>
       <div class="column m-6-12">
         <p class="about-p">
@@ -57,11 +58,12 @@ layout: home
     </div>
     <div class="row">
       <div class="column center-label s-4-12">
-        <img srcset="{{ '/images/advertising/happy-team@1x.jpg 1x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/happy-team@2x.jpg 2x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/happy-team@3x.jpg 3x' | prepend: site.baseurl }}"
-              src="{{ '/images/advertising/happy-team@3x.jpg' | prepend: site.baseurl }}"
-              alt="A team of students looking happy standing behind their robot"/>
+        {%
+          include multi-size-picture.html
+          sizes="1x,2x,3x"
+          image="/images/advertising/happy-team@3x.jpg"
+          alt="A team of students looking happy standing behind their robot"
+        %}
         <h3>Working as a team</h3>
         <p>
           For a team to succeed at Student Robotics, they need to work
@@ -70,11 +72,12 @@ layout: home
         </p>
       </div>
       <div class="column center-label s-4-12">
-        <img srcset="{{ '/images/advertising/team-coding@1x.jpg 1x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-coding@2x.jpg 2x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-coding@3x.jpg 3x' | prepend: site.baseurl }}"
-          src="{{ '/images/advertising/team-coding@3x.jpg' | prepend: site.baseurl }}"
-          alt="Three competitors sitting in front of a laptop" />
+        {%
+          include multi-size-picture.html
+          sizes="1x,2x,3x"
+          image="/images/advertising/team-coding@3x.jpg"
+          alt="Three competitors sitting in front of a laptop"
+        %}
         <h3>Writing real code</h3>
         <p>
           Without some serious code, even the most masterfully built robots
@@ -83,11 +86,12 @@ layout: home
         </p>
       </div>
       <div class="column center-label s-4-12">
-        <img srcset="{{ '/images/advertising/team-building-robot@1x.jpg 1x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-building-robot@2x.jpg 2x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-building-robot@3x.jpg 3x' | prepend: site.baseurl }}"
-          src="{{ '/images/advertising/team-building-robot@3x.jpg' | prepend: site.baseurl }}"
-          alt="Students and a teacher sitting around their robot" />
+        {%
+          include multi-size-picture.html
+          sizes="1x,2x,3x"
+          image="/images/advertising/team-building-robot@3x.jpg"
+          alt="Students and a teacher sitting around their robot"
+        %}
         <h3>Building a robot</h3>
         <p>
           There's nothing quite like building something and bringing it to
