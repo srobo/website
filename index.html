@@ -1,5 +1,6 @@
 ---
 layout: home
+# cspell:ignore headshots
 ---
 <div class="panel">
   <div class="fixed-width">
@@ -127,9 +128,12 @@ layout: home
         </p>
       </div>
       <div class="column m-3-12 horizontally-centered-column">
-        <img class="testimonial-avatar"
-          src="{{ '/images/advertising/headshots/competitor-phil-01.jpg' | prepend: site.baseurl }}"
-          alt="Headshot of Phil" />
+        {%
+          include picture-with-webp.html
+          class="testimonial-avatar"
+          image="/images/advertising/headshots/competitor-phil-01.jpg"
+          alt="Headshot of Phil"
+        %}
       </div>
     </div>
     <div class="row vertically-centered-row top-spacing testimonial-row">
@@ -146,9 +150,12 @@ layout: home
         </p>
       </div>
       <div class="column m-3-12 horizontally-centered-column">
-        <img class="testimonial-avatar"
-          src="{{ '/images/advertising/headshots/competitor-becky-01.jpg' | prepend: site.baseurl }}"
-          alt="Headshot of Becky" />
+        {%
+          include picture-with-webp.html
+          class="testimonial-avatar"
+          image="/images/advertising/headshots/competitor-becky-01.jpg"
+          alt="Headshot of Becky"
+        %}
       </div>
     </div>
     <div class="row vertically-centered-row top-spacing testimonial-row">
@@ -167,9 +174,12 @@ layout: home
         </p>
       </div>
       <div class="column m-3-12 horizontally-centered-column">
-        <img class="testimonial-avatar"
-          src="{{ '/images/advertising/headshots/competitor-james-01.jpg' | prepend: site.baseurl }}"
-          alt="Headshot of James" />
+        {%
+          include picture-with-webp.html
+          class="testimonial-avatar"
+          image="/images/advertising/headshots/competitor-james-01.jpg"
+          alt="Headshot of James"
+        %}
       </div>
     </div>
   </div>
