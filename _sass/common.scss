@@ -3,6 +3,14 @@
   background-size: cover;
 }
 
+@mixin gradient-background-with-webp($top, $bottom, $image) {
+  @include gradient-background($top, $bottom, $image);
+
+  @supports(background-image: url($image + '.webp')) {
+    @include gradient-background($top, $bottom, $image + '.20pc.webp');
+  }
+}
+
 .fixed-width {
   @include media-query("medium") {
     width: 960px;
