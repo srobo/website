@@ -6,6 +6,10 @@ The Student Robotics public website.
 
 ## Getting Started
 
+For ease of setup, a Docker container is provided. Simply install Docker and `docker-compose`, and run `docker-compose up`.
+
+### Manual
+
 0. [Clone this repo][clone-repo]
 
 1. [Install Ruby 2.7][install-ruby]

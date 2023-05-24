@@ -1,0 +1,10 @@
+version: "2.3"
+
+services:
+  website:
+    build:
+      context: .
+    volumes:
+      - ".:/usr/src/website"
+    ports:
+      - "4000:4000"
