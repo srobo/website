@@ -18,7 +18,7 @@ We aim to host our Kickstart event and Tech Days in multiple locations to make i
 This is especially important to book for the competition, as you will likely need to arrange to stay overnight near the venue.
 
 Our kit includes a battery and a few boards to get your robot started. However, your team will need additional components and materials from which to build their robot. For the chassis, your team has several options. Teams often use cardboard, MDF, Aluminium, and/or Acrylic. In terms of electronic components, teams often make use of:
-- At least 2 x 12v motors (our kit supports 4)
+- At least 2 × 12v motors (our kit supports 4)
 - A few servo motors
 - A few microswitches for detecting if you bump into something
 - Ultrasound sensor
