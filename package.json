@@ -8,6 +8,6 @@
     "The site is built with Jekyll so site dependencies should be in the Gemfile."
   ],
   "dependencies": {
-    "cspell": "^6.8.1"
+    "cspell": "^6.31.1"
   }
 }
