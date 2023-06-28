@@ -9,5 +9,10 @@
   ],
   "dependencies": {
     "cspell": "^6.31.1"
+  },
+  "overrides": {
+    "configstore": {
+      "make-dir": "^4.0.0"
+    }
   }
 }
