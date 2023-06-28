@@ -9,5 +9,10 @@
   ],
   "dependencies": {
     "cspell": "^6.31.1"
+  },
+  "overrides": {
+    "cspell-lib": {
+      "configstore": "^6.0.0"
+    }
   }
 }
