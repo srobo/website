@@ -16,7 +16,7 @@ robot, we mentor the teams over this period. Thanks to the generosity of our
 sponsors, we provide all of this to our teams at no cost.
 
 The competition cycle will start with a live streamed
-[kickstart event][kickstart] on our YouTube Channel. During the event the game
+[Kickstart event][kickstart] on our YouTube Channel. During the event the game
 and the structure of the competition will be announced and kits handed
 out to teams.
 
@@ -25,8 +25,8 @@ around Easter 2024, which will see the robots compete through a league stage and
 a seeded knockout. As usual the prizes will recognise not only the teams which
 come top in the knockouts, but also those who excel in other ways.
 
-Details of the game and prizes will be revealed at kickstart. Details of the
-kickstart and competition events will be published when they are available.
+Details of the game and prizes will be revealed at Kickstart. Details of the
+Kickstart and competition events will be published when they are available.
 We expect to confirm places towards the end of September.
 
 If you would like a chance to [compete][compete] in Student Robotics 2024,
