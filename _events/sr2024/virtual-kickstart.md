@@ -27,4 +27,4 @@ together on the kit.
 
 Our livestream will start at <time datetime="2024-10-21T10:00:00+01:00" title="Sat, 21 Oct 2024 10:00:00 +0100">10am UK time</time>: [Watch live](https://www.youtube.com/watch?v=sQeEEVy9zvM)
 
-<iframe title="Livestream of the Kickstart Event" width="100%" height="315" src="https://www.youtube.com/watch?v=sQeEEVy9zvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Livestream of the Kickstart Event" width="100%" height="315" src="https://www.youtube-nocookie.com/embed/sQeEEVy9zvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
