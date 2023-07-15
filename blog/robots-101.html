@@ -1,0 +1,20 @@
+---
+layout: blog
+title: Robots 101
+---
+
+<p>Welcome to Robot 101, our series where we guide you through the competition and give some advice on your next steps.</p>
+
+{% for page in site.tags.robots_101 %}
+  {% include get_description_for_page.html %}
+
+  <div class="article article-preview card">
+    <div class="article-header">
+      <h1><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+      <p class="article-info">Published {{ page.date | date: "%e %B, %Y" }}</p>
+    </div>
+    <div class="article-content">
+      {{ description }}
+    </div>
+  </div>
+{% endfor %}

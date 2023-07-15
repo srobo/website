@@ -1,5 +1,6 @@
 ---
 title: Robots 101 - Theming
+tags: [robots_101]
 ---
 
 Welcome (back) to the Robots 101 series! This time, we’re addressing theming

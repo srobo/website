@@ -8,7 +8,9 @@ layout: page
         <div class="article">
           <div class="article-header">
             <h1>{{ page.title }}</h1>
-            <p class="article-info">Published {{ page.date | date: "%e %B, %Y" }}</p>
+            {% if page.date %}
+              <p class="article-info">Published {{ page.date | date: "%e %B, %Y" }}</p>
+            {% endif %}
           </div>
           <div class="article-content">
             {{ content }}

@@ -1,8 +1,7 @@
 ---
 title: Robots 101 - Kickstarted, now what?
+tags: [robots_101]
 ---
-
-Welcome to the start of Robot 101, our series where we guide you through the competition and give some advice on your next steps.
 
 So, you attended our kickstart event and are now ready to build your robot! But where should you start? We’re here to help!
 
