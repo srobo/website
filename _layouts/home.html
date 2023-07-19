@@ -28,13 +28,6 @@ layout: default
       </div>
     </div>
     <div class="content">
-      <h4>Competition Status</h4>
-      <a href="https://studentrobotics.org/comp/league">Leaderboard</a>
-      <div class="content-details">
-        after the Competition
-      </div>
-    </div>
-    <div class="content">
       {% assign next_event = site.events | where_exp: "event", "event.date > site.time"
       | where_exp: "event", "event.cancelled != true" | first %}
       <h4>Next Event</h4>
