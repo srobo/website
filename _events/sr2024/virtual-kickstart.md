@@ -16,6 +16,9 @@ streaming the event we strongly encourage teams to meet up and watch the stream
 together. This is a great way to get to know your team mates and start working
 together on the kit.
 
+Throughout the afternoon we'll have Blueshirts (our awesome volunteers!) in the Discord server, ready to answer any questions you may have and to help you through the microgames.
+These microgames will help your team become familiar with the Kit you've been provided and should kickstart some ideas for your robot's design.
+
 ## Schedule
 
 | Time  | Info |
