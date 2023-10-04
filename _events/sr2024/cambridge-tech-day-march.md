@@ -26,7 +26,7 @@ places from Wednesday 31st January 2024.
 | Time  | Info |
 |-------|------|
 | 10:00 | Doors Open. |
-| 12:30 | There will be a lunch break. Teams should bring their own lunches or get them from food vendors near the venues. |
+| 12:30 | There will be a lunch break. Teams should bring their own lunches or get them from food vendors near the venue. |
 | 17:00 | Finish. |
 
 [tech-day-signup]: https://forms.gle/orwWr8DBkMg2CVTf9
