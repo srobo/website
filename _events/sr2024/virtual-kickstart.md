@@ -24,7 +24,7 @@ These microgames will help your team become familiar with the Kit you've been pr
 | Time  | Info |
 |-------|------|
 | 10:00 | Introductory presentation, where the game of SR2024 will be announced. |
-| 11:30 | Microgames. |
+| 11:30 | Microgames, a set of tasks to familiarise you with the kit. |
 | 12:30 | Lunch. |
 | 13:30 | Microgames. |
 | 16:00 | Finish. |
