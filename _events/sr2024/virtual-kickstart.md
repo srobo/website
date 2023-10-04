@@ -21,7 +21,9 @@ together on the kit.
 | Time  | Info |
 |-------|------|
 | 10:00 | Introductory presentation, where the game of SR2024 will be announced. |
-| 12:00 | Finish. |
+| 12:00 | Lunch. |
+| 13:00 | Microgames. |
+| 16:00 | Finish. |
 
 ## Livestream
 
