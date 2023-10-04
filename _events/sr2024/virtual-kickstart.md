@@ -16,7 +16,7 @@ streaming the event we strongly encourage teams to meet up and watch the stream
 together. This is a great way to get to know your team mates and start working
 together on the kit.
 
-Throughout the afternoon we'll have Blueshirts (our awesome volunteers!) in the Discord server, ready to answer any questions you may have and to help you through the microgames.
+Throughout the afternoon we'll have Blueshirts (our awesome volunteers!) in the [Discord server][discord-docs], ready to answer any questions you may have and to help you through the microgames.
 These microgames will help your team become familiar with the Kit you've been provided and should kickstart some ideas for your robot's design.
 
 ## Schedule
@@ -33,3 +33,5 @@ These microgames will help your team become familiar with the Kit you've been pr
 Our livestream will start at <time datetime="2024-10-21T10:00:00+01:00" title="Sat, 21 Oct 2024 10:00:00 +0100">10am UK time</time>: [Watch live](https://www.youtube.com/watch?v=sQeEEVy9zvM)
 
 <iframe title="Livestream of the Kickstart Event" width="100%" height="315" src="https://www.youtube-nocookie.com/embed/sQeEEVy9zvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[discord-docs]: https://studentrobotics.org/docs/tutorials/discord
