@@ -21,6 +21,16 @@ places from Wednesday 31st January 2024.
 
 **Please bring your laptops!**
 
+## Directions
+
+This Tech Day is being held in the [Raspberry Pi Foundation][venue-map] at:
+
+37 Hills Rd,<br>
+Cambridge<br>
+CB2 1NF
+
+The building is set back slightly from the road, look for the raspberry logo.
+
 ## Schedule
 
 | Time  | Info |
@@ -30,3 +40,4 @@ places from Wednesday 31st January 2024.
 | 17:00 | Finish. |
 
 [tech-day-signup]: https://forms.gle/orwWr8DBkMg2CVTf9
+[venue-map]: https://maps.app.goo.gl/j98oSM3PdGXooAAD9
