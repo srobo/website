@@ -2,7 +2,7 @@
 title: SR2024 Kickstart Out Of This World
 ---
 
-Student Robotics 2024 was Kickstarted on Saturday 21st October on our livestream. 30 teams from around the UK and Europe joined us as we introduced competitors to the competition, our Kits, and this year’s game!
+Student Robotics 2024 was Kickstarted on Saturday 21st October on our livestream. 30 teams from around the UK and Europe joined us as we introduced competitors to the competition, our Kits, and this year’s game! Teams will have six months to build, program, and test a fully autonomous robot, learning invaluable technical and soft skills along the way.
 
 This year's game, Final Frontier, plunges teams into an interstellar battle for dominance among four formidable civilizations, all vying for control of the cosmos. Teams must retrieve asteroids scattered throughout the asteroid field and transport them back to their home planet or, even better, their intergalactic spaceship currently under construction. However, the stakes are high, as within the confines of the asteroid belt lies The Egg, a cosmic time bomb that, if disturbed, could spell chaos. Teams must strategize, navigate the treacherous field, and decide whether to safeguard their own civilization or sabotage their rivals. With asteroids worth points, spaceships to manage, and The Egg lurking, the universe has never been this competitive. May the most astute civilization prevail in this high-stakes cosmic showdown! For complete details, including prizes up for grabs this year, you can consult our [rulebook][rules].
 
