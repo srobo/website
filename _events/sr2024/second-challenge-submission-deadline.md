@@ -9,7 +9,7 @@ location: Discord
 There are three [challenges][rules-challenges] which teams may optionally complete during the competition year in order to earn additional league points.
 The challenges may be approached in any order.
 
-Teams which completed one of the challenges by [6pm GMT on December 9th 2023][first-deadline] will have earnt 5 league points.
+Teams which completed one of the challenges by [6pm GMT on December 9th 2023][first-deadline] will have earned 5 league points.
 
 Teams which complete a different challenge by 6pm GMT on January 20th 2024 will earn a separate 5 league points.
 
