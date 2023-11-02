@@ -3,6 +3,7 @@ on:
     branches:
       - main
       - ci
+name: Build & Publish
 jobs:
   build:
     env:
