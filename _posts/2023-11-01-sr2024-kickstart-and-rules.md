@@ -20,7 +20,7 @@ If you weren’t able to attend Kickstart this year, or would like a recap, you 
 - If you're a competitor, be sure to check out our [Kickstarted, now what?][now-what] guide for some next steps.
 - If you're a team supervisor, be sure to check out our guide on [running a team](https://studentrobotics.org/docs/robots_101/team_supervisor) for suggestions on how best to support your team.
 
-[rules]: https://studentrobotics.org/docs/rules/
+[rules]: https://studentrobotics.org/docs/resources/2024/rulebook.html
 [events]: {{ site.baseurl }}/events
 [livestream]: https://www.youtube.com/watch?v=sQeEEVy9zvM
 [presentation]: {{ site.baseurl }}/resources/sr2024/kickstart-sr2024.pdf
