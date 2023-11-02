@@ -4,7 +4,7 @@ on:
       - main
       - ci
   schedule:
-    - cron: 0 0 * * *
+    - cron: 1 0 * * *
 name: Build & Publish
 jobs:
   build:
