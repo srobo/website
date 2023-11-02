@@ -5,6 +5,7 @@ on:
     branches:
       - main
   schedule:
+    # This is here to ensure that the calendar shows the correct next event
     - cron: 1 0 * * *
   pull_request: {}
 
