@@ -2,7 +2,6 @@ on:
   push:
     branches:
       - main
-      - ci
   schedule:
     - cron: 1 0 * * *
   pull_request: {}
