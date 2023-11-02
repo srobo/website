@@ -11,6 +11,8 @@ on:
 jobs:
   build:
     env:
+      # ruby/setup-ruby@v1 does not offer a way to change the cached gems path.
+      # See https://github.com/ruby/setup-ruby/issues/291
       GLOBAL_GEMS: 1
     runs-on: ubuntu-latest
     steps:
