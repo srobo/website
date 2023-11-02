@@ -5,6 +5,7 @@ on:
       - ci
   schedule:
     - cron: 1 0 * * *
+  pull_request: {}
 name: Build & Publish
 jobs:
   build:
