@@ -20,8 +20,8 @@ jobs:
           bundler-cache: true
           cache-version: 2
 
-      - name: Build site
-        run: bundle exec jekyll build --config _config.yml
+      - name: Build & Validate
+        run: rake validate
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v2
