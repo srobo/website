@@ -3,6 +3,8 @@ on:
     branches:
       - main
       - ci
+  schedule:
+    - cron: 0 0 * * *
 name: Build & Publish
 jobs:
   build:
