@@ -9,7 +9,7 @@ location: <a href="https://www.youtube.com/watch?v=hlfaQIfLaRg">Student Robotics
 
 The Student Robotics Virtual Competition is the first stage of the SR2024 competition. Teams will push their virtual robots to the limit, competing against each other in a [virtual arena](https://studentrobotics.org/docs/simulator/), teams are competing for real league points, which could make all the difference in the final competition.
 
-Teams will have to submit their code to us by 6pm GMT on Thursday 7th using our [code submitter](https://studentrobotics.org/code-submitter/).
+Teams will have to submit their code to us by 6pm GMT on Thursday 7th March using our [code submitter](https://studentrobotics.org/code-submitter/).
 
 ## Livestream
 
