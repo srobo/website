@@ -14,7 +14,7 @@ This year's teams have already begun strategising their approaches, and we can't
 
 If you weren’t able to attend Kickstart this year, or would like a recap, you can:
 
-- watch our livestream where we explain the game and how this year's competition will work.
+- watch [our livestream][livestream] where we explain the game and how this year's competition will work.
 - download [the presentation][presentation] in which we explain this year’s game and how the competition is running this year.
 - download [the microgames][microgames] which are small activities designed to let you become familiar with the kit.
 - If you're a competitor, be sure to check out our [Kickstarted, now what?][now-what] guide for some next steps.
