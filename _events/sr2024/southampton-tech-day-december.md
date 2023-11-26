@@ -4,7 +4,7 @@ date: 2023-12-09 10:00:00 Europe/London
 end_date: 2023-12-09 17:00:00 Europe/London
 layout: event
 type: tech-day
-location: University of Southampton, room <abbr title="to be confirmed">TBC</abbr>
+location: Boldrewood campus, University of Southampton
 ---
 
 Tech Days are opportunities for teams to spend a whole day working on their
@@ -26,6 +26,17 @@ At the request of the venue:
 
 **Please bring your laptops!**
 
+## Directions
+
+Once on the Boldrewood campus, follow the signs to Building 177 and then look
+for the signage for Student Robotics.
+
+* How to [get to campus][soton-campus-directions]
+* [On-campus directions][soton-directions] (and parking)
+* There is a separate space on the ground floor where food may be consumed. Food
+  is scarce in the Tech Day location, so we recommend either ordering food in or
+  taking packed lunches.
+
 ## Schedule
 
 | Time  | Info |
@@ -35,3 +46,5 @@ At the request of the venue:
 | 17:00 | Finish. |
 
 [tech-day-signup]: https://forms.gle/orwWr8DBkMg2CVTf9
+[soton-directions]: {{ site.baseurl }}/resources/sr2024/southampton-tech-day-directions-boldrewood.pdf
+[soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/boldrewood
