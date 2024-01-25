@@ -104,7 +104,7 @@ sponsors:
   - name: UK Electronics Skills Foundation
     link: https://www.ukesf.org/
     image: /images/sponsors/ukesf.svg
-    logo_width: default
+    logo_width: 200px
 
 user_tracking: true
 
