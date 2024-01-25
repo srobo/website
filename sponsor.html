@@ -52,20 +52,24 @@ permalink: /sponsor/
           </ul>
         </div>
         <div class="column s-6-12 sponsor-level-image">
-          <img srcset="{{ '/images/advertising/glue-gun@1x.jpg 1x' | prepend: site.baseurl }},
-                       {{ '/images/advertising/glue-gun@2x.jpg 2x' | prepend: site.baseurl }},
-                       {{ '/images/advertising/glue-gun@3x.jpg 3x' | prepend: site.baseurl }}"
-            src="{{ '/images/advertising/glue-gun@1x.jpg' | prepend: site.baseurl }}"
-            alt="Team of competitors gathered around a robot using a glue gun" />
+          {%
+            include multi-size-picture.html
+            sizes="1x,2x,3x"
+            image="/images/advertising/glue-gun@1x.jpg"
+            webp="true"
+            alt="Team of competitors gathered around a robot using a glue gun"
+          %}
         </div>
       </div>
       <div class="row sponsor-level">
         <div class="column s-6-12 sponsor-level-image">
-          <img srcset="{{ '/images/advertising/robot-competing@1x.jpg 1x' | prepend: site.baseurl }},
-                       {{ '/images/advertising/robot-competing@2x.jpg 2x' | prepend: site.baseurl }},
-                       {{ '/images/advertising/robot-competing@3x.jpg 3x' | prepend: site.baseurl }}"
-            src="{{ '/images/advertising/robot-competing@1x.jpg' | prepend: site.baseurl }}"
-            alt="Robot with a scissor lift mechanism next to a token covered in fiducial markers" />
+          {%
+            include multi-size-picture.html
+            sizes="1x,2x,3x"
+            image="/images/advertising/robot-competing@1x.jpg"
+            webp="true"
+            alt="Robot with a scissor lift mechanism next to a token covered in fiducial markers"
+          %}
         </div>
         <div class="column s-6-12 sponsor-level-description">
           <h3>Silver</h3>
@@ -90,20 +94,24 @@ permalink: /sponsor/
           </ul>
         </div>
         <div class="column s-6-12 sponsor-level-image">
-          <img srcset="{{ '/images/advertising/team-coding@1x.jpg 1x' | prepend: site.baseurl }},
-                       {{ '/images/advertising/team-coding@2x.jpg 2x' | prepend: site.baseurl }},
-                       {{ '/images/advertising/team-coding@3x.jpg 3x' | prepend: site.baseurl }}"
-            src="{{ '/images/advertising/team-coding@1x.jpg' | prepend: site.baseurl }}"
-            alt="Competitors sat in front of a laptop looking at code" />
+          {%
+            include multi-size-picture.html
+            sizes="1x,2x,3x"
+            image="/images/advertising/team-coding@1x.jpg"
+            webp="true"
+            alt="Competitors sat in front of a laptop looking at code"
+          %}
         </div>
       </div>
       <div class="row sponsor-level">
         <div class="column s-6-12 sponsor-level-image">
-          <img srcset="{{ '/images/advertising/team-in-arena@1x.jpg 1x' | prepend: site.baseurl }},
-                       {{ '/images/advertising/team-in-arena@2x.jpg 2x' | prepend: site.baseurl }},
-                       {{ '/images/advertising/team-in-arena@3x.jpg 3x' | prepend: site.baseurl }}"
-            src="{{ '/images/advertising/team-in-arena@1x.jpg' | prepend: site.baseurl }}"
-            alt="Two competitors standing in an arena, one holding a robot, talking to a team mate outside the arena" />
+          {%
+            include multi-size-picture.html
+            sizes="1x,2x,3x"
+            image="/images/advertising/team-in-arena@1x.jpg"
+            webp="true"
+            alt="Two competitors standing in an arena, one holding a robot, talking to a team mate outside the arena"
+          %}
         </div>
         <div class="column s-6-12 sponsor-level-description">
           <h3>Platinum</h3>
@@ -119,11 +127,14 @@ permalink: /sponsor/
       <p style="margin-top: 2rem; text-align: center; font-size: 18px;">
         If there is anything not mentioned we can offer you or you would be interested in - <a href="#sponsor-signup-panel">Get in touch!</a>
       </p>
-      <img srcset="{{ '/images/advertising/sad-robot@1x.jpg 1x' | prepend: site.baseurl }},
-                   {{ '/images/advertising/sad-robot@2x.jpg 2x' | prepend: site.baseurl }}"
-        src="{{ '/images/advertising/sad-robot@2x.jpg' | prepend: site.baseurl }}"
-        alt="A robot built by competitors themed to look like WALL-E" />
-    </div>
+      {%
+        include multi-size-picture.html
+        sizes="1x,2x"
+        image="/images/advertising/sad-robot@2x.jpg"
+        webp="true"
+        alt="A robot built by competitors themed to look like WALL-E"
+      %}
+      </div>
   </div>
 </div>
 <div class="panel">
