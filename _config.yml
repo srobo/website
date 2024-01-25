@@ -101,6 +101,11 @@ sponsors:
     image: /images/sponsors/hexibox.png
     logo_width: default
 
+  - name: UK Electronics Skills Foundation
+    link: https://www.ukesf.org/
+    image: /images/sponsors/ukesf.svg
+    logo_width: default
+
 user_tracking: true
 
 exclude:
