@@ -11,6 +11,8 @@ The Student Robotics Virtual Competition is the first stage of the SR2024 compet
 
 Teams will have to submit their code to us by 6pm GMT on Thursday 7th March using our [code submitter](https://studentrobotics.org/code-submitter/).
 
+After the livestream, teams will receive recordings of the matches their robot competed in and copies of their robot's logs.
+
 ## Livestream
 
 <iframe title="Livestream of the virtual competition" width="100%" height="315" src="https://www.youtube-nocookie.com/embed/hlfaQIfLaRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
