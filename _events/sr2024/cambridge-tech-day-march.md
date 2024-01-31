@@ -31,6 +31,8 @@ CB2 1NF
 
 The building is set back slightly from the road, look for the raspberry logo.
 
+Limited parking is available, please let us know on the sign up form if this is needed.
+
 ## Schedule
 
 | Time  | Info |
