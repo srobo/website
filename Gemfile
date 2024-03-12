@@ -15,7 +15,7 @@ gem 'tzinfo-data',      :platforms => [:mswin, :mingw, :x64_mingw]
 gem 'icalendar'
 
 # For testing output
-gem 'html-proofer'
+gem 'html-proofer', '~> 3'
 
 # Avoid polling on windows
 gem 'wdm', '>= 0.1.0'
