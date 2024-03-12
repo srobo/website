@@ -15,9 +15,11 @@ The Student Robotics public website.
     This allows spell checking to be run locally.
     Node is not required for the website to be built.
 
-3. Install Bundler (1.x) and Rake
+3. Install Bundler (2.3 or above) and Rake.
 
-    ```
+   Depending on how you have installed Ruby these may already be installed.
+
+    ``` console
     $ gem install bundler rake
     ```
 
