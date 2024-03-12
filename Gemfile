@@ -4,7 +4,7 @@ gem 'rake'
 gem 'kramdown'
 # jekyll depends on kramdown-parser-gfm, but fails to declare it
 gem 'kramdown-parser-gfm'
-gem 'jekyll'
+gem 'jekyll', '~> 3'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
