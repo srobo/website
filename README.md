@@ -8,7 +8,10 @@ The Student Robotics public website.
 
 0. [Clone this repo][clone-repo]
 
-1. [Install Ruby 2.7][install-ruby]
+1. [Install Ruby 3][install-ruby]
+
+   See `.ruby_version` for the precise version, though 3.3 or above will
+   probably be fine.
 
 2. (Optional) Install [Node.js and npm][install-node].
 
