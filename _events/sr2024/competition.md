@@ -18,6 +18,34 @@ The competition will be held from *Saturday 13th April* until *Sunday 14th April
 We anticipate that doors will open 9am and we aim to finish around 5pm, however
 the exact timings and schedule will be announced closer to the event.
 
+### Day 1 - 13th April, 2023
+
+Time | Activity
+--- | ---
+9:00 | Doors Open
+10:30 | Opening Ceremony
+10:40 | Tinker Time
+12:00 | Lunch
+12:40 | League Matches ([schedule][league-schedule])
+14:05 | Photo
+14:30 | Tinker Time
+16:00 | League Matches
+17:20 | End of Day
+
+### Day 2 - 14th April, 2023
+
+Time | Activity
+--- | ---
+9:00 | Doors Open
+10:00 | League Matches
+12:00 | Lunch
+12:40 | League Matches
+14:00 | Short Break
+14:15 | Knockouts ([matches][knockouts-schedule])
+16:00 | Prize-giving Ceremony
+16:45 | Kit Return
+17:30 | End of Day
+
 ## Media Consent
 
 Photos and videos will be taken at this event.
@@ -42,4 +70,6 @@ We have a limited amount of free parking on site for competitors.
 
 ![parking information]({{ '/resources/sr2024/parking-map.png' | prepend: site.baseurl }})
 
+[league-schedule]: https://studentrobotics.org/comp/schedule
+[knockouts-schedule]: https://studentrobotics.org/comp/knockout
 [soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/highfield
