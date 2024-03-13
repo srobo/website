@@ -27,7 +27,7 @@ Time | Activity
 10:40 | Tinker Time
 12:00 | Lunch
 12:40 | League Matches ([schedule][league-schedule])
-14:05 | Photo
+14:00 | Photo
 14:30 | Tinker Time
 16:00 | League Matches
 17:20 | End of Day
