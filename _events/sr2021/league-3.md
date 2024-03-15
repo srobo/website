@@ -14,7 +14,7 @@ Teams will have to submit their code to us by 8pm GMT on Friday 19th using our [
   title="Livestream of the third League Session"
   width="100%"
   height="315"
-  src="https://www.youtube.com/embed/MpuhtW4mCKM"
+  src="https://www.youtube-nocookie.com/embed/MpuhtW4mCKM"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen

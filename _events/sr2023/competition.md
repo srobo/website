@@ -85,7 +85,7 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
   title="SR2023 Competition Day 1"
   width="100%"
   height="315"
-  src="https://www.youtube.com/embed/TxbfE9es-EY"
+  src="https://www.youtube-nocookie.com/embed/TxbfE9es-EY"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
@@ -97,7 +97,7 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
   title="SR2023 Competition Day 2"
   width="100%"
   height="315"
-  src="https://www.youtube.com/embed/Z3Y-bUSGw34"
+  src="https://www.youtube-nocookie.com/embed/Z3Y-bUSGw34"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen

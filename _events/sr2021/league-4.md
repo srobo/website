@@ -14,7 +14,7 @@ Teams will have to submit their code to us by 8pm BST on Friday 23rd using our [
   title="Livestream of the fourth League Session"
   width="100%"
   height="315"
-  src="https://www.youtube.com/embed/E9gF-GZbf5M"
+  src="https://www.youtube-nocookie.com/embed/E9gF-GZbf5M"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen

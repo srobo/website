@@ -14,7 +14,7 @@ Teams will have to submit their code to us by 8pm GMT on Friday 5th using our [c
   title="Livestream of the second League Session"
   width="100%"
   height="315"
-  src="https://www.youtube.com/embed/RwW5Oz30gbE"
+  src="https://www.youtube-nocookie.com/embed/RwW5Oz30gbE"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen

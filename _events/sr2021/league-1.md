@@ -16,7 +16,7 @@ Our livestream will start at noon GMT: [Watch live](https://www.youtube.com/watc
   title="Livestream of the first League Session"
   width="100%"
   height="315"
-  src="https://www.youtube.com/embed/cAvk-nfTUis"
+  src="https://www.youtube-nocookie.com/embed/cAvk-nfTUis"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen

@@ -89,7 +89,7 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
   title="SR2022 Competition Day 1"
   width="100%"
   height="315"
-  src="https://www.youtube.com/embed/7HNG2bqwXlo"
+  src="https://www.youtube-nocookie.com/embed/7HNG2bqwXlo"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
@@ -101,7 +101,7 @@ Please see our [COVID-19 updates]({{ '/covid-19' | prepend: site.baseurl }}) pag
   title="SR2022 Competition Day 2"
   width="100%"
   height="315"
-  src="https://www.youtube.com/embed/M3stcLPbHOU"
+  src="https://www.youtube-nocookie.com/embed/M3stcLPbHOU"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen

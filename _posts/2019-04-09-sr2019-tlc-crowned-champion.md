@@ -47,7 +47,7 @@ Student Robotics 2019 concluded with an intense match between [Peter Symonds Col
 <iframe
   title="Video of SR2019 Final"
   class="center video"
-  src="https://www.youtube.com/embed/gOeP96OngE0"
+  src="https://www.youtube-nocookie.com/embed/gOeP96OngE0"
   frameborder="0"
   width="100%"
   allowfullscreen
