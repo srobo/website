@@ -41,7 +41,7 @@ Time | Activity
 12:00 | Lunch
 12:40 | League Matches
 14:00 | Short Break
-14:15 | Knockouts ([matches][knockouts-schedule])
+14:15 | Knockouts & Finals ([matches][knockouts-schedule])
 16:00 | Prize-giving Ceremony
 16:45 | Kit Return
 17:30 | End of Day
