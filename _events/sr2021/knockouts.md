@@ -14,7 +14,7 @@ Teams will have to submit their code to us by 8pm BST on Friday 30th April using
   title="Livestream of the Knockouts and Final"
   width="100%"
   height="315"
-  src="https://www.youtube.com/embed/gxJM6ernMqo"
+  src="https://www.youtube-nocookie.com/embed/gxJM6ernMqo"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
