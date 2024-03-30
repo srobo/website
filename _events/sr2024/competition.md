@@ -76,6 +76,11 @@ We have a limited amount of free parking on site for competitors.
 
 You can also download a PDF of the [venue map][venue-map].
 
+## Soundtrack
+
+- [Epic Playlist](https://open.spotify.com/playlist/36E9z8CIs87FacZOPaWpkX)
+- [_Chill_ Playlist](https://open.spotify.com/playlist/5z4XkLzR5yokLU0aVlbvDh)
+
 [league-schedule]: https://studentrobotics.org/comp/schedule
 [knockouts-schedule]: https://studentrobotics.org/comp/knockout
 [soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/highfield
