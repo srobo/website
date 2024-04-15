@@ -1,6 +1,6 @@
 ---
 title: Haberdashers' School wins Student Robotics Competition 2023!
-image: /images/content/blog/sr2022/sr2023-photo.jpg
+image: /images/content/blog/sr2023/sr2023-photo.jpg
 image_alt: All the teams from SR2023
 description: SR2023 came to an exciting conclusion with a victory for Haberdashers' School
 ---
