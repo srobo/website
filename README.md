@@ -8,16 +8,21 @@ The Student Robotics public website.
 
 0. [Clone this repo][clone-repo]
 
-1. [Install Ruby 2.7][install-ruby]
+1. [Install Ruby 3][install-ruby]
+
+   See `.ruby_version` for the precise version, though 3.3 or above will
+   probably be fine.
 
 2. (Optional) Install [Node.js and npm][install-node].
 
     This allows spell checking to be run locally.
     Node is not required for the website to be built.
 
-3. Install Bundler (1.x) and Rake
+3. Install Bundler (2.3 or above) and Rake.
 
-    ```
+   Depending on how you have installed Ruby these may already be installed.
+
+    ``` console
     $ gem install bundler rake
     ```
 

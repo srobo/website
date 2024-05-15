@@ -4,7 +4,7 @@ gem 'rake'
 gem 'kramdown'
 # jekyll depends on kramdown-parser-gfm, but fails to declare it
 gem 'kramdown-parser-gfm'
-gem 'jekyll'
+gem 'jekyll', '~> 3'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
@@ -15,7 +15,7 @@ gem 'tzinfo-data',      :platforms => [:mswin, :mingw, :x64_mingw]
 gem 'icalendar'
 
 # For testing output
-gem 'html-proofer'
+gem 'html-proofer', '~> 3'
 
 # Avoid polling on windows
 gem 'wdm', '>= 0.1.0'
