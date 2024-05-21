@@ -42,5 +42,5 @@ feature branch, and [raise a pull request][raise-a-pr].
 [clone-repo]: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 [install-ruby]: https://www.ruby-lang.org/en/documentation/installation/
 [install-node]: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
-[raise-a-pr]: https://github.com/srobo/website/pull/new/gh-pages
+[raise-a-pr]: https://github.com/srobo/website/pull/new/main
 [circle-ci]: https://circleci.com/gh/srobo/website
