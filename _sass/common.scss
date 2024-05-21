@@ -34,6 +34,14 @@
     color: $sr-white;
     margin-bottom: 0;
   }
+
+  &.with-calendar-button .fixed-width {
+    display: flex;
+    justify-content: space-between;
+    overflow: initial;
+    align-items: center;
+
+  }
 }
 
 .top-spacing {
