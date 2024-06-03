@@ -49,12 +49,41 @@ jobs:
               - Gemfile*
               - Rakefile
 
+  build-main:
+    needs:
+      - changes
+    if: needs.changes.outputs.build-system == 'true'
+    env:
+      # ruby/setup-ruby@v1 does not offer a way to change the cached gems path.
+      # See https://github.com/ruby/setup-ruby/issues/291
+      GLOBAL_GEMS: 1
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          submodules: recursive
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+          cache-version: 2
+
+      - name: Build
+        run: rake build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-from-main
+          path: _site
+
   diff:
     runs-on: ubuntu-latest
     needs:
-      - changes
       - build
-    if: needs.changes.outputs.build-system == 'true'
+      - build-main
     steps:
       - name: Download local artefact
         uses: actions/download-artifact@v4
@@ -69,27 +98,17 @@ jobs:
           popd
           mv artifact.tar local.tar
 
-      - name: Download deployed artefact
-        uses: dawidd6/action-download-artifact@v3
+      - name: Download main branch build artifact
+        uses: actions/download-artifact@v4
         with:
-          name: github-pages
-          branch: main
-          path: deployed
-          allow_forks: false
-
-      - name: Unpack deployed
-        run: |
-          mkdir deployed
-          pushd deployed
-          tar --extract --file ../artifact.tar
-          popd
-          mv artifact.tar deployed.tar
+          name: build-from-main
+          path: main
 
       - name: Debug
         run: ls -lR
 
       - name: Diff
-        run: diff -ru deployed local
+        run: diff -ru main local
 
   deploy:
     name: Deploy to GitHub Pages
