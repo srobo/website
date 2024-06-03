@@ -105,8 +105,8 @@ jobs:
           name: build-from-main
           path: main
 
-      - name: Debug
-        run: ls -lR
+      - name: Replace build timestamps
+        run: sed -i -r '1 s_<updated>[^/]+</updated>_<updated>NOW</updated>_' {main,local}/feed.xml
 
       - name: Diff
         run: diff -ru main local
