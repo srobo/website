@@ -109,7 +109,51 @@ jobs:
         run: sed -i -r '1 s_<updated>[^/]+</updated>_<updated>NOW</updated>_' {main,local}/feed.xml
 
       - name: Diff
-        run: diff -ru main local
+        id: diff
+        run: |
+          set +e
+          diff -ru main local > ./result.diff
+          result=$?
+          set -euo pipefail
+
+          delimiter="gha-delim-$RANDOM-$RANDOM-gha-delim"
+          {
+            echo "diff<<${delimiter}"
+            cat ./result.diff
+            echo "${delimiter}"
+          } >> "$GITHUB_OUTPUT"
+
+          cat ./result.diff
+
+          if [[ $result -ne 0 ]]
+          then
+            echo has-changes=true >> "$GITHUB_OUTPUT"
+          else
+            echo has-changes=false >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build comment
+        id: build-comment
+        if: always()
+        run: |
+          {
+            if [[ "${{ steps.diff.outputs.has-changes }}" = "true" ]]
+            then
+              echo "🔀 Build diff:"
+              echo '```diff'
+              cat ./result.diff
+              echo '```'
+            else
+              echo "Build has no changes."
+            fi
+          } > ./comment.md
+
+      - name: Post diff to PR
+        uses: thollander/actions-comment-pull-request@v2
+        if: always()
+        with:
+          comment_tag: build-diff
+          filePath: ./comment.md
 
   deploy:
     name: Deploy to GitHub Pages
