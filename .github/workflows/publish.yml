@@ -35,6 +35,7 @@ jobs:
 
   changes:
     runs-on: ubuntu-latest
+    if: github.ref != 'refs/heads/main'
     outputs:
       build-system: ${{ steps.filter.outputs.build-system }}
     steps:
