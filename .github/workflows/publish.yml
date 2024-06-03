@@ -74,7 +74,7 @@ jobs:
       - name: Build
         run: rake build
 
-      - name: Upload Pages artifact
+      - name: Upload build site
         uses: actions/upload-artifact@v4
         with:
           name: build-from-main
@@ -86,12 +86,12 @@ jobs:
       - build
       - build-main
     steps:
-      - name: Download local artefact
+      - name: Download artifact from this branch's build
         uses: actions/download-artifact@v4
         with:
           name: github-pages
 
-      - name: Unpack local
+      - name: Unpack local build
         run: |
           mkdir local
           pushd local
@@ -99,7 +99,7 @@ jobs:
           popd
           mv artifact.tar local.tar
 
-      - name: Download main branch build artifact
+      - name: Download artifact from main branch build
         uses: actions/download-artifact@v4
         with:
           name: build-from-main
