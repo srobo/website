@@ -33,6 +33,128 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
 
+  changes:
+    runs-on: ubuntu-latest
+    if: github.ref != 'refs/heads/main'
+    outputs:
+      build-system: ${{ steps.filter.outputs.build-system }}
+    steps:
+      - name: Check if build system changed
+        uses: dorny/paths-filter@v3
+        id: filter
+        with:
+          filters: |
+            build-system:
+              - _config.yml
+              - .github/**/*
+              - Gemfile*
+              - Rakefile
+
+  build-main:
+    needs:
+      - changes
+    if: needs.changes.outputs.build-system == 'true'
+    env:
+      # ruby/setup-ruby@v1 does not offer a way to change the cached gems path.
+      # See https://github.com/ruby/setup-ruby/issues/291
+      GLOBAL_GEMS: 1
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          submodules: recursive
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+          cache-version: 2
+
+      - name: Build
+        run: rake build
+
+      - name: Upload build site
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-from-main
+          path: _site
+
+  diff:
+    runs-on: ubuntu-latest
+    needs:
+      - build
+      - build-main
+    steps:
+      - name: Download artifact from this branch's build
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+
+      - name: Unpack local build
+        run: |
+          mkdir local
+          pushd local
+          tar --extract --file ../artifact.tar
+          popd
+          mv artifact.tar local.tar
+
+      - name: Download artifact from main branch build
+        uses: actions/download-artifact@v4
+        with:
+          name: build-from-main
+          path: main
+
+      - name: Replace build timestamps
+        run: sed -i -r '1 s_<updated>[^/]+</updated>_<updated>NOW</updated>_' {main,local}/feed.xml
+
+      - name: Diff
+        id: diff
+        run: |
+          set +e
+          diff -ru main local > ./result.diff
+          result=$?
+          set -euo pipefail
+
+          delimiter="gha-delim-$RANDOM-$RANDOM-gha-delim"
+          {
+            echo "diff<<${delimiter}"
+            cat ./result.diff
+            echo "${delimiter}"
+          } >> "$GITHUB_OUTPUT"
+
+          cat ./result.diff
+
+          if [[ $result -ne 0 ]]
+          then
+            echo has-changes=true >> "$GITHUB_OUTPUT"
+          else
+            echo has-changes=false >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build comment
+        id: build-comment
+        if: always()
+        run: |
+          {
+            if [[ "${{ steps.diff.outputs.has-changes }}" = "true" ]]
+            then
+              echo "🔀 Build diff:"
+              echo '```diff'
+              cat ./result.diff
+              echo '```'
+            else
+              echo "Build has no changes."
+            fi
+          } > ./comment.md
+
+      - name: Post diff to PR
+        uses: thollander/actions-comment-pull-request@v2
+        if: always()
+        with:
+          comment_tag: build-diff
+          filePath: ./comment.md
+
   deploy:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
