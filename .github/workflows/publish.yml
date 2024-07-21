@@ -85,6 +85,8 @@ jobs:
     needs:
       - build
       - build-main
+    permissions:
+      pull-requests: write
     steps:
       - name: Download artifact from this branch's build
         uses: actions/download-artifact@v4
