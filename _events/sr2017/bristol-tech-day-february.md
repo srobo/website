@@ -13,11 +13,11 @@ with other teams!
 
 ## Important Notice
 
-**If your team wants to attend, you need to bring your team supervisor or another
+**If your team wants to attend, you need to bring your team leader or another
 responsible adult. We also need their mobile number so we can contact them on
 the day.**
 
-**If the responsible adult is not your team supervisor, or your team supervisor has not
+**If the responsible adult is not your team leader, or your team leader has not
 already sent James ([jroff@studentrobotics.org][mail-james]) their mobile number,
 please do so before you arrive!**
 
