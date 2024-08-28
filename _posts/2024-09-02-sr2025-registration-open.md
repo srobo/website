@@ -16,10 +16,10 @@ robot, we mentor the teams over this period. Thanks to the generosity of our
 sponsors, we provide all of this to our teams at no cost.
 
 The competition cycle will start with an in-person [Kickstart event][kickstart]
-hosted at the University of Southampton on October 12th. During the event the game and the
-structure of the competition will be announced.
+hosted at the University of Southampton on October 12th. During the event the
+game and the structure of the competition will be announced.
 
-The competition year will culminate with an in-person competition over two days 
+The competition year will culminate with an in-person competition over two days
 around Easter 2025. This will see the robots compete through a league stage and
 a seeded knockout. As usual the prizes will recognise not only the teams which
 come top in the knockouts, but also those who excel in other ways.
