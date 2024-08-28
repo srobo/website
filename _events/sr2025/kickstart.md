@@ -20,7 +20,12 @@ If you are unable to attend Kickstart, please [let us know][teams-contact].
 
 ## Schedule
 
-_To be announced._
+| Time  | Info |
+|-------|------|
+| 11:00 | Introductory presentation, where the game of SR2025 will be announced. |
+| 12:30 | Lunch. |
+| 13:30 | Microgames, a set of tasks to familiarise you with the kit. |
+| 17:00 | Finish. |
 
 ## What to bring
 
