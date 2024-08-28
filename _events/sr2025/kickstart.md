@@ -29,7 +29,7 @@ If you are unable to attend Kickstart, please [let us know][teams-contact].
 
 ## What to bring
 
-* Your robot kit (which will have been shipped to you beforehand)
+* Your robot kit (we will be shipping kits to teams ahead of Kickstart)
 * Any tools which might be useful to work with your kit
 
 ## Directions
