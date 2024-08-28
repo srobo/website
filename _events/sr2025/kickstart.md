@@ -16,7 +16,8 @@ person, ready to answer any questions you may have and to help you through the
 microgames. These microgames will help your team become familiar with the Kit
 you've been provided and should kickstart some ideas for your robot's design.
 
-If you are unable to attend Kickstart, please [let us know][teams-contact].
+Please [let us know][teams-contact] if your plans change regarding your
+attendance at Kickstart.
 
 ## Schedule
 
