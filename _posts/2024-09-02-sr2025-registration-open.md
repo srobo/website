@@ -26,7 +26,7 @@ come top in the knockouts, but also those who excel in other ways.
 
 Details of the game and prizes will be revealed at [Kickstart][kickstart].
 Details of the competition events will be published when they are available.
-We expect to confirm places towards the end of September.
+We expect to confirm places towards the latter half of September.
 
 If you would like a chance to [compete][compete] in Student Robotics 2025,
 please fill in the [entry form][entry-form] with the required information.
