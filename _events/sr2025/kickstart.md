@@ -8,7 +8,7 @@ location: Southampton University
 ---
 
 Kickstart is the event which kicks off a competition year. The structure of the
-competition, the game rules will be announced and of course any questions you
+competition and the game rules will be announced and of course any questions you
 have will be answered.
 
 Throughout the day we'll have Blueshirts (our awesome volunteers!) around in
