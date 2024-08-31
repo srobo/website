@@ -11,9 +11,9 @@ Robotics is now open!
 Based in the UK, Student Robotics challenges teams of 16 to 19 year-olds to
 design, build and program fully autonomous robots to compete in our annual
 competition. Teams will have just six months to engineer their creations. As
-well as supplying teams with a kit, which they can use as a framework for their
-robot, we mentor the teams over this period. Thanks to the generosity of our
-sponsors, we provide all of this to our teams at no cost.
+well as supplying teams with a [kit][kit], which they can use as a framework for
+their robot, we mentor the teams over this period. Thanks to the generosity of
+our sponsors, we provide all of this to our teams at no cost.
 
 The competition cycle will start with an in-person [Kickstart event][kickstart]
 hosted at the University of Southampton on October 12th. During the event the
@@ -40,6 +40,7 @@ We look forward to seeing your teams!
   </a>
 </div>
 
+[kit]: https://studentrobotics.org/docs/kit/
 [kickstart]: {{ '/events/sr2025/kickstart' | prepend: site.baseurl }}
 [compete]: {{ '/compete' | prepend: site.baseurl }}
 [entry-form]: {{ '/compete#signup' | prepend: site.baseurl }}
