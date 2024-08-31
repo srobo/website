@@ -28,6 +28,9 @@ Details of the game and prizes will be revealed at [Kickstart][kickstart].
 Details of the competition events will be published when they are available.
 We expect to confirm places towards the latter half of September.
 
+We have also created some [pre-Kickstart activities][pre-kickstart-activities]
+which enable anyone to start learning about robotics and our simulator.
+
 If you would like a chance to [compete][compete] in Student Robotics 2025,
 please fill in the [entry form][entry-form] with the required information.
 Places are limited, so sign up soon to avoid disappointment.
@@ -44,3 +47,4 @@ We look forward to seeing your teams!
 [kickstart]: {{ '/events/sr2025/kickstart' | prepend: site.baseurl }}
 [compete]: {{ '/compete' | prepend: site.baseurl }}
 [entry-form]: {{ '/compete#signup' | prepend: site.baseurl }}
+[pre-kickstart-activities]: https://studentrobotics.org/docs/competitor_resources/pre_kickstart_activities
