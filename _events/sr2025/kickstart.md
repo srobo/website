@@ -19,7 +19,12 @@ you've been provided and should kickstart some ideas for your robot's design.
 We will also be live streaming the event for those unable to attend in person.
 
 Places in the competition will be confirmed in advance of Kickstart. If you
-haven't already done so, you can [register your interest][register-interest].
+haven't already done so, you can [sign up][register-interest] now. We expect to
+confirm places towards the latter half of September. Places are limited, so sign
+up soon to avoid disappointment.
+
+We have also prepared some [pre-Kickstart activities][pre-kickstart-activities]
+to enable teams to start learning about robotics and our simulator right away.
 
 Please [let us know][teams-contact] if your plans change regarding your
 attendance at Kickstart.
@@ -65,5 +70,6 @@ Our livestream will start at <time datetime="2024-10-12T11:00:00+01:00" title="S
   allowfullscreen></iframe>
 
 [register-interest]: {{ site.baseurl }}/compete#signup
+[pre-kickstart-activities]: https://studentrobotics.org/docs/competitor_resources/pre_kickstart_activities
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/highfield
