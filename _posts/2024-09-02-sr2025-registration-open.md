@@ -15,9 +15,10 @@ well as supplying teams with a [kit][kit], which they can use as a framework for
 their robot, we mentor the teams over this period. Thanks to the generosity of
 our sponsors, we provide all of this to our teams at no cost.
 
-The competition cycle will start with an in-person [Kickstart event][kickstart]
-hosted at the University of Southampton on October 12th. During the event the
-game and the structure of the competition will be announced.
+The [competition cycle][programme-structure] will start with an in-person
+[Kickstart event][kickstart] hosted at the University of Southampton on October
+12th. During the event the game and the structure of the competition will be
+announced.
 
 The competition year will culminate with an in-person competition over two days
 around Easter 2025. This will see the robots compete through a league stage and
@@ -44,6 +45,7 @@ We look forward to seeing your teams!
 </div>
 
 [kit]: https://studentrobotics.org/docs/kit/
+[programme-structure]: https://studentrobotics.org/docs/robots_101/programme_structure
 [kickstart]: {{ '/events/sr2025/kickstart' | prepend: site.baseurl }}
 [compete]: {{ '/compete' | prepend: site.baseurl }}
 [entry-form]: {{ '/compete#signup' | prepend: site.baseurl }}
