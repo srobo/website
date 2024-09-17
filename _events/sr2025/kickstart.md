@@ -18,10 +18,8 @@ you've been provided and should kickstart some ideas for your robot's design.
 
 We will also be live streaming the event for those unable to attend in person.
 
-Places in the competition will be confirmed in advance of Kickstart. If you
-haven't already done so, you can [sign up][register-interest] now. We expect to
-confirm places towards the latter half of September. Places are limited, so sign
-up soon to avoid disappointment.
+Registration for SR2025 has closed; places in the competition will be confirmed
+in advance of Kickstart.
 
 We have also prepared some [pre-Kickstart activities][pre-kickstart-activities]
 to enable teams to start learning about robotics and our simulator right away.
