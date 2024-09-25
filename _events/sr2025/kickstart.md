@@ -40,6 +40,7 @@ attendance at Kickstart.
 
 * Your robot kit (we intend to ship kits to teams ahead of Kickstart)
 * Any tools which might be useful to work with your kit
+* A laptop to program your robots with
 
 ## Directions
 
