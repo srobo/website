@@ -46,7 +46,7 @@ attendance at Kickstart.
 
 Kickstart is being held at the University of Southampton at:
 
-<!-- Building 46,<br> -->
+Building 46,<br>
 University Road,<br>
 Southampton,<br>
 SO17 1BJ
