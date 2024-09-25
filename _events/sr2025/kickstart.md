@@ -32,7 +32,7 @@ attendance at Kickstart.
 | Time  | Info |
 |-------|------|
 | 11:00 | Introductory presentation, where the game of SR2025 will be announced. |
-| 12:30 | Lunch. |
+| 12:30 | There will be a lunch break. Teams should bring their own lunches or get them from food vendors near the venue. |
 | 13:30 | Microgames, a set of tasks to familiarise you with the kit. |
 | 17:00 | Finish. |
 
@@ -40,12 +40,13 @@ attendance at Kickstart.
 
 * Your robot kit (we intend to ship kits to teams ahead of Kickstart)
 * Any tools which might be useful to work with your kit
+* A laptop to program your robots with, note that the USB stick for your robot needs a [USB Type-A socket](https://www.viewsonic.com/library/tech/usb-c-usb-b-and-usb-a-whats-the-difference/#USB_The_Basics)
 
 ## Directions
 
 Kickstart is being held at the University of Southampton at:
 
-<!-- Building 46,<br> -->
+Building 46,<br>
 University Road,<br>
 Southampton,<br>
 SO17 1BJ
