@@ -116,7 +116,6 @@ DEPENDENCIES
   tzinfo
   tzinfo-data
   wdm (>= 0.1.0)
-  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.6
