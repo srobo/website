@@ -57,7 +57,8 @@ Southampton's information on [getting to our campuses][soton-campus-directions]
 
 ## Livestream
 
-Our livestream will start at <time datetime="2024-10-12T11:00:00+01:00" title="Sat, 12 Oct 2024 11:00:00 +0100">11am UK time</time>: [Watch live](https://www.youtube.com/watch?v=waO2NASj1zs).
+Our livestream will start at <time datetime="2024-10-12T11:00:00+01:00" title="Sat, 12 Oct 2024 11:00:00 +0100">11am UK time</time>: [Watch live](https://www.youtube.com/watch?v=waO2NASj1zs).<br>
+Additionally the steam will be recorded and available after the event.
 
 <iframe
   title="Livestream of the Kickstart Event"
