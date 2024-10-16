@@ -1,7 +1,7 @@
 ---
 title: Virtual Competition
-date: 2024-02-08 13:00:00 Europe/London
-end_date: 2024-02-08 15:30:00 Europe/London
+date: 2025-02-08 13:00:00 Europe/London
+end_date: 2025-02-08 15:30:00 Europe/London
 layout: event
 type: competition
 location: Student Robotics' YouTube Channel
