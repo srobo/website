@@ -10,8 +10,6 @@ With just six months until the Competition our teams have their work cut out for
 
 This may seem like a mammoth undertaking, and it is, but the teams don't have to go it alone! [Our Discord][discord] provides teams with easy access to our volunteer Blueshirts and the wealth of knowledge they hold. Teams can ask for a Mentor, who will attend their regular meetings and provide guidance and advice throughout the year. We also host [Tech Days][tech-days], dedicated days where teams can hack on their robots with in person advice from our Blueshirts and meet other teams.
 
-We can't wait to see what amazing creations our teams will build, and look forward to sharing their progress with you over the next six months!
-
 If you weren’t able to attend Kickstart this year, or would like a recap, you can:
 
 - take a look at our [pre-kickstart activities][pre-kickstart] if you haven't already
@@ -20,6 +18,8 @@ If you weren’t able to attend Kickstart this year, or would like a recap, you 
 - download [the microgames][microgames] which are small activities designed to let you become familiar with the kit.
 - If you’re a competitor, be sure to check out our [Kickstarted, now what?][robot-101-teams] guide for some next steps.
 - If you’re a team supervisor, be sure to check out our guide on [running a team][robot-101-supervisors] for suggestions on how best to support your team.
+
+We can't wait to see what amazing creations our teams will build, and look forward to sharing their progress with you over the next six months!
 
 [kit]: https://studentrobotics.org/docs/kit
 [rules]: https://studentrobotics.org/docs/rules/
