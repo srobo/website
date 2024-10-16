@@ -21,13 +21,13 @@ If you weren’t able to attend Kickstart this year, or would like a recap, you 
 - If you’re a competitor, be sure to check out our [Kickstarted, now what?][robot-101-teams] guide for some next steps.
 - If you’re a team supervisor, be sure to check out our guide on [running a team][robot-101-supervisors] for suggestions on how best to support your team.
 
-[kit]: https://srobo.org/docs/kit
-[rules]: https://srobo.org/rules
-[challenges]: https://srobo.org/docs/resources/2025/challenges.html
+[kit]: https://studentrobotics.org/docs/kit
+[rules]: https://studentrobotics.org/docs/rules/
+[challenges]: https://studentrobotics.org/docs/resources/2025/challenges.html
 [livestream]: https://www.youtube.com/watch?v=waO2NASj1zs
 [discord]: https://studentrobotics.org/docs/tutorials/discord
-[tech-days]: https://studentrobotics.org/events/
-[virtual-competition]: https://studentrobotics.org/events/sr2025/virtual-competition/
+[tech-days]: https://studentrobotics.org/docs/robots_101/tech_days
+[virtual-competition]: {{ '/events/sr2025/virtual-competition' | prepend: site.baseurl }}
 [presentation]: https://docs.google.com/presentation/d/1jKkJzRXTu7KsDUXc_KdApZJxXwVtKb1cSoXkWcizWlo/preview
 [pre-kickstart]: https://docs.google.com/document/d/18Kt72gt__4len23zyeAXD-qkSsHw72Il7PjfBgGqwnU/preview
 [microgames]: https://docs.google.com/document/d/1xTCc62vyUaxdlzsaLpQiwkttAQEc6wc4csproAjo17E/preview
