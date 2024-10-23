@@ -18,7 +18,7 @@ The competition will be held from *Saturday 13th April* until *Sunday 14th April
 We anticipate that doors will open 9am and we aim to finish around 5pm, however
 the exact timings and schedule will be announced closer to the event.
 
-### Day 1 - 13th April, 2023
+### Day 1 - 13th April, 2024
 
 Time | Activity
 --- | ---
@@ -32,7 +32,7 @@ Time | Activity
 16:00 | League Matches
 17:20 | End of Day
 
-### Day 2 - 14th April, 2023
+### Day 2 - 14th April, 2024
 
 Time | Activity
 --- | ---
