@@ -62,23 +62,23 @@ img.image {
 }
 
 .panel-blueshirts {
-  @include gradient-background($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/blueshirts.jpg");
+  @include gradient-background-with-webp($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/blueshirts.jpg");
 }
 
 .panel-boxes {
-  @include gradient-background($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/boxes.jpg");
+  @include gradient-background-with-webp($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/boxes.jpg");
 }
 
 .panel-arena {
-  @include gradient-background($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/arena.jpg");
+  @include gradient-background-with-webp($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/arena.jpg");
 }
 
 .panel-sponsor {
-  @include gradient-background($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/sponsor-hero.jpg");
+  @include gradient-background-with-webp($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/sponsor-hero.jpg");
 }
 
 .panel-grandstand {
-  @include gradient-background($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/grandstand.jpg");
+  @include gradient-background-with-webp($blue-top-colour, $blue-bottom-colour, "#{$image-directory}/grandstand.jpg");
 }
 
 .panel-container {
