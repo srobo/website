@@ -9,7 +9,7 @@ location: Student Robotics' YouTube Channel
 
 The Student Robotics Virtual League is the first stage of the SR2025 competition. Teams will push their virtual robots to the limit, competing against each other in a [virtual arena](https://studentrobotics.org/docs/simulator/), teams are competing for real league points, which could make all the difference in the final competition.
 
-Teams will have to submit their code to us by 6pm GMT on Thursday 6th March using our [code submitter](https://studentrobotics.org/code-submitter/).
+Teams will have to submit their code to us by 6pm GMT on Thursday 6th March using our [code submitter](https://studentrobotics.org/docs/tutorials/code_submitter).
 
 After the livestream, teams will receive recordings of the matches their robot competed in and copies of their robot's logs.
 
