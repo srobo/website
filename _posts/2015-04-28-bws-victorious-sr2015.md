@@ -10,7 +10,7 @@ description: >
 {% include figure.html
            url="https://www.flickr.com/photos/richardpbarlow/17291755395/in/pool-sr2015/"
            src="/images/content/blog/sr2015/everyone.jpg"
-           caption="All the competitors and blueshirts on the stands at Newbury Racecourse. Photograph courtesy of Rich Barlow." %}
+           caption="All the competitors and Blueshirts on the stands at Newbury Racecourse. Photograph courtesy of Rich Barlow." %}
 
 {% include figure.html
            class="right"

@@ -12,7 +12,7 @@ robot with lots of help available. They’re also an opportunity to see how othe
 teams are doing or get more direct help with their robots.
 
 The aim of this day is to help teams out by having guaranteed presence from us
-blueshirts. We'll be around to answer questions about the competition, give kit
+Blueshirts. We'll be around to answer questions about the competition, give kit
 support, assist with the microgames, and assist with strategy ideas.
 
 Our SR2023 December Tech Day is being hosted on our [Discord](https://studentrobotics.org/docs/team_admin/discord) server.
