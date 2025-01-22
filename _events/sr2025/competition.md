@@ -15,10 +15,9 @@ We will finish the weekend with our knockout where the best robots will be named
 
 The competition will be held from _Saturday 12th April_ until _Sunday 13th April_.
 
-We anticipate that doors will open 9am and we aim to finish around 5pm, however
-the exact timings and schedule will be announced closer to the event.
+The provisional day schedule is available below.
 
-### Day 1 - 12th April, 2025
+### Day 1 - 12th April 2025
 
 | Time  | Activity         |
 | ----- | ---------------- |
@@ -33,7 +32,7 @@ the exact timings and schedule will be announced closer to the event.
 | 16:00 | Tinker Time      |
 | 17:00 | End of Day       |
 
-### Day 2 - 13th April, 2025
+### Day 2 - 13th April 2025
 
 | Time  | Activity              |
 | ----- | --------------------- |
