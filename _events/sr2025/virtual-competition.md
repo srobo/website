@@ -21,7 +21,7 @@ Teams can make as many submissions as they like, with the last one before the su
 There will be four appearances per team in the Virtual League, with each Virtual League match being worth half a Main League match.
 Only teams who submit code before the deadline will have appearances in the Virtual League.
 
-After the livestream, teams will receive recordings of the matches their robot competed in and copies of their robot's logs.
+After the livestream, teams will receive copies of their robot's logs from the matches their robot competed in.
 
 ## Livestream
 
