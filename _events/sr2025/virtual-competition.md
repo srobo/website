@@ -10,7 +10,7 @@ location: <a href="https://www.youtube.com/watch?v=p0KxrRNTGBs">Student Robotics
 The Student Robotics [Virtual League](https://studentrobotics.org/docs/robots_101/programme_structure#virtual-league) is the first stage of the SR2025 competition. Teams will push their virtual robots to the limit, competing against each other in a [virtual arena](https://studentrobotics.org/docs/simulator/), for real league points, which could make all the difference in the final competition.
 
 Like the in-person physical [competition]({{ site.baseurl }}/events/sr2025/competition/) later in the year, teams must devise a strategy which their [virtual robot](https://studentrobotics.org/docs/simulator/simulated_robot) can follow completely autonomously.
-This is aided by the simulator using the same interfaces as the physical robots, enabling teams to write code which can largely be used for both parts of the competition.
+This is aided by the simulator using the same programming interfaces as the physical robots, enabling teams to write code which can largely be used for both parts of the competition.
 Unlike their physical counterparts, the virtual robots come pre-designed and are the same for all teams.
 
 This makes the virtual league both a test of the teams' coding ability as well as an early opportunity to explore strategies for competing against other teams.
