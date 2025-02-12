@@ -69,4 +69,11 @@ We have a limited amount of free parking on site for competitors.
 
 ![parking information]({{ '/resources/sr2025/parking-map.png' | prepend: site.baseurl }})
 
+## Soundtrack
+
+We play background music during the event, and more dramatic music during matches. The playlists for these are linked below:
+
+- [Epic Playlist](https://open.spotify.com/playlist/4wBih3S3fb47yCcG9gMSbk)
+- [_Chill_ Playlist](https://open.spotify.com/playlist/0d8B7ynxuFNWDrN90w9fbP)
+
 [soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/highfield
