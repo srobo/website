@@ -107,7 +107,9 @@ sponsors:
     logo_width: 200px
 
 user_tracking: true
+
 show_competition_status: true
+competition_status_previous_event: Virtual League
 
 exclude:
   - README.md
