@@ -107,6 +107,7 @@ sponsors:
     logo_width: 200px
 
 user_tracking: true
+show_competition_status: true
 
 exclude:
   - README.md
