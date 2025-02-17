@@ -15,7 +15,7 @@ We provide a space for you to work in, with power and internet access, as well
 as volunteers able to help you with your kits and hands-on guidance with your
 robots.
 
-Spaces are limited to twelve teams, so be sure to [let us know][tech-day-signup]
+Spaces are limited to four teams, so be sure to [let us know][tech-day-signup]
 by Friday 7th February 2025 if you'd like to attend. We will begin confirming
 places from Wednesday 15th January 2025.
 
