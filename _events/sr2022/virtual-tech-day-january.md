@@ -9,7 +9,7 @@ location: Discord
 
 Tech Days are opportunities for teams to spend a whole day working on their robot with lots of help available. They’re also an opportunity to see how other teams are doing or get more direct help with their robots.
 
-The aim of this day is to help teams out by having guaranteed presence from us blueshirts. We'll be around to answer questions about the competition, give kit support, and assist with strategy ideas.
+The aim of this day is to help teams out by having guaranteed presence from us Blueshirts. We'll be around to answer questions about the competition, give kit support, and assist with strategy ideas.
 
 ## Schedule
 

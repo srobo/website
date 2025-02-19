@@ -6,7 +6,7 @@ As was announced at Kickstart, we will be running some Tech Days during this
 competition year.
 
 Tech Days are opportunities for teams to make concentrated progress on their
-robots with help from highly-experienced blue-shirts. They’re also an
+robots with help from highly-experienced Blueshirts. They’re also an
 opportunity to get technical help and to see how well teams are doing in
 comparison to other teams. Later Tech Days may feature mockups of the arena,
 enabling teams to test their robots in more realistic ways.

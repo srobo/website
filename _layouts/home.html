@@ -27,6 +27,15 @@ layout: default
         {{ latest_post.date | date: "%e %B, %Y" }}
       </div>
     </div>
+    {% if site.show_competition_status %}
+      <div class="content">
+        <h4>Competition Status</h4>
+        <a href="https://studentrobotics.org/comp/league">Leaderboard</a>
+        <div class="content-details">
+          after the {{ site.competition_status_previous_event }}
+        </div>
+      </div>
+    {% endif %}
     <div class="content">
       {% assign next_event = site.events | where_exp: "event", "event.date > site.time"
       | where_exp: "event", "event.cancelled != true" | first %}
