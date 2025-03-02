@@ -1,0 +1,17 @@
+<add-to-calendar-button
+  name="{{ site.title }}"
+  {% comment %}startDate is required{% endcomment %}
+  startDate="1970-01-01"
+  subscribe
+  icsFile="https://studentrobotics.org/events.ics"
+  iCalFileName="{{ site.title }}"
+  options="'Apple','Google','iCal','Outlook.com','Microsoft 365','Microsoft Teams'"
+  size="{{ include.sizes }}"
+  buttonStyle="text"
+  trigger="click"
+  hideBackground
+  styleLight="--btn-shadow: none; --btn-border: none; --list-border: none; --font: 'Open Sans', Arial, sans-serif; --overlay-cursor: initial; --btn-underline: transparent; --btn-text: {{ include.text_colour }}; --btn-text-hover: {{ include.text_colour }}; --btn-text-shadow: none; --btn-background: transparent"
+  lightMode="light"
+  hideIconButton
+  hideCheckmark
+/>

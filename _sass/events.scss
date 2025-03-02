@@ -77,3 +77,10 @@ ul.event-listing {
 .event-date time {
   white-space: nowrap;
 }
+
+.detail-list li.with-add-to-calendar-button {
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  display: flex;
+  align-items: center;
+}
