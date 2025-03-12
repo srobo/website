@@ -69,6 +69,22 @@ We have a limited amount of free parking on site for competitors.
 
 ![parking information]({{ '/resources/sr2025/parking-map.png' | prepend: site.baseurl }})
 
+## Livestream
+
+Both days will be livestreamed on YouTube.
+
+### Day 1
+
+<iframe
+  title="SR2025 Competition Day 1"
+  width="100%"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/iJwuYluRUjE"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
+
 ## Soundtrack
 
 We play background music during the event, and more dramatic music during matches. The playlists for these are linked below:
