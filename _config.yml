@@ -91,11 +91,6 @@ sponsors:
     image: /images/sponsors/itdev.png
     logo_width: 200px
 
-  - name: Bittele
-    link: https://www.7pcb.com/
-    image: /images/sponsors/bittele.svg
-    logo_width: default
-
   - name: Hexibox
     link: https://hexibox-events.co.uk/
     image: /images/sponsors/hexibox.png
