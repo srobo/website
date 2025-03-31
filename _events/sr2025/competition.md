@@ -69,6 +69,12 @@ We have a limited amount of free parking on site for competitors.
 
 ![parking information]({{ '/resources/sr2025/parking-map.png' | prepend: site.baseurl }})
 
+### Layout
+
+![venue map]({{ '/resources/sr2025/venue-map.png' | prepend: site.baseurl }})
+
+You can also download a PDF of the [venue map]({{ '/resources/sr2025/venue-map.pdf' | prepend: site.baseurl }}).
+
 ## Livestream
 
 Both days will be livestreamed on YouTube.
