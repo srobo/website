@@ -71,9 +71,9 @@ We have a limited amount of free parking on site for competitors.
 
 ### Layout
 
-![venue map]({{ '/resources/sr2025/venue-map.png' | prepend: site.baseurl }})
+[![venue map][venue-map-image]][venue-map-image]
 
-You can also download a PDF of the [venue map]({{ '/resources/sr2025/venue-map.pdf' | prepend: site.baseurl }}).
+You can also download a PDF of the [venue map][venue-map].
 
 ## Livestream
 
@@ -99,3 +99,5 @@ We play background music during the event, and more dramatic music during matche
 - [_Chill_ Playlist](https://open.spotify.com/playlist/0d8B7ynxuFNWDrN90w9fbP)
 
 [soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/highfield
+[venue-map-image]: {{ '/resources/sr2025/venue-map.png' | prepend: site.baseurl }}
+[venue-map]: {{ '/resources/sr2025/venue-map.pdf' | prepend: site.baseurl }}
