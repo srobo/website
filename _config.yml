@@ -104,7 +104,7 @@ sponsors:
 user_tracking: true
 
 show_competition_status: true
-competition_status_previous_event: Virtual League
+competition_status_previous_event: SR2025 Competition
 
 exclude:
   - README.md
