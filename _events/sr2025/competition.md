@@ -91,6 +91,18 @@ Both days will be livestreamed on YouTube.
   allowfullscreen
 ></iframe>
 
+### Day 2
+
+<iframe
+  title="SR2025 Competition Day 2"
+  width="100%"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/m4DT0_MfAuk"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
+
 ## Soundtrack
 
 We play background music during the event, and more dramatic music during matches. The playlists for these are linked below:
