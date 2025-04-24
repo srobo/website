@@ -56,7 +56,9 @@
     padding: 3px;
 
     @include media-query('medium') {
-      min-height: 480px;
+      // YouTube landscape videos at a sensible size for our blog posts
+      height: 315px;
+      width: 560px;
     }
   }
 
