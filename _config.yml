@@ -101,6 +101,11 @@ sponsors:
     image: /images/sponsors/ukesf.svg
     logo_width: 200px
 
+  - name: Bittele
+    link: https://www.7pcb.com/
+    image: /images/sponsors/bittele.svg
+    logo_width: default
+
 user_tracking: true
 
 show_competition_status: true
