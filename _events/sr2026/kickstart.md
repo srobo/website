@@ -24,7 +24,7 @@ attendance at Kickstart.
 
 | Time  | Info                                                                                                            |
 | ----- | --------------------------------------------------------------------------------------------------------------- |
-| 11:00 | Introductory presentation, where the game of SR2025 will be announced.                                          |
+| 11:00 | Introductory presentation, where the game of SR2026 will be announced.                                          |
 | 12:30 | There will be a lunch break. Teams should bring their own lunches or get them from food vendors near the venue. |
 | 13:30 | Microgames, a set of tasks to familiarise you with the kit.                                                     |
 | 17:00 | Finish.                                                                                                         |
