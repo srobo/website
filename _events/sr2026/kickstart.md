@@ -11,7 +11,7 @@ Kickstart is the event which kicks off a competition year.
 The structure of the competition and the game rules will be announced and of course any questions you have will be answered.
 
 Throughout the day we'll have Blueshirts (our awesome volunteers!) around in person, ready to answer any questions you may have and to help you through the microgames.
-These microgames will help your team become familiar with the Kit you've been provided and should kickstart some ideas for your robot's design.
+These microgames will help your team become familiar with the Kit you've been provided and should help inspire your robot's design.
 
 We will also be live streaming the event for those unable to attend in person.
 
