@@ -12,8 +12,10 @@ Based in the UK, Student Robotics challenges teams of 16 to 19 year-olds to
 design, build and program fully autonomous robots to compete in our annual
 competition. Teams will have just six months to engineer their creations. As
 well as supplying teams with a [kit][kit], which they can use as a framework for
-their robot, we mentor the teams over this period. Thanks to the generosity of
-our sponsors, we provide all of this to our teams at no cost.
+their robot, we mentor the teams over this period to help them build 
+the best robot they can and get the most out of the competition. 
+Thanks to the generosity of our sponsors, we provide all of this to our
+teams at no cost.
 
 The [competition cycle][programme-structure] will start with an in-person
 [Kickstart event][kickstart] hosted at the University of Southampton on November
