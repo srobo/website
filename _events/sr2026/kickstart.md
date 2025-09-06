@@ -13,7 +13,7 @@ The structure of the competition and the game rules will be announced and of cou
 Throughout the day we'll have Blueshirts (our awesome volunteers!) around in person, ready to answer any questions you may have and to help you through the microgames.
 These microgames will help your team become familiar with the Kit you've been provided and should help inspire your robot's design.
 
-We will also be live streaming the event for those unable to attend in person.
+We will also be live streaming the introductory presentation for those unable to attend in person.
 
 We will soon post some pre-kickstart activities to get started with ahead of Kickstart.
 
