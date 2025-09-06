@@ -2,7 +2,7 @@
 title: Registration opens for Student Robotics 2026
 ---
 
-{% include figure.html src="/images/content/blog/sr2024/sr2024-photo.jpg"
+{% include figure.html src="/images/content/blog/sr2025/sr2025-photo.jpg"
            caption="All the teams from SR2024" %}
 
 We're excited to announce that registration for the 2026 season of Student
