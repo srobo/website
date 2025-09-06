@@ -32,7 +32,7 @@ attendance at Kickstart.
 ## What to bring
 
 - Any tools which might be useful to work with your kit, especially wire cutters and strippers
-- A laptop to program your robots with, note that the USB stick for your robot needs a [USB Type-A socket](https://www.viewsonic.com/library/tech/usb-c-usb-b-and-usb-a-whats-the-difference/#USB_The_Basics)
+- At least 1 laptop to program your robots with. Note that the USB stick for your robot needs a [USB Type-A socket](https://www.viewsonic.com/library/tech/usb-c-usb-b-and-usb-a-whats-the-difference/#USB_The_Basics)
 
 We'll be issuing kits to teams at Kickstart. If you're not attending Kickstart, we will ship your kit to you.
 
