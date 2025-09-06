@@ -21,7 +21,7 @@ The [competition cycle][programme-structure] will start with an in-person
 announced.
 
 The competition year will culminate with an in-person competition over two days
-around Easter 2025. This will see the robots compete through a league stage and
+around Easter 2026. This will see the robots compete through a league stage and
 a seeded knockout. As usual the prizes will recognise not only the teams which
 come top in the knockouts, but also those who excel in other ways.
 
