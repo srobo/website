@@ -16,8 +16,8 @@ their robot, we mentor the teams over this period. Thanks to the generosity of
 our sponsors, we provide all of this to our teams at no cost.
 
 The [competition cycle][programme-structure] will start with an in-person
-[Kickstart event][kickstart] hosted at the University of Southampton on October
-12th. During the event the game and the structure of the competition will be
+[Kickstart event][kickstart] hosted at the University of Southampton on November
+8th. During the event the game and the structure of the competition will be
 announced.
 
 The competition year will culminate with an in-person competition over two days
