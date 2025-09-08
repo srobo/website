@@ -4,7 +4,7 @@ date: 2025-11-08 11:00:00 Europe/London
 end_date: 2025-11-08 17:00:00 Europe/London
 layout: event
 type: kickstart
-location: Southampton University and <a href="https://www.youtube.com/watch?v=waO2NASj1zs">Student Robotics' YouTube Channel</a>
+location: Southampton University and Student Robotics' YouTube Channel
 ---
 
 Kickstart is the event which kicks off a competition year.
