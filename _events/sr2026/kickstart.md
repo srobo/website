@@ -51,8 +51,17 @@ Southampton's information on [getting to our campuses][soton-campus-directions]
 
 ## Livestream
 
-Our livestream will start at <time datetime="2025-11-08T11:00:00+01:00" title="Sat, 9 Nov 2025 11:00:00 +0100">11am UK time</time>: Watch link TBC.<br>
+Our livestream will start at <time datetime="2025-11-08T11:00:00+01:00" title="Sat, 9 Nov 2025 11:00:00 +0100">11am UK time</time>: [Watch live](https://www.youtube.com/watch?v=3soRikPaIjU).<br>
 If you can't watch live, you can watch the stream back afterwards.
+
+<iframe
+  title="Livestream of the Kickstart Event"
+  width="100%"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/3soRikPaIjU"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-campus-directions]: https://www.southampton.ac.uk/student-life/campuses/highfield
