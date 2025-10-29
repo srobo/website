@@ -34,7 +34,7 @@ attendance at Kickstart.
 - Any tools which might be useful to work with your kit, especially wire cutters and strippers
 - At least 1 laptop to program your robots with. Note that the USB stick for your robot needs a [USB Type-A socket](https://www.viewsonic.com/library/tech/usb-c-usb-b-and-usb-a-whats-the-difference/#USB_The_Basics)
 
-Kits will be issued to teams at kickstart. If you're unable to attend in person, we'll ship your kit to you. We'll confirm further details soon.
+Kits will be issued to teams at kickstart. If you're unable to attend in person, we'll ship your kit to you.
 
 ## Directions
 
