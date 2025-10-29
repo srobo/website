@@ -15,8 +15,6 @@ These microgames will help your team become familiar with the Kit you've been pr
 
 We will also be live streaming the introductory presentation for those unable to attend in person.
 
-We will soon post some pre-kickstart activities to get started with ahead of Kickstart.
-
 Please [let us know][teams-contact] if your plans change regarding your
 attendance at Kickstart.
 
