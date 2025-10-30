@@ -1,10 +1,14 @@
 ---
 layout: blog
 title: Risk Assessments
-date: 2025-02-19
+date: 2025-10-29
 ---
 
 Last updated: {{ page.date | date: "%e %B %Y" }}.
+
+### Kickstart
+
+We have published a [risk assessment for the SR2026 Kickstart]({{ '/resources/sr2026/risk-assessments/kickstart.pdf' | prepend: site.baseurl }}).
 
 ### Tech Days
 
