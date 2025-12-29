@@ -1,33 +1,35 @@
 ---
-title: Cambridge January Challenge Day
-date: 2026-01-24 10:00:00 Europe/London
-end_date: 2026-01-24 17:00:00 Europe/London
+title: Horsham February Challenge Day
+date: 2026-02-21 10:00:00 Europe/London
+end_date: 2026-02-21 17:00:00 Europe/London
 layout: event
 type: tech-day
-location: Raspberry Pi Foundation, Cambridge
+location: Red River Software, Horsham
 ---
 
 [Challenge Days][tech-days] (formally known as Tech Days) are opportunities for teams to spend a whole day working on completing challenges with lots of help available. -- from a mix of long-experienced volunteers and more recent ex-competitors. They're also an opportunity to see how other teams are doing, get more direct help with your robots, discuss your strategy.
 
 We provide a space for you to work in, with power and internet access, as well as volunteers able to help you with your kits and hands-on guidance with your robots.
 
-Spaces are limited to twelve teams, so be sure to [let us know][tech-day-signup]
-by Friday 16th January 2026 if you'd like to attend. We will begin confirming
-places from Wednesday 14th January 2026.
+Spaces are limited to four teams, so be sure to [let us know][tech-day-signup]
+by Friday 13th February 2026 if you'd like to attend. We will begin confirming
+places from Wednesday 11th February 2026.
 
 **Please bring your laptops**, along with any other tools or equipment you may need.
 
 ## Directions
 
-This Challenge Day is being held in the [Raspberry Pi Foundation][venue-map] at:
+This Tech Day is being held in the [offices of Red River Software][venue-map]
+at:
 
-37 Hills Rd,<br>
-Cambridge<br>
-CB2 1NF
+Red River Software,<br>
+Springfield House,<br>
+Horsham,<br>
+RH12 2RG
 
-The building is set back slightly from the road, look for the raspberry logo.
+We may be able to provide parking if necessary, please let us know on the sign up form if this is needed.
 
-Limited parking is available, please let us know on the sign up form if this is needed.
+Upon arrival please buzz for Red River Software.
 
 ## Schedule
 
@@ -39,4 +41,4 @@ Limited parking is available, please let us know on the sign up form if this is 
 
 [tech-days]: https://studentrobotics.org/docs/robots_101/tech_days
 [tech-day-signup]: https://forms.gle/ydaeuV4ckvZMWL7Z8
-[venue-map]: https://maps.app.goo.gl/j98oSM3PdGXooAAD9
+[venue-map]: https://goo.gl/maps/ci33utzx4iQhm5bR7
