@@ -1,16 +1,19 @@
 ---
 layout: home
+# cspell:ignore headshots
 ---
 <div class="panel">
   <div class="fixed-width">
     <h2 class="text-center">What is Student Robotics?</h2>
     <div class="row vertically-centered-row">
       <div class="column m-6-12">
-        <img srcset="{{ '/images/advertising/team-in-arena@1x.jpg 1x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-in-arena@2x.jpg 2x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-in-arena@3x.jpg 3x' | prepend: site.baseurl }}"
-              src="{{ '/images/advertising/team-in-arena@3x.jpg' | prepend: site.baseurl }}"
-          alt="Competitors talking while placing their robot in their starting corner in the arena" />
+        {%
+          include multi-size-picture.html
+          sizes="1x,2x,3x"
+          image="/images/advertising/team-in-arena@3x.jpg"
+          webp="true"
+          alt="Competitors talking while placing their robot in their starting corner in the arena"
+        %}
       </div>
       <div class="column m-6-12">
         <p class="about-p">
@@ -57,11 +60,13 @@ layout: home
     </div>
     <div class="row">
       <div class="column center-label s-4-12">
-        <img srcset="{{ '/images/advertising/happy-team@1x.jpg 1x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/happy-team@2x.jpg 2x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/happy-team@3x.jpg 3x' | prepend: site.baseurl }}"
-              src="{{ '/images/advertising/happy-team@3x.jpg' | prepend: site.baseurl }}"
-              alt="A team of students looking happy standing behind their robot"/>
+        {%
+          include multi-size-picture.html
+          sizes="1x,2x,3x"
+          image="/images/advertising/happy-team@3x.jpg"
+          webp="true"
+          alt="A team of students looking happy standing behind their robot"
+        %}
         <h3>Working as a team</h3>
         <p>
           For a team to succeed at Student Robotics, they need to work
@@ -70,11 +75,13 @@ layout: home
         </p>
       </div>
       <div class="column center-label s-4-12">
-        <img srcset="{{ '/images/advertising/team-coding@1x.jpg 1x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-coding@2x.jpg 2x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-coding@3x.jpg 3x' | prepend: site.baseurl }}"
-          src="{{ '/images/advertising/team-coding@3x.jpg' | prepend: site.baseurl }}"
-          alt="Three competitors sitting in front of a laptop" />
+        {%
+          include multi-size-picture.html
+          sizes="1x,2x,3x"
+          image="/images/advertising/team-coding@3x.jpg"
+          webp="true"
+          alt="Three competitors sitting in front of a laptop"
+        %}
         <h3>Writing real code</h3>
         <p>
           Without some serious code, even the most masterfully built robots
@@ -83,11 +90,13 @@ layout: home
         </p>
       </div>
       <div class="column center-label s-4-12">
-        <img srcset="{{ '/images/advertising/team-building-robot@1x.jpg 1x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-building-robot@2x.jpg 2x' | prepend: site.baseurl }},
-                      {{ '/images/advertising/team-building-robot@3x.jpg 3x' | prepend: site.baseurl }}"
-          src="{{ '/images/advertising/team-building-robot@3x.jpg' | prepend: site.baseurl }}"
-          alt="Students and a teacher sitting around their robot" />
+        {%
+          include multi-size-picture.html
+          sizes="1x,2x,3x"
+          image="/images/advertising/team-building-robot@3x.jpg"
+          webp="true"
+          alt="Students and a teacher sitting around their robot"
+        %}
         <h3>Building a robot</h3>
         <p>
           There's nothing quite like building something and bringing it to
@@ -119,9 +128,12 @@ layout: home
         </p>
       </div>
       <div class="column m-3-12 horizontally-centered-column">
-        <img class="testimonial-avatar"
-          src="{{ '/images/advertising/headshots/competitor-phil-01.jpg' | prepend: site.baseurl }}"
-          alt="Headshot of Phil" />
+        {%
+          include picture-with-webp.html
+          class="testimonial-avatar"
+          image="/images/advertising/headshots/competitor-phil-01.jpg"
+          alt="Headshot of Phil"
+        %}
       </div>
     </div>
     <div class="row vertically-centered-row top-spacing testimonial-row">
@@ -138,9 +150,12 @@ layout: home
         </p>
       </div>
       <div class="column m-3-12 horizontally-centered-column">
-        <img class="testimonial-avatar"
-          src="{{ '/images/advertising/headshots/competitor-becky-01.jpg' | prepend: site.baseurl }}"
-          alt="Headshot of Becky" />
+        {%
+          include picture-with-webp.html
+          class="testimonial-avatar"
+          image="/images/advertising/headshots/competitor-becky-01.jpg"
+          alt="Headshot of Becky"
+        %}
       </div>
     </div>
     <div class="row vertically-centered-row top-spacing testimonial-row">
@@ -159,9 +174,12 @@ layout: home
         </p>
       </div>
       <div class="column m-3-12 horizontally-centered-column">
-        <img class="testimonial-avatar"
-          src="{{ '/images/advertising/headshots/competitor-james-01.jpg' | prepend: site.baseurl }}"
-          alt="Headshot of James" />
+        {%
+          include picture-with-webp.html
+          class="testimonial-avatar"
+          image="/images/advertising/headshots/competitor-james-01.jpg"
+          alt="Headshot of James"
+        %}
       </div>
     </div>
   </div>
