@@ -37,7 +37,7 @@ United Kingdom<br>
 
 ### Parking
 
-We have a limited amount of free parking on site for competitors.
+There is a limited amount of free parking on site for competitors.
 
 ![parking information]({{ '/resources/sr2026/parking-map.png' | prepend: site.baseurl }})
 
