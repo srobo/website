@@ -5,6 +5,7 @@ end_date: 2026-01-24 17:00:00 Europe/London
 layout: event
 type: tech-day
 location: Raspberry Pi Foundation, Cambridge
+cancelled: true
 ---
 
 [Challenge Days][challenge-days] are opportunities for teams to spend a whole day working on completing challenges with live judging, quick feedback and the ability to iterate quickly -- assisted by a mix of long-experienced volunteers and more recent ex-competitors. They're also an opportunity to see how other teams are doing, get more direct help with your robots and discuss your strategy.
@@ -30,6 +31,8 @@ The building is set back slightly from the road, look for the raspberry logo.
 Limited parking is available, please let us know on the sign up form if this is needed.
 
 ## Schedule
+
+**Due to lack of interest this Challenge Day will not be running.**
 
 | Time  | Info |
 |-------|------|
