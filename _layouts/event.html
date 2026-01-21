@@ -4,11 +4,17 @@ layout: page
 <div class="header-card">
   <div class="fixed-width">
     <h1>{{ page.title }}</h1>
+    <a title="Add to calendar" class="header-link-icon" href="webcal://{{ '/events.ics' | absolute_url | remove_first: 'https://' | remove_first: 'http://' }}"><i class="fa-solid fa-calendar"></i></a>
   </div>
 </div>
 <div class="main">
   <div class="fixed-width">
     <div class="column l-4-12">
+      <div class="card thin-card">
+        <ul class="detail-list">
+          <li><i class="fa-solid fa-arrow-left" aria-hidden="true"></i> <a href="{{ '/events' | prepend: site.baseurl }}">View all events</a></li>
+        </ul>
+      </div>
       <div class="card thin-card">
         <ul class="detail-list">
           <li class="event-date">

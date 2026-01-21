@@ -238,7 +238,6 @@ layout: home
           </div>
         </div>
         {% endfor %}
-        <a class="button button-expand" href="{{ '/blog' | prepend: site.baseurl }}">View more posts</a>
       </div>
       <div class="column m-4-12">
         <h2>Upcoming events</h2>
@@ -270,9 +269,16 @@ layout: home
         <p>
           There are no upcoming events.
           <br>
-          <a class="event-details" href="{{ '/events' | prepend: site.baseurl }}">View previous</a>
         </p>
         {% endif %}
+      </div>
+    </div>
+    <div class="row">
+      <div class="column m-8-12">
+        <a class="button button-expand" href="{{ '/blog' | prepend: site.baseurl }}">View more posts</a>
+      </div>
+      <div class="column m-4-12">
+        <a class="button button-expand" href="{{ '/events' | prepend: site.baseurl }}">View previous events</a>
       </div>
     </div>
   </div>

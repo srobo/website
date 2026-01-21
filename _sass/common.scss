@@ -33,6 +33,17 @@
     font-family: $hero-font-family;
     color: $sr-white;
     margin-bottom: 0;
+    margin-right: auto;
+  }
+
+  .fixed-width {
+    display: flex;
+    align-items: center;
+  }
+
+  a.header-link-icon {
+    font-size: $beta;
+    color: $sr-white;
   }
 }
 
