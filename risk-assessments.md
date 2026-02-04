@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Risk Assessments
-date: 2025-10-29
+date: 2026-02-04
 ---
 
 Last updated: {{ page.date | date: "%e %B %Y" }}.
@@ -16,7 +16,7 @@ This year our Tech Days are taking place in two different locations. We have pub
 
 ### Competition
 
-We have published a [risk assessment for the SR2025 Competition]({{ '/resources/sr2025/risk-assessments/SR2025-Competition-Risk-Assessment.pdf' | prepend: site.baseurl }}).
+We have published a [risk assessment for the SR2026 Competition]({{ '/resources/sr2026/risk-assessments/SR2026-Competition-Risk-Assessment.pdf' | prepend: site.baseurl }}).
 
 If you have any questions please contact us at [{{ site.emails.teams }}][teams-email].
 
