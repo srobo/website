@@ -15,7 +15,36 @@ We will finish the weekend with our knockout where the best robots will be named
 
 The competition will be held from _Saturday 11th April_ until _Sunday 12th April_.
 
-We anticipate that doors will open 9am and we aim to finish around 5pm, however the exact timings and schedule will be announced closer to the event.
+The day schedule is available below.
+
+### Day 1 - 11th April 2026
+
+| Time  | Activity         |
+| ----- | ---------------- |
+| 09:00 | Doors Open       |
+| 10:00 | Opening Ceremony |
+| 10:15 | Tinker Time      |
+| 11:00 | League Matches   |
+| 12:40 | Lunch            |
+| 13:30 | Tinker Time      |
+| 14:15 | League Matches   |
+| 15:45 | Group Photo      |
+| 16:15 | League Matches   |
+| 17:00 | End of Day       |
+
+### Day 2 - 12th April 2026
+
+| Time  | Activity              |
+| ----- | --------------------- |
+| 09:00 | Doors Open            |
+| 09:15 | Tinker Time           |
+| 10:00 | League Matches        |
+| 11:15 | Tinker Time           |
+| 12:00 | Lunch                 |
+| 12:30 | Knockouts & Finals    |
+| 16:00 | Prize-giving Ceremony |
+| 16:45 | Kit Return            |
+| 17:00 | End of Day            |
 
 ## Media Consent
 
