@@ -8,7 +8,7 @@
     "The site is built with Jekyll so site dependencies should be in the Gemfile."
   ],
   "dependencies": {
-    "cspell": "^6.31.1"
+    "cspell": "^9.6.4"
   },
   "overrides": {
     "configstore": {
