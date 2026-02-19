@@ -12,10 +12,8 @@ GEM
     ethon (0.16.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     eventmachine (1.2.7-x86-mingw32)
     ffi (1.17.0)
-    ffi (1.17.0-x64-mingw32)
     ffi (1.17.0-x86-mingw32)
     forwardable-extended (2.6.0)
     html-proofer (3.19.4)
@@ -66,8 +64,10 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
     mini_portile2 (2.8.9)
-    nokogiri (1.18.9)
+    nokogiri (1.19.1)
       mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
+    nokogiri (1.19.1-x64-mingw-ucrt)
       racc (~> 1.4)
     parallel (1.24.0)
     pathutil (0.16.2)
@@ -100,7 +100,7 @@ GEM
 
 PLATFORMS
   ruby
-  x64-mingw32
+  x64-mingw-ucrt
   x86-mingw32
 
 DEPENDENCIES
