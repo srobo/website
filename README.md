@@ -6,6 +6,12 @@ The Student Robotics public website.
 
 ## Getting Started
 
+For ease of setup, a Docker container is provided. Simply install Docker and `docker-compose`, and run `docker-compose up`.
+
+Once setup, the site will be accessible on http://localhost:4000/docs/
+
+## Manual
+
 0. [Clone this repo][clone-repo]
 
 1. [Install Ruby 3][install-ruby]
