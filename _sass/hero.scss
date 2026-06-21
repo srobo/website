@@ -6,7 +6,7 @@ $hero-top-colour: transparentize($sr-blue, 0.05);
 $hero-bottom-colour: transparentize($sr-blue, 0.5);
 
 .hero {
-  @include gradient-background(
+  @include gradient-background-with-webp(
     $hero-top-colour,
     $hero-bottom-colour,
     $hero-background-image
