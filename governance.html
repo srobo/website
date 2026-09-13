@@ -2,6 +2,7 @@
 layout: page
 title: Governance
 permalink: /governance/
+# cspell:ignore headshots
 ---
 <div class="panel panel-header panel-boxes">
   <div class="hero-container panel-container">
@@ -45,9 +46,12 @@ permalink: /governance/
         </p>
       </div>
       <div class="column m-3-12 horizontally-centered-column">
-        <img class="trustee-avatar"
-          src="{{ '/images/advertising/headshots/trustee-diane-01.jpg' | prepend: site.baseurl }}"
-          alt="Headshot of Diane" />
+        {%
+          include picture-with-webp.html
+          class="trustee-avatar"
+          image="/images/advertising/headshots/trustee-diane-01.jpg"
+          alt="Headshot of Diane"
+        %}
       </div>
     </div>
     <div class="row vertically-centered-row trustee-row">
@@ -60,9 +64,12 @@ permalink: /governance/
         </p>
       </div>
       <div class="column m-3-12 horizontally-centered-column">
-        <img class="trustee-avatar"
-          src="{{ '/images/advertising/headshots/trustee-david-01.jpg' | prepend: site.baseurl }}"
-          alt="Headshot of David" />
+        {%
+          include picture-with-webp.html
+          class="trustee-avatar"
+          image="/images/advertising/headshots/trustee-david-01.jpg"
+          alt="Headshot of David"
+        %}
       </div>
     </div>
     <div class="row vertically-centered-row trustee-row">
@@ -74,9 +81,12 @@ permalink: /governance/
         </p>
       </div>
       <div class="column m-3-12 horizontally-centered-column">
-        <img class="trustee-avatar"
-          src="{{ '/images/advertising/headshots/trustee-scarzy-01.jpg' | prepend: site.baseurl }}"
-          alt="Headshot of Thomas" />
+        {%
+          include picture-with-webp.html
+          class="trustee-avatar"
+          image="/images/advertising/headshots/trustee-scarzy-01.jpg"
+          alt="Headshot of Thomas"
+        %}
       </div>
     </div>
   </div>
