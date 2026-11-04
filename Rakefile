@@ -49,10 +49,11 @@ task :validate_build => [:build] do
   # --ignore-missing-alt  # To avoid needing to fix lots upfront, we can migrate towards this later.
   # --allow-hash-href   # Allow empty `#` links to mean "top of page". It's true that these can be errors, however we have far too many to really address this.
   # --allow-missing-href  # Allow `href` to be omitted, so that `<a>` elements can be anchors.
+  # --no-enforce-https  # Don't enforce HTTPS. Ideally we'll upgrade all the links, however there's many old links here which aren't trivial to fix.
   # --swap-urls         # Adjust for Jekyll's baseurl. See https://github.com/gjtorikian/html-proofer/issues/618 for more.
   # --ignore-urls       # Allow mailto links without a target email, for our Share links. Works around https://github.com/gjtorikian/html-proofer/issues/552.
   #                     # Allow old event links which aren't easily updated.
-  sh('bundle exec htmlproofer _site --disable-external --ignore-missing-alt --allow-hash-href --allow-missing-href --swap-urls "^/website/:/" --ignore-urls "/^mailto:?/,/^\/events\/sr201[23]/"')
+  sh('bundle exec htmlproofer _site --disable-external --ignore-missing-alt --allow-hash-href --allow-missing-href --no-enforce-https --swap-urls "^/website/:/" --ignore-urls "/^mailto:?/,/^\/events\/sr201[23]/"')
 end
 
 task :validate_spellings => [:build_spellings] do
