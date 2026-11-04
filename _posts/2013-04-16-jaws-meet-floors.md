@@ -73,6 +73,6 @@ For full details on the awards, please see the [rulebook](https://studentrobotic
 Media
 -----
 
-Photos can be found on the Student Robotics 2013 Competition [Flickr group](http://www.flickr.com/groups/sr2013/).
+Photos can be found on the Student Robotics 2013 Competition [Flickr group](https://www.flickr.com/groups/sr2013/).
 
 _The SR Team_

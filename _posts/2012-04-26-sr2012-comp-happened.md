@@ -3,7 +3,7 @@ description: The competition signalled the culmination of six months of hard wor
   and the end of SR 2012. Look out 2013, here we come!
 title: The Competition Happened. It Was Fantastic!
 ---
-<a href="http://www.flickr.com/photos/amspanton/6938591562/in/set-72157629831940951/">
+<a href="https://www.flickr.com/photos/amspanton/6938591562/in/set-72157629831940951/">
 	<img class="right" src="https://farm6.staticflickr.com/5240/6938591562_598a119b47_n.jpg" alt="Everyone outside"
 	     title="Everyone outside with the robots, CC BY-NC-SA Mrs A M Spanton" />
 </a>
@@ -36,7 +36,7 @@ Congratulations to all the competitors, whatever place achieved,
 Results
 -------
 
-<a href="http://www.flickr.com/photos/amspanton/7084689111/in/set-72157629831940951">
+<a href="https://www.flickr.com/photos/amspanton/7084689111/in/set-72157629831940951">
 	<img src="https://farm8.staticflickr.com/7245/7084689111_a53c1c2fa7_n.jpg" alt="Competition prize-giving"
 	     title="Stephen English and Eric Cooke presenting the first place award in the arena, CC BY-NC-SA Mrs A M Spanton" class="right" />
 </a>
@@ -44,11 +44,11 @@ Results
 
 |        Prize          |            Team
 |-----------------------|-----------------------------------------------
-| 1st Place             | "[The Hitchhikers](http://pscstudentrobotics.blogspot.com/)" - Peter Symmond's College, Winchester
-| 2nd Place             | "[Systemetric](http://team759.blogspot.co.uk/)" - Hills Road Sixth Form College, Cambridge
+| 1st Place             | "[The Hitchhikers](https://pscstudentrobotics.blogspot.com/)" - Peter Symmond's College, Winchester
+| 2nd Place             | "[Systemetric](https://team759.blogspot.co.uk/)" - Hills Road Sixth Form College, Cambridge
 | 3rd Place             | Brockenhurst College, Brockenhurst
 | Committee Award       | Queen Mary's College, Basingstoke
-| Outstanding Team      | "[Aslan](http://pscrobotics.blogspot.co.uk/)" - Peter Symmond's College, Winchester
+| Outstanding Team      | "[Aslan](https://pscrobotics.blogspot.co.uk/)" - Peter Symmond's College, Winchester
 | Online Presence       | "[MFG Robotics](http://mfgrobotics.org/)" - Mirfield Free Grammar, Huddersfield
 | First Robot Movement  | "MFG Robotics" - Mirfield Free Grammar, Huddersfield
 
@@ -58,7 +58,7 @@ Media
 -----
 
 Once again the competition received real-time coverage from a [live video feed](http://srlive.cmalton.me.uk/)
- and a [twitter stream](http://twitter.com/StudentRobotics).
-Images from the event are available in the [sr2012](http://www.flickr.com/groups/sr2012/) group on Flickr.
+ and a [twitter stream](https://twitter.com/StudentRobotics).
+Images from the event are available in the [sr2012](https://www.flickr.com/groups/sr2012/) group on Flickr.
 
 _The SR Team_

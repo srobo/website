@@ -11,8 +11,8 @@ Information for registered teams:
 
 KickStart will be happening on Saturday the 24th of September &mdash; please aim to arrive at **10:00**.  We'll be
 starting in **Building 32** on the University of Southampton's Highfield Campus, please see
-[the campus map (pdf)](http://www.southampton.ac.uk/visitus/campuses/maps/highfield_3d_key.pdf "University of Southampton, Highfield Campus map")
-and [this street map, showing the location of the campus](http://maps.google.co.uk/maps?q=Southampton+SO17+1BJ&hl=en&ll=50.936039,-1.39595&spn=0.010047,0.014012&sll=50.930386,-1.393204&sspn=0.020097,0.028024&z=16 "Google Maps for SO17 1BJ").
+[the campus map (pdf)](https://www.southampton.ac.uk/visitus/campuses/maps/highfield_3d_key.pdf "University of Southampton, Highfield Campus map")
+and [this street map, showing the location of the campus](https://maps.google.co.uk/maps?q=Southampton+SO17+1BJ&hl=en&ll=50.936039,-1.39595&spn=0.010047,0.014012&sll=50.930386,-1.393204&sspn=0.020097,0.028024&z=16 "Google Maps for SO17 1BJ").
 The day will finish at around **16:30**, and we will be handing out kit then.  This will include 2m aluminium
 L-sections, so please be sure you can transport them.
 

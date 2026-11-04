@@ -17,10 +17,10 @@ the evening.
 
 University of Southampton
 :	5pm - 10pm, Wednesday 20th October, Zepler Seminar Room 1. Straight across from reception in
-[Building 59](http://www.soton.ac.uk/about/whereissoton/maps/Highfield%20Campus%203D%20&%20Key%20OCT2010%20WEB.pdf)
+[Building 59](https://www.soton.ac.uk/about/whereissoton/maps/Highfield%20Campus%203D%20&%20Key%20OCT2010%20WEB.pdf)
 
 Bristol University
-:	5pm onwards, Wednesday 27th October, [Merchant Venturers Building](http://www.bris.ac.uk/university/maps/precinct.html),
+:	5pm onwards, Wednesday 27th October, [Merchant Venturers Building](https://www.bris.ac.uk/university/maps/precinct.html),
 Room 1.06. If you're not sure where it is we'll be in the foyer.
 
 If you can't come along at 5pm or are otherwise committed on Wednesday evenings you can still get involved!

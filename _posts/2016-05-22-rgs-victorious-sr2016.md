@@ -159,17 +159,17 @@ If you would like to find out more, please [get in touch][contactus].
 [contactus]: {{ '/contact' | prepend: site.baseurl }}
 [rulebook]: https://studentrobotics.org/docs/resources/2016/rulebook.pdf
 [teams-map]: https://www.google.com/maps/d/u/0/viewer?mid=1QsF7CVZB7NSDKZOnvsbrAF5PuJg
-[GRD2]: http://www.gordanoschool.org.uk/
-[HRS]: http://www.hillsroad.ac.uk/
-[MAI]: http://www.gym-indersdorf.de/
-[PSC]: http://www.psc.ac.uk/
-[TLC]: http://www.ladiescollege.com/
+[GRD2]: https://www.gordanoschool.org.uk/
+[HRS]: https://www.hillsroad.ac.uk/
+[MAI]: https://www.gym-indersdorf.de/
+[PSC]: https://www.psc.ac.uk/
+[TLC]: https://www.ladiescollege.com/
 [RGS]: http://www.rgs-guildford.co.uk/
 [BRK]: https://www.brock.ac.uk/
 [CLF]: http://www.cliftonhigh.bristol.sch.uk/
-[TWG]: http://www.twgsb.org.uk/
-[QMC]: http://www.qmc.ac.uk/
-[TWG-team]: http://twgsbrobotics.blogspot.co.uk/
+[TWG]: https://www.twgsb.org.uk/
+[QMC]: https://www.qmc.ac.uk/
+[TWG-team]: https://twgsbrobotics.blogspot.co.uk/
 [MAI-team]: https://mai-robotics.de/
 [QMC-team]: http://teamqmc.cu.cc/
 [HRS-team]: http://www.systemetric.org/

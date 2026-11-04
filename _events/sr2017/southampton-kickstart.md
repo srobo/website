@@ -33,4 +33,4 @@ robotics kit to be at the venue.**
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-food-map]: https://goo.gl/Np9L1e
 [soton-directions]: {{ site.baseurl }}/resources/sr2017/southampton-kickstart-directions.pdf
-[soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#highfield
+[soton-campus-directions]: https://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#highfield

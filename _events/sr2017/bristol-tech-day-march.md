@@ -53,6 +53,6 @@ available for parking.
 | 16:00 | Finish       |
 
 [bristol-food-map]: https://drive.google.com/open?id=19grJjGqBAICK0pYD_jhhAQYjgrA&usp=sharing
-[bristol-campus-directions]: http://www.bris.ac.uk/maps/directions/
-[queens-building-info]: http://www.bristol.ac.uk/it-services/locations/studyspaces/spaces/buildings/queens
+[bristol-campus-directions]: https://www.bris.ac.uk/maps/directions/
+[queens-building-info]: https://www.bristol.ac.uk/it-services/locations/studyspaces/spaces/buildings/queens
 [mail-james]: mailto:jroff@studentrobotics.org

@@ -75,7 +75,7 @@ Robotics. A complete list of prizes is shown below:
 | 3rd Place             | [King Edward VI Grammar School, Chelmsford][KEG]
 | Committee Award       | [Cranbrook School][CRB]
 | Rookie Award          | [King Edward VI Grammar School, Chelmsford][KEG]
-| First Robot Movement  | [CATS Robotics][CAT] ([video](http://youtu.be/NP0rywgydNw))
+| First Robot Movement  | [CATS Robotics][CAT] ([video](https://youtu.be/NP0rywgydNw))
 | Robot and Team Image  | [42 * 2 - Double Vision (Gymnasium Markt Indersdorf)][MAI]
 | Online Presence       | [Peter Symonds Robotics][PSC]
 
@@ -102,7 +102,7 @@ The *Robot and Team Image* prize is for the team which present themselves and
 their robot in the most outstanding and stylish manner. The winners this year,
 "42 * 2 - Double Vision" from [Gymnasium Markt Indersdorf][MAI], came dressed as
 monks in hooded brown robes, laced with glowing LED strips. Hoods were a major
-theme this year, with [Systemetric][HRS] from [Hills Road Sixth Form College](http://www.hillsroad.ac.uk)
+theme this year, with [Systemetric][HRS] from [Hills Road Sixth Form College](https://www.hillsroad.ac.uk)
 dressing as sinister black-cloaked "Aluminati".
 
 The *Online Presence* award is given to the team with the best website, social
@@ -152,9 +152,9 @@ _The Student Robotics Team_
 [BTE]: http://www.bteacademy.co.uk/
 [BWS]: http://www.bws-school.org.uk/
 [CAT]: http://www.catscollege.com/locations/cambridge.htm
-[CRB]: http://www.cranbrookschool.co.uk/
-[GRD2]: http://www.gordanoschool.org.uk/
+[CRB]: https://www.cranbrookschool.co.uk/
+[GRD2]: https://www.gordanoschool.org.uk/
 [HRS]: http://www.systemetric759.com/
-[KEG]: http://www.kegs.org.uk/
-[MAI]: http://www.gym-indersdorf.de/
+[KEG]: https://www.kegs.org.uk/
+[MAI]: https://www.gym-indersdorf.de/
 [PSC]: http://www.pscrobotics.com/

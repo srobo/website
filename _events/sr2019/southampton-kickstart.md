@@ -44,4 +44,4 @@ There are plenty of places to get food on and nearby campus see [where to find f
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-food-map]: https://drive.google.com/open?id=1vDqr-yQh-OO7MzVa_OiuKD5xUrEsLprr
 [soton-directions]: {{ site.baseurl }}/resources/sr2019/southampton-kickstart-directions.pdf
-[soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
+[soton-campus-directions]: https://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
