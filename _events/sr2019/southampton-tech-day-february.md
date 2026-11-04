@@ -36,4 +36,4 @@ Once on campus, follow the signs to the Zepler or Mountbatten, buildings 59 or
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-food-map]: https://goo.gl/yYlfs5
 [soton-directions]: {{ site.baseurl }}/resources/sr2019/southampton-tech-day-directions-highfield-zepler.pdf
-[soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page
+[soton-campus-directions]: https://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page

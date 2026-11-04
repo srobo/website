@@ -8,7 +8,7 @@ There's less than a week to go to the competition, and we're as excited as we ar
 Student Robotics Competition to date.
 
 The competition's taking place at The Cube, Level 2, SUSU
-[Building 42](http://www.soton.ac.uk/about/whereissoton/highfield.html), Highfield Campus, University of Southampton.
+[Building 42](https://www.soton.ac.uk/about/whereissoton/highfield.html), Highfield Campus, University of Southampton.
 Here's the schedule:
 
 Day 1 - Saturday 9th April, Tinkering Day

@@ -33,7 +33,7 @@ There were a range of inventive designs this year. Many teams opted for tank tra
 
 Some of the more notable designs were:
 
-- [The Ladies' College Guernsey](http://www.ladiescollege.com/) with their consistent, successful catapult.
+- [The Ladies' College Guernsey](https://www.ladiescollege.com/) with their consistent, successful catapult.
 - [South Wilts Grammar School](https://www.swgs.wilts.sch.uk/) with their simple and effective grab-and-go robot which climbed the volcano with a single token.
 - [Cranbrook School](https://www.cranbrookschool.co.uk/) with their suction cup and catapult combination which unfortunately had technical issues for much of the competition.
 - [Haberdashers' Aske's Boys' School](https://www.habsboys.org.uk/) with their Hawaiian themed robot, topped with a 3D paper pineapple.
@@ -41,7 +41,7 @@ Some of the more notable designs were:
 The Final
 ---------
 
-Student Robotics 2019 concluded with an intense match between [Peter Symonds College](https://www.psc.ac.uk/), [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/), [The Ladies' College Guernsey](http://www.ladiescollege.com/), and [Hills Road Sixth Form College](http://www.hillsroad.ac.uk/). Hampton and Lady Eleanor Holles School were quick off the mark pushing their tokens into the scoring zones. Hills Road soon followed, quickly shifting their tokens across the arena. Peter Symonds's robot slowly moved 4 of their tokens into a single scoring zone before unfortunately flipping onto its back. Meanwhile, The Ladies' College quietly moved towards the edge of the volcano and launched a token directly into the caldera.
+Student Robotics 2019 concluded with an intense match between [Peter Symonds College](https://www.psc.ac.uk/), [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/), [The Ladies' College Guernsey](https://www.ladiescollege.com/), and [Hills Road Sixth Form College](https://www.hillsroad.ac.uk/). Hampton and Lady Eleanor Holles School were quick off the mark pushing their tokens into the scoring zones. Hills Road soon followed, quickly shifting their tokens across the arena. Peter Symonds's robot slowly moved 4 of their tokens into a single scoring zone before unfortunately flipping onto its back. Meanwhile, The Ladies' College quietly moved towards the edge of the volcano and launched a token directly into the caldera.
 
 <!-- Video of Final -->
 <iframe
@@ -63,8 +63,8 @@ Results
 
 |        Prize          |            Team
 |-----------------------|-----------------------------------------------
-| 1st Place             | [The Ladies' College Guernsey](http://www.ladiescollege.com/)
-| 2nd Place             | [Hills Road Sixth Form College](http://www.hillsroad.ac.uk/)
+| 1st Place             | [The Ladies' College Guernsey](https://www.ladiescollege.com/)
+| 2nd Place             | [Hills Road Sixth Form College](https://www.hillsroad.ac.uk/)
 | 3rd Place             | [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/)
 | <span class="has-explanation" title="The rookie team who achieve the highest place in the league">Rookie Award</span>          | [Eltham College](https://www.elthamcollege.london/)
 | <span class="has-explanation" title="The team that displays the most extraordinary ingenuity or elegant simplicity in the design of their robot">Committee Award</span>       | [South Wilts Grammar School](https://www.swgs.wilts.sch.uk/)

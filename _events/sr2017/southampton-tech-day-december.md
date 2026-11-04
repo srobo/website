@@ -30,4 +30,4 @@ The location of our tech days are on a different campus to that of Kickstart, pl
 [teams-contact]: mailto:teams@studentrobotics.org
 [soton-food-map]: https://goo.gl/yYlfs5
 [soton-directions]: {{ site.baseurl }}/resources/sr2017/southampton-tech-day-directions-boldrewood.pdf
-[soton-campus-directions]: http://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#boldrewood
+[soton-campus-directions]: https://www.southampton.ac.uk/about/visit/getting-to-our-campuses.page#boldrewood

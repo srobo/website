@@ -3,7 +3,7 @@ description: The competition signalled the culmination of six months of hard wor
   and the end of SR 2011. Look out 2012, here we come!
 title: The Competition Happened. It Was Awesome!
 ---
-<a href="http://www.flickr.com/photos/rspanton/5610488796/in/set-72157626476429584">
+<a href="https://www.flickr.com/photos/rspanton/5610488796/in/set-72157626476429584">
 <img class="right" src="https://farm6.static.flickr.com/5149/5610488796_9890a0771f.jpg" title="Everyone in the arena, CC-BY Rob Spanton" />
 </a>
 
@@ -27,7 +27,7 @@ Congratulations to all the competitors, whatever place achieved,
 Results
 -------
 
-<a href="http://www.flickr.com/photos/rspanton/5620491515/in/set-72157626476429584">
+<a href="https://www.flickr.com/photos/rspanton/5620491515/in/set-72157626476429584">
 <img src="https://farm6.static.flickr.com/5149/5620491515_f787fd1da1.jpg" alt="competition" title="Alex Forward and Neil
 White presenting prizes the arena, CC-BY Rob Spanton" class="right" />
 </a>
@@ -51,8 +51,8 @@ Media
 -----
 
 For the first time the competition received real-time coverage from a live video feed and a
-[twitter stream](http://twitter.com/StudentRobotics). We were also covered in a piece in the Southern Daily Echo, and
-[ECS News](http://www.ecs.soton.ac.uk/about/news/3708) among other places. Images from the event are available in the
-[sr2011](http://www.flickr.com/groups/sr2011/) group on Flickr.
+[twitter stream](https://twitter.com/StudentRobotics). We were also covered in a piece in the Southern Daily Echo, and
+[ECS News](https://www.ecs.soton.ac.uk/about/news/3708) among other places. Images from the event are available in the
+[sr2011](https://www.flickr.com/groups/sr2011/) group on Flickr.
 
 _The SR Team_

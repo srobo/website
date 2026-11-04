@@ -10,7 +10,7 @@ the middle of the arena.  Depositing these tokens into the bucket that each team
 more points.  However, teams can steal each other's buckets, which means teams will need to make some interesting
 strategical decisions.
 
-The competition will be taking place in [Building 40](http://data.southampton.ac.uk/building/40.html),
+The competition will be taking place in [Building 40](https://data.southampton.ac.uk/building/40.html),
  Highfield Campus, University of Southampton and is a two day event
  starting on Saturday 14th April at 9:30 AM.
 In a change to previous years,

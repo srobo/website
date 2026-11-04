@@ -14,5 +14,5 @@ afternoon.
 
 For further details please see the competition's [event page][].
 
-[venue]: http://www.newburyracecourse.co.uk/conferences-and-events/how-to-find-us/
+[venue]: https://www.newburyracecourse.co.uk/conferences-and-events/how-to-find-us/
 [rules]: https://studentrobotics.org/docs/rules/

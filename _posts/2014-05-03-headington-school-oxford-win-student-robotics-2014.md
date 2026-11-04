@@ -7,14 +7,14 @@ title: Headington School Oxford win Student Robotics 2014
   <img class="right" src="{{ site.baseurl }}/images/content/blog/sr2014/hso-winners.jpg" width="400" height="265" alt="Photograph of the winning competitors at their prize giving.">
 </a>
 
-[Headington School](http://www.headington.org/), Oxford came top of the class in this
+[Headington School](https://www.headington.org/), Oxford came top of the class in this
 year's Student Robotics tournament this weekend (27<sup>th</sup> May 2014) at The Racecourse, Newbury.
 The team of sixth form girls beat 53 other school teams from the UK,
 France and Germany with a self-driving robot that uses a camera to find prize tokens.
 
 Headington School (pictured) narrowly beat [Gordano School](http://www.gordano.n-somerset.sch.uk/) from Bristol, who
 came in second place. [Clifton High School](http://www.cliftonhigh.bristol.sch.uk/), also from Bristol, and
-[Runshaw College](http://www.runshaw.ac.uk/), from Lancashire, came joint in a
+[Runshaw College](https://www.runshaw.ac.uk/), from Lancashire, came joint in a
 3<sup>rd</sup> place<a href="#tie-footnote"><sup>†</sup></a>.
 
 Student Robotics 2014 was the biggest and best yet, with over 230 rounds played over 2 days.
@@ -88,7 +88,7 @@ The Teams
 
 Every year the teams get better and better, which is not an easy feat!
 The judges were very impressed by the wide variety of robots entered this year,
- including the hexapod from [Greshams](http://www.greshams.com/), a boarding school near Norfolk.
+ including the hexapod from [Greshams](https://www.greshams.com/), a boarding school near Norfolk.
 
 This is the first walking robot Student Robotics has ever seen,
  walking in the absent dust of the hovercraft we saw at last year's competition.
@@ -101,7 +101,7 @@ Get forming your teams and talking to your teachers now!
 Media
 -----
 
-High resolution photographs of the event can be found on the Student Robotics 2014 competition [Flickr group](http://www.flickr.com/groups/sr2014/).
+High resolution photographs of the event can be found on the Student Robotics 2014 competition [Flickr group](https://www.flickr.com/groups/sr2014/).
 For more information, please [contact us]({{ '/contact' | prepend: site.baseurl }}).
 
 _The Student Robotics Team_
