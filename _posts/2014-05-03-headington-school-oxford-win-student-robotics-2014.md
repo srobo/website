@@ -23,7 +23,7 @@ Up to four robots competed head to head in each round, pushing past each other t
 Run entirely by volunteers, Student Robotics is free for teams to enter thanks to [our sponsors]({{ '/sponsor/' | prepend: site.baseurl }}),
 primarily the Motorola Foundation and the University of Southampton's School of Electronics and Computer Science. This
 year the competition was also livestreamed on the internet thanks to our latest sponsor,
-the [British Amateur Television Club](http://www.batc.org.uk/).
+the [British Amateur Television Club](https://batc.org.uk/).
 
 The challenge: *Slots*
 ----------------------
